@@ -1,0 +1,2994 @@
+<!doctype html>
+<html lang="sr">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Kvote vizuelno • Luka (v9 – auto 10s + datum/vreme u naslovu)</title>
+<style>
+  :root{ --bg:#0a0e1a; --card:#161b2e; --muted:#9aa3b2; --txt:#e8ecf5; --line:#232842; --accent:#6b8aff; --accent-2:#5fead7; --good:#2dd4bf; --good-ink:#042f2e; --bad:#f87171; --bad-ink:#450a0a; --pill:#1e293b; --best-ring:#fef3c7; --hover-glow:rgba(107,138,255,0.15); }
+  *{box-sizing:border-box}
+  body{margin:0; font:15px/1.5 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif; background:var(--bg); color:var(--txt); background-image:radial-gradient(circle at 20% 50%, rgba(107,138,255,0.05) 0%, transparent 50%), radial-gradient(circle at 80% 80%, rgba(95,234,215,0.05) 0%, transparent 50%);}
+  .wrap{max-width:1400px; margin:24px auto 48px; padding:0 240px}
+  header{position:sticky; top:0; z-index:10; backdrop-filter:saturate(1.2) blur(12px); background:linear-gradient(180deg, rgba(10,14,26,.92), rgba(10,14,26,.75) 60%, transparent); border-bottom:1px solid rgba(107,138,255,0.1);} 
+  .bar{display:flex; align-items:center; justify-content:center; gap:12px; padding:14px 20px; flex-wrap:nowrap;}
+  h1{font-size:20px; margin:0; letter-spacing:.5px; font-weight:700; background:linear-gradient(135deg, var(--accent), var(--accent-2)); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; white-space:nowrap;}
+  .spacer{flex:1}
+  button{border:1px solid var(--line); background:linear-gradient(135deg, #1e293b, #1c2240); color:#fff; padding:8px 16px; border-radius:10px; cursor:pointer; transition:.2s all; font-size:13px; font-weight:600; box-shadow:0 2px 8px rgba(0,0,0,0.3);}
+  button:hover{background:linear-gradient(135deg, #242b53, #2a3254); transform:translateY(-1px); box-shadow:0 4px 12px rgba(107,138,255,0.2);} 
+  button:active{transform:translateY(0px)}
+  .pill{display:inline-flex; align-items:center; gap:6px; padding:8px 16px; border-radius:999px; background:var(--pill); color:#fff; font-size:12px; border:1px solid var(--line); white-space:nowrap; font-weight:600; box-shadow:0 2px 4px rgba(0,0,0,0.2); letter-spacing:0.3px;}
+  .pill.good{background:linear-gradient(135deg, var(--good), #14b8a6); color:var(--good-ink); box-shadow:0 2px 8px rgba(45,212,191,0.3);}
+  .pill.bad{background:linear-gradient(135deg, var(--bad), #ef4444); color:var(--bad-ink); box-shadow:0 2px 8px rgba(248,113,113,0.3);}
+  .pill strong{font-weight:700; opacity:1;}
+  .controls{display:grid; grid-template-columns:1fr; gap:12px; margin:20px 0 12px}
+  @media(min-width:1200px){.controls{grid-template-columns:.8fr .9fr auto}}
+  .in{background:rgba(12,15,36,0.8); color:var(--txt); border:1px solid var(--line); border-radius:12px; padding:12px 14px; transition:.2s all; backdrop-filter:blur(8px);}
+  .in:focus{outline:none; border-color:var(--accent); box-shadow:0 0 0 3px var(--hover-glow);}
+  textarea.in{height:140px; font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace; display:none}
+  .small{font-size:12px; color:var(--muted); font-weight:500;}
+  .content-wrapper{display:grid; grid-template-columns:220px 1fr 220px; gap:18px; align-items:flex-start}
+  .sidebar-fixed-left, .sidebar-fixed-right{position:fixed; top:150px; width:200px; background:var(--card); border:1px solid var(--line); border-radius:16px; padding:14px; max-height:calc(100vh - 170px); overflow-y:auto; box-shadow:0 8px 24px rgba(0,0,0,0.3); backdrop-filter:blur(8px); z-index:50;}
+  .sidebar-fixed-left{left:20px;}
+  .sidebar-fixed-right{right:20px;}
+  .sidebar-fixed-left h3, .sidebar-fixed-right h3{position:sticky; top:0; margin:0 -14px 10px -14px; padding:10px 14px; font-size:12px; color:var(--muted); text-transform:uppercase; letter-spacing:.8px; font-weight:700; background:var(--card); z-index:10; border-bottom:1px solid var(--line);}
+  .sidebar{flex:0 0 220px; position:sticky; top:90px; background:var(--card); border:1px solid var(--line); border-radius:16px; padding:14px; max-height:calc(100vh - 110px); overflow-y:auto; box-shadow:0 8px 24px rgba(0,0,0,0.3); backdrop-filter:blur(8px);}
+  .sidebar h3{margin:0 0 10px; font-size:12px; color:var(--muted); text-transform:uppercase; letter-spacing:.8px; font-weight:700;}
+  .country-arrow{display:inline-block; transition:.3s transform; font-size:10px; margin-right:6px;}
+  .league-item{padding:10px 12px; margin:3px 0; border-radius:8px; cursor:pointer; font-size:13px; transition:.2s all; border:1px solid transparent; font-weight:500; display:flex; align-items:center; justify-content:space-between;}
+  .league-item:hover{background:rgba(107,138,255,0.08); border-color:rgba(107,138,255,0.2); transform:translateX(4px);}
+  .league-name{font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif; font-weight:600; letter-spacing:0.3px; color:var(--text); font-size:12px;}
+  .league-item:hover{background:var(--hover-glow); border-color:rgba(107,138,255,0.3); transform:translateX(2px);}
+  .league-item.active{background:linear-gradient(135deg,rgba(107,138,255,.25),rgba(95,234,215,.15)); border-color:var(--accent); font-weight:700; box-shadow:0 2px 8px var(--hover-glow);}
+  .league-item.active .league-name{color:var(--accent); font-weight:700;}
+  .league-count{opacity:.8; font-size:11px; font-weight:700; background:rgba(107,138,255,0.25); padding:3px 10px; border-radius:999px; margin-left:8px;}
+  .widget{background:linear-gradient(135deg, rgba(107,138,255,0.15), rgba(95,234,215,0.1)); border:1px solid rgba(107,138,255,0.2); border-radius:16px; padding:16px; display:flex; gap:14px; align-items:center; transition:.3s all; backdrop-filter:blur(8px); min-width:200px; flex:1; max-width:280px;}
+  .widget:hover{transform:translateY(-4px); box-shadow:0 8px 24px rgba(107,138,255,0.2); border-color:rgba(107,138,255,0.4);}
+  .widget-icon{width:56px; height:56px; border-radius:14px; display:flex; align-items:center; justify-content:center; font-size:24px; flex-shrink:0; box-shadow:0 4px 12px rgba(0,0,0,0.3);}
+  .widget-content{flex:1;}
+  .widget-label{font-size:11px; text-transform:uppercase; letter-spacing:0.8px; color:var(--muted); font-weight:700; margin-bottom:4px;}
+  .widget-value{font-size:28px; font-weight:800; color:var(--text); line-height:1;}
+  .widget-sub{font-size:11px; color:var(--muted); margin-top:4px; font-weight:500;}
+
+  .grid{display:grid; grid-template-columns:1fr; gap:20px; flex:1}
+  @media(max-width:1000px){.sidebar{display:none}}
+  .match{border:1px solid rgba(107,138,255,0.2); border-radius:20px; background:var(--card); overflow:hidden; box-shadow:0 8px 32px rgba(0,0,0,.4); transition:.3s all; backdrop-filter:blur(8px);}
+  .match:hover{transform:translateY(-4px); box-shadow:0 12px 48px rgba(107,138,255,.3); border-color:rgba(107,138,255,0.4);}
+  .head{display:flex; gap:12px; align-items:center; padding:18px; background:linear-gradient(135deg, rgba(107,138,255,.15), rgba(95,234,215,.1)); border-bottom:1px solid rgba(107,138,255,0.2);}
+  .teams{font-weight:800; letter-spacing:.3px; font-size:16px;}
+  .meta{margin-left:auto; display:flex; flex-direction:column; gap:8px; align-items:flex-end;}
+  .sub{color:var(--muted); font-size:12px; margin-top:3px; font-weight:500;}
+  .body{padding:16px 18px}
+  .stats{display:grid; grid-template-columns:repeat(3, minmax(0,1fr)); gap:12px}
+  .stat{border:1px solid rgba(107,138,255,0.2); border-radius:14px; padding:14px; background:linear-gradient(135deg,#171d3b,#121730); transition:.2s all; box-shadow:0 4px 12px rgba(0,0,0,0.3);}
+  .stat:hover{transform:translateY(-2px); box-shadow:0 6px 20px rgba(107,138,255,0.2); border-color:rgba(107,138,255,0.4);}
+  .stat h4{margin:0 0 8px; font-size:11px; text-transform:uppercase; letter-spacing:.8px; color:#b8c0d6; font-weight:700;}
+  .big{font-size:24px; font-weight:900; background:linear-gradient(135deg, var(--accent), var(--accent-2)); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text;}
+  .bk{opacity:.85; font-size:12px; margin-top:4px; font-weight:600;}
+  .bk a{color:var(--accent); text-decoration:none; font-weight:600; transition:.2s all;}
+  .bk a:hover{color:var(--accent-2); text-decoration:underline; text-shadow:0 0 8px rgba(107,138,255,0.4);}
+  table{width:100%; border-collapse:collapse; margin-top:14px; overflow:auto}
+  th,td{border-bottom:1px solid rgba(107,138,255,0.1); padding:10px 8px; text-align:left}
+  thead th{position:sticky; top:0; background:linear-gradient(135deg, #151a33, #1a1f3a); z-index:1; font-weight:700; font-size:12px; text-transform:uppercase; letter-spacing:.5px; color:var(--accent-2);}
+  td.num{text-align:right; font-variant-numeric:tabular-nums}
+  td.num .cell{display:inline-block; padding:4px 8px; border-radius:8px; font-weight:600; transition:.2s all;}
+  td.num .cell.best{outline:2px solid var(--best-ring); background:rgba(254,243,199,0.1); font-weight:900; box-shadow:0 0 12px rgba(254,243,199,0.3);}
+  td a{color:var(--accent); text-decoration:none; font-weight:700; transition:.2s all; position:relative;}
+  td a:hover{color:var(--accent-2); text-shadow:0 0 8px rgba(107,138,255,0.5);}
+  td a::after{content:''; position:absolute; bottom:-2px; left:0; width:0; height:2px; background:linear-gradient(90deg, var(--accent), var(--accent-2)); transition:.3s all;}
+  td a:hover::after{width:100%;}
+  .bookmaker-logo{height:28px; width:auto; max-width:120px; object-fit:contain; vertical-align:middle; transition:.2s all;}
+  .bookmaker-link:hover .bookmaker-logo{transform:scale(1.05); filter:brightness(1.1);}
+  .bk .bookmaker-logo{height:20px; max-width:100px;}
+  tr{transition:.2s all;}
+  tr:hover{background:rgba(107,138,255,.08); transform:scale(1.01);}
+  tr:hover td{background:transparent;}
+  .footer{display:flex; gap:10px; align-items:center; color:var(--muted); font-size:12px; padding:12px 18px; border-top:1px dashed rgba(107,138,255,0.2); font-weight:600;}
+  .barwrap{height:6px; background:#0d1130; border-radius:6px; overflow:hidden; border:1px solid #0b0f29; margin-top:4px;}
+  .bar{height:100%; width:0; transition:width .3s ease;}
+  
+  /* Navigation styles */
+  .nav-tabs{display:flex; gap:8px; margin-top:12px; border-bottom:2px solid rgba(107,138,255,0.2); padding-bottom:0;}
+  .nav-tab{padding:12px 24px; background:transparent; border:none; border-bottom:3px solid transparent; color:var(--muted); font-weight:600; font-size:14px; cursor:pointer; transition:.3s all;}
+  .nav-tab:hover{color:var(--accent); background:rgba(107,138,255,0.08);}
+  .nav-tab.active{color:var(--accent); border-bottom-color:var(--accent); background:rgba(107,138,255,0.12);}
+  .page-content{display:none;}
+  .page-content.active{display:block;}
+  
+  /* Ticket styles - Real betting slip look */
+  .ticket-card{background:#fff; border:2px solid #ddd; border-radius:8px; padding:0; margin-bottom:0; box-shadow:0 4px 16px rgba(0,0,0,0.15); transition:.3s all; font-family:'Courier New', monospace; width:100%; max-width:420px;}
+  .ticket-card:hover{transform:translateY(-2px); box-shadow:0 8px 24px rgba(0,0,0,0.2);}
+  
+  .ticket-header-top{background:linear-gradient(135deg, #1a1a2e, #16213e); padding:16px 20px; border-bottom:2px dashed #ddd; display:flex; align-items:center; justify-content:space-between;}
+  .ticket-header-top:hover{background:linear-gradient(135deg, #252540, #1e2a4a);}
+  .ticket-logo{height:40px; width:auto; max-width:150px; object-fit:contain; filter:brightness(0) invert(1);}
+  .ticket-number-badge{background:#ffd700; color:#000; padding:6px 12px; border-radius:4px; font-weight:900; font-size:11px; letter-spacing:0.5px;}
+  
+  .ticket-info-section{padding:16px 20px; background:#f9f9f9; border-bottom:2px dashed #ddd;}
+  .ticket-info-row{display:flex; justify-content:space-between; padding:6px 0; font-size:13px; color:#333;}
+  .ticket-info-label{font-weight:700; text-transform:uppercase; letter-spacing:0.3px;}
+  .ticket-info-value{font-weight:900; color:#000;}
+  .ticket-info-highlight{background:#fffacd; padding:8px 12px; margin:8px 0; border-radius:4px; border:1px solid #ffd700;}
+  
+  .ticket-selections{padding:16px 20px; background:#fff;}
+  .ticket-selections-title{font-weight:900; text-transform:uppercase; font-size:11px; letter-spacing:1px; color:#666; margin-bottom:12px; padding-bottom:8px; border-bottom:1px solid #ddd;}
+  
+  .selection-item{background:#fafafa; border:1px solid #ddd; border-radius:6px; padding:12px; margin-bottom:10px; position:relative;}
+  .selection-item:hover{background:#e8f4f8; border-color:#6b8aff; box-shadow:0 2px 8px rgba(107,138,255,0.2);}
+  .selection-num{position:absolute; top:-8px; left:12px; background:#000; color:#fff; width:24px; height:24px; border-radius:50%; display:flex; align-items:center; justify-content:center; font-weight:900; font-size:11px;}
+  .selection-match-name{font-weight:900; font-size:14px; color:#000; margin-bottom:4px; padding-left:8px;}
+  .selection-league-name{font-size:11px; color:#666; margin-bottom:8px; padding-left:8px;}
+  .selection-time{font-size:11px; color:#999; padding-left:8px; margin-bottom:8px;}
+  .selection-bet-row{display:flex; justify-content:space-between; align-items:center; background:#fff; padding:10px 12px; border-radius:4px; border:1px solid #ddd; margin-top:8px;}
+  .selection-market{font-weight:900; font-size:16px; color:#000;}
+  .selection-odds{font-weight:900; font-size:18px; color:#d4af37; background:#000; padding:4px 12px; border-radius:4px;}
+  .selection-details-row{display:flex; justify-content:space-around; margin-top:8px; padding-top:8px; border-top:1px dashed #ddd;}
+  .selection-detail-mini{text-align:center; flex:1;}
+  .selection-detail-mini-label{font-size:9px; color:#999; text-transform:uppercase; letter-spacing:0.5px;}
+  .selection-detail-mini-value{font-size:11px; font-weight:700; color:#333; margin-top:2px;}
+  
+  .ticket-footer{background:linear-gradient(135deg, #1a1a2e, #16213e); padding:16px 20px; text-align:center; color:#fff; border-top:2px dashed #ddd;}
+  .ticket-footer a:hover{color:#fff; text-shadow:0 0 8px rgba(255,215,0,0.8); transform:scale(1.05);}
+  .ticket-footer-text{font-size:10px; text-transform:uppercase; letter-spacing:0.5px; margin:4px 0;}
+  .ticket-barcode{margin:12px auto 8px; height:40px; background:repeating-linear-gradient(90deg, #fff 0px, #fff 2px, #000 2px, #000 4px); width:80%; max-width:200px;}
+  
+  /* Tickets grid layout */
+  .tickets-grid{display:grid; grid-template-columns:repeat(auto-fill, minmax(380px, 1fr)); gap:32px; justify-items:center;}
+  @media(max-width:768px){.tickets-grid{grid-template-columns:1fr;}}
+</style>
+<body>
+  <header style="background:linear-gradient(135deg, rgba(107,138,255,0.2), rgba(95,234,215,0.1)); border-bottom:2px solid rgba(107,138,255,0.3); backdrop-filter:blur(10px); position:sticky; top:0; z-index:100; box-shadow:0 4px 20px rgba(0,0,0,0.3);">
+    <div class="wrap" style="padding:8px 24px;">
+      
+      <!-- Glavni red: Logo, Naslov, Status, Akcije -->
+      <div style="display:flex; align-items:center; justify-content:space-between; gap:20px;">
+        
+        <!-- Logo i Naslov -->
+        <div style="display:flex; align-items:center; gap:12px;">
+          <div style="width:56px; height:56px; background:linear-gradient(135deg, var(--accent), var(--accent-2)); border-radius:14px; display:flex; align-items:center; justify-content:center; font-size:28px; box-shadow:0 4px 16px rgba(107,138,255,0.4); flex-shrink:0;">
+            📊
+          </div>
+          <div>
+            <h1 style="margin:0; font-size:28px; font-weight:900; background:linear-gradient(135deg, var(--accent), var(--accent-2)); -webkit-background-clip:text; -webkit-text-fill-color:transparent; letter-spacing:-0.5px; line-height:1;">
+              ANALIZATOR KVOTA
+            </h1>
+            <p style="margin:2px 0 0 0; color:var(--muted); font-size:12px; font-weight:500;">
+              Real-time • Auto-refresh svakih 5 min
+            </p>
+          </div>
+        </div>
+        
+        <!-- Quick Stats -->
+        <div style="display:flex; gap:20px; align-items:center; flex:1; justify-content:center;">
+          <div style="text-align:center;">
+            <div style="font-size:11px; color:var(--muted); font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">Ukupno</div>
+            <div id="quickTotal" style="font-size:24px; font-weight:800; color:var(--text);">-</div>
+          </div>
+          
+          <div style="width:1px; height:16px; background:rgba(107,138,255,0.3);"></div>
+          
+          <div style="text-align:center;">
+            <div style="font-size:11px; color:var(--muted); font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">Arbitraže</div>
+            <div id="quickArb" style="font-size:24px; font-weight:800; color:var(--good);">-</div>
+          </div>
+          
+          <div style="width:1px; height:16px; background:rgba(107,138,255,0.3);"></div>
+          
+          <div style="text-align:center;">
+            <div style="font-size:11px; color:var(--muted); font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">Profit</div>
+            <div id="quickProfit" style="font-size:24px; font-weight:800; color:var(--good);">-</div>
+          </div>
+          
+          <div style="width:1px; height:16px; background:rgba(107,138,255,0.3);"></div>
+          
+          <div style="text-align:center;">
+            <div style="font-size:11px; color:var(--muted); font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">Danas</div>
+            <div id="quickToday" style="font-size:24px; font-weight:800; color:var(--text);">-</div>
+          </div>
+        </div>
+        
+        <!-- Status i Akcije -->
+        <div style="display:flex; align-items:center; gap:8px; flex-shrink:0;">
+          <!-- Trenutno vreme -->
+          <div style="display:flex; flex-direction:column; align-items:flex-end; gap:2px; margin-right:8px;">
+            <div id="currentTime" style="font-size:20px; font-weight:800; color:var(--text); line-height:1;">--:--</div>
+            <div id="currentDate" style="font-size:9px; color:var(--muted); font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">-- --- ----</div>
+          </div>
+          
+          <div style="width:1px; height:40px; background:rgba(107,138,255,0.3); margin:0 4px;"></div>
+          
+          <div style="display:flex; flex-direction:column; align-items:flex-end; gap:4px;">
+            <span class="pill" id="pillStatus" style="font-size:11px; padding:4px 10px;">
+              <span id="statusIcon">🟢</span> <span id="statusText">Spremno</span>
+            </span>
+            <span id="lastUpdate" style="font-size:9px; color:var(--muted); font-weight:600;">
+              Ažurirano: -
+            </span>
+          </div>
+          
+          <button id="btnRefresh" style="padding:8px 14px; background:linear-gradient(135deg, var(--accent), var(--accent-2)); color:white; border:none; border-radius:8px; cursor:pointer; font-size:13px; font-weight:700; transition:.2s all; box-shadow:0 4px 12px rgba(107,138,255,0.3); display:flex; align-items:center; gap:6px;">
+            <span id="refreshIcon" style="font-size:14px;">🔄</span>
+          </button>
+          
+          <button id="btnPrint" style="padding:8px 14px; background:rgba(107,138,255,0.15); color:var(--text); border:1px solid rgba(107,138,255,0.3); border-radius:8px; cursor:pointer; font-size:13px; font-weight:700; transition:.2s all; display:flex; align-items:center; gap:6px;">
+            <span style="font-size:14px;">🖨️</span>
+          </button>
+        </div>
+      </div>
+      
+      <!-- Navigation tabs -->
+      <div class="nav-tabs">
+        <button class="nav-tab active" data-page="analiza">📊 Analiza Kvota</button>
+        <button class="nav-tab" data-page="tiketi">🎫 Preporučeni Tiketi</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Page: Analiza Kvota -->
+  <div id="page-analiza" class="page-content active">
+  <div class="wrap">
+    <!-- Dashboard sa statistikama -->
+    <div id="dashboard" style="display:flex; gap:16px; margin-bottom:24px; justify-content:center; flex-wrap:wrap;">
+      <!-- Widgeti će biti dodati dinamički -->
+    </div>
+    
+    <div class="controls">
+      <textarea id="src" class="in" placeholder="Učitani tekst (read-only)"></textarea>
+      <input id="q" class="in" placeholder="🔍 Filtriraj po timu/ligi…"/>
+      <select id="sort" class="in">
+        <option value="arbdesc" selected>Sortiraj po profitu 1-X-2 (opadajuće)</option>
+        <option value="arbasc">Sortiraj po profitu 1-X-2 (rastuće)</option>
+        <option value="arb02desc">Sortiraj po profitu 0-2/3+ (opadajuće)</option>
+        <option value="arb02asc">Sortiraj po profitu 0-2/3+ (rastuće)</option>
+        <option value="time">Sortiraj po vremenu</option>
+        <option value="none">Sortiranje: bez</option>
+      </select>
+      
+      <!-- Novi filteri -->
+      <div style="display:flex; gap:16px; margin-top:12px; flex-wrap:wrap; align-items:center;">
+        <label style="display:flex; align-items:center; gap:8px; cursor:pointer; font-size:13px; color:var(--text); padding:8px 12px; background:rgba(107,138,255,0.1); border-radius:8px; transition:.2s;">
+          <input type="checkbox" id="filterArbOnly" style="width:18px; height:18px; cursor:pointer; accent-color:var(--accent);">
+          <span>🎯 Samo arbitraže</span>
+        </label>
+        <label style="display:flex; align-items:center; gap:8px; cursor:pointer; font-size:13px; color:var(--text); padding:8px 12px; background:rgba(107,138,255,0.1); border-radius:8px; transition:.2s;">
+          <input type="checkbox" id="filterHighOdds" style="width:18px; height:18px; cursor:pointer; accent-color:var(--accent);">
+          <span>🔥 Visoke kvote (1, X, 2 > 2.0)</span>
+        </label>
+        <select id="filterTime" class="in" style="width:auto; padding:10px 14px; font-size:13px;">
+          <option value="all">📅 Sva vremena</option>
+          <option value="today">Danas</option>
+          <option value="tomorrow">Sutra</option>
+          <option value="next3">Naredna 3 dana</option>
+        </select>
+        <button id="btnClearFilters" style="padding:10px 16px; background:rgba(248,113,113,0.2); color:#f87171; border:1px solid rgba(248,113,113,0.3); border-radius:8px; cursor:pointer; font-size:13px; font-weight:600; transition:.2s;">
+          ✕ Obriši filtere
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Content sa sidebar-ima uz ivice -->
+  <div style="position:relative;">
+    <!-- Levi sidebar - fiksan uz levu ivicu -->
+    <div class="sidebar-fixed-left" id="sidebarLeft">
+      <h3>⚽ Lige</h3>
+      <div id="leagueList"></div>
+    </div>
+    
+    <!-- Centralni sadržaj sa wrap-om -->
+    <div class="wrap">
+      <div id="out" class="grid"></div>
+    </div>
+    
+    <!-- Desni sidebar - fiksan uz desnu ivicu -->
+    <div class="sidebar-fixed-right" id="sidebarRight">
+      <h3>🎰 Kladionice</h3>
+      <div id="bookmakerList"></div>
+    </div>
+  </div>
+  </div><!-- kraj page-analiza -->
+  
+  <!-- Page: Preporučeni Tiketi -->
+  <div id="page-tiketi" class="page-content">
+    <div class="wrap" style="max-width:1200px; margin:0 auto; padding:24px 20px;">
+      <div style="margin:24px 0 32px 0; background:var(--card); padding:24px; border-radius:16px; box-shadow:0 8px 24px rgba(0,0,0,0.3); border:1px solid rgba(107,138,255,0.2);">
+        <h2 style="font-size:32px; font-weight:900; background:linear-gradient(135deg, var(--accent), var(--accent-2)); -webkit-background-clip:text; -webkit-text-fill-color:transparent; margin:0 0 8px 0;">
+          🎫 Preporučeni Tiketi
+        </h2>
+        <p style="color:var(--muted); font-size:14px; margin:0;">
+          Ažurirano danas u <span id="ticketUpdateTime" style="font-weight:700; color:var(--accent-2);">--:--</span>
+        </p>
+      </div>
+      
+      <div id="ticketsContainer">
+        <div style="text-align:center; padding:60px 20px; color:var(--muted);">
+          <div style="font-size:48px; margin-bottom:16px;">⏳</div>
+          <p style="font-size:16px; font-weight:600;">Učitavanje tiketa...</p>
+        </div>
+      </div>
+    </div>
+  </div><!-- kraj page-tiketi -->
+  
+  <!-- Footer -->
+  <footer style="background:linear-gradient(135deg, rgba(107,138,255,0.1), rgba(95,234,215,0.05)); border-top:1px solid rgba(107,138,255,0.2); margin-top:48px; padding:32px 0;">
+    <div class="wrap" style="max-width:1400px; margin:0 auto;">
+      <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(250px, 1fr)); gap:32px; margin-bottom:32px;">
+        
+        <!-- O nama -->
+        <div>
+          <h3 style="color:var(--accent); font-size:16px; font-weight:700; margin-bottom:16px; text-transform:uppercase; letter-spacing:0.8px;">📊 O Platformi</h3>
+          <p style="color:var(--muted); font-size:13px; line-height:1.6; margin-bottom:12px;">
+            Napredna platforma za analizu sportskih kvota i pronalaženje arbitražnih prilika u realnom vremenu. 
+            Praćenje preko 12 kladionica sa automatskim osvežavanjem svakih 5 minuta.
+          </p>
+          <div style="display:flex; gap:8px; margin-top:16px;">
+            <span style="background:rgba(107,138,255,0.2); padding:4px 10px; border-radius:6px; font-size:11px; font-weight:600;">⚡ Real-time</span>
+            <span style="background:rgba(45,212,191,0.2); padding:4px 10px; border-radius:6px; font-size:11px; font-weight:600;">🎯 Arbitraže</span>
+            <span style="background:rgba(245,158,11,0.2); padding:4px 10px; border-radius:6px; font-size:11px; font-weight:600;">📈 Statistika</span>
+          </div>
+        </div>
+        
+        <!-- Brzi linkovi -->
+        <div>
+          <h3 style="color:var(--accent); font-size:16px; font-weight:700; margin-bottom:16px; text-transform:uppercase; letter-spacing:0.8px;">🔗 Brzi Linkovi</h3>
+          <ul style="list-style:none; padding:0; margin:0;">
+            <li style="margin-bottom:10px;"><a href="#" id="linkScrollTop" style="color:var(--muted); text-decoration:none; font-size:13px; transition:.2s; display:flex; align-items:center; gap:8px;"><span>↑</span> Nazad na vrh</a></li>
+            <li style="margin-bottom:10px;"><a href="#" id="linkBestArb" style="color:var(--muted); text-decoration:none; font-size:13px; transition:.2s; display:flex; align-items:center; gap:8px;"><span>💰</span> Najbolje arbitraže</a></li>
+            <li style="margin-bottom:10px;"><a href="#" id="linkTodayMatches" style="color:var(--muted); text-decoration:none; font-size:13px; transition:.2s; display:flex; align-items:center; gap:8px;"><span>📅</span> Današnji mečevi</a></li>
+            <li style="margin-bottom:10px;"><a href="#" id="linkHighOdds" style="color:var(--muted); text-decoration:none; font-size:13px; transition:.2s; display:flex; align-items:center; gap:8px;"><span>🔥</span> Visoke kvote</a></li>
+          </ul>
+        </div>
+        
+        <!-- Podržane kladionice -->
+        <div>
+          <h3 style="color:var(--accent); font-size:16px; font-weight:700; margin-bottom:16px; text-transform:uppercase; letter-spacing:0.8px;">🎰 Kladionice</h3>
+          <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:8px; font-size:12px; color:var(--muted);">
+            <div>• BalkanBet</div>
+            <div>• BetOle</div>
+            <div>• Brazil</div>
+            <div>• Meridian</div>
+            <div>• Merkur</div>
+            <div>• Mozzart</div>
+            <div>• OktagonBet</div>
+            <div>• Soccer</div>
+            <div>• TopBet</div>
+          </div>
+        </div>
+        
+        <!-- Statistika -->
+        <div>
+          <h3 style="color:var(--accent); font-size:16px; font-weight:700; margin-bottom:16px; text-transform:uppercase; letter-spacing:0.8px;">📊 Statistika</h3>
+          <div id="footerStats" style="font-size:13px; color:var(--muted); line-height:1.8;">
+            <div style="display:flex; justify-content:space-between; margin-bottom:8px;">
+              <span>Mečeva danas:</span>
+              <span style="color:var(--text); font-weight:700;" id="statsFooterToday">-</span>
+            </div>
+            <div style="display:flex; justify-content:space-between; margin-bottom:8px;">
+              <span>Ukupno arbitraža:</span>
+              <span style="color:var(--good); font-weight:700;" id="statsFooterArb">-</span>
+            </div>
+            <div style="display:flex; justify-content:space-between; margin-bottom:8px;">
+              <span>Najbolji profit:</span>
+              <span style="color:var(--good); font-weight:700;" id="statsFooterProfit">-</span>
+            </div>
+            <div style="display:flex; justify-content:space-between;">
+              <span>Poslednje ažuriranje:</span>
+              <span style="color:var(--text); font-weight:700; font-size:11px;" id="statsFooterTime">-</span>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+      
+      <!-- Copyright i pravni tekst -->
+      <div style="border-top:1px solid rgba(107,138,255,0.2); padding-top:24px; text-align:center;">
+        <p style="color:var(--muted); font-size:12px; margin-bottom:12px;">
+          <strong style="color:var(--text);">⚠️ Odricanje od odgovornosti:</strong> Ova platforma služi isključivo u informativne svrhe. 
+          Kockanje može biti zavisnost. Igrajte odgovorno. 18+
+        </p>
+        <p style="color:var(--muted); font-size:11px; margin-bottom:8px;">
+          Kvote se automatski ažuriraju svakih 5 minuta. Za najnovije informacije posetite zvanične sajtove kladionica.
+        </p>
+        <p style="color:var(--muted); font-size:11px;">
+          © 2025 Kvote Analizator. Sva prava zadržana. | Verzija 2.0
+        </p>
+      </div>
+    </div>
+  </footer>
+  
+  <!-- Scroll to Top dugme -->
+  <button id="scrollToTop" style="position:fixed; bottom:24px; right:24px; width:56px; height:56px; border-radius:50%; background:linear-gradient(135deg, var(--accent), var(--accent-2)); border:none; color:white; font-size:24px; cursor:pointer; box-shadow:0 8px 24px rgba(107,138,255,0.4); transition:.3s all; opacity:0; pointer-events:none; z-index:1000;">
+    ↑
+  </button>
+
+<script>
+// === Podešavanja ===
+const DEFAULT_FILE = 'ALL_MATCHES_AND_ARBS/kvote_arbitraza_FULL.txt';
+const AUTO_INTERVAL_MS = 300_000; // 5 minuta
+
+// Globalna promenljiva za podatke
+let currentData = [];
+
+// === Mapa URL-ova kladionica ===
+const BOOKMAKER_URLS = {
+  'balkanbet': 'https://www.balkanbet.rs/sportsko-kladjenje/1-offer/18-fudbal',
+  'betole': 'https://www.betole.com/sport/S/calendar',
+  'brazil': 'https://www.brazilbet.rs/sr/vremenska-ponuda',
+  'brazil_d': 'https://www.brazilbet.rs/sr/vremenska-ponuda',
+  'brazil_p': 'https://www.brazilbet.rs/sr/vremenska-ponuda',
+  'brazil_s': 'https://www.brazilbet.rs/sr/vremenska-ponuda',
+  'maxbet': 'https://www.maxbet.rs/sr/sportsko-kladjenje/vremenska-ponuda',
+  'meridian': 'https://meridianbet.rs/en/betting/football',
+  'merkur': 'https://www.merkurxtip.rs/sr/sportsko-kladjenje/sledeci-mecevi',
+  'mozzart': 'https://www.mozzartbet.com/sr/kladjenje/sport/1?date=all_days',
+  'oktagonbet': 'https://www.oktagonbet.com/ibet-web-client/#/home/leaguesWithMatches',
+  'soccer': 'https://www.soccerbet.rs/sr/sportsko-kladjenje/fudbal/S',
+  'topbet': 'https://www.topbet.rs/sportsko-kladjenje/1-offer/3-fudbal'
+};
+
+// === Mapa putanja do logo slika ===
+const BOOKMAKER_LOGOS = {
+  'balkanbet': 'logos/balkanbet.png',
+  'betole': 'logos/betole.png',
+  'brazil': 'logos/brazil.png',
+  'brazil_d': 'logos/brazil.png',
+  'brazil_p': 'logos/brazil.png',
+  'brazil_s': 'logos/brazil.png',
+  'maxbet': 'logos/maxbet.png',
+  'meridian': 'logos/meridian.png',
+  'merkur': 'logos/merkur.png',
+  'mozzart': 'logos/mozzart.png',
+  'oktagonbet': 'logos/oktagonbet.png',
+  'soccer': 'logos/soccer.png',
+  'topbet': 'logos/topbet.png'
+};
+
+// === Mapa grupisanja liga po zemljama ===
+const COUNTRY_LEAGUES = {
+  'Poljska': [
+    'POLAND, III Liga - Group I',
+    'POLAND, III Liga - Group II',
+    'POLAND, III Liga - Group III',
+    'POLAND, III Liga - Group IV',
+    'Polish - II Liga',
+    'Polish - III Liga',
+    'Polish - IV Liga',
+    'Poljska 1',
+    'Poland, III Liga - Group I',
+    'Poland, III Liga - Group II',
+    'Poland, III Liga - Group III',
+    'Poland, III Liga - Group IV',
+    'Poljska 2',
+    'Poljska 3',
+    'Polish - Ekstraklasa',
+    'POLAND 3',
+    'Polish - I Liga'
+  ],
+
+  'Engleska': [
+    'Engleska 1',
+    'Engleska 2',
+    'Engleska 3',
+    'Engleska 4',
+    'Engleska 5',
+    'English - Isthmian League',
+    'English - National League South',
+    'English - Professional Development League',
+    'Engleska 7 Central',
+    'Engleska 7 Istok',
+    'Engleska 7 Jug',
+    'Engleska 7 Sever',
+    'Engleska 6 Jug',
+    'Engleska 6 Sever',
+    'England, Championship',
+    'English - Championship',
+    'English - EFL Cup',
+    'English - Premier League',
+    'English - Southern South',
+    'Engleska FA Trofej',
+    'English - FA Trophy',
+    'English - League Two',
+    'English - Premier League Cup',
+    // dodato
+    'ENGLAND 1',
+    'English - FA Cup3',
+    'English - FA Women\'s Cup',
+    'English - National League',
+    'English - League One1'
+  ],
+
+  'Nemačka': [
+    'German - Regionalliga Bayern',
+    'German - Regionalliga Nord',
+    'German - Regionalliga Nordost',
+    'German - Regionalliga Sudwest',
+    'German - Regionalliga West',
+    'Nemačka 1',
+    'Nemačka 2',
+    'Nemačka 3',
+    'Nemačka 4 Bavarija',
+    'Nemačka 4 Jugozapad',
+    'Nemačka 4 Sever',
+    'Nemačka 4 Severoistok',
+    'Nemačka 4 Zapad',
+    'German - Bundesliga',
+    'German - DFB Pokal',
+    'Germany, Regionalliga Bayern',
+    'Germany, Regionalliga Nordost',
+    'Germany, Regionalliga North',
+    'Germany, Regionalliga Sudwest',
+    'Germany, Regionalliga West',
+    'German - German Amateur Leagues',
+    // dodato
+    'German - Oberliga1',
+    'Nemačka 5 Mittelrhein',
+    'Nemačka 5 Rheinland-Pfalz',
+    'Nemačka 5 Schleswig-Holstein',
+    'Nemačka 5 Westfalen'
+  ],
+
+  'Italija': [
+    'ITALY, Serie C - Group A',
+    'ITALY, Serie C - Group C',
+    'Italian - Coppa Italia',
+    'Italian - Supercoppa Italiana',
+    'Italija 1',
+    'Italija 2',
+    'Italija 3 - Grupa A',
+    'Italija 3 - Grupa B',
+    'Italija 3 - Grupa C',
+    'Italian - Serie A',
+    'Italian - Serie B',
+    'Italy, Serie C - Group A',
+    'Italian - Campionato Primavera',
+    'Italian - Serie C Group A',
+    // dodato
+    'Italian - Serie D',
+    'Italija Primavera 1',
+    'ITALY 21',
+    'ITALY, Serie D - Group A',
+    'ITALY, Serie D - Group B',
+    'ITALY, Serie D - Group C',
+    'ITALY, Serie D - Group D',
+    'ITALY, Serie D - Group G4'
+  ],
+
+  'Argentina': [
+    'Argentina 1',
+    'Argentina, Primera C - Promotion - Play Offs',
+    'Argentine - Argentine Liga Profesional',
+    'Argentine - Argentine Primera Nacional',
+    'Argentine - Primera B',
+    'Argentina Kup',
+    // dodato
+    'ARGENTINA, Torneo Betano - Clausura'
+  ],
+
+  'Holandija': [
+    'Dutch - Eerste Divisie',
+    'Dutch - Eredivisie',
+    'Dutch - Tweede Divisie',
+    'Holandija 1',
+    'Holandija 2',
+    'Holandija 3',
+    'Netherlands, Eerste Divisie',
+    // dodato
+    'NETHERLANDS 1'
+  ],
+
+  'Škotska': [
+    'Scottish - League Two',
+    'Scottish - Premiership',
+    'Škotska 1',
+    'Škotska 2',
+    'Škotska 3',
+    'Scottish - Cup',
+    'Scottish - Lowland League',
+    'Škotska Kup',
+    // dodato
+    'SCOTLAND 1',
+    'Scottish - Championship',
+    'Scottish - League Cup',
+    'Scottish - League One'
+  ],
+
+  'Češka': [
+    'Czech - CFL',
+    'Czech - National League',
+    'Češka 1',
+    'Češka 2',
+    'Czech Republic, ChNL',
+    'Czech Republic, MSFL',
+    'Czech - Czech MSFL',
+    // dodato
+    'Czech - First League',
+    'Czech - Fourth Division',
+    'CZECH REP. 1',
+    'CZECH REPUBLIC, CFL - Group A2'
+  ],
+
+  'Danska': [
+    'Danska 1',
+    'Danska 2',
+    'Danska 3',
+    'Danska 4',
+    'Danish - Danish Cup',
+    // dodato
+    'Danish - Danish Danmarksserien',
+    'Danish - Superliga'
+  ],
+
+  'Španija': [
+    'Spanish - Spanish Primera RFEF',
+    'Spanish - Spanish Segunda RFEF',
+    'Španija 1',
+    'Španija 2',
+    'Španija 3 - 1',
+    'Španija 3 - 2',
+    'Spanish - La Liga',
+    'Španija 3',
+    // dodato
+    'SPAIN 2',
+    'Španija 4',
+    'Španija 4 - 1',
+    'Španija 4 - 2',
+    'Španija 4 - 3',
+    'Španija 4 - 4',
+    'Španija 4 - 5',
+    'Spanish - Spanish Youth League',
+    'Spanish - Tercera Division2'
+  ],
+
+  'Turska': [
+    'Turkish - First League',
+    'Turkish - Second League',
+    'Turska 1',
+    'Turska 2',
+    'TUR2',
+    'Turkey, Super Lig',
+    'Turkish - Super Lig',
+    // dodato
+    'TUR3',
+    'TURKEY 1',
+    'TURKEY 2',
+    'Turkish - Third League',
+    'Turska U19'
+  ],
+
+  'Austrija': [
+    'Austrian - First League',
+    'Austrija 1',
+    'Austrija 2',
+    'Austrian - Bundesliga',
+    'Austrian - OFB Cup',
+    'AUT2',
+    'Austrian - Regionalliga Mitte',
+    'Austrian - Regionalliga Ost'
+  ],
+
+  'Belgija': [
+    'Belgian - Belgium Reserve League',
+    'Belgija 1',
+    'Belgija 2',
+    'Belgian - First Division A',
+    'Belgian - First Division B',
+    'Belgium, Challenger Pro League',
+    'Belgian - Belgian Women\'s First Division',
+    // dodato
+    'Belgian - Cup',
+    'BELGIUM 3 - ACFF',
+    'BELGIUM 3 - VV3'
+  ],
+
+  'Brazil': [
+    'Brazil 1',
+    'Brazil 2',
+    'Brazil 3',
+    'Brazilian - Serie A',
+    'Brazilian - Serie B',
+    // dodato
+    'Brazilian - Copa do Brasil'
+  ],
+
+  'Bugarska': [
+    'Bugarska 1',
+    'Bulgarian - First League',
+    'Bulgarian - Second League',
+    'Bulgaria, Vtora Liga'
+  ],
+
+  'Evropa': [
+    'European - Conference League',
+    'Liga Konferencija',
+    'Liga Konferencije',
+    'European - Champions League',
+    'European - Europa League',
+    'Liga Evrope',
+    'European - UEFA Nations League Women',
+    'European - UEFA Youth League',
+    'UEFA Liga Mladih',
+    'UEFA, Conference League - League phase',
+    'UEFA Nations League, Women',
+    // dodato
+    'Liga Šampiona1',
+    'UEFA, Champions League - Group Stage',
+    'Liga Šampiona'
+  ],
+
+  'Japan': [
+    'Japan 1',
+    'Japan 2',
+    'Japan 3',
+    'Japanese - Football League',
+    // dodato
+    'Japan, Football League'
+  ],
+
+  'Kina': [
+    'CHINA, Yi League - Relegation Group',
+    'Chinese - League Two',
+    'Kina 1',
+    'China, Super League',
+    'China, Yi League - Relegation Group',
+    // dodato
+    'CHINA, Yi League - Promotion Group',
+    'Chinese - Super League',
+    'Chinese Taipei - Chinese Taipei Premier League',
+    'Kina 2'
+  ],
+
+  'Litvanija': [
+    'Lithuania, A Lyga',
+    'Lithuanian - A Lyga',
+    'Litvanija 1',
+    'Lithuania, I Lyga',
+    'Lithuanian - I Lyga'
+  ],
+
+  'Mađarska': [
+    'Hungarian - NB I',
+    'Hungarian - NB II',
+    'Mađarska 1',
+    'MAĐ1',
+    // dodato
+    'Hungarian - NB III1',
+    'HUNGARY 1',
+    'HUNGARY 2',
+    'Mađarska 2'
+  ],
+
+  'Meksiko': [
+    'MEXICO, Liga de Expansion MX - Apertura',
+    'Meksiko 1',
+    'Meksiko 2',
+    'MEXICO, Liga MX - Apertura',
+    'Mexican - Liga MX',
+    'Mexico, Liga de Expansion MX - Apertura',
+    // dodato
+    'Mexican - Mexican Liga de Expansion MX',
+    'MEXICO 2'
+  ],
+
+  'Rusija': [
+    'Rusija 1',
+    'Rusija 2',
+    'Russian - FNL',
+    'Rusija Kup',
+    'Russian - Cup',
+    'Russia, FNL',
+    'Russia,Youth League',
+    'Russian - Premier League',
+    // dodato
+    'Rusija 3 Zapad',
+    'RUSSIA 1'
+  ],
+
+  'Saudijska Arabija': [
+    'Saudi Arabia, Saudi Professional League',
+    'Saudi Arabian - Professional League',
+    'Saudijska Arabija 1',
+    'S. Arabija 1',
+    'Saudi Arabian - Second Divison'
+  ],
+
+  'Srbija': [
+    'Serbian - Prva Liga',
+    'Serbian - Superliga',
+    'Srbija 1'
+  ],
+
+  'Švajcarska': [
+    'Swiss - Super League',
+    'Švajcarska 1',
+    'Švajcarska 2',
+    // dodato
+    'Švajcarska 3',
+    'Swiss - Challenge League',
+    'Swiss - Promotion League'
+  ],
+
+  'Urugvaj': [
+    'Uruguayan - Reserve League',
+    'Uruguayan - Segunda Division',
+    'Urugvaj 1',
+    'Urugvaj 2',
+    // dodato
+    'URUGUAY 2',
+    'Uruguayan - Copa Uruguay'
+  ],
+
+  'Australija': [
+    'Australian - A-League',
+    'Australija 1',
+    'Australian - Australian Championship',
+    'Australija Championship',
+    'Australia, A-League',
+    // dodato
+    'Australian - W-League'
+  ],
+
+  'Čile': [
+    'Čile 1',
+    'Čile 2',
+    'Chilean - Primera B',
+    'ČIL1',
+    // dodato
+    'CHILE 1',
+    'Chilean - Primera Division'
+  ],
+
+  'Egipat': [
+    'Egipat 1',
+    'Egipat 2',
+    'Egyptian - Premier League',
+    'Egyptian - Second Division',
+    'EGI1',
+    'EGI2',
+    // dodato
+    'EGYPT 1'
+  ],
+
+  'Estonija': [
+    'Estonia, Esiliiga',
+    'Estonian - Esiliiga',
+    'Estonian - Meistriliiga',
+    'ETI1',
+    // dodato
+    'Estonian - Esiliiga B',
+    'Estonija 1'
+  ],
+
+  'Etiopija': [
+    'Ethiopia, Premier League',
+    'Ethiopian - Premier League',
+    'ETI1'
+  ],
+
+  'Finska': [
+    'FINLAND, Ykkosliiga - Relegation',
+    'Finland, Ykkosliiga - Relegation',
+    'Finska 1',
+    'Finska 2',
+    'FINLAND, Veikkausliiga - Championship Group',
+    'Finnish - Veikkausliiga',
+    // dodato
+    'FINLAND, Veikkausliiga - Relegation',
+    'Finnish - Ykkonen Women'
+  ],
+
+  'Francuska': [
+    'Francuska 1',
+    'Francuska 2',
+    // dodato
+    'French - Championnat National'
+  ],
+
+  'Hrvatska': [
+    'Hrvatska 1',
+    'Hrvatska 2',
+    'Croatia, Prva NL',
+    // dodato
+    'CROATIA 1',
+    'Croatian - HNL'
+  ],
+
+  'Island': [
+    'ICELAND, Besta-deild karla - Relegation Group',
+    'Island 1',
+    'ISL1'
+  ],
+
+  'Izrael': [
+    'Izrael 1',
+    'Izrael 2',
+    'Israel, Leumit League',
+    'Israeli - Liga Leumit',
+    'Israeli - Ligat HaAl',
+    'Israel, Liga Alef North',
+    // dodato
+    'ISRAEL 1',
+    'Israeli - Youth League'
+  ],
+
+  'Južna Koreja': [
+    'Južna Koreja 1',
+    'Južna Koreja 2',
+    'South Korean - K League',
+    // dodato
+    'Južna Koreja 3',
+    'South Korean - K League Challenge',
+    'JKOR3'
+  ],
+
+  'Letonija': [
+    'Latvian - Virsliga',
+    'Letonija 1'
+  ],
+
+  'Norveška': [
+    'Norveška 1',
+    'Norveška 2',
+    'Norwegian - Eliteserien',
+    'Norwegian - First Division',
+    // dodato
+    'Norwegian - Third Division'
+  ],
+
+  'Portugal': [
+    'Portugal 1',
+    'Portugal 2',
+    'Portugal 3',
+    // dodato
+    'PORTUGAL 1',
+    'PORTUGAL 32',
+    'PORTUGAL, Campeonato de Portugal - Group C6',
+    'Portuguese - Campeonato Nacional Women',
+    'Portuguese - LigaPro',
+    'Portuguese - Primeira Liga'
+  ],
+
+  'SAD': [
+    'SAD 1',
+    'SAD 2',
+    'USA - Major League Soccer',
+    'USA - United Soccer League',
+    'USL1',
+    'SAD 2 USL',
+    // dodato
+    'USA - USA MLS Next Pro',
+    'USA, MLS Next Pro - Play Offs'
+  ],
+
+  'Severna Irska': [
+    'Severna Irska 1',
+    'Severna Irska 2',
+    // dodato
+    'Northern Irish - NIFL Premiership'
+  ],
+
+  'Švedska': [
+    'Švedska 1',
+    'Švedska 2',
+    'Swedish - Superettan',
+    'ŠVE2',
+    'Švedska 3 Sever',
+    'Sweden, Superettan',
+    'Swedish - Allsvenskan',
+    // dodato
+    'Švedska 3 Jug'
+  ],
+
+  'Tajland': [
+    'Tajland 1',
+    'Tajland 2',
+    'Thailand, Thai Premier League',
+    // dodato
+    'THAILAND 2'
+  ],
+
+  'Armenija': [
+    'Armenia, Premier League',
+    'Armenian - Premier League'
+  ],
+
+  'Azerbejdžan': [
+    'Azerbaijan, Division One',
+    'Azerbaijani - First Division',
+    'Azerbaijani - Premier League',
+    // dodato
+    'Azerbejdžan 1'
+  ],
+
+  'Bangladeš': [
+    'Bangladeshi - Federation Cup',
+    'Bangladesh, Federation Cup'
+  ],
+
+  'Belorusija': [
+    'Belorusija 1',
+    // dodato
+    'Belarusian - Premier League'
+  ],
+
+  'BiH': [
+    'BiH 1',
+    'Bosnian - First League',
+    'Bosnian - Premier League',
+    // dodato
+    'BOSNIA AND HERZEGOVINA, Prva Liga - FBiH'
+  ],
+
+  'Bolivija': [
+    'Bolivian - Bolivian League Cup',
+    'Bolivija Liga Kup'
+  ],
+
+  'Kostarika': [
+    'Costa Rican - Segunda Division',
+    'Kostarika 1'
+  ],
+
+  'Ekvador': [
+    'Ecuador, Liga Pro - Championship Group',
+    'Ecuadorian - Primera Serie B',
+    'Ekvador 1',
+    'Ecuadorian - Primera Serie A',
+    // dodato
+    'Ekvador 2'
+  ],
+
+  'Farska Ostrva': [
+    'Faroe Islands - Premier League'
+  ],
+
+  'Gana': [
+    'Ghana, Premier League',
+    'Ghanaian - Premier League'
+  ],
+
+  'Grčka': [
+    'Grčka 1',
+    'Greek - Cup',
+    'Greek - Superleague'
+  ],
+
+  'Gvatemala': [
+    'Guatemalan - Liga Nacional',
+    // dodato
+    'Guatemala, Liga Nacional - Apertura',
+    'Gvatemala 1'
+  ],
+
+  'Indonezija': [
+    'Indonezija 1',
+    'Indonesia, Championship',
+    'Indonesian - Championship B',
+    // dodato
+    'Indonesian - Championship A',
+    'Indonezija 2'
+  ],
+
+  'Iran': [
+    'Iran, Persian Gulf Pro League',
+    'Iranian - Gulf Pro League'
+  ],
+
+  'Irak': [
+    'Iraq, First Division'
+  ],
+
+  'Irska': [
+    'Ireland, Premier Division',
+    'Irska 1',
+    'Irish - Premier Division',
+    'Irish - Leinster Senior League',
+    // dodato
+    'IRELAND 1'
+  ],
+
+  'Kanada': [
+    'Kanada 1',
+    // dodato
+    'Canadian - Premier Liga'
+  ],
+
+  'Kazahstan': [
+    'Kazakhstani - Premier League',
+    'Kazakhstan, First Division',
+    // dodato
+    'Kazahstan 1'
+  ],
+
+  'Kipar': [
+    'Kipar 1',
+    'KIP1',
+    // dodato
+    'CYPRUS 1'
+  ],
+
+  'Kolumbija': [
+    'Kolumbija 1',
+    'KRK1',
+    'Colombian - Primera B',
+    'KOL1',
+    // dodato
+    'Colombian - Primera A',
+    'Kolumbija 2'
+  ],
+
+  'Malta': [
+    'Maltese - Premier League',
+    // dodato
+    'MALTA 1',
+    'MALTA, Premier League - First stage - Main3',
+    'Maltese - First Division'
+  ],
+
+  'Nikaragva': [
+    'Nicaraguan - Primera Division',
+    'Nikaragva 1',
+    // dodato
+    'NICARAGUA 1',
+    'NICARAGUA, Liga Primera - Apertura'
+  ],
+
+  'Panama': [
+    'Panamanian - LPF',
+    'Panama 1',
+    'Panamanian - Panamanian Liga Prom',
+    // dodato
+    'PANAMA, LPF - Clausura1'
+  ],
+
+  'Paragvaj': [
+    'Paraguayan - Primera Division',
+    'Paragvaj 1',
+    'Paragvaj Kup'
+  ],
+
+  'Peru': [
+    'Peru 1',
+    'Peruvian - Primera Division',
+    // dodato
+    'PERU 1',
+    'Peru 2'
+  ],
+
+  'Katar': [
+    'Qatari - Qatar Olympic League',
+    'Qatari - Stars League',
+    'Katar 1'
+  ],
+
+  'Rumunija': [
+    'Romanian - Cup',
+    'RUM1',
+    'Rumunija 1'
+  ],
+
+  'Salvador': [
+    'Salvador 1',
+    'Salvadoran - Primera Division',
+    'Salvadoran - Reserves League',
+    // dodato
+    'EL SALVADOR 1'
+  ],
+
+  'Slovačka': [
+    'Slovačka 1',
+    'Slovačka 2',
+    // dodato
+    'SLOVAKIA 1',
+    'Slovakian - Super Liga'
+  ],
+
+  'Slovenija': [
+    'Slovenija 1',
+    'Slovenija 2',
+    'SLO2',
+    // dodato
+    'SLOVENIA 1',
+    'SLOVENIA 2'
+  ],
+
+  'UAE': [
+    'UAE - Presidents Cup',
+    'UAE - Reserve League',
+    // dodato
+    'UAE - Division One'
+  ],
+
+  'Uganda': [
+    'Uganda, Premier League',
+    'Ugandan - Premier League'
+  ],
+
+  'Ukrajina': [
+    'Ukraine, Premier League',
+    'Ukrainian - Premier League',
+    'Ukrajina 1'
+  ],
+
+  'Uzbekistan': [
+    'Uzbekistan 1',
+    'Uzbekistani - Professional League'
+  ],
+
+  'Vels': [
+    'Vels 1',
+    'Welsh - Premier League',
+    'Welsh - Division One'
+  ],
+
+  'Novi Zeland': [
+    'New Zealand - Football Championship',
+    'New Zealand - National Women\'s League',
+    // dodato
+    'NEW ZEALAND, National League - Championship Group',
+    'Novi Zeland 1'
+  ],
+
+  'Singapur': [
+    'Singaporean - S League'
+  ],
+
+  'Malezija': [
+    'Malaysian - Super League',
+    // dodato
+    'Malezija 1'
+  ],
+
+  'Kirgistan': [
+    'Kyrgyzstani - Top League'
+  ],
+
+  'Jordan': [
+    'Jordanian - Premier League'
+  ],
+
+  'Kenija': [
+    'Kenyan - Premier League'
+  ],
+
+  'Liberija': [
+    'Liberian - Liberia Second Divison',
+    'Liberian - Liberian National League Women',
+    'LNW',
+    // dodato
+    'Liberian - Liberian First Division'
+  ],
+
+  'Nigerija': [
+    'Nigerian - Professional League'
+  ],
+
+  'Oman': [
+    'Omani - Sultan Cup'
+  ],
+
+  'Ruanda': [
+    'Rwandan - Rwandan National League',
+    // dodato
+    'Rwandan - Rwandan League Women'
+  ],
+
+  'San Marino': [
+    'San Marino - Campionato Sammarinese'
+  ],
+
+  'Južna Afrika': [
+    'South African - National First Division',
+    // dodato
+    'Južna Afrika 2'
+  ],
+
+  'Tanzanija': [
+    'Tanzanian - Premier League'
+  ],
+
+  'Albanija': [
+    'Albanian - Albanian Kategoria Superiore'
+  ],
+
+  'Bahrein': [
+    'Bahrein 2'
+  ],
+
+  'Indija': [
+    'Indian - Mizoram Premier League',
+    // dodato
+    'Indija Super Kup'
+  ],
+
+  'Afrika': [
+    'African - African CAF Cup of Nations Women',
+    'African - CAF Confederation Cup',
+    'AFC Liga Šampiona 2',
+    'African - CAF Champions League',
+    // dodato
+    'WORLD, Africa Cup of Nations Women - Qualification',
+    'WORLD, CAF Confederation Cup - Qualification',
+    'ZAM1'
+  ],
+
+  'CONCACAF': [
+    'International Clubs, CONCACAF Central American Cup - Play Offs',
+    'KONKAKAF Cen.Američki Kup',
+    'KONKAKAF Kup Kariba',
+    'North American - CONCACAF Caribbean Cup'
+  ],
+
+  'Južna Amerika': [
+    'South American - Copa Sudamericana',
+    'Kup Libertadores',
+    'Kup Sudamerikana',
+    'South American - Copa Libertadores',
+    // dodato
+    'PANAMA, LPF - Clausura1',  // u zoni CONCACAF/Panama već postoji ali može ostati ovde ako radiš regionalno
+    'Trinidad and Tobago - TT Pro League'
+  ],
+
+  'Međunarodne': [
+    'World - International Friendly',
+    'World - International Friendly Women',
+    'International, Friendly Women',
+    'Međ. Prijateljske (W)',
+    'World - World International Friendly Youth Women'
+  ],
+
+  // nove zemlje/grupe iz zadnjeg seta koje nisu postojale u objektu
+
+  'Alžir': [
+    'ALGERIA 2',
+    'Alžir 1',
+    'Alžir 2'
+  ],
+
+  'Andora': [
+    'Andorra - Andorra Primera Divisio'
+  ],
+
+  'Aruba': [
+    'Aruban - Division di Honor'
+  ],
+
+  'Azija': [
+    'Asian - Asian AFC Challenge League'
+  ],
+
+  'Burkina Faso': [
+    'Burkina Faso - Burkinabe Premier League'
+  ],
+
+  'Kanarski/Bez lige': [
+    'Bez lige15'
+  ],
+
+  'Dominikanska Republika': [
+    'DOMINICAN R. 1'
+  ],
+
+  'Filipini': [
+    'Filipini 1'
+  ],
+
+  'Gruzija': [
+    'Georgian - Erovnuli Liga',
+    'Gruzija 1'
+  ],
+
+  'Honduras': [
+    'Honduras 1'
+  ],
+
+  'Hong Kong': [
+    'Hong Kong - First Division',
+    'Hong Kong - Second Division',
+    'Hong Kong - Third Division',
+    'Hong Kong 1'
+  ],
+
+  'Jamajka': [
+    'Jamaican - National Premier League',
+    'Jamajka 1'
+  ],
+
+  'Južna Afrika (drugi format)': [
+    'Južna Afrika 2'
+  ],
+
+  'Kazahstan': [
+    'Kazahstan 1'
+  ],
+
+  'Kuvajt': [
+    'Kuwaiti - Premier League'
+  ],
+
+  'Liban': [
+    'Lebanese - Premier League'
+  ],
+
+  'Luksemburg': [
+    'Luksemburg 1',
+    'LUXEMBOURG 1'
+  ],
+
+  'Maroko': [
+    'Maroko 1',
+    'Moroccan - Botola',
+    'MOROCCO 1'
+  ],
+
+  'Moldavija': [
+    'Moldovan - National Division'
+  ],
+
+  'Mongolija': [
+    'Mongolia, Premier League'
+  ],
+
+  'Novi Zeland (dodatno)': [
+    'NEW ZEALAND, National League - Championship Group',
+    'Novi Zeland 1'
+  ],
+
+  'Peru (dodatno)': [
+    'PERU 1',
+    'Peru 2'
+  ],
+
+  'Severna Irska (dodatno)': [
+    'Northern Irish - NIFL Premiership'
+  ],
+
+  'Trinidad i Tobago': [
+    'Trinidad and Tobago - TT Pro League'
+  ],
+
+  'Tunis': [
+    'TUNISIA 1'
+  ],
+
+  'Venecuela': [
+    'Venecuela 1',
+    'Venezuelan - Segunda Division'
+  ],
+
+  'Vijetnam': [
+    'Vijetnam 1'
+  ]
+};
+
+
+// Funkcija koja pronalazi zemlju za ligu
+function getCountryForLeague(leagueName) {
+  // Specijalni slučaj za prazne lige
+  if (!leagueName || leagueName === '(bez lige)') {
+    return 'Ostalo';
+  }
+  
+  for (const [country, leagues] of Object.entries(COUNTRY_LEAGUES)) {
+    if (leagues.includes(leagueName)) {
+      return country;
+    }
+  }
+  return 'Ostalo';
+}
+
+// Mapa zastava za zemlje
+const COUNTRY_FLAGS = {
+  'Poljska': '🇵🇱',
+  'Engleska': '🏴󠁧󠁢󠁥󠁮󠁧󠁿',
+  'Nemačka': '🇩🇪',
+  'Italija': '🇮🇹',
+  'Argentina': '🇦🇷',
+  'Holandija': '🇳🇱',
+  'Škotska': '🏴󠁧󠁢󠁳󠁣󠁴󠁿',
+  'Češka': '🇨🇿',
+  'Danska': '🇩🇰',
+  'Španija': '🇪🇸',
+  'Turska': '🇹🇷',
+  'Austrija': '🇦🇹',
+  'Belgija': '🇧🇪',
+  'Brazil': '🇧🇷',
+  'Bugarska': '🇧🇬',
+  'Evropa': '🇪🇺',
+  'Japan': '🇯🇵',
+  'Kina': '🇨🇳',
+  'Litvanija': '🇱🇹',
+  'Mađarska': '🇭🇺',
+  'Meksiko': '🇲🇽',
+  'Rusija': '🇷🇺',
+  'Saudijska Arabija': '🇸🇦',
+  'Srbija': '🇷🇸',
+  'Švajcarska': '🇨🇭',
+  'Urugvaj': '🇺🇾',
+  'Australija': '🇦🇺',
+  'Čile': '🇨🇱',
+  'Egipat': '🇪🇬',
+  'Estonija': '🇪🇪',
+  'Etiopija': '🇪🇹',
+  'Finska': '🇫🇮',
+  'Francuska': '🇫🇷',
+  'Hrvatska': '🇭🇷',
+  'Island': '🇮🇸',
+  'Izrael': '🇮🇱',
+  'Južna Koreja': '🇰🇷',
+  'Letonija': '🇱🇻',
+  'Norveška': '🇳🇴',
+  'Portugal': '🇵🇹',
+  'SAD': '🇺🇸',
+  'Severna Irska': '🇬🇧',
+  'Švedska': '🇸🇪',
+  'Tajland': '🇹🇭',
+  'Armenija': '🇦🇲',
+  'Azerbejdžan': '🇦🇿',
+  'Bangladeš': '🇧🇩',
+  'Belorusija': '🇧🇾',
+  'BiH': '🇧🇦',
+  'Bolivija': '🇧🇴',
+  'Kostarika': '🇨🇷',
+  'Ekvador': '🇪🇨',
+  'Farska Ostrva': '🇫🇴',
+  'Gana': '🇬🇭',
+  'Grčka': '🇬🇷',
+  'Gvatemala': '🇬🇹',
+  'Indonezija': '🇮🇩',
+  'Iran': '🇮🇷',
+  'Irak': '🇮🇶',
+  'Irska': '🇮🇪',
+  'Kanada': '🇨🇦',
+  'Kazahstan': '🇰🇿',
+  'Kipar': '🇨🇾',
+  'Kolumbija': '🇨🇴',
+  'Malta': '🇲🇹',
+  'Nikaragva': '🇳🇮',
+  'Panama': '🇵🇦',
+  'Paragvaj': '🇵🇾',
+  'Peru': '🇵🇪',
+  'Katar': '🇶🇦',
+  'Rumunija': '🇷🇴',
+  'Salvador': '🇸🇻',
+  'Slovačka': '🇸🇰',
+  'Slovenija': '🇸🇮',
+  'UAE': '🇦🇪',
+  'Uganda': '🇺🇬',
+  'Ukrajina': '🇺🇦',
+  'Uzbekistan': '🇺🇿',
+  'Vels': '🏴󠁧󠁢󠁷󠁬󠁳󠁿',
+  'Novi Zeland': '🇳🇿',
+  'Singapur': '🇸🇬',
+  'Malezija': '🇲🇾',
+  'Kirgistan': '🇰🇬',
+  'Jordan': '🇯🇴',
+  'Kenija': '🇰🇪',
+  'Liberija': '🇱🇷',
+  'Nigerija': '🇳🇬',
+  'Oman': '🇴🇲',
+  'Ruanda': '🇷🇼',
+  'San Marino': '🇸🇲',
+  'Južna Afrika': '🇿🇦',
+  'Tanzanija': '🇹🇿',
+  'Albanija': '🇦🇱',
+  'Bahrein': '🇧🇭',
+  'Indija': '🇮🇳',
+  'Afrika': '🌍',
+  'CONCACAF': '🌎',
+  'Južna Amerika': '🏆',
+  'Međunarodne': '🌐',
+  'Ostalo': '📁'
+};
+
+// Funkcija koja kreira link element za kladionicu
+function makeBookmakerLink(bookName) {
+  if (!bookName) return '';
+  
+  const normalized = bookName.toLowerCase().trim();
+  const url = BOOKMAKER_URLS[normalized];
+  const logoPath = BOOKMAKER_LOGOS[normalized];
+  
+  // Ako postoji logo, prikaži sliku, inače tekst
+  let content;
+  if (logoPath) {
+    content = `<img src="${logoPath}" alt="${bookName}" title="${bookName}" class="bookmaker-logo" onerror="this.style.display='none'; this.nextSibling.style.display='inline';" /><span style="display:none;">${bookName}</span>`;
+  } else {
+    content = bookName;
+  }
+  
+  if (url) {
+    return `<a href="${url}" target="_blank" rel="noopener noreferrer" class="bookmaker-link">${content}</a>`;
+  }
+  return content;
+}
+
+// Funkcija za normalizaciju naziva lige (spaja duplikate)
+function normalizeLeagueName(leagueName) {
+  if (!leagueName) return leagueName;
+  
+  // Mapa sinonima - sve varijacije koje treba tretirati kao istu ligu
+  const synonyms = {
+    // Specijalni slučajevi
+    '(bez lige)': 'Bez lige',
+    '': 'Bez lige',
+    
+    // Poljska
+    'Polish - II Liga': 'Poljska 2',
+    'Polish - III Liga': 'Poljska 3',
+    'Polish - IV Liga': 'Poljska 4',
+    
+    // Engleska
+    'English - Championship': 'Engleska 2',
+    'England, Championship': 'Engleska 2',
+    'English - Premier League': 'Engleska 1',
+    'English - EFL Cup': 'Engleska Kup',
+    
+    // Nemačka
+    'German - Bundesliga': 'Nemačka 1',
+    'German - DFB Pokal': 'Nemačka Kup',
+    'Germany, Regionalliga Bayern': 'Nemačka 4 Bavarija',
+    'German - Regionalliga Bayern': 'Nemačka 4 Bavarija',
+    'Germany, Regionalliga Nordost': 'Nemačka 4 Severoistok',
+    'German - Regionalliga Nordost': 'Nemačka 4 Severoistok',
+    'Germany, Regionalliga North': 'Nemačka 4 Sever',
+    'German - Regionalliga Nord': 'Nemačka 4 Sever',
+    'Germany, Regionalliga Sudwest': 'Nemačka 4 Jugozapad',
+    'German - Regionalliga Sudwest': 'Nemačka 4 Jugozapad',
+    'Germany, Regionalliga West': 'Nemačka 4 Zapad',
+    'German - Regionalliga West': 'Nemačka 4 Zapad',
+    
+    // Italija
+    'Italian - Serie A': 'Italija 1',
+    'Italian - Serie B': 'Italija 2',
+    'Italian - Coppa Italia': 'Italija Kup',
+    'ITALY, Serie C - Group A': 'Italija 3 - Grupa A',
+    'Italy, Serie C - Group A': 'Italija 3 - Grupa A',
+    'ITALY, Serie C - Group C': 'Italija 3 - Grupa C',
+    
+    // Španija
+    'Spanish - La Liga': 'Španija 1',
+    
+    // Turska
+    'Turkish - Super Lig': 'Turska 1',
+    'Turkey, Super Lig': 'Turska 1',
+    'Turkish - First League': 'Turska 2',
+    'TUR2': 'Turska 2',
+    
+    // Austrija
+    'Austrian - Bundesliga': 'Austrija 1',
+    'Austrian - First League': 'Austrija 2',
+    'Austrian - OFB Cup': 'Austrija Kup',
+    
+    // Brazil
+    'Brazilian - Serie A': 'Brazil 1',
+    'Brazilian - Serie B': 'Brazil 2',
+    
+    // Bugarska
+    'Bulgarian - First League': 'Bugarska 1',
+    'Bulgarian - Second League': 'Bugarska 2',
+    'Bulgaria, Vtora Liga': 'Bugarska 2',
+    
+    // Češka
+    'Czech - National League': 'Češka 1',
+    'Czech Republic, ChNL': 'Češka 1',
+    'Czech - CFL': 'Češka 2',
+    'Czech Republic, MSFL': 'Češka 2',
+    
+    // Danska
+    'Danish - Danish Cup': 'Danska Kup',
+    
+    // Holandija
+    'Dutch - Eredivisie': 'Holandija 1',
+    'Dutch - Eerste Divisie': 'Holandija 2',
+    'Netherlands, Eerste Divisie': 'Holandija 2',
+    'Dutch - Tweede Divisie': 'Holandija 3',
+    
+    // Škotska
+    'Scottish - Premiership': 'Škotska 1',
+    'Scottish - League Two': 'Škotska 3',
+    
+    // Belgija
+    'Belgian - First Division A': 'Belgija 1',
+    'Belgian - First Division B': 'Belgija 2',
+    'Belgium, Challenger Pro League': 'Belgija 2',
+    
+    // Švedska
+    'Swedish - Allsvenskan': 'Švedska 1',
+    'Swedish - Superettan': 'Švedska 2',
+    'Sweden, Superettan': 'Švedska 2',
+    'ŠVE2': 'Švedska 2',
+    
+    // Škotska
+    'Scottish - Premiership': 'Škotska 1',
+    'Scottish - League Two': 'Škotska 3',
+    'Scottish - Cup': 'Škotska Kup',
+    
+    // Grčka
+    'Greek - Superleague': 'Grčka 1',
+    'Greek - Cup': 'Grčka Kup',
+    
+    // Srbija
+    'Serbian - Superliga': 'Srbija 1',
+    'Serbian - Prva Liga': 'Srbija 2',
+    
+    // Norveška
+    'Norwegian - Eliteserien': 'Norveška 1',
+    'Norwegian - First Division': 'Norveška 2',
+    
+    // Rusija
+    'Russian - Premier League': 'Rusija 1',
+    'Russian - FNL': 'Rusija 2',
+    'Russia, FNL': 'Rusija 2',
+    'Russian - Cup': 'Rusija Kup',
+    
+    // Izrael
+    'Israeli - Ligat HaAl': 'Izrael 1',
+    'Israeli - Liga Leumit': 'Izrael 2',
+    'Israel, Leumit League': 'Izrael 2',
+    
+    // Finska
+    'Finnish - Veikkausliiga': 'Finska 1',
+    'FINLAND, Veikkausliiga - Championship Group': 'Finska 1',
+    
+    // Hrvatska
+    'Croatia, Prva NL': 'Hrvatska 1',
+    
+    // Tajland
+    'Thailand, Thai Premier League': 'Tajland 1',
+    
+    // Australija
+    'Australian - A-League': 'Australija 1',
+    'Australia, A-League': 'Australija 1',
+    'Australian - Australian Championship': 'Australija 2',
+    
+    // Litvanija
+    'Lithuanian - A Lyga': 'Litvanija 1',
+    'Lithuania, A Lyga': 'Litvanija 1',
+    'Lithuania, I Lyga': 'Litvanija 2',
+    
+    // Kina
+    'China, Super League': 'Kina 1',
+    'Chinese - League Two': 'Kina 2',
+    
+    // Mađarska
+    'Hungarian - NB I': 'Mađarska 1',
+    'Hungarian - NB II': 'Mađarska 2',
+    'MAĐ1': 'Mađarska 1',
+    
+    // Egipat
+    'Egyptian - Premier League': 'Egipat 1',
+    'Egyptian - Second Division': 'Egipat 2',
+    'EGI1': 'Egipat 1',
+    'EGI2': 'Egipat 2',
+    
+    // Estonija
+    'Estonian - Esiliiga': 'Estonija 2',
+    'Estonia, Esiliiga': 'Estonija 2',
+    'Estonian - Meistriliiga': 'Estonija 1',
+    'ETI1': 'Estonija 1',
+    
+    // Letonija
+    'Latvian - Virsliga': 'Letonija 1',
+    
+    // Azerbejdžan
+    'Azerbaijani - Premier League': 'Azerbejdžan 1',
+    'Azerbaijani - First Division': 'Azerbejdžan 2',
+    'Azerbaijan, Division One': 'Azerbejdžan 2',
+    
+    // BiH
+    'Bosnian - Premier League': 'BiH 1',
+    'Bosnian - First League': 'BiH 2',
+    
+    // Ukrajina
+    'Ukrainian - Premier League': 'Ukrajina 1',
+    'Ukraine, Premier League': 'Ukrajina 1',
+    
+    // Irska
+    'Ireland, Premier Division': 'Irska 1',
+    
+    // Ekvador
+    'Ecuadorian - Primera Serie B': 'Ekvador 2',
+    'Ecuador, Liga Pro - Championship Group': 'Ekvador 1',
+    
+    // Čile
+    'Chilean - Primera B': 'Čile 2',
+    'ČIL1': 'Čile 1',
+    
+    // Kolumbija
+    'Colombian - Primera B': 'Kolumbija 2',
+    'KOL1': 'Kolumbija 1',
+    'KRK1': 'Kolumbija 1',
+    
+    // Kostarika
+    'Costa Rican - Segunda Division': 'Kostarika 2',
+    
+    // Peru
+    'Peruvian - Primera Division': 'Peru 1',
+    
+    // Paragvaj
+    'Paraguayan - Primera Division': 'Paragvaj 1',
+    
+    // Salvador
+    'Salvadoran - Primera Division': 'Salvador 1',
+    
+    // Nikaragva
+    'Nicaraguan - Primera Division': 'Nikaragva 1',
+    
+    // Panama
+    'Panamanian - LPF': 'Panama 1',
+    
+    // Gvatemala
+    'Guatemalan - Liga Nacional': 'Gvatemala 1',
+    
+    // Urugvaj
+    'Uruguayan - Segunda Division': 'Urugvaj 2',
+    
+    // Iran
+    'Iranian - Gulf Pro League': 'Iran 1',
+    'Iran, Persian Gulf Pro League': 'Iran 1',
+    
+    // Kazahstan
+    'Kazakhstani - Premier League': 'Kazahstan 1',
+    
+    // Katar
+    'Qatari - Stars League': 'Katar 1',
+    'Qatari - Qatar Olympic League': 'Katar 2',
+    
+    // Rumunija
+    'Romanian - Cup': 'Rumunija Kup',
+    
+    // Malta
+    'Maltese - Premier League': 'Malta 1',
+    
+    // Gana
+    'Ghana, Premier League': 'Gana 1',
+    
+    // Uganda
+    'Uganda, Premier League': 'Uganda 1',
+    
+    // Etiopija
+    'Ethiopian - Premier League': 'Etiopija 1',
+    'Ethiopia, Premier League': 'Etiopija 1',
+    
+    // Vels
+    'Welsh - Premier League': 'Vels 1',
+    
+    // Armenija
+    'Armenia, Premier League': 'Armenija 1',
+    
+    // Slovenija
+    'SLO2': 'Slovenija 2',
+    
+    // Slovačka
+    'Slovačka 2': 'Slovačka 2',
+    
+    // SAD
+    'USA - Major League Soccer': 'SAD 1',
+    'USA - United Soccer League': 'SAD 2',
+    'SAD 2 USL': 'SAD 2',
+    
+    // Liberija
+    'LNW': 'Liberija Žene',
+    
+    // Međunarodne
+    'International, Friendly Women': 'Prijateljske utakmice Žene',
+    'Međ. Prijateljske (W)': 'Prijateljske utakmice Žene',
+    
+    // Evropa
+    'European - Champions League': 'Liga Šampiona',
+    'European - Europa League': 'Liga Evrope',
+    'European - Conference League': 'Liga Konferencija',
+    'UEFA, Conference League - League phase': 'Liga Konferencija',
+    'European - UEFA Youth League': 'UEFA Liga Mladih',
+    
+    // Afrika
+    'African - CAF Champions League': 'Afrika Liga Šampiona',
+    'AFC Liga Šampiona 2': 'Afrika Liga Šampiona',
+    'African - CAF Confederation Cup': 'Afrika Kup Konfederacija',
+    
+    // CONCACAF
+    'North American - CONCACAF Caribbean Cup': 'KONKAKAF Kup Kariba',
+    'International Clubs, CONCACAF Central American Cup - Play Offs': 'KONKAKAF Cen.Američki Kup',
+    
+    // Južna Amerika
+    'South American - Copa Sudamericana': 'Kup Sudamerikana',
+    
+    // Međunarodne
+    'World - International Friendly': 'Prijateljske utakmice',
+    'World - International Friendly Women': 'Prijateljske utakmice Žene'
+  };
+  
+  return synonyms[leagueName] || leagueName;
+}
+
+// === Parser (robustan datum/vreme/ligа) ===
+function parseBlock(txt){
+  const parts = txt.split(/\r?\n-{5,}\r?\n/).map(s=>s.trim()).filter(Boolean);
+  return parts.map(block=>{
+    const lines = block.split(/\r?\n/).map(s=>s.replace(/\r/g,'')).filter(l=>l.trim()!=='');
+    const headLines = lines.filter(l=> !l.trim().startsWith('- ') && !/^Najveća/i.test(l) && !/^Arbitraža/i.test(l) );
+
+    // uzmi iz prve 2-3 linije (radi i za "00:30   22.10." i obrnuto)
+    const top3 = lines.slice(0,3).join(' ');
+    const time   = (top3.match(/(\d{1,2}:\d{2})/) || [])[1] || '';
+    const date   = (top3.match(/(\d{1,2}\.\d{1,2}\.(?:\d{2,4}\.)?)/) || [])[1] || '';
+    const league = (top3.match(/\[(.+?)\]/) || [])[1] || '';
+
+    // timovi (linija sa "vs")
+    const teamsLine = (lines.find(l=> /\bvs\b/i.test(l)) || headLines[1] || '').trim();
+    const teams = teamsLine.replace(/\s+/g,' ');
+
+    // kladionice
+    const bookRows = lines.filter(l=> l.trim().startsWith('- ') );
+    const rows = [];
+    for(const r of bookRows){
+      const m = r.replace(/^- /,'').trim();
+      
+      // Preskoči prazne kao "Brazil_d   -"
+      if(m === '-' || !m.includes('=')) continue;
+      
+      // Izvuci naziv kladionice - sve do prvog broja sa '='
+      const firstMarketMatch = m.match(/\s+[A-Za-z0-9+&IGG-]+\s*=\s*[0-9.]+/);
+      const bName = firstMarketMatch ? m.substring(0, m.indexOf(firstMarketMatch[0])).trim() : m.split(/\s+/)[0].trim();
+      
+      const pairs = m.slice(bName.length).split('|').map(s=>s.trim()).filter(Boolean);
+      const markets = {};
+      for(const p of pairs){
+        const mm = p.match(/^([A-Za-z0-9+&IGG-]+)\s*=\s*([0-9.]+)$/);
+        if(mm){ markets[mm[1]] = parseFloat(mm[2]); }
+      }
+      
+      // Dodaj samo ako ima kvota
+      if(Object.keys(markets).length > 0){
+        rows.push({book:bName, markets});
+      }
+    }
+    return { time, date, league, teams, rows, raw:block };
+  });
+}
+
+// === Pomoćne ===
+function bestByMarket(rows, m){ let best={book:null,val:null}; for(const r of rows){ const v=r.markets[m]; if(typeof v==="number" && (!best.val||v>best.val)) best={book:r.book, val:v}; } return best; }
+function arbitraza(rows){ const b1=bestByMarket(rows,'1').val, bX=bestByMarket(rows,'X').val, b2=bestByMarket(rows,'2').val; if(!b1||!bX||!b2) return {inv:null,profit:null,ok:false}; const inv=1/b1+1/bX+1/b2; return {inv,profit:(1-inv)*100,ok:inv<1}; }
+function arbitraza02(rows, a='0-2', b='3+'){ const ba=bestByMarket(rows,a).val, bb=bestByMarket(rows,b).val; if(!ba||!bb) return {inv:null,profit:null,ok:false}; const inv=1/ba+1/bb; return {inv,profit:(1-inv)*100,ok:inv<1}; }
+function scaleByMarket(rows, m){ const vals=rows.map(r=>r.markets[m]).filter(v=>typeof v==="number"); if(!vals.length) return ()=>0; const min=Math.min(...vals), max=Math.max(...vals); return v=> typeof v==="number" ? ((v-min)/Math.max(1e-9,(max-min))) : 0; }
+
+// === Dashboard funkcije ===
+function updateDashboard(data) {
+  const dashboard = document.getElementById('dashboard');
+  if (!dashboard) return;
+  
+  // Statistike
+  const totalMatches = data.length;
+  const arbMatches = data.filter(m => m.arb?.ok || m.arb02?.ok).length;
+  const bestArb = data.reduce((best, m) => {
+    const profit = Math.max(m.arb?.profit || 0, m.arb02?.profit || 0);
+    return profit > best ? profit : best;
+  }, 0);
+  
+  // Današnji mečevi - provera datuma
+  const today = new Date();
+  const todayStr = `${today.getDate().toString().padStart(2, '0')}.${(today.getMonth() + 1).toString().padStart(2, '0')}.`;
+  
+  const todayMatches = data.filter(m => {
+    if (!m.date) return false;
+    // Proveri da li datum počinje sa današnjim datumom
+    return m.date.trim().startsWith(todayStr);
+  }).length;
+  
+  dashboard.innerHTML = `
+    <div class="widget">
+      <div class="widget-icon" style="background:linear-gradient(135deg, #6b8aff, #5febd7);">⚽</div>
+      <div class="widget-content">
+        <div class="widget-label">Ukupno mečeva</div>
+        <div class="widget-value">${totalMatches}</div>
+      </div>
+    </div>
+    
+    <div class="widget">
+      <div class="widget-icon" style="background:linear-gradient(135deg, #2dd4bf, #14b8a6);">🎯</div>
+      <div class="widget-content">
+        <div class="widget-label">Arbitraže pronađene</div>
+        <div class="widget-value">${arbMatches}</div>
+        <div class="widget-sub">${totalMatches > 0 ? ((arbMatches/totalMatches)*100).toFixed(1) : '0.0'}% mečeva</div>
+      </div>
+    </div>
+    
+    <div class="widget">
+      <div class="widget-icon" style="background:linear-gradient(135deg, #f59e0b, #f97316);">💰</div>
+      <div class="widget-content">
+        <div class="widget-label">Najbolja arbitraža</div>
+        <div class="widget-value">+${bestArb.toFixed(2)}%</div>
+      </div>
+    </div>
+    
+    <div class="widget">
+      <div class="widget-icon" style="background:linear-gradient(135deg, #ec4899, #db2777);">📅</div>
+      <div class="widget-content">
+        <div class="widget-label">Danas</div>
+        <div class="widget-value">${todayMatches}</div>
+      </div>
+    </div>
+  `;
+  
+  // Ažuriraj footer statistiku
+  const statsFooterToday = document.getElementById('statsFooterToday');
+  const statsFooterArb = document.getElementById('statsFooterArb');
+  const statsFooterProfit = document.getElementById('statsFooterProfit');
+  const statsFooterTime = document.getElementById('statsFooterTime');
+  
+  if(statsFooterToday) statsFooterToday.textContent = todayMatches;
+  if(statsFooterArb) statsFooterArb.textContent = arbMatches;
+  if(statsFooterProfit) statsFooterProfit.textContent = `+${bestArb.toFixed(2)}%`;
+  if(statsFooterTime) {
+    const now = new Date();
+    statsFooterTime.textContent = now.toLocaleTimeString('sr-RS', {hour:'2-digit', minute:'2-digit'});
+  }
+  
+  // Ažuriraj header quick stats
+  const quickTotal = document.getElementById('quickTotal');
+  const quickArb = document.getElementById('quickArb');
+  const quickProfit = document.getElementById('quickProfit');
+  const quickToday = document.getElementById('quickToday');
+  
+  if(quickTotal) quickTotal.textContent = totalMatches;
+  if(quickArb) quickArb.textContent = arbMatches;
+  if(quickProfit) quickProfit.textContent = `+${bestArb.toFixed(2)}%`;
+  if(quickToday) quickToday.textContent = todayMatches;
+}
+
+// Funkcija za parsiranje datuma
+function parseMatchDate(dateStr) {
+  if (!dateStr) return null;
+  try {
+    // Format: DD.MM. ili DD.MM.YYYY
+    const parts = dateStr.trim().split('.');
+    if (parts.length >= 2) {
+      const day = parseInt(parts[0]);
+      const month = parseInt(parts[1]) - 1; // JavaScript meseci su 0-11
+      const year = parts.length > 2 && parts[2] ? parseInt(parts[2]) : new Date().getFullYear();
+      
+      // Kreiraj datum u ponoć
+      const matchDate = new Date(year, month, day);
+      matchDate.setHours(0, 0, 0, 0);
+      
+      return matchDate;
+    }
+  } catch(e) {
+    console.error('Greška pri parsiranju datuma:', dateStr, e);
+    return null;
+  }
+  return null;
+}
+
+// === Render ===
+function render(data){
+  const out = document.getElementById('out'); out.innerHTML = '';
+  const sortVal = document.getElementById('sort').value;
+  const withArb = data.map(m=> ({...m, arb: arbitraza(m.rows), arb02: arbitraza02(m.rows)}));
+  if(sortVal==='arbdesc')    withArb.sort((a,b)=> (b.arb?.profit??-1e9)  - (a.arb?.profit??-1e9));
+  if(sortVal==='arbasc')     withArb.sort((a,b)=> (a.arb?.profit??1e9)   - (b.arb?.profit??1e9));
+  if(sortVal==='arb02desc')  withArb.sort((a,b)=> (b.arb02?.profit??-1e9)- (a.arb02?.profit??-1e9));
+  if(sortVal==='arb02asc')   withArb.sort((a,b)=> (a.arb02?.profit??1e9) - (b.arb02?.profit??1e9));
+
+  const q = document.getElementById('q').value.toLowerCase().trim();
+  
+  // Novi filteri
+  const filterArbOnly = document.getElementById('filterArbOnly')?.checked || false;
+  const filterHighOdds = document.getElementById('filterHighOdds')?.checked || false;
+  const filterTime = document.getElementById('filterTime')?.value || 'all';
+  
+  const filtered = withArb.filter(m=> {
+    const txt = (m.teams+' '+m.league).toLowerCase();
+    if(q && !txt.includes(q)) return false;
+    
+    // Normalizuj naziv lige za poređenje
+    const normalizedMatchLeague = normalizeLeagueName(m.league);
+    if(window.selectedLeague && normalizedMatchLeague !== window.selectedLeague) return false;
+    
+    // Filter po kladionici
+    if(window.selectedBookmaker) {
+      // Proveri da li meč ima kvote od odabrane kladionice
+      const hasBookmaker = m.rows && m.rows.some(row => row.book === window.selectedBookmaker);
+      if(!hasBookmaker) return false;
+    }
+    
+    // Filter: samo arbitraže
+    if(filterArbOnly && !m.arb.ok && !m.arb02.ok) return false;
+    
+    // Filter: visoke kvote
+    if(filterHighOdds) {
+      const best1 = bestByMarket(m.rows, '1').val;
+      const bestX = bestByMarket(m.rows, 'X').val;
+      const best2 = bestByMarket(m.rows, '2').val;
+      // Sve tri kvote moraju biti veće od 2.0
+      if(!best1 || !bestX || !best2 || best1 <= 2.0 || bestX <= 2.0 || best2 <= 2.0) return false;
+    }
+    
+    // Filter: vreme
+    if(filterTime !== 'all' && m.date) {
+      const today = new Date();
+      today.setHours(0, 0, 0, 0); // Postavi na ponoć
+      
+      const matchDate = parseMatchDate(m.date);
+      if(!matchDate) {
+        console.log('Ne mogu da parsiram datum:', m.date);
+        return true; // Ako ne može da parsira, prikaži
+      }
+      
+      // Računaj razliku u danima
+      const daysDiff = Math.round((matchDate - today) / (1000 * 60 * 60 * 24));
+      
+      // Debug log (samo za prvih 5 mečeva)
+      if(Math.random() < 0.01) {
+        console.log('Filter debug:', {
+          matchDate: m.date,
+          parsed: matchDate.toLocaleDateString('sr-RS'),
+          today: today.toLocaleDateString('sr-RS'),
+          daysDiff,
+          filterTime
+        });
+      }
+      
+      if(filterTime === 'today' && daysDiff !== 0) return false;
+      if(filterTime === 'tomorrow' && daysDiff !== 1) return false;
+      if(filterTime === 'next3' && (daysDiff < 0 || daysDiff > 3)) return false;
+    }
+    
+    return true;
+  });
+  
+  // Ažuriraj dashboard sa filterovanim podacima
+  updateDashboard(filtered);
+
+  for(const m of filtered){
+    if(!m.rows || !m.rows.length) continue;
+
+    const card = document.createElement('div'); card.className='match';
+    const head=document.createElement('div'); head.className='head';
+    const left=document.createElement('div'); left.style.display='flex'; left.style.flexDirection='column';
+
+    // Datum i vreme iznad timova
+    const datetime=document.createElement('div'); datetime.className='sub';
+    const when=[(m.date||'').trim(), (m.time||'').trim()].filter(Boolean).join(' ');
+    datetime.textContent = when;
+    
+    const title=document.createElement('div'); title.className='teams'; title.textContent = m.teams;
+    const sub=document.createElement('div'); sub.className='sub'; sub.textContent = m.league;
+    left.appendChild(datetime); left.appendChild(title); left.appendChild(sub); head.appendChild(left);
+
+    const meta=document.createElement('div'); meta.className='meta';
+    const badge=document.createElement('span'); badge.className='pill ' + (m.arb.ok?'good':'bad');
+    
+    // Lepši prikaz arbitraže
+    if(m.arb.inv) {
+      const status = m.arb.ok ? '✓ POSTOJI' : '✗ NE POSTOJI';
+      const profitText = m.arb.ok ? `Profit: +${m.arb.profit.toFixed(2)}%` : `Gubitak: ${m.arb.profit.toFixed(2)}%`;
+      badge.innerHTML = `<strong>Arbitraža (1-X-2):</strong> ${status} <span style="margin-left:8px; opacity:0.85;">${profitText}</span>`;
+    } else {
+      badge.textContent = 'Arbitraža (1-X-2): —';
+    }
+    
+    const badge2=document.createElement('span'); badge2.className='pill ' + (m.arb02.ok?'good':'bad');
+    
+    if(m.arb02.inv) {
+      const status = m.arb02.ok ? '✓ POSTOJI' : '✗ NE POSTOJI';
+      const profitText = m.arb02.ok ? `Profit: +${m.arb02.profit.toFixed(2)}%` : `Gubitak: ${m.arb02.profit.toFixed(2)}%`;
+      badge2.innerHTML = `<strong>Arbitraža (0-2/3+):</strong> ${status} <span style="margin-left:8px; opacity:0.85;">${profitText}</span>`;
+    } else {
+      badge2.textContent = 'Arbitraža (0-2/3+): —';
+    }
+    
+    meta.appendChild(badge); meta.appendChild(badge2); head.appendChild(meta); card.appendChild(head);
+
+    const body=document.createElement('div'); body.className='body';
+    const b1=bestByMarket(m.rows,'1'), bX=bestByMarket(m.rows,'X'), b2=bestByMarket(m.rows,'2');
+    const stats=document.createElement('div'); stats.className='stats';
+    
+    // Stats sa linkovima
+    stats.innerHTML=[ ['Najveća 1',b1],['Najveća X',bX],['Najveća 2',b2] ].map(([lab,b])=>{
+      const bookLink = makeBookmakerLink(b.book);
+      return `<div class="stat"><h4>${lab}</h4><div class="big">${b.val??'—'}</div><div class="bk">${bookLink}</div><div class="barwrap"><div class="bar" style="width:${b.val? Math.min(100,(100*Math.pow((b.val/(Math.max(b1.val||0,bX.val||0,b2.val||0)||1)),.8))).toFixed(0):0}%; background:linear-gradient(90deg, var(--accent), var(--accent-2))"></div></div></div>`;
+    }).join('');
+    body.appendChild(stats);
+
+    const mkts=Array.from(new Set(m.rows.flatMap(r=>Object.keys(r.markets)))).sort((a,b)=>{const order=['1','X','2','0-2','2+','3+','GG','IGG','GG&3+','GG&4+','4+']; const ia=order.indexOf(a), ib=order.indexOf(b); return (ia===-1?999:ia)-(ib===-1?999:ib);});
+    const bestMap=Object.fromEntries(mkts.map(k=>[k,bestByMarket(m.rows,k).val]));
+    const scalers=Object.fromEntries(mkts.map(k=>[k,scaleByMarket(m.rows,k)]));
+
+    const tbl=document.createElement('table'); const thead=document.createElement('thead');
+    thead.innerHTML=`<tr><th>Bookmaker</th>${mkts.map(mk=>`<th>${mk}</th>`).join('')}</tr>`; tbl.appendChild(thead);
+    const tb=document.createElement('tbody');
+    for(const r of m.rows){
+      const tr=document.createElement('tr');
+      
+      // Link za kladionicu
+      const bookLink = makeBookmakerLink(r.book);
+      
+      tr.innerHTML=`<td>${bookLink}</td>` + mkts.map(k=>{ 
+        const v=r.markets[k]; 
+        const isBest=v && bestMap[k]===v; 
+        const p=scalers[k](v)*100; 
+        
+        // Padding za poravnanje
+        let paddingRight = '12px';
+        if(v){
+          const vStr = v.toString();
+          const decimalPos = vStr.indexOf('.');
+          if(decimalPos === -1){
+            paddingRight = '36px'; // nema decimale
+          } else {
+            const decimals = vStr.length - decimalPos - 1;
+            if(decimals === 1){
+              paddingRight = '24px'; // jedna decimala
+            }
+          }
+        }
+        
+        const cell=`<span class="cell ${isBest?'best':''}" style="padding-right:${paddingRight}">${v??''}</span>`; 
+        return `<td class="num">${cell}<div class="barwrap"><div class="bar" style="width:${p.toFixed(0)}%; background:linear-gradient(90deg, ${isBest?'#8af5c8,#7c9aff':'#434d8b,#2e365f'})"></div></div></td>`; 
+      }).join('');
+      tb.appendChild(tr);
+    }
+    tbl.appendChild(tb); body.appendChild(tbl);
+
+    const ft=document.createElement('div'); ft.className='footer'; ft.innerHTML=`<span class="muted">Ukupno kladionica: <b>${m.rows.length}</b></span>`; body.appendChild(ft);
+
+    card.appendChild(body); out.appendChild(card);
+  }
+  
+  // Ažuriraj sidebar sa ligama i kladionicama
+  updateLeagueSidebar(data);
+  updateBookmakerSidebar(data);
+}
+
+function updateLeagueSidebar(data){
+  const leagueList = document.getElementById('leagueList');
+  if(!leagueList) return;
+  
+  // Grupiši utakmice po zemljama i normalizovanim ligama
+  const countryGroups = {};
+  const leagueCounts = {};
+  const leagueOriginalNames = {}; // Čuva originalne nazive za prikaz
+  
+  for(const m of data){
+    const originalLeague = m.league ? m.league : '(bez lige)';
+    const normalizedLeague = normalizeLeagueName(originalLeague);
+    
+    // Čuvaj prvi originalni naziv koji se pojavi za normalizovanu ligu
+    if(!leagueOriginalNames[normalizedLeague]) {
+      leagueOriginalNames[normalizedLeague] = originalLeague;
+    }
+    
+    leagueCounts[normalizedLeague] = (leagueCounts[normalizedLeague] || 0) + 1;
+    
+    const country = getCountryForLeague(originalLeague);
+    if(!countryGroups[country]) countryGroups[country] = {};
+    countryGroups[country][normalizedLeague] = (countryGroups[country][normalizedLeague] || 0) + 1;
+  }
+  
+  leagueList.innerHTML = '';
+  
+  // "Sve lige" opcija
+  const allItem = document.createElement('div');
+  allItem.className = 'league-item' + (!window.selectedLeague ? ' active' : '');
+  allItem.innerHTML = `🌍 Sve lige <span class="league-count">${data.length}</span>`;
+  allItem.onclick = ()=>{
+    window.selectedLeague = null;
+    render(currentData);
+  };
+  leagueList.appendChild(allItem);
+  
+  // Sortiraj zemlje po broju utakmica, ali Ostalo stavi na kraj
+  const sortedCountries = Object.entries(countryGroups).sort((a,b)=> {
+    // Ako je jedno od njih "Ostalo", stavi ga na kraj
+    if (a[0] === 'Ostalo') return 1;
+    if (b[0] === 'Ostalo') return -1;
+    
+    const countA = Object.values(a[1]).reduce((sum, val) => sum + val, 0);
+    const countB = Object.values(b[1]).reduce((sum, val) => sum + val, 0);
+    return countB - countA;
+  });
+  
+  // Kreiraj grupisane lige
+  for(const [country, leagues] of sortedCountries){
+    const countryTotal = Object.values(leagues).reduce((sum, val) => sum + val, 0);
+    const flag = COUNTRY_FLAGS[country] || '🏳️';
+    
+    // Header za zemlju - klikabilan
+    const countryHeader = document.createElement('div');
+    countryHeader.style.cssText = 'margin-top:16px; padding:10px 12px; font-size:14px; font-weight:700; color:var(--accent); text-transform:uppercase; letter-spacing:.8px; cursor:pointer; border-radius:8px; transition:.2s all; user-select:none;';
+    countryHeader.innerHTML = `<span class="country-arrow">▶</span> ${flag} ${country} <span style="opacity:.7; font-size:11px; float:right;">${countryTotal}</span>`;
+    countryHeader.onmouseover = () => countryHeader.style.background = 'rgba(107,138,255,0.1)';
+    countryHeader.onmouseout = () => countryHeader.style.background = 'transparent';
+    
+    // Kontejner za lige (početno sakriven)
+    const leaguesContainer = document.createElement('div');
+    leaguesContainer.className = 'leagues-container';
+    leaguesContainer.style.cssText = 'display:none; overflow:hidden; transition:.3s all;';
+    
+    // Toggle funkcija
+    countryHeader.onclick = (e) => {
+      e.stopPropagation();
+      const arrow = countryHeader.querySelector('.country-arrow');
+      const isExpanded = leaguesContainer.style.display !== 'none';
+      
+      if(isExpanded) {
+        leaguesContainer.style.display = 'none';
+        arrow.textContent = '▶';
+      } else {
+        leaguesContainer.style.display = 'block';
+        arrow.textContent = '▼';
+      }
+    };
+    
+    leagueList.appendChild(countryHeader);
+    
+    // Sortiraj lige abecedno
+    const sortedLeagues = Object.entries(leagues).sort((a,b)=> a[0].localeCompare(b[0]));
+    
+    // Liga items
+    for(const [normalizedLeague, count] of sortedLeagues){
+      const item = document.createElement('div');
+      item.className = 'league-item' + (window.selectedLeague === normalizedLeague ? ' active' : '');
+      item.style.marginLeft = '8px';
+      item.innerHTML = `<span class="league-name">${normalizedLeague}</span><span class="league-count">${count}</span>`;
+      item.onclick = ()=>{
+        window.selectedLeague = normalizedLeague;
+        render(currentData);
+      };
+      leaguesContainer.appendChild(item);
+    }
+    
+    leagueList.appendChild(leaguesContainer);
+  }
+}
+
+function updateBookmakerSidebar(data){
+  const bookmakerList = document.getElementById('bookmakerList');
+  if(!bookmakerList) return;
+  
+  // Prikupi sve kladionice i brojač mečeva
+  const bookmakerCounts = {};
+  
+  for(const m of data){
+    if(!m.rows) continue;
+    for(const row of m.rows){
+      const book = row.book || 'Nepoznato';
+      if(!bookmakerCounts[book]) {
+        bookmakerCounts[book] = new Set();
+      }
+      bookmakerCounts[book].add(m.teams); // Dodaj unique meč
+    }
+  }
+  
+  // Konvertuj Set u broj
+  const bookmakers = Object.entries(bookmakerCounts).map(([book, matchSet]) => ({
+    name: book,
+    count: matchSet.size
+  })).sort((a, b) => b.count - a.count);
+  
+  bookmakerList.innerHTML = '';
+  
+  // "Sve kladionice" opcija
+  const allItem = document.createElement('div');
+  allItem.className = 'league-item' + (!window.selectedBookmaker ? ' active' : '');
+  allItem.innerHTML = `🌍 Sve kladionice <span class="league-count">${data.length}</span>`;
+  allItem.onclick = ()=>{
+    window.selectedBookmaker = null;
+    render(currentData);
+  };
+  bookmakerList.appendChild(allItem);
+  
+  // Kreiraj items za kladionice
+  for(const {name, count} of bookmakers){
+    const item = document.createElement('div');
+    item.className = 'league-item' + (window.selectedBookmaker === name ? ' active' : '');
+    item.innerHTML = `<span class="league-name">${name}</span><span class="league-count">${count}</span>`;
+    item.onclick = ()=>{
+      window.selectedBookmaker = name;
+      render(currentData);
+    };
+    bookmakerList.appendChild(item);
+  }
+}
+
+// === Auto učitavanje svakih 10s iz DEFAULT_FILE ===
+const srcEl=document.getElementById('src');
+const pillStatus=document.getElementById('pillStatus');
+const qEl=document.getElementById('q');
+const sortEl=document.getElementById('sort');
+
+function setStatus(txt, ok=true){
+  const pillStatus = document.getElementById('pillStatus');
+  const statusIcon = document.getElementById('statusIcon');
+  const statusText = document.getElementById('statusText');
+  const lastUpdate = document.getElementById('lastUpdate');
+  
+  if(pillStatus) {
+    pillStatus.className = 'pill ' + (ok ? 'good' : 'bad');
+  }
+  
+  if(statusIcon) {
+    statusIcon.textContent = ok ? '🟢' : '🔴';
+  }
+  
+  if(statusText) {
+    statusText.textContent = txt;
+  }
+  
+  if(lastUpdate) {
+    const now = new Date();
+    lastUpdate.textContent = `Ažurirano: ${now.toLocaleTimeString('sr-RS', {hour:'2-digit', minute:'2-digit'})}`;
+  }
+}
+
+async function fetchAndRender(){
+  try{
+    const url = `${DEFAULT_FILE}?cb=${Date.now()}&r=${Math.random()}`;
+    const started = new Date();
+    const resp = await fetch(url, {
+      cache:'no-store',
+      headers: {
+        'Cache-Control': 'no-cache, no-store, must-revalidate',
+        'Pragma': 'no-cache',
+        'Expires': '0'
+      }
+    });
+    if(!resp.ok) throw new Error('HTTP '+resp.status);
+    const text = await resp.text();
+    srcEl.value = text; srcEl.readOnly = true;
+    
+    let parsedData = parseBlock(text);
+    
+    // Validacija i filtriranje mečeva
+    const validMatches = parsedData.filter(match => {
+      // Proveri da li meč ima rows
+      if (!match.rows || match.rows.length === 0) return false;
+      
+      // Proveri da li bar jedna kladionica ima sve tri kvote (1, X, 2)
+      const hasCompleteBookmaker = match.rows.some(row => {
+        const has1 = row.markets['1'] && typeof row.markets['1'] === 'number' && row.markets['1'] > 0;
+        const hasX = row.markets['X'] && typeof row.markets['X'] === 'number' && row.markets['X'] > 0;
+        const has2 = row.markets['2'] && typeof row.markets['2'] === 'number' && row.markets['2'] > 0;
+        return has1 && hasX && has2;
+      });
+      
+      if (!hasCompleteBookmaker) {
+        console.log('Odbačen meč (nepotpune kvote):', match.teams);
+        return false;
+      }
+      
+      // Proveri arbitražu - ako je veća od 20%, smatraj greškom
+      const arb = arbitraza(match.rows);
+      const arb02 = arbitraza02(match.rows);
+      
+      if (arb.ok && arb.profit > 20) {
+        console.log('Odbačen meč (arbitraža 1-X-2 > 20%):', match.teams, arb.profit.toFixed(2) + '%');
+        return false;
+      }
+      
+      if (arb02.ok && arb02.profit > 20) {
+        console.log('Odbačen meč (arbitraža 0-2/3+ > 20%):', match.teams, arb02.profit.toFixed(2) + '%');
+        return false;
+      }
+      
+      return true;
+    });
+    
+    console.log(`Validacija: ${parsedData.length} mečeva → ${validMatches.length} validnih (odbačeno ${parsedData.length - validMatches.length})`);
+    
+    currentData = validMatches;
+    render(currentData);
+    
+    const t = new Date();
+    const hh = t.toLocaleTimeString(undefined, {hour:'2-digit', minute:'2-digit', second:'2-digit'});
+    setStatus(`Učitano OK u ${hh} (${((t-started)/1000).toFixed(1)}s)`, true);
+  }catch(err){
+    const t = new Date();
+    const hh = t.toLocaleTimeString(undefined, {hour:'2-digit', minute:'2-digit', second:'2-digit'});
+    setStatus(`Greška u ${hh}: ${err.message}`, false);
+    console.error('Greška:', err);
+  }
+}
+
+// Filter/sort osvežavaju prikaz bez novog fetch-a
+[qEl, sortEl].forEach(el=>{
+  el.addEventListener('input', ()=>{ render(currentData); });
+  el.addEventListener('change', ()=>{ render(currentData); });
+});
+
+// Event listeneri za nove filtere
+const filterArbOnlyEl = document.getElementById('filterArbOnly');
+const filterHighOddsEl = document.getElementById('filterHighOdds');
+const filterTimeEl = document.getElementById('filterTime');
+const btnClearFilters = document.getElementById('btnClearFilters');
+
+if(filterArbOnlyEl) filterArbOnlyEl.addEventListener('change', ()=>{ render(currentData); });
+if(filterHighOddsEl) filterHighOddsEl.addEventListener('change', ()=>{ render(currentData); });
+if(filterTimeEl) filterTimeEl.addEventListener('change', ()=>{ render(currentData); });
+
+if(btnClearFilters) {
+  btnClearFilters.addEventListener('click', ()=>{
+    if(filterArbOnlyEl) filterArbOnlyEl.checked = false;
+    if(filterHighOddsEl) filterHighOddsEl.checked = false;
+    if(filterTimeEl) filterTimeEl.value = 'all';
+    qEl.value = '';
+    window.selectedLeague = null;
+    window.selectedBookmaker = null;
+    render(currentData);
+  });
+}
+
+// Refresh dugme
+const btnRefresh = document.getElementById('btnRefresh');
+if(btnRefresh) {
+  btnRefresh.addEventListener('click', async () => {
+    const refreshIcon = document.getElementById('refreshIcon');
+    if(refreshIcon) {
+      refreshIcon.textContent = '⏳';
+      btnRefresh.disabled = true;
+      btnRefresh.style.opacity = '0.6';
+    }
+    
+    await fetchAndRender();
+    
+    if(refreshIcon) {
+      refreshIcon.textContent = '✓';
+      setTimeout(() => {
+        refreshIcon.textContent = '🔄';
+        btnRefresh.disabled = false;
+        btnRefresh.style.opacity = '1';
+      }, 1500);
+    }
+  });
+}
+
+// Print dugme
+document.getElementById('btnPrint').onclick = ()=> window.print();
+
+// Start: odmah učitaj, pa svakih 5 minuta ponovi
+window.addEventListener('DOMContentLoaded', ()=>{
+  
+  // === Page navigation ===
+  document.querySelectorAll('.nav-tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      const pageName = tab.getAttribute('data-page');
+      
+      // Update active tab
+      document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      
+      // Update active page
+      document.querySelectorAll('.page-content').forEach(p => p.classList.remove('active'));
+      document.getElementById(`page-${pageName}`).classList.add('active');
+      
+      // Load tickets if switching to tickets page
+      if (pageName === 'tiketi') {
+        loadTickets();
+      }
+    });
+  });
+
+  // === Load tickets function ===
+  async function loadTickets() {
+    const container = document.getElementById('ticketsContainer');
+    const updateTimeEl = document.getElementById('ticketUpdateTime');
+    
+    try {
+      const response = await fetch('TIKETI/tiketi.txt');
+      if (!response.ok) throw new Error('Fajl tiketi.txt nije pronađen');
+      
+      const text = await response.text();
+      const tickets = parseTickets(text);
+      
+      // Update time
+      const now = new Date();
+      updateTimeEl.textContent = now.toLocaleTimeString('sr-RS', { hour: '2-digit', minute: '2-digit' });
+      
+      // Render tickets
+      if (tickets.length > 0) {
+        container.innerHTML = '<div class="tickets-grid">' + tickets.map(ticket => renderTicket(ticket)).join('') + '</div>';
+      } else {
+        container.innerHTML = `
+          <div style="text-align:center; padding:60px 20px;">
+            <div style="font-size:48px; margin-bottom:16px;">📋</div>
+            <p style="color:var(--muted); font-size:16px; font-weight:600;">Nema tiketa za prikaz</p>
+          </div>
+        `;
+      }
+      
+    } catch (error) {
+      container.innerHTML = `
+        <div style="text-align:center; padding:60px 20px;">
+          <div style="font-size:48px; margin-bottom:16px;">❌</div>
+          <p style="color:var(--bad); font-size:16px; font-weight:600;">Greška pri učitavanju tiketa</p>
+          <p style="color:var(--muted); font-size:14px; margin-top:8px;">${error.message}</p>
+          <p style="color:var(--muted); font-size:13px; margin-top:16px;">
+            Proverite da li postoji folder <code style="background:rgba(107,138,255,0.15); padding:2px 8px; border-radius:4px;">TIKETI</code> 
+            sa fajlom <code style="background:rgba(107,138,255,0.15); padding:2px 8px; border-radius:4px;">tiketi.txt</code>
+          </p>
+        </div>
+      `;
+    }
+  }
+
+  function parseTickets(text) {
+    const tickets = [];
+    const lines = text.split('\n');
+    let currentTicket = null;
+    let currentSelection = null;
+    
+    for (let line of lines) {
+      line = line.trim();
+      
+      // Start of new ticket
+      if (line.includes('KLADIONICA:')) {
+        // Save previous selection if exists
+        if (currentSelection && currentTicket) {
+          currentTicket.selections.push(currentSelection);
+          currentSelection = null;
+        }
+        // Save previous ticket if exists
+        if (currentTicket) {
+          tickets.push(currentTicket);
+        }
+        
+        currentTicket = {
+          bookmaker: line.split('KLADIONICA:')[1].split('TIKET')[0].trim(),
+          ticketNumber: line.match(/TIKET #(\d+)/)?.[1] || '1',
+          selections: [],
+          totalOdds: '-',
+          target: '-',
+          stake: '-',
+          potentialWin: '-',
+          totalRange: '-',
+          avgProfit: '-'
+        };
+      }
+      // Ticket info -Match both normal and encoded characters
+      else if (line.includes('Ukupni koeficijent') && currentTicket) {
+        const oddsMatch = line.match(/:\s*([\d.]+)/);
+        const targetMatch = line.match(/cilj:\s*([\d.]+)/);
+        if (oddsMatch) currentTicket.totalOdds = oddsMatch[1];
+        if (targetMatch) currentTicket.target = targetMatch[1];
+      }
+      else if (line.startsWith('Ulog') && currentTicket) {
+        const match = line.match(/:\s*([\d.]+)/);
+        if (match) currentTicket.stake = match[1];
+      }
+      else if (line.startsWith('Potencijalni dobitak') && currentTicket) {
+        const match = line.match(/:\s*([\d.]+)/);
+        if (match) currentTicket.potentialWin = match[1];
+      }
+      else if (line.includes('Ukupni raspon') && currentTicket) {
+        const match = line.match(/([\d.]+)%/);
+        if (match) currentTicket.totalRange = match[1];
+      }
+      else if ((line.includes('Prosečan profit') || line.includes('ProseÄan profit')) && currentTicket) {
+        const match = line.match(/:\s*([-]?[\d.]+)%/);
+        if (match) currentTicket.avgProfit = match[1];
+      }
+      // Selection - Save previous selection first
+      else if (/^\d+\)/.test(line) && currentTicket) {
+        if (currentSelection) {
+          currentTicket.selections.push(currentSelection);
+        }
+        const match = line.match(/\d+\)\s+([\d:]+)\s+([\d.]+)\.\s+(.+?)\s+\((.+?)\)$/);
+        if (match) {
+          currentSelection = {
+            time: match[1],
+            date: match[2],
+            match: match[3],
+            league: match[4],
+            market: '-',
+            odds: '-',
+            range: '-',
+            profit: '-'
+          };
+        }
+      }
+      else if (line.startsWith('Market') && currentSelection) {
+        const match = line.match(/:\s*(.+?)\s*@\s*([\d.]+)/);
+        if (match) {
+          currentSelection.market = match[1].trim();
+          currentSelection.odds = match[2];
+        }
+      }
+      else if (line.startsWith('Raspon kvote') && currentSelection) {
+        const match = line.match(/([\d.]+)%/);
+        if (match) currentSelection.range = match[1];
+      }
+      else if (line.startsWith('Profit za par') && currentSelection) {
+        const match = line.match(/:\s*([-]?[\d.]+)%/);
+        if (match) currentSelection.profit = match[1];
+      }
+      // Stop parsing at analysis section
+      else if (line.includes('ANALIZA TIKETA')) {
+        break;
+      }
+    }
+    
+    // Save last selection and ticket
+    if (currentSelection && currentTicket) {
+      currentTicket.selections.push(currentSelection);
+    }
+    if (currentTicket) {
+      tickets.push(currentTicket);
+    }
+    
+    return tickets;
+  }
+
+  function renderTicket(ticket) {
+    const avgProfit = ticket.avgProfit !== '-' ? parseFloat(ticket.avgProfit) : 0;
+    const isProfitable = avgProfit > 0;
+    
+    // Get bookmaker key and URL
+    const bookmakerKey = ticket.bookmaker.toLowerCase().replace(/\s+/g, '');
+    const bookmakerURL = BOOKMAKER_URLS[bookmakerKey] || '#';
+    
+    // Special cases for Soccer and TopBet - show text instead of logo
+    const useLogo = !['soccer', 'topbet'].includes(bookmakerKey);
+    const logoPath = BOOKMAKER_LOGOS[bookmakerKey] || 'logos/default.png';
+    
+    return `
+      <div class="ticket-card">
+        <!-- Header with logo/name and link -->
+        <a href="${bookmakerURL}" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:block;">
+          <div class="ticket-header-top" style="cursor:pointer; transition:all 0.2s;">
+            ${useLogo ? `
+              <img src="${logoPath}" alt="${ticket.bookmaker}" class="ticket-logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+              <span style="display:none; color:#fff; font-weight:900; font-size:18px; letter-spacing:1px;">${ticket.bookmaker.toUpperCase()}</span>
+            ` : `
+              <span style="color:#fff; font-weight:900; font-size:18px; letter-spacing:1px;">${ticket.bookmaker.toUpperCase()}</span>
+            `}
+            <div class="ticket-number-badge">TIKET #${ticket.ticketNumber}</div>
+          </div>
+        </a>
+        
+        <!-- Info section -->
+        <div class="ticket-info-section">
+          <div class="ticket-info-row">
+            <span class="ticket-info-label">Koeficijent:</span>
+            <span class="ticket-info-value">${ticket.totalOdds}</span>
+          </div>
+          <div class="ticket-info-row">
+            <span class="ticket-info-label">Cilj:</span>
+            <span class="ticket-info-value">${ticket.target}</span>
+          </div>
+          <div class="ticket-info-row">
+            <span class="ticket-info-label">Ulog:</span>
+            <span class="ticket-info-value">${ticket.stake} RSD</span>
+          </div>
+          <div class="ticket-info-highlight">
+            <div class="ticket-info-row" style="margin:0;">
+              <span class="ticket-info-label">Potencijalni Dobitak:</span>
+              <span class="ticket-info-value" style="font-size:18px; color:#d4af37;">${ticket.potentialWin} RSD</span>
+            </div>
+          </div>
+          <div class="ticket-info-row">
+            <span class="ticket-info-label">Raspon:</span>
+            <span class="ticket-info-value">${ticket.totalRange}%</span>
+          </div>
+          <div class="ticket-info-row">
+            <span class="ticket-info-label">Prosečan Profit:</span>
+            <span class="ticket-info-value" style="color:${isProfitable ? '#28a745' : '#dc3545'};">${ticket.avgProfit}%</span>
+          </div>
+        </div>
+        
+        <!-- Selections -->
+        <div class="ticket-selections">
+          <div class="ticket-selections-title">Parovi (${ticket.selections.length})</div>
+          
+          ${ticket.selections.map((sel, idx) => {
+            const selProfit = sel.profit !== '-' ? parseFloat(sel.profit) : 0;
+            return `
+              <div class="selection-item" data-match-search="${sel.match}" style="cursor:pointer; transition:all 0.2s;" onclick="navigateToMatchNewWindow('${sel.match}', event)">
+                <div class="selection-num">${idx + 1}</div>
+                <div class="selection-match-name" style="display:flex; align-items:center; gap:8px;">
+                  ${sel.match}
+                  <span style="font-size:11px; color:#6b8aff; background:rgba(107,138,255,0.15); padding:2px 8px; border-radius:4px; font-weight:600;">🔍 Vidi analizu</span>
+                </div>
+                <div class="selection-league-name">🏆 ${sel.league}</div>
+                <div class="selection-time">🕐 ${sel.time} • ${sel.date}</div>
+                
+                <div class="selection-bet-row">
+                  <div>
+                    <div style="font-size:10px; color:#999; text-transform:uppercase;">Tip</div>
+                    <div class="selection-market">${sel.market}</div>
+                  </div>
+                  <div class="selection-odds">${sel.odds}</div>
+                </div>
+                
+                <div class="selection-details-row">
+                  <div class="selection-detail-mini">
+                    <div class="selection-detail-mini-label">Raspon</div>
+                    <div class="selection-detail-mini-value">${sel.range}%</div>
+                  </div>
+                  <div class="selection-detail-mini">
+                    <div class="selection-detail-mini-label">Profit</div>
+                    <div class="selection-detail-mini-value" style="color:${selProfit > 0 ? '#28a745' : '#dc3545'};">${sel.profit}%</div>
+                  </div>
+                </div>
+              </div>
+            `}).join('')}
+        </div>
+        
+        <!-- Footer -->
+        <div class="ticket-footer">
+          <div class="ticket-footer-text">Sreća prati hrabre!</div>
+          <div class="ticket-barcode"></div>
+          <div class="ticket-footer-text">
+            <a href="${bookmakerURL}" target="_blank" rel="noopener noreferrer" style="color:#ffd700; text-decoration:none; font-weight:700; transition:all 0.2s;">
+              ➜ Odigraj na ${ticket.bookmaker}
+            </a>
+          </div>
+          <div class="ticket-footer-text" style="margin-top:8px;">18+ | Igrajte odgovorno</div>
+        </div>
+      </div>
+    `;
+  }
+  
+  // Function to navigate to match in NEW WINDOW
+  window.navigateToMatchNewWindow = function(matchName, event) {
+    event.stopPropagation(); // Prevent event bubbling
+    
+    // Get current URL and add search parameter
+    const currentUrl = window.location.href.split('?')[0]; // Remove any existing query params
+    const newUrl = `${currentUrl}?search=${encodeURIComponent(matchName)}`;
+    
+    // Open in new window/tab
+    window.open(newUrl, '_blank');
+  };
+  
+  // Original code starts here
+  fetchAndRender();
+  setInterval(fetchAndRender, AUTO_INTERVAL_MS);
+  
+  // Check for search parameter in URL and auto-search
+  const urlParams = new URLSearchParams(window.location.search);
+  const searchParam = urlParams.get('search');
+  if (searchParam) {
+    // Wait for data to load, then apply search
+    setTimeout(() => {
+      const searchInput = document.getElementById('q');
+      if (searchInput) {
+        searchInput.value = decodeURIComponent(searchParam);
+        
+        // Trigger input event to filter matches
+        const inputEvent = new Event('input', { bubbles: true });
+        searchInput.dispatchEvent(inputEvent);
+        
+        // Scroll to first result after a moment
+        setTimeout(() => {
+          const firstMatch = document.querySelector('#out .match');
+          if (firstMatch) {
+            firstMatch.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            
+            // Add highlight effect
+            firstMatch.style.transition = 'all 0.3s';
+            firstMatch.style.boxShadow = '0 0 0 4px rgba(107,138,255,0.6)';
+            firstMatch.style.transform = 'scale(1.02)';
+            
+            // Remove highlight after 3 seconds
+            setTimeout(() => {
+              firstMatch.style.boxShadow = '';
+              firstMatch.style.transform = '';
+            }, 3000);
+          }
+        }, 500);
+      }
+    }, 1000); // Wait 1 second for initial data load
+  }
+  
+  // === Ažuriranje trenutnog vremena ===
+  function updateCurrentTime() {
+    const now = new Date();
+    const timeEl = document.getElementById('currentTime');
+    const dateEl = document.getElementById('currentDate');
+    
+    if (timeEl) {
+      timeEl.textContent = now.toLocaleTimeString('sr-RS', {
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit'
+      });
+    }
+    
+    if (dateEl) {
+      const days = ['Ned', 'Pon', 'Uto', 'Sre', 'Čet', 'Pet', 'Sub'];
+      const months = ['Jan', 'Feb', 'Mar', 'Apr', 'Maj', 'Jun', 'Jul', 'Avg', 'Sep', 'Okt', 'Nov', 'Dec'];
+      
+      const dayName = days[now.getDay()];
+      const day = now.getDate();
+      const month = months[now.getMonth()];
+      const year = now.getFullYear();
+      
+      dateEl.textContent = `${dayName}, ${day}. ${month} ${year}`;
+    }
+  }
+  
+  // Ažuriraj odmah i zatim svakih sekund
+  updateCurrentTime();
+  setInterval(updateCurrentTime, 1000);
+  
+  // === Footer linkovi ===
+  const linkScrollTop = document.getElementById('linkScrollTop');
+  const linkBestArb = document.getElementById('linkBestArb');
+  const linkTodayMatches = document.getElementById('linkTodayMatches');
+  const linkHighOdds = document.getElementById('linkHighOdds');
+  
+  if(linkScrollTop) {
+    linkScrollTop.addEventListener('click', (e) => {
+      e.preventDefault();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
+  
+  if(linkBestArb) {
+    linkBestArb.addEventListener('click', (e) => {
+      e.preventDefault();
+      document.getElementById('sort').value = 'arbdesc';
+      if(filterArbOnlyEl) filterArbOnlyEl.checked = true;
+      render(currentData);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
+  
+  if(linkTodayMatches) {
+    linkTodayMatches.addEventListener('click', (e) => {
+      e.preventDefault();
+      if(filterTimeEl) filterTimeEl.value = 'today';
+      render(currentData);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
+  
+  if(linkHighOdds) {
+    linkHighOdds.addEventListener('click', (e) => {
+      e.preventDefault();
+      if(filterHighOddsEl) filterHighOddsEl.checked = true;
+      render(currentData);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
+  
+  // === Scroll to Top dugme ===
+  const scrollToTopBtn = document.getElementById('scrollToTop');
+  
+  window.addEventListener('scroll', () => {
+    if (window.pageYOffset > 300) {
+      scrollToTopBtn.style.opacity = '1';
+      scrollToTopBtn.style.pointerEvents = 'auto';
+    } else {
+      scrollToTopBtn.style.opacity = '0';
+      scrollToTopBtn.style.pointerEvents = 'none';
+    }
+  });
+  
+  scrollToTopBtn.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+  
+  // Hover efekat za footer linkove
+  document.querySelectorAll('footer a').forEach(link => {
+    link.addEventListener('mouseenter', (e) => {
+      e.target.style.color = 'var(--accent)';
+      e.target.style.paddingLeft = '4px';
+    });
+    link.addEventListener('mouseleave', (e) => {
+      e.target.style.color = 'var(--muted)';
+      e.target.style.paddingLeft = '0';
+    });
+  });
+  
+  // Hover efekat za scroll dugme
+  scrollToTopBtn.addEventListener('mouseenter', () => {
+    scrollToTopBtn.style.transform = 'translateY(-4px) scale(1.05)';
+  });
+  scrollToTopBtn.addEventListener('mouseleave', () => {
+    scrollToTopBtn.style.transform = 'translateY(0) scale(1)';
+  });
+});
+</script>
+</body>
+</html>
