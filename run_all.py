@@ -118,8 +118,11 @@ MAIN_OUTPUTS = [
     Path("ALL_MATCHES_AND_ARBS/kvote_arbitraza_ONLY_arbs.txt"),
 ]
 
-# fajl koji pokušavamo da push-ujemo na git
+# fajl koji pokušavamo da push-ujemo na git (ALL_MATCHES_AND_ARBS...)
 TARGET_PUSH = Path("ALL_MATCHES_AND_ARBS/kvote_arbitraza_FULL.txt")
+
+# NOVO: fajl sa tiketima koji takođe treba da ide u isti push
+TIKETI_PUSH = Path("TIKETI/tiketi.txt")
 
 # folder gde će se čuvati izveštaji svakog ciklusa
 REPORT_DIR = Path("izvestaji")
@@ -150,10 +153,18 @@ def git_has_remote() -> bool:
     except Exception:
         return False
 
-def git_push_file(path: Path) -> None:
-    if not path.exists():
-        print(f"[git] Preskačem push — ne postoji {path}")
-        return
+def git_push_file(path_main: Path) -> None:
+    """
+    Ranije je pushovao samo path_main (kvote_arbitraza_FULL.txt).
+    Sada u istom commitu dodajemo i TIKETI_PUSH (TIKETI/tiketi.txt) ako postoji.
+
+    Logika:
+    - git add {path_main} (+ tiketi.txt ako postoji)
+    - git commit -m "auto: update ..."
+    - git push
+    Ako nema promena ni u jednom fajlu -> nema commit.
+    """
+    # sanity
     if not git_in_repo():
         print("[git] Nisi u Git repou. Preskačem push.")
         return
@@ -161,20 +172,55 @@ def git_push_file(path: Path) -> None:
         print("[git] Nema remote-a. Preskačem push.")
         return
 
+    # proveri da li bar jedan fajl postoji
+    main_exists = path_main.exists()
+    tiketi_exists = TIKETI_PUSH.exists()
+
+    if not main_exists and not tiketi_exists:
+        print(f"[git] Preskačem push — ne postoji ni {path_main} ni {TIKETI_PUSH}")
+        return
+
     ts = datetime.now().strftime("%Y-%m-%d %H:%M")
+
     try:
-        _run(["git", "add", str(path)], check=False)
-        msg = f"auto: update {path.name} @ {ts}"
+        # git add glavnog fajla ako postoji
+        if main_exists:
+            _run(["git", "add", str(path_main)], check=False)
+        else:
+            print(f"[git] Upozorenje: nema fajla {path_main}, ali nastavljam.")
+
+        # git add tiketa ako postoji
+        if tiketi_exists:
+            _run(["git", "add", str(TIKETI_PUSH)], check=False)
+        else:
+            print(f"[git] Upozorenje: nema fajla {TIKETI_PUSH}, ali nastavljam.")
+
+        # commit poruka neka pominje oba fajla
+        msg_parts = []
+        if main_exists:
+            msg_parts.append(path_main.name)
+        if tiketi_exists:
+            msg_parts.append(TIKETI_PUSH.name)
+        if not msg_parts:
+            # ništa realno za commit
+            print("[git] Nema fajlova za commit.")
+            return
+
+        msg = "auto: update " + ", ".join(msg_parts) + f" @ {ts}"
+
         cp_commit = _run(["git", "commit", "-m", msg], check=False)
         if cp_commit.returncode != 0:
-            print(f"[git] Nema promena za commit ({path.name}).")
+            print(f"[git] Nema promena za commit ({', '.join(msg_parts)}).")
             return
+
         print(f"[git] Commit ok: {msg}")
+
         cp_push = _run(["git", "push"], check=False)
         if cp_push.returncode != 0:
             print(f"[git] PUSH FAIL:\n{cp_push.stderr.strip()}")
         else:
             print("[git] Push uspešan.")
+
     except Exception as e:
         print(f"[git] Greška: {e}")
 
@@ -526,4 +572,4 @@ def main_loop():
 
 
 if __name__ == "__main__":
-    main_loop()
+    one_cycle()
