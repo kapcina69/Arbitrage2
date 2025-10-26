@@ -4,7 +4,7 @@ CD Hercules  vs  Inter FA
 
 - BalkanBet  1=3  |  X=3.1  |  2=2.2  |  0-2=1.7  |  2+=1.35  |  3+=2.05  |  GG=1.75  |  IGG=4.65  |  GG&3+=2.3  |  GG&4+=4.05  |  4+=3.7
 - BetOle     1=3.05  |  X=3.15  |  2=2.15  |  0-2=1.75  |  3+=1.9
-- Brazil_d   -
+- Brazil_d   1=3.05  |  X=3.1  |  2=2.18  |  0-2=1.75  |  2+=1.27  |  3+=1.92
 - MaxBet     1=3.15  |  X=3.15  |  2=2.20
 - Mozzart    1=3  |  X=3.2  |  2=2.3  |  0-2=1.69  |  2+=1.35  |  3+=2.05
 - OktagonBet 1=3.05  |  X=3.15  |  2=2.15  |  0-2=1.74  |  3+=1.9  |  GG=1.73  |  GG&3+=2.28  |  4+=3.45
@@ -14,7 +14,7 @@ CD Hercules  vs  Inter FA
 Najveća 1  : 3.15  [MaxBet]
 Najveća X  : 3.30  [Soccer]
 Najveća 2  : 2.30  [Mozzart]
-Najveća 0-2: 1.75  [BetOle, Soccer]
+Najveća 0-2: 1.75  [BetOle, Brazil_d, Soccer]
 Najveća 3+ : 2.05  [BalkanBet, Mozzart]
 
 Arbitraža (1-X-2): NE   inv_sum=1.0553   profit≈-5.53%
@@ -26,7 +26,7 @@ Fuerte San Fran.  vs  Mun.Limeno
 
 - BalkanBet  1=3.25  |  X=3.15  |  2=2.05  |  0-2=1.66  |  2+=1.37  |  3+=2.1  |  GG=1.8  |  IGG=4.95  |  GG&3+=2.35  |  GG&4+=4.2  |  4+=3.8
 - BetOle     1=3.25  |  X=3.1  |  2=2.08  |  0-2=1.62  |  3+=2.07
-- Brazil_d   -
+- Brazil_d   1=3.25  |  X=3.05  |  2=2.1  |  0-2=1.6  |  2+=1.33  |  3+=2.08
 - MaxBet     1=3.35  |  X=3.15  |  2=2.12
 - Mozzart    1=3.35  |  X=3.25  |  2=2.1  |  0-2=1.69  |  2+=1.35  |  3+=2.05
 - OktagonBet 1=3.25  |  X=3.1  |  2=2.08  |  0-2=1.62  |  3+=2.07  |  GG=1.88  |  GG&3+=2.55  |  4+=3.9
@@ -48,7 +48,7 @@ Platense Municipal  vs  L.A. Firpo
 
 - BalkanBet  1=3.8  |  X=3.25  |  2=1.85  |  0-2=1.93  |  2+=1.27  |  3+=1.78  |  GG=1.6  |  IGG=4.25  |  GG&3+=2  |  GG&4+=3.35  |  4+=2.95
 - BetOle     1=3.3  |  X=3.35  |  2=1.97  |  0-2=1.88  |  3+=1.75
-- Brazil_d   -
+- Brazil_d   1=3.3  |  X=3.3  |  2=1.98  |  0-2=1.88  |  2+=1.22  |  3+=1.77
 - MaxBet     1=3.40  |  X=3.40  |  2=2.00
 - Mozzart    1=4  |  X=3.45  |  2=1.85  |  0-2=1.9  |  2+=1.27  |  3+=1.8
 - OktagonBet 1=3.3  |  X=3.35  |  2=1.97  |  0-2=1.88  |  3+=1.76  |  GG=1.66  |  GG&3+=2.12  |  4+=3.05
@@ -70,21 +70,21 @@ Dep.Achuapa  vs  Coban Imp.
 
 - BalkanBet  1=2  |  X=3.15  |  2=3.4  |  0-2=1.7  |  2+=1.35  |  3+=2.05  |  GG=1.8  |  IGG=4.9  |  GG&3+=2.35  |  GG&4+=4.1  |  4+=3.7
 - BetOle     1=2.1  |  X=3.05  |  2=3.25  |  0-2=1.65  |  3+=2.08
-- Brazil_d   -
+- Brazil_d   1=2.1  |  X=3  |  2=3.3  |  0-2=1.65  |  2+=1.34  |  3+=2.12
 - MaxBet     1=2.10  |  X=3.05  |  2=3.25
 - Mozzart    1=2  |  X=3.3  |  2=3.6  |  0-2=1.69  |  2+=1.35  |  3+=2.05
 - OktagonBet 1=2.1  |  X=3.05  |  2=3.25  |  0-2=1.64  |  3+=2.08  |  GG=1.89  |  GG&3+=2.55  |  4+=3.95
 - Soccer     1=2.0  |  X=3.2  |  2=3.7  |  0-2=1.65  |  2+=1.35  |  3+=2.1  |  GG=1.88  |  IGG=5.05  |  GG&3+=2.35
 - Topbet     1=2.05  |  X=3.25  |  2=3.2
 
-Najveća 1  : 2.10  [BetOle, MaxBet, OktagonBet]
+Najveća 1  : 2.10  [BetOle, Brazil_d, MaxBet, OktagonBet]
 Najveća X  : 3.30  [Mozzart]
 Najveća 2  : 3.70  [Soccer]
 Najveća 0-2: 1.70  [BalkanBet]
-Najveća 3+ : 2.10  [Soccer]
+Najveća 3+ : 2.12  [Brazil_d]
 
 Arbitraža (1-X-2): NE   inv_sum=1.0495   profit≈-4.95%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0644   profit≈-6.44%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0599   profit≈-5.99%
 
 --------------------------------------------------------------------------------------
 22:00   26.10.   [Honduras 1]
@@ -92,7 +92,7 @@ Olancho  vs  Genesis
 
 - BalkanBet  1=1.45  |  X=4  |  2=5.85  |  0-2=2.3  |  2+=1.18  |  3+=1.55  |  GG=1.7  |  IGG=4.1  |  GG&3+=2.05  |  GG&4+=2.8  |  4+=2.35
 - BetOle     1=1.41  |  X=4.4  |  2=5.8  |  0-2=2.45  |  3+=1.47
-- Brazil_d   -
+- Brazil_d   1=1.41  |  X=4.35  |  2=5.9  |  0-2=2.45  |  2+=1.13  |  3+=1.48
 - MaxBet     1=1.40  |  X=4.40  |  2=5.80
 - OktagonBet 1=1.41  |  X=4.4  |  2=5.85  |  0-2=2.45  |  3+=1.47  |  GG=1.66  |  GG&3+=1.94  |  4+=2.25
 - Soccer     1=1.42  |  X=4.4  |  2=6.55  |  0-2=2.35  |  2+=1.15  |  3+=1.52  |  GG=1.68  |  IGG=4.0  |  GG&3+=1.9
@@ -101,7 +101,7 @@ Olancho  vs  Genesis
 Najveća 1  : 1.45  [BalkanBet]
 Najveća X  : 4.45  [Topbet]
 Najveća 2  : 6.55  [Soccer]
-Najveća 0-2: 2.45  [BetOle, OktagonBet]
+Najveća 0-2: 2.45  [BetOle, Brazil_d, OktagonBet]
 Najveća 3+ : 1.55  [BalkanBet]
 
 Arbitraža (1-X-2): NE   inv_sum=1.0670   profit≈-6.70%
@@ -113,7 +113,7 @@ Matagalpa  vs  Mun.Jalapa
 
 - BalkanBet  1=2.05  |  X=3.5  |  2=2.95  |  0-2=2.05  |  2+=1.23  |  3+=1.68  |  GG=1.55  |  IGG=4  |  GG&3+=1.9  |  GG&4+=3.05  |  4+=2.7
 - BetOle     1=2.07  |  X=3.4  |  2=3.03  |  0-2=2.05  |  3+=1.63
-- Brazil_d   -
+- Brazil_d   1=2.07  |  X=3.35  |  2=3.05  |  0-2=2.05  |  2+=1.18  |  3+=1.64
 - MaxBet     1=2.12  |  X=3.45  |  2=3.05
 - Mozzart    1=2.1  |  X=3.35  |  2=3.25  |  0-2=2.11  |  2+=1.22  |  3+=1.65
 - OktagonBet 1=2.07  |  X=3.4  |  2=3  |  0-2=2.05  |  3+=1.63  |  GG=1.55  |  GG&3+=1.94  |  4+=2.7
@@ -153,7 +153,7 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0684   profit≈-6.84%
 Real S. Cundinam.  vs  Int. De Palmira
 
 - BalkanBet  1=1.97  |  X=3.25  |  2=3.55  |  0-2=1.55  |  2+=1.45  |  3+=2.3  |  GG=2  |  IGG=5.65  |  GG&3+=2.7  |  GG&4+=4.8  |  4+=4.35
-- Brazil_d   -
+- Brazil_d   1=1.87  |  X=3.1  |  2=4  |  0-2=1.53  |  2+=1.4  |  3+=2.3
 - MaxBet     1=1.95  |  X=3.10  |  2=3.65
 - Mozzart    1=1.95  |  X=3.25  |  2=3.8  |  0-2=1.55  |  2+=1.45  |  3+=2.3
 - OktagonBet 1=1.87  |  X=3.1  |  2=3.95  |  0-2=1.54  |  3+=2.28  |  GG=2.1  |  GG&3+=2.85  |  4+=4.5
@@ -164,7 +164,7 @@ Najveća 1  : 2.00  [Topbet]
 Najveća X  : 3.25  [BalkanBet, Mozzart, Topbet]
 Najveća 2  : 4.05  [Soccer]
 Najveća 0-2: 1.55  [BalkanBet, Mozzart, Soccer]
-Najveća 3+ : 2.30  [BalkanBet, Mozzart, Soccer]
+Najveća 3+ : 2.30  [BalkanBet, Brazil_d, Mozzart, Soccer]
 
 Arbitraža (1-X-2): NE   inv_sum=1.0546   profit≈-5.46%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0799   profit≈-7.99%
@@ -192,20 +192,20 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0670   profit≈-6.70%
 22:30   26.10.   [Brazil 1]
 Bragantino  vs  Vasco
 
-- BalkanBet  1=2.1  |  X=3.35  |  2=3.45  |  0-2=1.71  |  2+=1.37  |  3+=2.1  |  GG=1.95  |  IGG=5.35  |  GG&3+=2.55  |  GG&4+=4.2  |  4+=3.8
+- BalkanBet  1=2.1  |  X=3.35  |  2=3.45  |  0-2=1.75  |  2+=1.35  |  3+=2.05  |  GG=1.9  |  IGG=5.2  |  GG&3+=2.5  |  GG&4+=4.1  |  4+=3.7
 - BetOle     1=2.15  |  X=3.25  |  2=3.4  |  0-2=1.71  |  3+=2.03
-- Brazil_d   -
+- Brazil_d   1=2.15  |  X=3.2  |  2=3.45  |  0-2=1.7  |  2+=1.33  |  3+=2.05
 - MaxBet     1=2.15  |  X=3.15  |  2=3.45
 - Mozzart    1=2.1  |  X=3.35  |  2=3.6  |  0-2=1.69  |  2+=1.35  |  3+=2.05
 - OktagonBet 1=2.15  |  X=3.25  |  2=3.4  |  0-2=1.71  |  3+=2.04  |  GG=1.84  |  GG&3+=2.47  |  4+=3.75
 - Soccer     1=2.12  |  X=3.35  |  2=3.4  |  0-2=1.75  |  2+=1.34  |  3+=2.1  |  GG=1.85  |  IGG=4.8  |  GG&3+=2.37
 - Topbet     1=2.1  |  X=3.35  |  2=3
 
-Najveća 1  : 2.15  [BetOle, MaxBet, OktagonBet]
+Najveća 1  : 2.15  [BetOle, Brazil_d, MaxBet, OktagonBet]
 Najveća X  : 3.35  [BalkanBet, Mozzart, Soccer, Topbet]
 Najveća 2  : 3.60  [Mozzart]
-Najveća 0-2: 1.75  [Soccer]
-Najveća 3+ : 2.10  [BalkanBet, Soccer]
+Najveća 0-2: 1.75  [BalkanBet, Soccer]
+Najveća 3+ : 2.10  [Soccer]
 
 Arbitraža (1-X-2): NE   inv_sum=1.0414   profit≈-4.14%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0476   profit≈-4.76%
@@ -214,23 +214,23 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0476   profit≈-4.76%
 22:30   26.10.   [Brazil 2]
 Vila Nova  vs  Ferroviaria
 
-- BalkanBet  1=1.87  |  X=3.25  |  2=4.2  |  0-2=1.57  |  2+=1.43  |  3+=2.25  |  GG=2.1  |  IGG=5.75  |  GG&3+=2.75  |  GG&4+=4.7  |  4+=4.25
+- BalkanBet  1=1.92  |  X=3.15  |  2=4.1  |  0-2=1.57  |  2+=1.43  |  3+=2.25  |  GG=2  |  IGG=5.5  |  GG&3+=2.65  |  GG&4+=4.65  |  4+=4.25
 - BetOle     1=1.9  |  X=3.25  |  2=4.25  |  0-2=1.57  |  3+=2.27
-- Brazil_d   -
+- Brazil_d   1=1.9  |  X=3.2  |  2=4.33  |  0-2=1.55  |  2+=1.41  |  3+=2.3
 - MaxBet     1=1.88  |  X=3.20  |  2=4.10
 - Mozzart    1=1.85  |  X=3.3  |  2=4.2  |  0-2=1.6  |  2+=1.4  |  3+=2.2
 - OktagonBet 1=1.9  |  X=3.25  |  2=4.25  |  0-2=1.57  |  3+=2.28  |  GG=2.1  |  GG&3+=2.85  |  4+=4.5
 - Soccer     1=1.9  |  X=3.1  |  2=4.3  |  0-2=1.57  |  2+=1.42  |  3+=2.25  |  GG=2.0  |  IGG=5.55  |  GG&3+=2.55
-- Topbet     1=1.9  |  X=3.25  |  2=3.7
+- Topbet     1=1.95  |  X=3.2  |  2=3.5
 
-Najveća 1  : 1.90  [BetOle, OktagonBet, Soccer, Topbet]
+Najveća 1  : 1.95  [Topbet]
 Najveća X  : 3.30  [Mozzart]
-Najveća 2  : 4.30  [Soccer]
+Najveća 2  : 4.33  [Brazil_d]
 Najveća 0-2: 1.60  [Mozzart]
-Najveća 3+ : 2.28  [OktagonBet]
+Najveća 3+ : 2.30  [Brazil_d]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0619   profit≈-6.19%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0636   profit≈-6.36%
+Arbitraža (1-X-2): NE   inv_sum=1.0468   profit≈-4.68%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0598   profit≈-5.98%
 
 --------------------------------------------------------------------------------------
 22:30   26.10.   [Čile 1]
@@ -256,6 +256,7 @@ La Calera  vs  Nublense
 
 - BalkanBet  1=2.75  |  X=3.1  |  2=2.55  |  0-2=1.63  |  2+=1.4  |  3+=2.15  |  GG=1.85  |  IGG=4.9  |  GG&3+=2.55  |  GG&4+=4.4  |  4+=4
 - BetOle     1=2.67  |  X=3.05  |  2=2.6  |  0-2=1.65  |  3+=2.1
+- Brazil_d   1=2.65  |  X=3.05  |  2=2.6  |  0-2=1.65  |  2+=1.34  |  3+=2.1
 - MaxBet     1=2.65  |  X=3.05  |  2=2.60
 - Mozzart    1=2.75  |  X=3.15  |  2=2.5  |  0-2=1.69  |  2+=1.35  |  3+=2.05
 - OktagonBet 1=2.65  |  X=3.05  |  2=2.6  |  0-2=1.65  |  3+=2.1  |  GG=1.87  |  GG&3+=2.55  |  4+=4
@@ -264,7 +265,7 @@ La Calera  vs  Nublense
 
 Najveća 1  : 2.75  [BalkanBet, Mozzart, Topbet]
 Najveća X  : 3.15  [Mozzart, Soccer]
-Najveća 2  : 2.60  [BetOle, MaxBet, OktagonBet]
+Najveća 2  : 2.60  [BetOle, Brazil_d, MaxBet, OktagonBet]
 Najveća 0-2: 1.69  [Mozzart]
 Najveća 3+ : 2.15  [BalkanBet]
 
@@ -277,6 +278,7 @@ Wanderers  vs  Cl.Nacional
 
 - BalkanBet  1=6.15  |  X=3.65  |  2=1.55  |  0-2=1.7  |  2+=1.35  |  3+=2.05  |  GG=2.05  |  IGG=5.65  |  GG&3+=2.65  |  GG&4+=4.2  |  4+=3.7
 - BetOle     1=6  |  X=4.05  |  2=1.48  |  0-2=1.8  |  3+=1.91
+- Brazil_d   1=6  |  X=4.05  |  2=1.48  |  0-2=1.8  |  2+=1.27  |  3+=1.9
 - MaxBet     1=6.10  |  X=3.80  |  2=1.50
 - Mozzart    1=6.75  |  X=3.9  |  2=1.48  |  0-2=1.8  |  2+=1.28  |  3+=1.9
 - OktagonBet 1=6.05  |  X=4.05  |  2=1.48  |  0-2=1.8  |  3+=1.91  |  GG=2.08  |  GG&3+=2.62  |  4+=3.45
@@ -284,9 +286,9 @@ Wanderers  vs  Cl.Nacional
 - Topbet     1=5.8  |  X=4.05  |  2=1.48
 
 Najveća 1  : 6.75  [Mozzart]
-Najveća X  : 4.05  [BetOle, OktagonBet, Topbet]
+Najveća X  : 4.05  [BetOle, Brazil_d, OktagonBet, Topbet]
 Najveća 2  : 1.55  [BalkanBet]
-Najveća 0-2: 1.80  [BetOle, Mozzart, OktagonBet]
+Najveća 0-2: 1.80  [BetOle, Brazil_d, Mozzart, OktagonBet]
 Najveća 3+ : 2.05  [BalkanBet]
 
 Arbitraža (1-X-2): NE   inv_sum=1.0402   profit≈-4.02%
@@ -298,6 +300,7 @@ Philadelphia  vs  Chicago
 
 - BalkanBet  1=1.85  |  X=3.85  |  2=3.75  |  0-2=2.4  |  2+=1.18  |  3+=1.55  |  GG=1.55  |  IGG=3.85  |  GG&3+=1.8  |  GG&4+=2.7  |  4+=2.35
 - BetOle     1=1.87  |  X=3.95  |  2=3.7  |  0-2=2.55  |  3+=1.5
+- Brazil_d   1=1.85  |  X=3.9  |  2=3.65  |  0-2=2.45  |  2+=1.14  |  3+=1.48
 - MaxBet     1=1.85  |  X=3.90  |  2=3.65
 - Mozzart    1=1.9  |  X=3.6  |  2=4  |  0-2=2.41  |  2+=1.17  |  3+=1.5
 - OktagonBet 1=1.83  |  X=3.85  |  2=3.5  |  0-2=2.47  |  3+=1.47  |  GG=1.46  |  GG&3+=1.72  |  4+=2.25
@@ -318,17 +321,18 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0291   profit≈-2.91%
 Carabobo  vs  Tachira
 
 - BalkanBet  1=2.45  |  X=3  |  2=2.7  |  0-2=1.49  |  2+=1.48  |  3+=2.45  |  GG=2  |  IGG=5.55  |  GG&3+=2.9  |  GG&4+=5.2  |  4+=4.75
-- BetOle     1=2.55  |  X=2.88  |  2=2.73  |  0-2=1.48  |  3+=2.41
+- BetOle     1=2.35  |  X=2.9  |  2=2.93  |  0-2=1.5  |  3+=2.37
+- Brazil_d   1=2.35  |  X=2.88  |  2=2.95  |  0-2=1.5  |  2+=1.43  |  3+=2.4
 - MaxBet     1=2.40  |  X=2.95  |  2=3.05
 - Mozzart    1=2.6  |  X=2.95  |  2=2.8  |  0-2=1.47  |  2+=1.55  |  3+=2.5
-- OktagonBet 1=2.55  |  X=2.88  |  2=2.75  |  0-2=1.48  |  3+=2.45  |  GG=2.07  |  GG&3+=2.95  |  4+=4.95
+- OktagonBet 1=2.35  |  X=2.9  |  2=2.95  |  0-2=1.5  |  3+=2.38  |  GG=2.05  |  GG&3+=2.88  |  4+=4.8
 - Soccer     1=2.55  |  X=2.8  |  2=3.0  |  0-2=1.5  |  2+=1.47  |  3+=2.4  |  GG=1.97  |  IGG=5.6  |  GG&3+=2.55
 - Topbet     1=2.5  |  X=2.95  |  2=2.8
 
 Najveća 1  : 2.60  [Mozzart]
 Najveća X  : 3.00  [BalkanBet]
 Najveća 2  : 3.05  [MaxBet]
-Najveća 0-2: 1.50  [Soccer]
+Najveća 0-2: 1.50  [BetOle, Brazil_d, OktagonBet, Soccer]
 Najveća 3+ : 2.50  [Mozzart]
 
 Arbitraža (1-X-2): NE   inv_sum=1.0458   profit≈-4.58%
@@ -340,18 +344,19 @@ Vega Real  vs  Cibao
 
 - BalkanBet  1=3.35  |  X=3.5  |  2=1.85  |  0-2=1.7  |  2+=1.27  |  3+=1.9  |  4+=3.3
 - BetOle     1=4  |  X=3.25  |  2=1.81  |  0-2=1.75  |  3+=1.95
+- Brazil_d   1=4  |  X=3.25  |  2=1.83  |  0-2=1.73  |  2+=1.29  |  3+=1.97
 - MaxBet     1=4.00  |  X=3.25  |  2=1.80
 - OktagonBet 1=4  |  X=3.25  |  2=1.81  |  0-2=1.74  |  3+=1.95  |  GG=1.88  |  GG&3+=2.45  |  4+=3.55
 - Soccer     1=3.95  |  X=3.25  |  2=1.82  |  0-2=1.77  |  2+=1.31  |  3+=1.95  |  GG=1.8  |  IGG=None  |  GG&3+=None
 
-Najveća 1  : 4.00  [BetOle, MaxBet, OktagonBet]
+Najveća 1  : 4.00  [BetOle, Brazil_d, MaxBet, OktagonBet]
 Najveća X  : 3.50  [BalkanBet]
 Najveća 2  : 1.85  [BalkanBet]
 Najveća 0-2: 1.77  [Soccer]
-Najveća 3+ : 1.95  [BetOle, OktagonBet, Soccer]
+Najveća 3+ : 1.97  [Brazil_d]
 
 Arbitraža (1-X-2): NE   inv_sum=1.0763   profit≈-7.63%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0778   profit≈-7.78%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0726   profit≈-7.26%
 
 --------------------------------------------------------------------------------------
 23:00   26.10.   [Ekvador 2]
@@ -359,6 +364,7 @@ Guayaquil  vs  Ind. Juniors
 
 - BalkanBet  1=1.68  |  X=3.5  |  2=4.35  |  0-2=1.72  |  2+=1.35  |  3+=2  |  GG=1.9  |  IGG=5.2  |  GG&3+=2.45  |  GG&4+=4.05  |  4+=3.6
 - BetOle     1=1.72  |  X=3.35  |  2=4.35  |  0-2=1.67  |  3+=2.03
+- Brazil_d   1=1.72  |  X=3.3  |  2=4.4  |  0-2=1.67  |  2+=1.32  |  3+=2.05
 - MaxBet     1=1.73  |  X=3.25  |  2=4.45
 - Mozzart    1=1.73  |  X=3.45  |  2=4.7  |  0-2=1.72  |  2+=1.33  |  3+=2
 - OktagonBet 1=1.72  |  X=3.35  |  2=4.35  |  0-2=1.68  |  3+=2.04  |  GG=1.98  |  GG&3+=2.6  |  4+=3.8
@@ -380,6 +386,7 @@ Nueve de Octubre  vs  Leones Del Norte
 
 - BalkanBet  1=3  |  X=3.1  |  2=2.2  |  0-2=1.47  |  2+=1.5  |  3+=2.5  |  GG=2  |  IGG=5.65  |  GG&3+=2.75  |  GG&4+=5.3  |  4+=4.9
 - BetOle     1=3.15  |  X=2.83  |  2=2.3  |  0-2=1.42  |  3+=2.6
+- Brazil_d   1=3.15  |  X=2.8  |  2=2.3  |  0-2=1.42  |  2+=1.51  |  3+=2.62
 - MaxBet     1=3.15  |  X=2.85  |  2=2.30
 - Mozzart    1=3.2  |  X=3  |  2=2.3  |  0-2=1.47  |  2+=1.55  |  3+=2.5
 - OktagonBet 1=3.15  |  X=2.85  |  2=2.28  |  0-2=1.43  |  3+=2.6  |  GG=2.2  |  GG&3+=3.2  |  4+=5.5
@@ -388,12 +395,12 @@ Nueve de Octubre  vs  Leones Del Norte
 
 Najveća 1  : 3.30  [Soccer]
 Najveća X  : 3.10  [BalkanBet]
-Najveća 2  : 2.30  [BetOle, MaxBet, Mozzart]
+Najveća 2  : 2.30  [BetOle, Brazil_d, MaxBet, Mozzart]
 Najveća 0-2: 1.47  [BalkanBet, Mozzart, Soccer]
-Najveća 3+ : 2.60  [BetOle, OktagonBet]
+Najveća 3+ : 2.62  [Brazil_d]
 
 Arbitraža (1-X-2): NE   inv_sum=1.0604   profit≈-6.04%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0649   profit≈-6.49%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0620   profit≈-6.20%
 
 --------------------------------------------------------------------------------------
 23:00   26.10.   [Ekvador 2]
@@ -422,16 +429,17 @@ Cavalry  vs  York Utd
 
 - BalkanBet  1=1.87  |  X=3.5  |  2=3.45  |  0-2=1.93  |  2+=1.27  |  3+=1.78  |  GG=1.65  |  IGG=4.35  |  GG&3+=2  |  GG&4+=3.35  |  4+=2.95
 - BetOle     1=1.95  |  X=3.35  |  2=3.3  |  0-2=1.95  |  3+=1.75
+- Brazil_d   1=1.95  |  X=3.35  |  2=3.35  |  0-2=1.95  |  2+=1.22  |  3+=1.77
 - MaxBet     1=1.95  |  X=3.35  |  2=3.35
 - Mozzart    1=1.88  |  X=3.7  |  2=3.35  |  0-2=1.85  |  2+=1.22  |  3+=1.75
 - OktagonBet 1=1.95  |  X=3.35  |  2=3.3  |  0-2=1.94  |  3+=1.75  |  GG=1.66  |  GG&3+=2.12  |  4+=3
 - Soccer     1=1.93  |  X=3.6  |  2=3.45  |  0-2=1.95  |  2+=1.24  |  3+=1.77  |  GG=1.7  |  IGG=4.15  |  GG&3+=2.03
 - Topbet     1=1.9  |  X=3.45  |  2=3.5
 
-Najveća 1  : 1.95  [BetOle, MaxBet, OktagonBet]
+Najveća 1  : 1.95  [BetOle, Brazil_d, MaxBet, OktagonBet]
 Najveća X  : 3.70  [Mozzart]
 Najveća 2  : 3.50  [Topbet]
-Najveća 0-2: 1.95  [BetOle, Soccer]
+Najveća 0-2: 1.95  [BetOle, Brazil_d, Soccer]
 Najveća 3+ : 1.78  [BalkanBet]
 
 Arbitraža (1-X-2): NE   inv_sum=1.0688   profit≈-6.88%
@@ -480,7 +488,7 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0749   profit≈-7.49%
 Emelec  vs  Delfin
 
 - BalkanBet  1=1.65  |  X=3.5  |  2=4.9  |  0-2=1.6  |  2+=1.42  |  3+=2.2  |  GG=2.15  |  IGG=5.95  |  GG&3+=2.8  |  GG&4+=4.6  |  4+=4.1
-- OktagonBet 1=1.67  |  X=3.2  |  2=5.05  |  0-2=1.55  |  3+=2.25  |  GG=2.22  |  GG&3+=3  |  4+=4.45
+- OktagonBet 1=1.67  |  X=3.2  |  2=5  |  0-2=1.56  |  3+=2.25  |  GG=2.2  |  GG&3+=3  |  4+=4.4
 - Soccer     1=1.65  |  X=3.35  |  2=5.4  |  0-2=1.6  |  2+=1.4  |  3+=2.17  |  GG=2.08  |  IGG=5.7  |  GG&3+=2.6
 - Topbet     1=1.68  |  X=3.55  |  2=4.5
 
@@ -587,13 +595,13 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0668   profit≈-6.68%
 00:00   27.10.   [Paragvaj 1]
 Recoleta  vs  Libertad
 
-- BalkanBet  1=3.95  |  X=3.6  |  2=1.77  |  0-2=1.88  |  2+=1.28  |  3+=1.82  |  GG=1.75  |  IGG=4.8  |  GG&3+=2.2  |  GG&4+=3.5  |  4+=3.05
+- BalkanBet  1=3.95  |  X=3.5  |  2=1.8  |  0-2=1.88  |  2+=1.28  |  3+=1.82  |  GG=1.65  |  IGG=4.45  |  GG&3+=2.1  |  GG&4+=3.45  |  4+=3.05
 - OktagonBet 1=3.9  |  X=3.45  |  2=1.85  |  0-2=1.89  |  3+=1.81  |  GG=1.74  |  GG&3+=2.2  |  4+=3.15
-- Soccer     1=3.9  |  X=3.65  |  2=1.8  |  0-2=1.87  |  2+=1.26  |  3+=1.83  |  GG=1.78  |  IGG=4.45  |  GG&3+=2.15
+- Soccer     1=3.9  |  X=3.55  |  2=1.83  |  0-2=1.87  |  2+=1.26  |  3+=1.83  |  GG=1.75  |  IGG=4.4  |  GG&3+=2.1
 - Topbet     1=3.6  |  X=3.65  |  2=1.85
 
 Najveća 1  : 3.95  [BalkanBet]
-Najveća X  : 3.65  [Soccer, Topbet]
+Najveća X  : 3.65  [Topbet]
 Najveća 2  : 1.85  [OktagonBet, Topbet]
 Najveća 0-2: 1.89  [OktagonBet]
 Najveća 3+ : 1.83  [Soccer]
@@ -678,17 +686,17 @@ Independiente Cho.  vs  Veraguas
 
 - BalkanBet  1=1.42  |  X=4.25  |  2=5.85  |  0-2=1.9  |  2+=1.28  |  3+=1.8  |  GG=1.95  |  IGG=5.15  |  GG&3+=2.35  |  GG&4+=3.5  |  4+=3
 - OktagonBet 1=1.46  |  X=3.9  |  2=6.05  |  0-2=1.91  |  3+=1.77  |  GG=1.98  |  GG&3+=2.45  |  4+=3.05
-- Soccer     1=1.48  |  X=4.0  |  2=6.2  |  0-2=1.9  |  2+=1.25  |  3+=1.8  |  GG=1.92  |  IGG=4.85  |  GG&3+=2.27
+- Soccer     1=1.5  |  X=3.95  |  2=6.0  |  0-2=1.88  |  2+=1.26  |  3+=1.82  |  GG=1.93  |  IGG=4.9  |  GG&3+=2.3
 - Topbet     1=1.48  |  X=4.1  |  2=6
 
-Najveća 1  : 1.48  [Soccer, Topbet]
+Najveća 1  : 1.50  [Soccer]
 Najveća X  : 4.25  [BalkanBet]
-Najveća 2  : 6.20  [Soccer]
+Najveća 2  : 6.05  [OktagonBet]
 Najveća 0-2: 1.91  [OktagonBet]
-Najveća 3+ : 1.80  [BalkanBet, Soccer]
+Najveća 3+ : 1.82  [Soccer]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0723   profit≈-7.23%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0791   profit≈-7.91%
+Arbitraža (1-X-2): NE   inv_sum=1.0673   profit≈-6.73%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0730   profit≈-7.30%
 
 --------------------------------------------------------------------------------------
 00:30   27.10.   [Bolivija Liga Kup]
@@ -715,7 +723,7 @@ Palmeiras  vs  Cruzeiro
 
 - BalkanBet  1=1.7  |  X=3.65  |  2=4.9  |  0-2=1.79  |  2+=1.35  |  3+=2  |  GG=2  |  IGG=5.45  |  GG&3+=2.5  |  GG&4+=4.05  |  4+=3.6
 - Mozzart    1=1.75  |  X=3.5  |  2=5  |  0-2=1.76  |  2+=1.3  |  3+=1.95
-- OktagonBet 1=1.71  |  X=3.6  |  2=4.75  |  0-2=1.82  |  3+=1.9  |  GG=1.89  |  GG&3+=2.4  |  4+=3.4
+- OktagonBet 1=1.72  |  X=3.6  |  2=4.75  |  0-2=1.82  |  3+=1.9  |  GG=1.89  |  GG&3+=2.4  |  4+=3.4
 - Soccer     1=1.73  |  X=3.7  |  2=4.7  |  0-2=1.82  |  2+=1.3  |  3+=1.98  |  GG=1.9  |  IGG=4.85  |  GG&3+=2.4
 - Topbet     1=1.7  |  X=3.65  |  2=4
 
@@ -785,20 +793,21 @@ Arbitraža (1-X-2): NE   inv_sum=1.0543   profit≈-5.43%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0658   profit≈-6.58%
 
 --------------------------------------------------------------------------------------
-01:00   27.10.
-Racing Club Aruba  vs  Britannia
+01:00   27.10.   [Aruba 1]
+Racing Club Aruba  vs  SV Britannia
 
+- BalkanBet  1=3.15  |  X=3.75  |  2=1.9  |  0-2=1.98  |  2+=1.22  |  3+=1.65  |  4+=2.6
 - OktagonBet 1=3.2  |  X=3.55  |  2=1.95  |  0-2=2.15  |  3+=1.6  |  GG=1.55  |  GG&3+=1.9  |  4+=2.6
 - Soccer     1=3.3  |  X=3.45  |  2=1.93  |  0-2=2.13  |  2+=1.19  |  3+=1.63  |  GG=1.57  |  IGG=None  |  GG&3+=None
 
 Najveća 1  : 3.30  [Soccer]
-Najveća X  : 3.55  [OktagonBet]
+Najveća X  : 3.75  [BalkanBet]
 Najveća 2  : 1.95  [OktagonBet]
 Najveća 0-2: 2.15  [OktagonBet]
-Najveća 3+ : 1.63  [Soccer]
+Najveća 3+ : 1.65  [BalkanBet]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0975   profit≈-9.75%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0786   profit≈-7.86%
+Arbitraža (1-X-2): NE   inv_sum=1.0825   profit≈-8.25%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0712   profit≈-7.12%
 
 --------------------------------------------------------------------------------------
 01:00   27.10.   [Urugvaj 1]
@@ -881,17 +890,17 @@ San Diego  vs  Portland
 - BalkanBet  1=1.58  |  X=4.25  |  2=5  |  0-2=2.45  |  2+=1.17  |  3+=1.53  |  GG=1.6  |  IGG=3.95  |  GG&3+=1.85  |  GG&4+=2.75  |  4+=2.35
 - Mozzart    1=1.58  |  X=4.1  |  2=5.7  |  0-2=2.41  |  2+=1.17  |  3+=1.5
 - OktagonBet 1=1.59  |  X=4.15  |  2=4.6  |  0-2=2.55  |  3+=1.46  |  GG=1.52  |  GG&3+=1.78  |  4+=2.2
-- Soccer     1=1.6  |  X=4.1  |  2=5.05  |  0-2=2.4  |  2+=1.15  |  3+=1.57  |  GG=1.6  |  IGG=3.75  |  GG&3+=1.85
+- Soccer     1=1.6  |  X=4.2  |  2=5.05  |  0-2=2.6  |  2+=1.13  |  3+=1.5  |  GG=1.55  |  IGG=3.55  |  GG&3+=1.8
 - Topbet     1=1.58  |  X=4.35  |  2=4.64
 
 Najveća 1  : 1.60  [Soccer]
 Najveća X  : 4.35  [Topbet]
 Najveća 2  : 5.70  [Mozzart]
-Najveća 0-2: 2.55  [OktagonBet]
-Najveća 3+ : 1.57  [Soccer]
+Najveća 0-2: 2.60  [Soccer]
+Najveća 3+ : 1.53  [BalkanBet]
 
 Arbitraža (1-X-2): NE   inv_sum=1.0303   profit≈-3.03%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0291   profit≈-2.91%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0382   profit≈-3.82%
 
 --------------------------------------------------------------------------------------
 03:00
@@ -932,16 +941,16 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0774   profit≈-7.74%
 Macarthur  vs  Adelaide Utd
 
 - BalkanBet  1=2.4  |  X=3.65  |  2=2.55  |  0-2=2.55  |  2+=1.15  |  3+=1.45  |  GG=1.42  |  IGG=3.35  |  GG&3+=1.7  |  GG&4+=2.45  |  4+=2.1
-- Mozzart    1=2.35  |  X=3.4  |  2=2.75  |  0-2=2.41  |  2+=1.17  |  3+=1.5
+- Mozzart    1=2.35  |  X=3.45  |  2=2.75  |  0-2=2.55  |  2+=1.15  |  3+=1.45
 - OktagonBet 1=2.28  |  X=3.75  |  2=2.75  |  0-2=2.55  |  3+=1.47  |  GG=1.43  |  GG&3+=1.69  |  4+=2.22
-- Soccer     1=2.27  |  X=3.7  |  2=2.65  |  0-2=2.5  |  2+=1.13  |  3+=1.47  |  GG=1.43  |  IGG=3.25  |  GG&3+=1.65
+- Soccer     1=2.27  |  X=3.7  |  2=2.65  |  0-2=2.45  |  2+=1.13  |  3+=1.5  |  GG=1.45  |  IGG=3.3  |  GG&3+=1.65
 - Topbet     1=2.3  |  X=3.75  |  2=2.81
 
 Najveća 1  : 2.40  [BalkanBet]
 Najveća X  : 3.75  [OktagonBet, Topbet]
 Najveća 2  : 2.81  [Topbet]
-Najveća 0-2: 2.55  [BalkanBet, OktagonBet]
-Najveća 3+ : 1.50  [Mozzart]
+Najveća 0-2: 2.55  [BalkanBet, Mozzart, OktagonBet]
+Najveća 3+ : 1.50  [Soccer]
 
 Arbitraža (1-X-2): NE   inv_sum=1.0392   profit≈-3.92%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0588   profit≈-5.88%
@@ -1081,18 +1090,19 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0576   profit≈-5.76%
 Dubai City FC  vs  AL Arabi (UAE)
 
 - BalkanBet  1=4  |  X=3.75  |  2=1.65  |  0-2=1.88  |  2+=1.22  |  3+=1.73  |  4+=2.85
+- Mozzart    1=5.1  |  X=3.5  |  2=1.67  |  0-2=1.9  |  2+=1.27  |  3+=1.8
 - OktagonBet 1=4.45  |  X=3.6  |  2=1.65  |  0-2=1.96  |  3+=1.73  |  GG=1.75  |  GG&3+=2.18  |  4+=2.95
 - Soccer     1=4.45  |  X=3.75  |  2=1.68  |  0-2=1.95  |  2+=1.24  |  3+=1.77  |  GG=1.75  |  IGG=4.4  |  GG&3+=2.1
 - Topbet     1=4.3  |  X=3.8  |  2=1.65
 
-Najveća 1  : 4.45  [OktagonBet, Soccer]
+Najveća 1  : 5.10  [Mozzart]
 Najveća X  : 3.80  [Topbet]
 Najveća 2  : 1.68  [Soccer]
 Najveća 0-2: 1.96  [OktagonBet]
-Najveća 3+ : 1.77  [Soccer]
+Najveća 3+ : 1.80  [Mozzart]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0831   profit≈-8.31%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0752   profit≈-7.52%
+Arbitraža (1-X-2): NE   inv_sum=1.0545   profit≈-5.45%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0658   profit≈-6.58%
 
 --------------------------------------------------------------------------------------
 13:50   27.10.
@@ -1397,7 +1407,7 @@ Botosani  vs  Hermannstadt
 - Mozzart    1=2.2  |  X=3.35  |  2=3.35  |  0-2=1.69  |  2+=1.35  |  3+=2.05
 - OktagonBet 1=2.2  |  X=3.05  |  2=3.25  |  0-2=1.65  |  3+=2.1  |  GG=1.89  |  GG&3+=2.55  |  4+=3.95
 - Soccer     1=2.25  |  X=3.2  |  2=3.25  |  0-2=1.65  |  2+=1.37  |  3+=2.12  |  GG=1.87  |  IGG=5.0  |  GG&3+=2.42
-- Topbet     1=2.15  |  X=3.2  |  2=3
+- Topbet     1=2.15  |  X=3.15  |  2=3
 
 Najveća 1  : 2.25  [Soccer]
 Najveća X  : 3.35  [Mozzart]
@@ -2087,16 +2097,16 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0668   profit≈-6.68%
 23:15
 Jaguares C.  vs  Boca Juniors Cali
 
-- Mozzart    1=1.43  |  X=4.1  |  2=7.25  |  0-2=1.76  |  2+=1.28  |  3+=1.95
-- Soccer     1=1.45  |  X=3.9  |  2=7.1  |  0-2=1.77  |  2+=1.3  |  3+=1.93  |  GG=2.08  |  IGG=5.5  |  GG&3+=2.5
+- Mozzart    1=1.38  |  X=4.3  |  2=8  |  0-2=1.76  |  2+=1.28  |  3+=1.95
+- Soccer     1=1.43  |  X=4.1  |  2=7.0  |  0-2=1.77  |  2+=1.31  |  3+=1.95  |  GG=2.18  |  IGG=5.7  |  GG&3+=2.65
 
-Najveća 1  : 1.45  [Soccer]
-Najveća X  : 4.10  [Mozzart]
-Najveća 2  : 7.25  [Mozzart]
+Najveća 1  : 1.43  [Soccer]
+Najveća X  : 4.30  [Mozzart]
+Najveća 2  : 8.00  [Mozzart]
 Najveća 0-2: 1.77  [Soccer]
-Najveća 3+ : 1.95  [Mozzart]
+Najveća 3+ : 1.95  [Mozzart, Soccer]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0715   profit≈-7.15%
+Arbitraža (1-X-2): NE   inv_sum=1.0569   profit≈-5.69%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0778   profit≈-7.78%
 
 --------------------------------------------------------------------------------------
@@ -2286,7 +2296,7 @@ Panetolikos  vs  Ellas Syrou
 
 - Mozzart    1=1.25  |  X=5.2  |  2=11
 - OktagonBet 1=1.2  |  X=5.6  |  2=13.5  |  0-2=2.07  |  3+=1.68  |  GG=2.65  |  GG&3+=3.2  |  4+=2.8
-- Soccer     1=1.23  |  X=5.3  |  2=12.2  |  0-2=2.0  |  2+=1.22  |  3+=1.72  |  GG=2.48  |  IGG=6.3  |  GG&3+=2.85
+- Soccer     1=1.22  |  X=5.4  |  2=12.6  |  0-2=2.0  |  2+=1.22  |  3+=1.72  |  GG=2.55  |  IGG=6.5  |  GG&3+=2.9
 
 Najveća 1  : 1.25  [Mozzart]
 Najveća X  : 5.60  [OktagonBet]
@@ -3069,15 +3079,15 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0875   profit≈-8.75%
 20:45   28.10.   [ENG6]
 Dover  vs  Chelmsford City
 
-- Soccer     1=3.3  |  X=3.45  |  2=2.03  |  0-2=2.0  |  2+=1.23  |  3+=1.73  |  GG=1.63  |  IGG=4.0  |  GG&3+=1.95
+- Soccer     1=2.95  |  X=3.45  |  2=2.2  |  0-2=2.0  |  2+=1.23  |  3+=1.73  |  GG=1.62  |  IGG=3.95  |  GG&3+=1.93
 
-Najveća 1  : 3.30  [Soccer]
+Najveća 1  : 2.95  [Soccer]
 Najveća X  : 3.45  [Soccer]
-Najveća 2  : 2.03  [Soccer]
+Najveća 2  : 2.20  [Soccer]
 Najveća 0-2: 2.00  [Soccer]
 Najveća 3+ : 1.73  [Soccer]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0855   profit≈-8.55%
+Arbitraža (1-X-2): NE   inv_sum=1.0834   profit≈-8.34%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0780   profit≈-7.80%
 
 --------------------------------------------------------------------------------------
@@ -3101,16 +3111,16 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0606   profit≈-6.06%
 Southport  vs  Peterborough Sports
 
 - BalkanBet  1=2.05  |  X=3.5  |  2=3.1  |  0-2=1.87  |  2+=1.28  |  3+=1.83  |  GG=1.7  |  IGG=4.55  |  GG&3+=2.1  |  GG&4+=3.5  |  4+=3.1
-- Soccer     1=2.05  |  X=3.5  |  2=3.2  |  0-2=1.87  |  2+=1.26  |  3+=1.83  |  GG=1.72  |  IGG=4.3  |  GG&3+=2.08
+- Soccer     1=2.05  |  X=3.55  |  2=3.15  |  0-2=1.85  |  2+=1.27  |  3+=1.85  |  GG=1.73  |  IGG=4.3  |  GG&3+=2.1
 
 Najveća 1  : 2.05  [BalkanBet, Soccer]
-Najveća X  : 3.50  [BalkanBet, Soccer]
-Najveća 2  : 3.20  [Soccer]
-Najveća 0-2: 1.87  [BalkanBet, Soccer]
-Najveća 3+ : 1.83  [BalkanBet, Soccer]
+Najveća X  : 3.55  [Soccer]
+Najveća 2  : 3.15  [Soccer]
+Najveća 0-2: 1.87  [BalkanBet]
+Najveća 3+ : 1.85  [Soccer]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0860   profit≈-8.60%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0812   profit≈-8.12%
+Arbitraža (1-X-2): NE   inv_sum=1.0870   profit≈-8.70%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0753   profit≈-7.53%
 
 --------------------------------------------------------------------------------------
 21:00   28.10.   [Engleska EFL Kup]
@@ -3343,27 +3353,27 @@ Como  vs  Verona
 
 - BalkanBet  1=1.62  |  X=3.8  |  2=6.25  |  0-2=1.74  |  2+=1.4  |  3+=2.15  |  GG=2.2  |  IGG=6.05  |  GG&3+=2.8  |  GG&4+=4.5  |  4+=4
 - Mozzart    1=1.62  |  X=3.6  |  2=6.25  |  0-2=1.62  |  2+=1.38  |  3+=2.15
-- OktagonBet 1=1.65  |  X=3.6  |  2=6.05  |  0-2=1.74  |  3+=2.1  |  GG=2.18  |  GG&3+=2.85  |  4+=3.9
+- OktagonBet 1=1.65  |  X=3.6  |  2=5.95  |  0-2=1.75  |  3+=2.1  |  GG=2.18  |  GG&3+=2.85  |  4+=3.85
 - Soccer     1=1.6  |  X=3.8  |  2=5.8  |  0-2=1.7  |  2+=1.35  |  3+=2.05  |  GG=2.05  |  IGG=5.45  |  GG&3+=2.6
 - Topbet     1=1.62  |  X=3.9  |  2=5.9
 
 Najveća 1  : 1.65  [OktagonBet]
 Najveća X  : 3.90  [Topbet]
 Najveća 2  : 6.25  [BalkanBet, Mozzart]
-Najveća 0-2: 1.74  [BalkanBet, OktagonBet]
+Najveća 0-2: 1.75  [OktagonBet]
 Najveća 3+ : 2.15  [BalkanBet, Mozzart]
 
 Arbitraža (1-X-2): NE   inv_sum=1.0225   profit≈-2.25%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0398   profit≈-3.98%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0365   profit≈-3.65%
 
 --------------------------------------------------------------------------------------
 18:30   29.10.   [Italija 1]
 Juventus  vs  Udinese
 
 - BalkanBet  1=1.48  |  X=4.5  |  2=7  |  0-2=1.88  |  2+=1.34  |  3+=1.97  |  GG=2.15  |  IGG=6.1  |  GG&3+=2.6  |  GG&4+=4  |  4+=3.5
-- Mozzart    1=1.47  |  X=4.2  |  2=7.5  |  0-2=1.76  |  2+=1.28  |  3+=1.95
+- Mozzart    1=1.47  |  X=4.2  |  2=7.5  |  0-2=1.8  |  2+=1.28  |  3+=1.9
 - OktagonBet 1=1.49  |  X=4.05  |  2=7.45  |  0-2=1.89  |  3+=1.92  |  GG=2.18  |  GG&3+=2.75  |  4+=3.4
-- Soccer     1=1.47  |  X=4.2  |  2=7.0  |  0-2=1.82  |  2+=1.28  |  3+=1.88  |  GG=2.02  |  IGG=5.2  |  GG&3+=2.48
+- Soccer     1=1.47  |  X=4.1  |  2=7.3  |  0-2=1.8  |  2+=1.29  |  3+=1.88  |  GG=2.0  |  IGG=5.25  |  GG&3+=2.45
 - Topbet     1=1.48  |  X=4.35  |  2=7.4
 
 Najveća 1  : 1.49  [OktagonBet]
@@ -3436,16 +3446,16 @@ Metz  vs  Lens
 - BalkanBet  1=5.95  |  X=4.25  |  2=1.57  |  0-2=2.06  |  2+=1.28  |  3+=1.8  |  GG=1.9  |  IGG=5.05  |  GG&3+=2.25  |  GG&4+=3.5  |  4+=3.05
 - Mozzart    1=6  |  X=3.9  |  2=1.6  |  0-2=1.9  |  2+=1.25  |  3+=1.8
 - OktagonBet 1=5.85  |  X=3.95  |  2=1.6  |  0-2=2.05  |  3+=1.77  |  GG=1.88  |  GG&3+=2.32  |  4+=3
-- Soccer     1=5.85  |  X=4.05  |  2=1.55  |  0-2=1.97  |  2+=1.23  |  3+=1.75  |  GG=1.8  |  IGG=4.5  |  GG&3+=2.15
+- Soccer     1=6.1  |  X=3.95  |  2=1.55  |  0-2=1.95  |  2+=1.24  |  3+=1.77  |  GG=1.8  |  IGG=4.6  |  GG&3+=2.2
 - Topbet     1=5.95  |  X=4.3  |  2=1.55
 
-Najveća 1  : 6.00  [Mozzart]
+Najveća 1  : 6.10  [Soccer]
 Najveća X  : 4.30  [Topbet]
 Najveća 2  : 1.60  [Mozzart, OktagonBet]
 Najveća 0-2: 2.06  [BalkanBet]
 Najveća 3+ : 1.80  [BalkanBet, Mozzart]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0242   profit≈-2.42%
+Arbitraža (1-X-2): NE   inv_sum=1.0215   profit≈-2.15%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0410   profit≈-4.10%
 
 --------------------------------------------------------------------------------------
@@ -4865,7 +4875,7 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0618   profit≈-6.18%
 Wolfsburg  vs  Hoffenheim
 
 - BalkanBet  1=2.45  |  X=3.65  |  2=2.6  |  0-2=2.35  |  2+=1.2  |  3+=1.57  |  GG=1.5  |  IGG=3.85  |  GG&3+=1.95  |  GG&4+=2.8  |  4+=2.45
-- Soccer     1=2.45  |  X=3.75  |  2=2.55  |  0-2=2.3  |  2+=1.15  |  3+=1.55  |  GG=1.48  |  IGG=3.45  |  GG&3+=1.75
+- Soccer     1=2.48  |  X=3.75  |  2=2.55  |  0-2=2.3  |  2+=1.16  |  3+=1.55  |  GG=1.5  |  IGG=3.5  |  GG&3+=1.75
 - Topbet     1=2.5  |  X=3.85  |  2=2.55
 
 Najveća 1  : 2.50  [Topbet]
@@ -6001,16 +6011,16 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.1116   profit≈-11.16%
 13:30
 Shkendija  vs  Vardar
 
-- Mozzart    1=1.9  |  X=3.7  |  2=3.3  |  0-2=1.64  |  2+=1.3  |  3+=2
+- Mozzart    1=2  |  X=3.7  |  2=3  |  0-2=1.6  |  2+=1.32  |  3+=2.05
 - OktagonBet 1=2.2  |  X=3  |  2=3.1  |  0-2=1.64  |  3+=2.08  |  GG=1.88  |  GG&3+=2.55  |  4+=3.95
 
 Najveća 1  : 2.20  [OktagonBet]
 Najveća X  : 3.70  [Mozzart]
-Najveća 2  : 3.30  [Mozzart]
-Najveća 0-2: 1.64  [Mozzart, OktagonBet]
+Najveća 2  : 3.10  [OktagonBet]
+Najveća 0-2: 1.64  [OktagonBet]
 Najveća 3+ : 2.08  [OktagonBet]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0278   profit≈-2.78%
+Arbitraža (1-X-2): NE   inv_sum=1.0474   profit≈-4.74%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0905   profit≈-9.05%
 
 --------------------------------------------------------------------------------------
@@ -7181,6 +7191,24 @@ Arbitraža (1-X-2): nedovoljno podataka
 Arbitraža (0-2 / 3+): nedovoljno podataka
 
 --------------------------------------------------------------------------------------
+22:30   26.10.   [Chile, Primera Division]
+O.Higgins  vs  Coquimbo
+
+- BetOle     1=2.7  |  X=2.97  |  2=2.62  |  0-2=1.53  |  3+=2.35
+- Brazil_d   1=2.7  |  X=2.95  |  2=2.65  |  0-2=1.53  |  2+=1.42  |  3+=2.35
+- MaxBet     1=2.70  |  X=2.95  |  2=2.60
+- OktagonBet 1=2.7  |  X=2.95  |  2=2.62  |  0-2=1.53  |  3+=2.32  |  GG=2.02  |  GG&3+=2.8  |  4+=4.65
+
+Najveća 1  : 2.70  [BetOle, Brazil_d, MaxBet, OktagonBet]
+Najveća X  : 2.97  [BetOle]
+Najveća 2  : 2.65  [Brazil_d]
+Najveća 0-2: 1.53  [BetOle, Brazil_d, OktagonBet]
+Najveća 3+ : 2.35  [BetOle, Brazil_d]
+
+Arbitraža (1-X-2): NE   inv_sum=1.0844   profit≈-8.44%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0791   profit≈-7.91%
+
+--------------------------------------------------------------------------------------
 22:05   26.10.   [Colombia, Primera B - Clausura]
 Real Cundinamarca  vs  Cortulua
 
@@ -7194,23 +7222,6 @@ Najveća 3+ : 2.25  [BetOle]
 
 Arbitraža (1-X-2): NE   inv_sum=1.1094   profit≈-10.94%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0896   profit≈-8.96%
-
---------------------------------------------------------------------------------------
-22:30   26.10.   [Chile, Primera Division]
-O.Higgins  vs  Coquimbo
-
-- BetOle     1=2.7  |  X=2.97  |  2=2.62  |  0-2=1.53  |  3+=2.35
-- MaxBet     1=2.70  |  X=2.95  |  2=2.60
-- OktagonBet 1=2.7  |  X=2.95  |  2=2.62  |  0-2=1.53  |  3+=2.32  |  GG=2.02  |  GG&3+=2.8  |  4+=4.65
-
-Najveća 1  : 2.70  [BetOle, MaxBet, OktagonBet]
-Najveća X  : 2.97  [BetOle]
-Najveća 2  : 2.62  [BetOle, OktagonBet]
-Najveća 0-2: 1.53  [BetOle, OktagonBet]
-Najveća 3+ : 2.35  [BetOle]
-
-Arbitraža (1-X-2): NE   inv_sum=1.0888   profit≈-8.88%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0791   profit≈-7.91%
 
 --------------------------------------------------------------------------------------
 23:00   26.10.   [Mexico, Liga Premier Serie A]
@@ -7826,15 +7837,15 @@ Arbitraža (0-2 / 3+): nedovoljno podataka
 13:30   02.11.   [Nemačka 2]
 Paderborn  vs  Greuther Furth
 
-- Topbet     1=1.42  |  X=4.75  |  2=5.7
+- Topbet     1=1.4  |  X=4.9  |  2=6.1
 
-Najveća 1  : 1.42  [Topbet]
-Najveća X  : 4.75  [Topbet]
-Najveća 2  : 5.70  [Topbet]
+Najveća 1  : 1.40  [Topbet]
+Najveća X  : 4.90  [Topbet]
+Najveća 2  : 6.10  [Topbet]
 Najveća 0-2: -
 Najveća 3+ : -
 
-Arbitraža (1-X-2): NE   inv_sum=1.0902   profit≈-9.02%
+Arbitraža (1-X-2): NE   inv_sum=1.0823   profit≈-8.23%
 Arbitraža (0-2 / 3+): nedovoljno podataka
 
 --------------------------------------------------------------------------------------
