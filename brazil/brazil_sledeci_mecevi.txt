@@ -40,167 +40,6 @@ POBEDNICI
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-SPAIN, LaLiga
-449
-18:30
-Osasuna
-Celta Vigo
-1063
-1
-2.35
-X
-3.15
-2
-3.30
-0-2
-1.75
-2+
-1.36
-3+
-2.10
-BELGIUM, Jupiler Pro League
-487
-18:30
-Genk
-RAAL La Louviere
-923
-1
-1.65
-X
-3.70
-2
-5.10
-0-2
-1.78
-2+
-1.29
-3+
-1.95
-CZECH REPUBLIC, Chance Liga
-601
-18:30
-Plzen
-Ostrava
-833
-1
-1.43
-X
-4.50
-2
-6.70
-0-2
-2.30
-2+
-1.16
-3+
-1.56
-ESTONIA, Meistriliiga
-37571
-18:30
-Parnu JK Vaprus
-Levadia
-827
-1
-7.60
-X
-4.90
-2
-1.30
-0-2
-2.60
-2+
-1.11
-3+
-1.43
-GREECE, Super League
-265
-18:30
-PAOK
-Volos
-824
-1
-1.30
-X
-4.80
-2
-8.75
-0-2
-2.22
-2+
-1.17
-3+
-1.59
-SPAIN, LaLiga2
-434
-18:30
-Almeria
-Castellon
-937
-1
-1.94
-X
-3.75
-2
-3.45
-0-2
-2.40
-2+
-1.15
-3+
-1.51
-435
-18:30
-Gijon
-Zaragoza
-922
-1
-1.66
-X
-3.55
-2
-5.30
-0-2
-1.70
-2+
-1.32
-3+
-2.04
-SPAIN, Tercera Division - Group 9
-37726
-18:30
-Marbelli
-Arenas Armilla
-652
-1
-2.25
-X
-2.88
-2
-2.95
-0-2
-1.55
-2+
-1.36
-3+
-2.20
-SPAIN, Tercera Division - Group 13
-37733
-18:30
-Deportivo Maritimo
-EF Santa Cruz
-654
-1
-2.65
-X
-2.90
-2
-2.45
-0-2
-1.60
-2+
-1.33
-3+
-2.10
 SPAIN, Tercera Division - Group 9
 38036
 18:45
@@ -368,53 +207,53 @@ Forge
 Atl. Ottawa
 654
 1
-1.81
+1.85
 X
 3.30
 2
-3.95
+3.80
 0-2
 1.80
 2+
-1.26
+1.27
 3+
-1.87
+1.90
 CHILE, Chile Segunda
 38006
 19:00
 Osorno
 Deportes Rengo
-653
+652
 1
-1.50
+1.36
 X
-4.45
+4.75
 2
-4.55
+6.00
 0-2
-2.20
+2.25
 2+
-1.17
+1.16
 3+
-1.59
+1.56
 CHILE, Primera B
 797
 19:00
 Cobreloa
 S. Wanderers
-820
+824
 1
-2.10
+1.93
 X
-3.05
+3.15
 2
-3.30
+3.70
 0-2
-1.67
+1.63
 2+
-1.32
+1.34
 3+
-2.05
+2.12
 ECUADOR, Liga Pro - Relegation Group
 1407
 19:00
@@ -456,25 +295,25 @@ PERU, Liga 2 - Play Offs
 19:00
 Moquegua
 FC Cajamarca
-825
+826
 1
-1.85
+1.89
 X
-3.35
+3.25
 2
-3.70
+3.65
 0-2
-1.85
+1.78
 2+
-1.25
+1.28
 3+
-1.84
+1.92
 PORTUGAL, Liga Portugal
 106
 19:00
 Tondela
 Sporting CP
-973
+917
 1
 10.5
 X
@@ -546,17 +385,17 @@ SPAIN, Tercera Division - Group 5
 19:00
 Vilassar de Mar
 CF Badalona
-649
+650
 1
-4.70
+4.50
 X
-3.40
+3.30
 2
-1.62
+1.66
 0-2
 1.65
 2+
-1.30
+1.31
 3+
 2.02
 SPAIN, Tercera RFEF - Group 6
@@ -834,7 +673,7 @@ BRAZIL, Serie A
 20:00
 Botafogo
 Santos
-1000
+922
 1
 1.78
 X
@@ -997,7 +836,7 @@ Legia
 Lech Poznan
 835
 1
-2.12
+2.10
 X
 3.45
 2
@@ -1121,7 +960,7 @@ ITALY, Serie A
 20:45
 Lazio
 Juventus
-1065
+978
 1
 3.65
 X
@@ -1265,19 +1104,19 @@ PERU, Liga 2 - Promotion - Play Offs
 21:15
 Cesar Vallejo
 Union Comercia
-830
+828
 1
-2.38
+2.10
 X
-3.05
+3.10
 2
-2.80
+3.25
 0-2
-1.70
+1.72
 2+
-1.31
+1.30
 3+
-2.02
+1.99
 ECUADOR, Liga Pro - Placement Group
 1396
 21:30
@@ -1479,7 +1318,7 @@ BRAZIL, Serie A
 22:30
 Bragantino
 Vasco
-1006
+925
 1
 2.15
 X
@@ -1515,17 +1354,17 @@ CHILE, Primera Division
 22:30
 O.Higgins
 Coquimbo
-824
+821
 1
-2.80
+2.70
 X
 2.95
 2
-2.55
+2.62
 0-2
 1.55
 2+
-1.40
+1.41
 3+
 2.30
 74
@@ -1604,19 +1443,19 @@ CANADA, Canadian Premier League - Play Offs
 23:00
 Cavalry
 York Utd
-655
+657
 1
-1.87
+1.95
 X
-3.40
+3.35
 2
-3.55
+3.35
 0-2
 1.95
 2+
 1.22
 3+
-1.75
+1.77
 DOMINICAN REPUBLIC, LDF
 34409
 23:00
@@ -1724,20 +1563,20 @@ X
 3+
 1.36
 Odigrani tiketi
-601
-Plzen - Ostrava
-26.10. 18:30
+38280
+Barra Mansa - Paraty
+26.10. 19:00
 KONAČAN ISHOD 
 1
-  1.43  
+  6.50  
 Običan
 Sistem
 Kvota:
-1.43
+6.50
 Uplata:
 20.00 RSD
 Dobitak:
-28.60 RSD
+130.00 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express
