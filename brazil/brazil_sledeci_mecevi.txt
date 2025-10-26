@@ -22,7 +22,6 @@ Sutra
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
-BOOST TIKETI
 KOŠARKA IGRAČI
 TENIS
 HOKEJ
@@ -40,96 +39,42 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-NETHERLANDS, Eredivisie
-258
-16:45
-AZ Alkmaar
-Utrecht
-934
-1
-1.51
-X
-4.55
-2
-5.60
-0-2
-2.50
-2+
-1.13
-3+
-1.48
-SPAIN, Tercera RFEF - Group 16
-38252
-16:45
-Autol
-Comillas
-653
-1
-2.08
-X
-3.00
-2
-3.15
-0-2
-1.68
-2+
-1.29
-3+
-1.97
 SERBIA, Superliga
 61
 17:00
 Radnicki Nis
 Crvena zvezda
-816
+809
 1
-13.0
+15.0
 X
-7.00
+7.50
 2
-1.16
+1.13
 0-2
-3.55
+3.60
 2+
-1.05
+1.04
 3+
-1.25
-ANGOLA, Girabola
-38258
-17:00
-Luanda City
-Redonda
-101
-1
-1.89
-X
-2.95
-2
-4.15
-0-2
-1.38
-2+
-1.54
-3+
-2.75
+1.24
 AUSTRIA, Bundesliga
 67
 17:00
 Austria Vienna
 Salzburg
-934
+975
 1
-2.70
+2.62
 X
-3.50
+3.55
 2
-2.50
+2.55
 0-2
-2.12
+2.18
 2+
-1.22
+1.21
 3+
-1.72
+1.66
 BOLIVIA, Copa Simon Bolivar - Play Offs
 38296
 17:00
@@ -153,15 +98,15 @@ GEORGIA, Crystalbet Erovnuli Liga
 17:00
 Gagra
 Dinamo Batumi
-652
+651
 1
-1.81
+1.69
 X
-3.25
+3.35
 2
-4.00
+4.60
 0-2
-1.73
+1.75
 2+
 1.27
 3+
@@ -345,19 +290,19 @@ PERU, Liga 1 - Clausura
 17:00
 Sporting Cristal
 Los Chankas
-823
+824
 1
-1.22
+1.24
 X
-5.80
+5.70
 2
-10.0
+9.00
 0-2
 2.55
 2+
 1.12
 3+
-1.44
+1.45
 POLAND, Division 1
 384
 17:00
@@ -381,19 +326,19 @@ SLOVENIA, 2. SNL
 17:00
 Nafta
 Bilje
-648
+647
 1
-1.31
+1.32
 X
-4.55
+4.50
 2
-6.80
+6.90
 0-2
-2.30
+2.20
 2+
-1.13
+1.14
 3+
-1.51
+1.54
 SPAIN, Segunda RFEF - Group 2
 1190
 17:00
@@ -487,19 +432,19 @@ TURKEY, 2. Lig White Group
 17:00
 Elazigspor
 Kastamonuspor
-647
+644
 1
-1.27
+1.23
 X
-4.85
+5.20
 2
-8.75
+10.0
 0-2
-2.22
+2.28
 2+
-1.14
+1.13
 3+
-1.54
+1.51
 TURKEY, 3. Lig Group 4
 37770
 17:00
@@ -507,34 +452,34 @@ Afyonspor
 Eskisehirspor
 647
 1
-6.30
+6.20
 X
-4.25
+4.20
 2
-1.37
+1.38
 0-2
-2.20
+2.18
 2+
-1.13
+1.14
 3+
-1.53
+1.54
 37771
 17:00
 Altay
 Karsiyaka
-644
+647
 1
-5.40
+4.80
 X
-3.40
+3.20
 2
-1.54
-0-2
 1.65
+0-2
+1.60
 2+
-1.29
+1.32
 3+
-1.99
+2.07
 37772
 17:00
 Bergama Bld.
@@ -595,17 +540,17 @@ Al Jazira Abu Dhabi
 Ajman
 654
 1
-1.86
+1.77
 X
 3.35
 2
-3.65
+4.05
 0-2
-1.87
+1.90
 2+
 1.24
 3+
-1.82
+1.80
 WORLD, CAF Champions League - Qualification
 37637
 17:00
@@ -647,7 +592,7 @@ FRANCE, Ligue 1
 17:15
 Angers
 Lorient
-1061
+986
 1
 2.70
 X
@@ -681,91 +626,91 @@ X
 17:15
 Rennes
 Nice
-1009
+1091
 1
-2.08
+2.15
 X
-3.55
+3.50
 2
-3.45
+3.30
 0-2
-2.18
+2.20
 2+
-1.23
+1.22
 3+
-1.72
+1.68
 ITALY, Serie B
 314
 17:15
 Bari
 Mantova
-928
+968
 1
-2.18
-X
-3.30
-2
-3.25
-0-2
-1.83
-2+
-1.28
-3+
-1.89
-LITHUANIA, A Lyga
-788
-17:25
-Zalgiris
-Siauliai FA
-839
-1
-1.53
-X
-4.20
-2
-4.55
-0-2
-2.85
-2+
-1.08
-3+
-1.36
-ENGLAND, Premier League
-85
-17:30
-Everton
-Tottenham
-1075
-1
-2.35
+2.22
 X
 3.20
 2
 3.25
 0-2
-1.90
+1.77
 2+
 1.30
 3+
-1.92
+1.97
+LITHUANIA, A Lyga
+788
+17:25
+Zalgiris
+Siauliai FA
+835
+1
+1.54
+X
+4.05
+2
+4.65
+0-2
+2.50
+2+
+1.12
+3+
+1.45
+ENGLAND, Premier League
+85
+17:30
+Everton
+Tottenham
+1073
+1
+2.28
+X
+3.20
+2
+3.35
+0-2
+1.88
+2+
+1.31
+3+
+1.94
 GERMANY, Bundesliga
 99
 17:30
 Stuttgart
 Mainz
-1073
+1083
 1
-2.15
+2.10
 X
-3.65
+3.55
 2
-3.25
+3.40
 0-2
-2.45
+2.25
 2+
-1.18
+1.21
 3+
-1.56
+1.66
 HUNGARY, NB I
 139
 17:30
@@ -1003,19 +948,19 @@ RUSSIA, Premier League
 17:45
 Krasnodar
 Rubin Kazan
-823
+822
 1
-1.48
+1.38
 X
-4.20
+4.60
 2
-6.70
+8.25
 0-2
-1.92
+2.00
 2+
-1.25
+1.22
 3+
-1.82
+1.74
 KUWAIT, Division 1
 37796
 17:50
@@ -1057,7 +1002,7 @@ ITALY, Serie A
 18:00
 Fiorentina
 Bologna
-1072
+1059
 1
 2.65
 X
@@ -1065,11 +1010,11 @@ X
 2
 3.00
 0-2
-1.65
+1.63
 2+
 1.42
 3+
-2.28
+2.30
 COSTA RICA, Primera Division - Apertura
 1061
 18:00
@@ -1393,7 +1338,7 @@ TURKEY, Super Lig
 18:00
 Kasimpasa
 Besiktas
-981
+931
 1
 4.45
 X
@@ -1429,17 +1374,17 @@ BELARUS, Vysshaya Liga
 18:15
 Vitebsk
 ML Vitebsk
-817
+818
 1
-5.20
+5.60
 X
-3.45
+3.55
 2
-1.65
-0-2
 1.60
+0-2
+1.62
 2+
-1.37
+1.36
 3+
 2.18
 SAN MARINO, Campionato Sammarinese
@@ -1467,15 +1412,15 @@ Zamora
 Ath Bilbao B
 654
 1
-2.10
+2.15
 X
 3.00
 2
-3.30
+3.25
 0-2
-1.65
+1.63
 2+
-1.34
+1.35
 3+
 2.12
 SPAIN, Primera RFEF - Group 2
@@ -1591,13 +1536,13 @@ SPAIN, LaLiga2
 18:30
 Almeria
 Castellon
-974
+975
 1
-1.96
+1.95
 X
 3.75
 2
-3.40
+3.45
 0-2
 2.40
 2+
@@ -1608,19 +1553,19 @@ X
 18:30
 Gijon
 Zaragoza
-964
+963
 1
-1.70
+1.71
 X
-3.50
+3.40
 2
 5.10
 0-2
 1.70
 2+
-1.32
+1.33
 3+
-2.04
+2.05
 SPAIN, Tercera Division - Group 9
 37726
 18:30
@@ -1859,17 +1804,17 @@ Osorno
 Deportes Rengo
 653
 1
-1.52
+1.50
 X
-4.33
+4.45
 2
-4.55
+4.60
 0-2
-2.10
+2.15
 2+
-1.18
+1.17
 3+
-1.63
+1.61
 CHILE, Primera B
 797
 19:00
@@ -2237,17 +2182,17 @@ FCSB
 UTA Arad
 829
 1
-1.78
+1.73
 X
-3.40
+3.45
 2
-4.30
+4.50
 0-2
-1.87
+1.90
 2+
 1.25
 3+
-1.84
+1.82
 NETHERLANDS, Eredivisie
 259
 20:00
@@ -2481,21 +2426,183 @@ X
 1.28
 3+
 1.92
+POLAND, Ekstraklasa
+167
+20:15
+Legia
+Lech Poznan
+835
+1
+2.12
+X
+3.45
+2
+3.25
+0-2
+2.10
+2+
+1.20
+3+
+1.66
+SLOVENIA, Prva Liga
+425
+20:15
+Mura
+Celje
+836
+1
+5.60
+X
+4.40
+2
+1.47
+0-2
+2.60
+2+
+1.12
+3+
+1.44
+BOLIVIA, Copa Simon Bolivar - Play Offs
+38298
+20:30
+U. Sucre
+Fancesa
+651
+1
+1.26
+X
+5.25
+2
+7.90
+0-2
+2.70
+2+
+1.09
+3+
+1.40
+CHILE, Chile Segunda
+38007
+20:30
+General Velasquez
+Real San Joaquin
+653
+1
+1.81
+X
+3.45
+2
+3.75
+0-2
+1.90
+2+
+1.24
+3+
+1.80
+ITALY, Serie C - Group C
+906
+20:30
+Salernitana
+Casertana
+825
+1
+1.65
+X
+3.50
+2
+4.60
+0-2
+1.75
+2+
+1.29
+3+
+1.95
+SPAIN, Primera RFEF - Group 2
+1172
+20:30
+Atl. Madrid B
+CE Europa
+658
+1
+2.55
+X
+2.95
+2
+2.65
+0-2
+1.62
+2+
+1.35
+3+
+2.12
+VENEZUELA, Liga FUTVE 2 - Play Offs
+1304
+20:30
+Titanes
+Miranda
+657
+1
+2.85
+X
+3.20
+2
+2.25
+0-2
+1.90
+2+
+1.24
+3+
+1.82
+ITALY, Serie A
+26
+20:45
+Lazio
+Juventus
+1053
+1
+3.65
+X
+3.15
+2
+2.30
+0-2
+1.72
+2+
+1.38
+3+
+2.22
+FRANCE, Ligue 1
+47
+20:45
+Lyon
+Strasbourg
+1005
+1
+1.93
+X
+3.65
+2
+3.85
+0-2
+2.18
+2+
+1.23
+3+
+1.72
 Odigrani tiketi
-61
-Radnicki Nis - Crvena zvezda
+38296
+Ciudad Nueva SC - Olympic FC Cochabamba
 26.10. 17:00
 KONAČAN ISHOD 
 1
-  13.0  
+  1.27  
 Običan
 Sistem
 Kvota:
-13.00
+1.27
 Uplata:
 20.00 RSD
 Dobitak:
-260.00 RSD
+25.40 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express
