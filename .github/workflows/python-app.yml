@@ -5,14 +5,21 @@ on:
     - cron: "0 */3 * * *"  # automatski restart svakih 3h
   workflow_dispatch:
 
+permissions:
+  contents: write  # <<< VAŽNO: dozvoli ovom job-u da pushuje u repo
+
 jobs:
   run:
     runs-on: ubuntu-latest
     timeout-minutes: 180  # maksimalno trajanje jedne sesije = 3h
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repo (full history on main)
         uses: actions/checkout@v4
+        with:
+            ref: main            # <<< checkout baš main branch, ne detached HEAD
+            fetch-depth: 0       # <<< uzmi ceo istorijat da rebase radi normalno
+            persist-credentials: true  # koristi GITHUB_TOKEN za push
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -27,11 +34,14 @@ jobs:
       - name: Set timezone to Europe/Belgrade
         run: sudo timedatectl set-timezone Europe/Belgrade
 
-      - name: Continuous execution with logs (auto-rebase, silent push)
+      - name: Continuous execution with logs (auto-pull/rebase, auto-push)
         run: |
           mkdir -p logs
-          git config --global user.name "GitHub Action" >/dev/null 2>&1
-          git config --global user.email "actions@github.com" >/dev/null 2>&1
+          git config user.name "GitHub Action"
+          git config user.email "actions@github.com"
+
+          # sigurnosno: uvek budi na main
+          git switch main || git checkout -B main
 
           while true; do
             ts=$(date '+%Y-%m-%d_%H-%M')
@@ -39,15 +49,19 @@ jobs:
 
             echo "=== [$(date)] Starting run_all.py ===" | tee -a "$log_file"
             python run_all.py >>"$log_file" 2>&1
-
             echo "=== [$(date)] Finished run_all.py, syncing and pushing... ===" | tee -a "$log_file"
-            git add . >/dev/null 2>&1
-            git commit -m "auto: run_all update $(date '+%Y-%m-%d %H:%M')" >/dev/null 2>&1 || true
 
-            # tihi rebase i push — sprečava PUSH FAIL
-            git fetch origin main >/dev/null 2>&1 || true
-            git rebase origin/main >/dev/null 2>&1 || git rebase --skip >/dev/null 2>&1 || true
-            git push origin main >/dev/null 2>&1 || echo "[git] Push skipped (no changes or race condition)" >>"$log_file"
+            # povuci sve što je možda već gurnuto od prethodne iteracije/runa
+            git pull --rebase origin main || true
+
+            # stage-uj izmene (logovi, ALL_MATCHES_AND_ARBS, TIKETI/tiketi.txt, itd.)
+            git add . || true
+
+            # commit samo ako ima promena
+            git commit -m "auto: run_all update $(date '+%Y-%m-%d %H:%M')" || true
+
+            # pushaj na main
+            git push origin main || echo "[git] Push skipped (no changes / race)" | tee -a "$log_file"
 
             echo "=== [$(date)] Sleeping 1 minute before next cycle... ===" | tee -a "$log_file"
             sleep 60
