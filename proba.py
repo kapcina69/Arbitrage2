@@ -33,7 +33,6 @@ INPUT_FILES = {
     "Merkur": "merkur/merkur_mecevi_pregled.txt",
     "Mozzart": "mozzart/mozzart_mecevi_pregled.txt",
     "BalkanBet": "balkanbet/balkanbet_mecevi_pregled.txt",
-    "Meridian": "meridian/meridian_mecevi_pregled.txt",
     "Brazil_d": "brazil/brazil_mecevi_pregled.txt",
     "Brazil_s": "brazil/brazil_sutra_mecevi_pregled.txt",
     "Brazil_p": "brazil/brazil_prekosutra_mecevi_pregled.txt",
