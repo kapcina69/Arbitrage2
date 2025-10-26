@@ -50,6 +50,29 @@
 ============================================
 
 ============================================
+  KLADIONICA: OktagonBet       TIKET #1
+--------------------------------------------
+  Ukupni koeficijent : 18.83  (cilj: 10.00)
+  Ulog               : 200.00 RSD
+  Potencijalni dobitak: 3766.50 RSD
+
+  Ukupni raspon vrednosti (Σ diff%%): 32.53%
+  Prosečan profit arbitraže        : -2.12%
+--------------------------------------------
+  SELEKCIJE:
+   1) 20:30 28.10. Boulogne vs Reims (Francuska 2)
+       Market           : 1 @ 4.05
+       Raspon kvote     : 19.12%
+       Profit za par    : -2.04%
+       ------------------------------------
+   2) 20:30 29.10. Basel vs Zurich (Švajcarska 1)
+       Market           : X @ 4.65
+       Raspon kvote     : 13.41%
+       Profit za par    : -2.19%
+       ------------------------------------
+============================================
+
+============================================
   KLADIONICA: BalkanBet       TIKET #6
 --------------------------------------------
   Ukupni koeficijent : 16.97  (cilj: 10.00)
@@ -92,29 +115,6 @@
        Market           : X @ 4.10
        Raspon kvote     : 13.89%
        Profit za par    : -1.40%
-       ------------------------------------
-============================================
-
-============================================
-  KLADIONICA: OktagonBet       TIKET #1
---------------------------------------------
-  Ukupni koeficijent : 23.25  (cilj: 10.00)
-  Ulog               : 200.00 RSD
-  Potencijalni dobitak: 4650.00 RSD
-
-  Ukupni raspon vrednosti (Σ diff%%): 27.05%
-  Prosečan profit arbitraže        : -2.21%
---------------------------------------------
-  SELEKCIJE:
-   1) 20:30 29.10. Basel vs Zurich (Švajcarska 1)
-       Market           : X @ 4.65
-       Raspon kvote     : 13.41%
-       Profit za par    : -2.19%
-       ------------------------------------
-   2) 16:00 01.11. Fulham vs Wolves (Engleska 1)
-       Market           : 2 @ 5.00
-       Raspon kvote     : 13.64%
-       Profit za par    : -2.22%
        ------------------------------------
 ============================================
 
@@ -261,8 +261,8 @@
 Broj završenih tiketa po kladionici (zadržani):
   - BalkanBet: 8 tiket(a)
   - Soccer: 1 tiket(a)
-  - Mozzart: 1 tiket(a)
   - OktagonBet: 1 tiket(a)
+  - Mozzart: 1 tiket(a)
 
 Ukupno zadržanih tiketa: 11
 Ukupno uloženo: 2200.00 RSD
