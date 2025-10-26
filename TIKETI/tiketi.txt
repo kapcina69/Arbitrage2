@@ -33,19 +33,19 @@
   Ulog               : 200.00 RSD
   Potencijalni dobitak: 3150.00 RSD
 
-  Ukupni raspon vrednosti (Σ diff%%): 34.03%
-  Prosečan profit arbitraže        : 0.70%
+  Ukupni raspon vrednosti (Σ diff%%): 35.53%
+  Prosečan profit arbitraže        : 0.05%
 --------------------------------------------
   SELEKCIJE:
-   1) 18:30 29.10. Roma vs Parma (Italija 1)
-       Market           : X @ 4.50
-       Raspon kvote     : 15.38%
-       Profit za par    : 0.76%
-       ------------------------------------
-   2) 19:00 29.10. Havre vs Brest (Francuska 1)
+   1) 19:00 29.10. Havre vs Brest (Francuska 1)
        Market           : X @ 3.50
        Raspon kvote     : 18.64%
        Profit za par    : 0.63%
+       ------------------------------------
+   2) 18:30 29.10. Roma vs Parma (Italija 1)
+       Market           : X @ 4.50
+       Raspon kvote     : 16.88%
+       Profit za par    : -0.53%
        ------------------------------------
 ============================================
 
@@ -119,25 +119,25 @@
 ============================================
 
 ============================================
-  KLADIONICA: BalkanBet       TIKET #2
+  KLADIONICA: BalkanBet       TIKET #3
 --------------------------------------------
-  Ukupni koeficijent : 16.00  (cilj: 10.00)
+  Ukupni koeficijent : 14.60  (cilj: 10.00)
   Ulog               : 200.00 RSD
-  Potencijalni dobitak: 3200.00 RSD
+  Potencijalni dobitak: 2920.00 RSD
 
-  Ukupni raspon vrednosti (Σ diff%%): 25.40%
-  Prosečan profit arbitraže        : -1.28%
+  Ukupni raspon vrednosti (Σ diff%%): 24.89%
+  Prosečan profit arbitraže        : -1.54%
 --------------------------------------------
   SELEKCIJE:
-   1) 17:30 27.10. Akhmat vs Sochi (Rusija 1)
-       Market           : X @ 4.00
-       Raspon kvote     : 11.11%
-       Profit za par    : -1.19%
-       ------------------------------------
-   2) 21:05 29.10. Strasbourg vs Auxerre (Francuska 1)
+   1) 21:05 29.10. Strasbourg vs Auxerre (Francuska 1)
        Market           : X @ 4.00
        Raspon kvote     : 14.29%
-       Profit za par    : -1.37%
+       Profit za par    : -1.52%
+       ------------------------------------
+   2) 16:00 01.11. Watford vs Middlesbrough (Engleska 2)
+       Market           : X @ 3.65
+       Raspon kvote     : 10.61%
+       Profit za par    : -1.55%
        ------------------------------------
 ============================================
 
@@ -165,25 +165,25 @@
 ============================================
 
 ============================================
-  KLADIONICA: BalkanBet       TIKET #3
+  KLADIONICA: BalkanBet       TIKET #2
 --------------------------------------------
-  Ukupni koeficijent : 10.58  (cilj: 10.00)
+  Ukupni koeficijent : 11.60  (cilj: 10.00)
   Ulog               : 200.00 RSD
-  Potencijalni dobitak: 2117.00 RSD
+  Potencijalni dobitak: 2320.00 RSD
 
-  Ukupni raspon vrednosti (Σ diff%%): 22.14%
-  Prosečan profit arbitraže        : -1.53%
+  Ukupni raspon vrednosti (Σ diff%%): 22.65%
+  Prosečan profit arbitraže        : -1.35%
 --------------------------------------------
   SELEKCIJE:
-   1) 18:30 28.10. Hertha vs Elversberg (Nemačka Kup)
+   1) 17:30 27.10. Akhmat vs Sochi (Rusija 1)
+       Market           : X @ 4.00
+       Raspon kvote     : 11.11%
+       Profit za par    : -1.19%
+       ------------------------------------
+   2) 18:30 28.10. Hertha vs Elversberg (Nemačka Kup)
        Market           : 2 @ 2.90
        Raspon kvote     : 11.54%
        Profit za par    : -1.51%
-       ------------------------------------
-   2) 16:00 01.11. Watford vs Middlesbrough (Engleska 2)
-       Market           : X @ 3.65
-       Raspon kvote     : 10.61%
-       Profit za par    : -1.55%
        ------------------------------------
 ============================================
 
@@ -207,6 +207,29 @@
        Market           : X @ 3.50
        Raspon kvote     : 9.37%
        Profit za par    : -1.84%
+       ------------------------------------
+============================================
+
+============================================
+  KLADIONICA: BalkanBet       TIKET #8
+--------------------------------------------
+  Ukupni koeficijent : 20.00  (cilj: 10.00)
+  Ulog               : 200.00 RSD
+  Potencijalni dobitak: 4000.00 RSD
+
+  Ukupni raspon vrednosti (Σ diff%%): 19.81%
+  Prosečan profit arbitraže        : -2.14%
+--------------------------------------------
+  SELEKCIJE:
+   1) 20:30 30.10. Lugano vs Luzern (Švajcarska 1)
+       Market           : X @ 4.00
+       Raspon kvote     : 11.11%
+       Profit za par    : -2.04%
+       ------------------------------------
+   2) 20:45 29.10. Inter vs Fiorentina (Italija 1)
+       Market           : X @ 5.00
+       Raspon kvote     : 8.70%
+       Profit za par    : -2.24%
        ------------------------------------
 ============================================
 
@@ -236,12 +259,12 @@
 ##########   ANALIZA TIKETA   ##########
 
 Broj završenih tiketa po kladionici (zadržani):
-  - BalkanBet: 7 tiket(a)
+  - BalkanBet: 8 tiket(a)
   - Soccer: 1 tiket(a)
   - Mozzart: 1 tiket(a)
   - OktagonBet: 1 tiket(a)
 
-Ukupno zadržanih tiketa: 10
-Ukupno uloženo: 2000.00 RSD
-Najmanji potencijalni dobitak u tim tiketima: 2117.00 RSD
+Ukupno zadržanih tiketa: 11
+Ukupno uloženo: 2200.00 RSD
+Najmanji potencijalni dobitak u tim tiketima: 2320.00 RSD
 ########################################
