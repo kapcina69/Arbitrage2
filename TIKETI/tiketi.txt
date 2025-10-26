@@ -1,23 +1,28 @@
 ============================================
   KLADIONICA: Mozzart       TIKET #1
 --------------------------------------------
-  Ukupni koeficijent : 12.81  (cilj: 10.00)
+  Ukupni koeficijent : 26.84  (cilj: 10.00)
   Ulog               : 200.00 RSD
-  Potencijalni dobitak: 2562.00 RSD
+  Potencijalni dobitak: 5368.00 RSD
 
-  Ukupni raspon vrednosti (Σ diff%%): 35.62%
-  Prosečan profit arbitraže        : 0.35%
+  Ukupni raspon vrednosti (Σ diff%%): 41.59%
+  Prosečan profit arbitraže        : -1.27%
 --------------------------------------------
   SELEKCIJE:
-   1) 20:45 26.10. Lyon vs Strasbourg (Francuska 1)
-       Market           : 2 @ 4.20
-       Raspon kvote     : 18.31%
-       Profit za par    : 2.09%
+   1) 21:00 26.10. Vallecano vs Alaves (Španija 1)
+       Market           : 3+ @ 2.75
+       Raspon kvote     : 10.00%
+       Profit za par    : -0.47%
        ------------------------------------
    2) 20:30 28.10. Sion vs St. Gallen (Švajcarska 1)
        Market           : 2 @ 3.05
        Raspon kvote     : 17.31%
        Profit za par    : -1.38%
+       ------------------------------------
+   3) 20:30 28.10. Empoli vs Sampdoria (Italija 2)
+       Market           : 2 @ 3.20
+       Raspon kvote     : 14.29%
+       Profit za par    : -1.97%
        ------------------------------------
 ============================================
 
@@ -68,6 +73,29 @@
 ============================================
 
 ============================================
+  KLADIONICA: BalkanBet       TIKET #10
+--------------------------------------------
+  Ukupni koeficijent : 13.28  (cilj: 10.00)
+  Ulog               : 200.00 RSD
+  Potencijalni dobitak: 2656.50 RSD
+
+  Ukupni raspon vrednosti (Σ diff%%): 31.75%
+  Prosečan profit arbitraže        : -2.19%
+--------------------------------------------
+  SELEKCIJE:
+   1) 00:30 27.10. Atl. Nacional vs Ind. Medellin (Kolumbija 1)
+       Market           : 2 @ 3.85
+       Raspon kvote     : 22.22%
+       Profit za par    : -2.16%
+       ------------------------------------
+   2) 20:30 28.10. Rodez vs Annecy (Francuska 2)
+       Market           : X @ 3.45
+       Raspon kvote     : 9.52%
+       Profit za par    : -2.22%
+       ------------------------------------
+============================================
+
+============================================
   KLADIONICA: Soccer       TIKET #1
 --------------------------------------------
   Ukupni koeficijent : 14.91  (cilj: 10.00)
@@ -87,29 +115,6 @@
        Market           : X @ 3.55
        Raspon kvote     : 14.52%
        Profit za par    : -0.92%
-       ------------------------------------
-============================================
-
-============================================
-  KLADIONICA: Mozzart       TIKET #2
---------------------------------------------
-  Ukupni koeficijent : 12.16  (cilj: 10.00)
-  Ulog               : 200.00 RSD
-  Potencijalni dobitak: 2432.00 RSD
-
-  Ukupni raspon vrednosti (Σ diff%%): 27.22%
-  Prosečan profit arbitraže        : -1.40%
---------------------------------------------
-  SELEKCIJE:
-   1) 21:00 26.10. Vallecano vs Alaves (Španija 1)
-       Market           : X @ 3.20
-       Raspon kvote     : 8.47%
-       Profit za par    : -1.39%
-       ------------------------------------
-   2) 21:00 26.10. La Coruna vs Valladolid (Španija 2)
-       Market           : 2 @ 3.80
-       Raspon kvote     : 18.75%
-       Profit za par    : -1.40%
        ------------------------------------
 ============================================
 
@@ -277,11 +282,11 @@
 ##########   ANALIZA TIKETA   ##########
 
 Broj završenih tiketa po kladionici (zadržani):
-  - BalkanBet: 9 tiket(a)
-  - Mozzart: 2 tiket(a)
+  - BalkanBet: 10 tiket(a)
   - Soccer: 1 tiket(a)
+  - Mozzart: 1 tiket(a)
 
 Ukupno zadržanih tiketa: 12
 Ukupno uloženo: 2400.00 RSD
-Najmanji potencijalni dobitak u tim tiketima: 2432.00 RSD
+Najmanji potencijalni dobitak u tim tiketima: 2560.00 RSD
 ########################################
