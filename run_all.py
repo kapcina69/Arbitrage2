@@ -28,13 +28,6 @@ SCRAPERS: List[Tuple[str, List[Path]]] = [
         ],
     ),
     (
-        "meridian.py",
-        [
-            Path("meridian/meridian_sledeci_mecevi.txt"),
-            Path("meridian/meridian_mecevi_pregled.txt"),
-        ],
-    ),
-    (
         "merkur.py",
         [
             Path("merkur/merkur_sledeci_mecevi.txt"),
