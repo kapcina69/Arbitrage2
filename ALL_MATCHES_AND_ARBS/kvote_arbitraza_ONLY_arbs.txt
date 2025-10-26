@@ -16,50 +16,30 @@ Najveća 3+ : 1.97  [BalkanBet]
 Arbitraža (1-X-2): DA   inv_sum=0.9937   profit≈0.63%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0395   profit≈-3.95%
 
-23:00   26.10.   [Ekvador 2]
-Nueve de Octubre  vs  Leones Del Norte
-
-- BalkanBet  1=2.65  |  X=2.4  |  2=3.15  |  0-2=1.38  |  2+=1.58  |  3+=2.8  |  GG=2.1  |  IGG=5.65  |  GG&3+=3.75  |  GG&4+=6.1  |  4+=5.75
-- BetOle     1=2.55  |  X=2.75  |  2=2.83  |  0-2=1.37  |  3+=2.8
-- Brazil_d   -
-- MaxBet     1=2.55  |  X=2.75  |  2=2.80
-- Mozzart    1=2.8  |  X=2.9  |  2=2.65  |  0-2=1.41  |  2+=1.6  |  3+=2.7
-- OktagonBet 1=2.55  |  X=2.75  |  2=2.8  |  0-2=1.37  |  3+=2.8  |  GG=2.3  |  GG&3+=3.45  |  4+=6.15
-- Topbet     1=3  |  X=2.7  |  2=2.45
-
-Najveća 1  : 3.00  [Topbet]
-Najveća X  : 2.90  [Mozzart]
-Najveća 2  : 3.15  [BalkanBet]
-Najveća 0-2: 1.41  [Mozzart]
-Najveća 3+ : 2.80  [BalkanBet, BetOle, OktagonBet]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9956   profit≈0.44%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0664   profit≈-6.64%
-
 
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 717
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 356
-Grupa sa veličinom ≥3: 264
-Grupa sa veličinom ≥4: 193
-Grupa sa veličinom ≥5: 123
-Grupa sa veličinom ≥6: 9
-Grupa sa veličinom ≥7: 5
+Ukupno mečeva (grupa): 725
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 351
+Grupa sa veličinom ≥3: 257
+Grupa sa veličinom ≥4: 186
+Grupa sa veličinom ≥5: 117
+Grupa sa veličinom ≥6: 4
+Grupa sa veličinom ≥7: 0
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  278   spojeno (u grupama >1):  265
-  - BetOle     ukupno zapisa:    7   spojeno (u grupama >1):    7
-  - Brazil_d   ukupno zapisa:    8   spojeno (u grupama >1):    7
+  - BalkanBet  ukupno zapisa:  272   spojeno (u grupama >1):  259
+  - BetOle     ukupno zapisa:    7   spojeno (u grupama >1):    0
+  - Brazil_d   ukupno zapisa:    4   spojeno (u grupama >1):    0
+  - Brazil_p   ukupno zapisa:    1   spojeno (u grupama >1):    1
   - Brazil_s   ukupno zapisa:    2   spojeno (u grupama >1):    2
-  - MaxBet     ukupno zapisa:    7   spojeno (u grupama >1):    7
-  - Mozzart    ukupno zapisa:  242   spojeno (u grupama >1):  202
-  - OktagonBet ukupno zapisa:  548   spojeno (u grupama >1):  297
-  - Soccer     ukupno zapisa:  299   spojeno (u grupama >1):  276
-  - Topbet     ukupno zapisa:  279   spojeno (u grupama >1):  246
+  - Mozzart    ukupno zapisa:  238   spojeno (u grupama >1):  198
+  - OktagonBet ukupno zapisa:  548   spojeno (u grupama >1):  292
+  - Soccer     ukupno zapisa:  294   spojeno (u grupama >1):  273
+  - Topbet     ukupno zapisa:  274   spojeno (u grupama >1):  241
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 2
+  - 1-X-2: 1
   - 0-2 / 3+: 0
-  - Barem jedna arbitraža: 2
+  - Barem jedna arbitraža: 1
