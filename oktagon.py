@@ -8,10 +8,17 @@ from typing import List, Dict, Optional
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeoutError
 from datetime import datetime
 
+
 URL       = "https://www.oktagonbet.com/ibet-web-client/#/home/leaguesWithMatches"
 ORIGIN    = "https://www.oktagonbet.com"
-RAW_TXT   = Path("oktagonbet_sledeci_mecevi.txt")
-PRETTY_TXT= Path("oktagonbet_mecevi_pregled.txt")
+
+# folder za izlazne fajlove
+OUT_DIR = Path("oktagonbet")
+OUT_DIR.mkdir(parents=True, exist_ok=True)
+
+# fajlovi unutar tog foldera
+RAW_TXT    = OUT_DIR / "oktagonbet_sledeci_mecevi.txt"
+PRETTY_TXT = OUT_DIR / "oktagonbet_mecevi_pregled.txt"
 
 # ===========================
 # A) Playwright helpers (FAST)
