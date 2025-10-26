@@ -3,13 +3,13 @@ Stuttgart  vs  Mainz
 
 - BalkanBet  1=2.1  |  X=3.75  |  2=3.35  |  0-2=2.3  |  2+=1.22  |  3+=1.65  |  GG=1.55  |  IGG=4.05  |  GG&3+=1.9  |  GG&4+=2.95  |  4+=2.65
 - BetOle     1=2.15  |  X=3.5  |  2=3.3  |  0-2=2.2  |  3+=1.67
-- Brazil_d   1=2.15  |  X=3.5  |  2=3.3  |  0-2=2.2  |  2+=1.22  |  3+=1.68
+- Brazil_d   1=2.18  |  X=3.5  |  2=3.3  |  0-2=2.2  |  2+=1.22  |  3+=1.68
 - MaxBet     1=2.20  |  X=3.90  |  2=3.40
 - Meridian   1=1.8  |  X=4.1  |  2=4.1  |  0-2=2.38  |  3+=1.59  |  GG=1.58  |  GG&3+=1.9  |  GG&4+=2.73
 - Mozzart    1=2.1  |  X=3.5  |  2=3.45  |  0-2=2.11  |  2+=1.22  |  3+=1.68
-- OktagonBet 1=2.15  |  X=3.5  |  2=3.3  |  0-2=2.2  |  3+=1.67  |  GG=1.6  |  GG&3+=1.97  |  4+=2.75
+- OktagonBet 1=2.18  |  X=3.5  |  2=3.3  |  0-2=2.2  |  3+=1.67  |  GG=1.6  |  GG&3+=1.97  |  4+=2.75
 - Soccer     1=2.12  |  X=3.7  |  2=3.35  |  0-2=2.23  |  2+=1.23  |  3+=1.65  |  GG=1.6  |  IGG=3.95  |  GG&3+=1.92
-- Topbet     1=1.85  |  X=4  |  2=4
+- Topbet     1=2.15  |  X=3.95  |  2=3
 
 Najveća 1  : 2.20  [MaxBet]
 Najveća X  : 4.10  [Meridian]
@@ -23,21 +23,21 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0154   profit≈-1.54%
 17:30   26.10.   [Malta, Challenge League]
 Sirens  vs  Santa Lucia
 
-- BetOle     1=2.15  |  X=3.35  |  2=2.85  |  0-2=2.07  |  3+=1.65
-- Brazil_d   1=2.18  |  X=3.3  |  2=2.88  |  0-2=2.05  |  2+=1.19  |  3+=1.66
-- MaxBet     1=2.70  |  X=3.20  |  2=2.25
-- OktagonBet 1=2.18  |  X=3.35  |  2=2.85  |  0-2=2.07  |  3+=1.66  |  GG=1.56  |  GG&3+=1.96  |  4+=2.75
-- Soccer     1=2.08  |  X=3.55  |  2=2.9  |  0-2=2.05  |  2+=1.21  |  3+=1.7  |  GG=1.6  |  IGG=3.9  |  GG&3+=1.9
+- BetOle     1=2.85  |  X=3.3  |  2=2.2  |  0-2=2.02  |  3+=1.7
+- Brazil_d   1=2.85  |  X=3.25  |  2=2.2  |  0-2=2.02  |  2+=1.2  |  3+=1.69
+- MaxBet     1=2.55  |  X=3.20  |  2=2.38
+- OktagonBet 1=2.6  |  X=3.3  |  2=2.4  |  0-2=2.02  |  3+=1.69  |  GG=1.58  |  GG&3+=1.99  |  4+=2.85
+- Soccer     1=2.5  |  X=3.5  |  2=2.35  |  0-2=2.05  |  2+=1.21  |  3+=1.68  |  GG=1.6  |  IGG=3.85  |  GG&3+=1.88
 - Topbet     1=2.2  |  X=3.6  |  2=2.7
 
-Najveća 1  : 2.70  [MaxBet]
+Najveća 1  : 2.85  [BetOle, Brazil_d]
 Najveća X  : 3.60  [Topbet]
-Najveća 2  : 2.90  [Soccer]
-Najveća 0-2: 2.07  [BetOle, OktagonBet]
-Najveća 3+ : 1.70  [Soccer]
+Najveća 2  : 2.70  [Topbet]
+Najveća 0-2: 2.05  [Soccer]
+Najveća 3+ : 1.70  [BetOle]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9930   profit≈0.70%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0713   profit≈-7.13%
+Arbitraža (1-X-2): DA   inv_sum=0.9990   profit≈0.10%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0760   profit≈-7.60%
 
 20:45   26.10.   [Italija 1]
 Lazio  vs  Juventus
@@ -47,7 +47,7 @@ Lazio  vs  Juventus
 - MaxBet     1=3.65  |  X=3.30  |  2=2.35
 - Meridian   1=3.4  |  X=3.2  |  2=2.3  |  0-2=1.67  |  3+=2.22  |  GG=1.91  |  GG&3+=2.65  |  GG&4+=4.5
 - Mozzart    1=3.4  |  X=3.35  |  2=2.3  |  0-2=1.67  |  2+=1.4  |  3+=2.24
-- OktagonBet 1=3.55  |  X=3.05  |  2=2.28  |  0-2=1.69  |  3+=2.18  |  GG=1.95  |  GG&3+=2.65  |  4+=4.1
+- OktagonBet 1=3.55  |  X=3.05  |  2=2.28  |  0-2=1.68  |  3+=2.2  |  GG=1.97  |  GG&3+=2.7  |  4+=4.2
 - Soccer     1=3.35  |  X=3.25  |  2=2.3  |  0-2=1.7  |  2+=1.4  |  3+=2.15  |  GG=1.88  |  IGG=5.25  |  GG&3+=2.48
 - Topbet     1=3.25  |  X=3.1  |  2=2.3
 
@@ -103,26 +103,26 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0348   profit≈-3.48%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 774
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 457
-Grupa sa veličinom ≥3: 352
+Ukupno mečeva (grupa): 772
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 456
+Grupa sa veličinom ≥3: 355
 Grupa sa veličinom ≥4: 273
 Grupa sa veličinom ≥5: 212
-Grupa sa veličinom ≥6: 125
-Grupa sa veličinom ≥7: 69
+Grupa sa veličinom ≥6: 124
+Grupa sa veličinom ≥7: 70
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  349   spojeno (u grupama >1):  308
+  - BalkanBet  ukupno zapisa:  345   spojeno (u grupama >1):  306
   - BetOle     ukupno zapisa:   28   spojeno (u grupama >1):   28
-  - Brazil_d   ukupno zapisa:  125   spojeno (u grupama >1):  124
+  - Brazil_d   ukupno zapisa:  128   spojeno (u grupama >1):  127
   - Brazil_p   ukupno zapisa:   43   spojeno (u grupama >1):   43
   - Brazil_s   ukupno zapisa:   31   spojeno (u grupama >1):   31
-  - MaxBet     ukupno zapisa:  132   spojeno (u grupama >1):  132
+  - MaxBet     ukupno zapisa:  130   spojeno (u grupama >1):  130
   - Meridian   ukupno zapisa:   21   spojeno (u grupama >1):   12
   - Mozzart    ukupno zapisa:  333   spojeno (u grupama >1):  288
   - OktagonBet ukupno zapisa:  546   spojeno (u grupama >1):  380
   - Soccer     ukupno zapisa:  307   spojeno (u grupama >1):  303
-  - Topbet     ukupno zapisa:  383   spojeno (u grupama >1):  332
+  - Topbet     ukupno zapisa:  382   spojeno (u grupama >1):  330
 
 Arbitraže (broj mečeva/grupa):
   - 1-X-2: 5
