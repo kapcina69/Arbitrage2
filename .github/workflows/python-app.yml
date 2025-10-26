@@ -6,7 +6,11 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # <<< VAŽNO: dozvoli ovom job-u da pushuje u repo
+  contents: write  # da ovaj job sme da pushuje na repo
+
+concurrency:
+  group: continuous-run
+  cancel-in-progress: true  # nikad dve instance paralelno, nema race condition
 
 jobs:
   run:
@@ -14,12 +18,12 @@ jobs:
     timeout-minutes: 180  # maksimalno trajanje jedne sesije = 3h
 
     steps:
-      - name: Checkout repo (full history on main)
+      - name: Checkout repo (main branch, full history)
         uses: actions/checkout@v4
         with:
-            ref: main            # <<< checkout baš main branch, ne detached HEAD
-            fetch-depth: 0       # <<< uzmi ceo istorijat da rebase radi normalno
-            persist-credentials: true  # koristi GITHUB_TOKEN za push
+          ref: main
+          fetch-depth: 0               # treba nam cela istorija radi reset-a i push-a
+          persist-credentials: true    # koristi GITHUB_TOKEN za push
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -34,13 +38,13 @@ jobs:
       - name: Set timezone to Europe/Belgrade
         run: sudo timedatectl set-timezone Europe/Belgrade
 
-      - name: Continuous execution with logs (auto-pull/rebase, auto-push)
+      - name: Continuous execution with logs (stash-sync-pop workflow)
         run: |
           mkdir -p logs
           git config user.name "GitHub Action"
           git config user.email "actions@github.com"
 
-          # sigurnosno: uvek budi na main
+          # budemo sigurni da smo na main (ako workflow krene iz nekog čudnog stanja)
           git switch main || git checkout -B main
 
           while true; do
@@ -51,17 +55,39 @@ jobs:
             python run_all.py >>"$log_file" 2>&1
             echo "=== [$(date)] Finished run_all.py, syncing and pushing... ===" | tee -a "$log_file"
 
-            # povuci sve što je možda već gurnuto od prethodne iteracije/runa
-            git pull --rebase origin main || true
+            #
+            # 1. Sačuvaj sve lokalne izmene (novi izveštaji, tiketi, logovi...) u stash
+            #    -u = stavi i ne-track-ovane fajlove (npr. novi logs/ fajlovi)
+            #
+            git stash push -u -m "autostash-from-action" || true
 
-            # stage-uj izmene (logovi, ALL_MATCHES_AND_ARBS, TIKETI/tiketi.txt, itd.)
-            git add . || true
+            #
+            # 2. Dovedi lokalni main da BUDE remote main iz ovog trenutka
+            #
+            git fetch origin main || true
+            git reset --hard origin/main || true
 
-            # commit samo ako ima promena
+            #
+            # 3. Vrati (pop) stash preko tog svežeg stanja
+            #    Ako ima sitnih konflikata, git će vratiti non-zero exit;
+            #    mi svejedno nastavljamo i posle 'git add -A' gazimo radnu kopiju.
+            #
+            git stash pop || true
+
+            #
+            # 4. Stage-uj sve generisane fajlove (ALL_MATCHES_AND_ARBS, TIKETI/tiketi.txt, izvestaji/, logs/, itd.)
+            #
+            git add -A || true
+
+            #
+            # 5. Commit (ako nema promena, 'git commit' vrati non-zero i mi samo preskočimo)
+            #
             git commit -m "auto: run_all update $(date '+%Y-%m-%d %H:%M')" || true
 
-            # pushaj na main
-            git push origin main || echo "[git] Push skipped (no changes / race)" | tee -a "$log_file"
+            #
+            # 6. Push na origin/main
+            #
+            git push origin main || echo "[git] Push skipped (fast-forward race or nothing to push)" | tee -a "$log_file"
 
             echo "=== [$(date)] Sleeping 1 minute before next cycle... ===" | tee -a "$log_file"
             sleep 60
