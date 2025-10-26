@@ -29,13 +29,13 @@
   Potencijalni dobitak: 3150.00 RSD
 
   Ukupni raspon vrednosti (Σ diff%%): 34.03%
-  Prosečan profit arbitraže        : 0.16%
+  Prosečan profit arbitraže        : 0.37%
 --------------------------------------------
   SELEKCIJE:
    1) 18:30 29.10. Roma vs Parma (Italija 1)
        Market           : X @ 4.50
        Raspon kvote     : 15.38%
-       Profit za par    : 0.34%
+       Profit za par    : 0.76%
        ------------------------------------
    2) 19:00 29.10. Havre vs Brest (Francuska 1)
        Market           : X @ 3.50
@@ -183,6 +183,29 @@
 ============================================
 
 ============================================
+  KLADIONICA: Soccer       TIKET #2
+--------------------------------------------
+  Ukupni koeficijent : 14.63  (cilj: 10.00)
+  Ulog               : 200.00 RSD
+  Potencijalni dobitak: 2926.00 RSD
+
+  Ukupni raspon vrednosti (Σ diff%%): 20.22%
+  Prosečan profit arbitraže        : -1.10%
+--------------------------------------------
+  SELEKCIJE:
+   1) 21:00 27.10. Betis vs Atl.Madrid (Španija 1)
+       Market           : X @ 3.80
+       Raspon kvote     : 11.76%
+       Profit za par    : -1.06%
+       ------------------------------------
+   2) 16:00 01.11. Brighton vs Leeds (Engleska 1)
+       Market           : X @ 3.85
+       Raspon kvote     : 8.45%
+       Profit za par    : -1.14%
+       ------------------------------------
+============================================
+
+============================================
   KLADIONICA: BalkanBet       TIKET #5
 --------------------------------------------
   Ukupni koeficijent : 22.56  (cilj: 10.00)
@@ -205,35 +228,12 @@
        ------------------------------------
 ============================================
 
-============================================
-  KLADIONICA: BalkanBet       TIKET #7
---------------------------------------------
-  Ukupni koeficijent : 15.08  (cilj: 10.00)
-  Ulog               : 200.00 RSD
-  Potencijalni dobitak: 3015.00 RSD
-
-  Ukupni raspon vrednosti (Σ diff%%): 18.85%
-  Prosečan profit arbitraže        : -2.01%
---------------------------------------------
-  SELEKCIJE:
-   1) 20:45 29.10. U. Berlin vs Bielefeld (Nemačka Kup)
-       Market           : 2 @ 4.50
-       Raspon kvote     : 12.50%
-       Profit za par    : -2.01%
-       ------------------------------------
-   2) 20:45 30.10. Pisa vs Lazio (Italija 1)
-       Market           : X @ 3.35
-       Raspon kvote     : 6.35%
-       Profit za par    : -2.02%
-       ------------------------------------
-============================================
-
 ##########   ANALIZA TIKETA   ##########
 
 Broj završenih tiketa po kladionici (zadržani):
-  - BalkanBet: 7 tiket(a)
+  - BalkanBet: 6 tiket(a)
+  - Soccer: 2 tiket(a)
   - Mozzart: 2 tiket(a)
-  - Soccer: 1 tiket(a)
 
 Ukupno zadržanih tiketa: 10
 Ukupno uloženo: 2000.00 RSD
