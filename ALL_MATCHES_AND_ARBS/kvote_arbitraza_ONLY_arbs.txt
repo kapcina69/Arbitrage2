@@ -1,3 +1,18 @@
+20:00   [ARGENTINA, Torneo Betano - Clausura]
+Club Oriental Res.  vs  Miramar Misiones Res.
+
+- Brazil_d   1=4.55  |  X=3.5  |  2=1.6  |  0-2=1.9  |  2+=1.19  |  3+=1.72
+- Soccer     1=1.72  |  X=3.55  |  2=4.05  |  0-2=1.9  |  2+=1.26  |  3+=1.8  |  GG=1.77  |  IGG=None  |  GG&3+=None
+
+Najveća 1  : 4.55  [Brazil_d]
+Najveća X  : 3.55  [Soccer]
+Najveća 2  : 4.05  [Soccer]
+Najveća 0-2: 1.90  [Brazil_d, Soccer]
+Najveća 3+ : 1.80  [Soccer]
+
+Arbitraža (1-X-2): DA   inv_sum=0.7484   profit≈25.16%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0819   profit≈-8.19%
+
 18:30   29.10.   [Italija 1]
 Roma  vs  Parma
 
@@ -38,26 +53,26 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0395   profit≈-3.95%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 478
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 320
-Grupa sa veličinom ≥3: 247
-Grupa sa veličinom ≥4: 156
-Grupa sa veličinom ≥5: 109
-Grupa sa veličinom ≥6: 28
+Ukupno mečeva (grupa): 481
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 325
+Grupa sa veličinom ≥3: 251
+Grupa sa veličinom ≥4: 163
+Grupa sa veličinom ≥5: 115
+Grupa sa veličinom ≥6: 33
 Grupa sa veličinom ≥7: 4
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  247   spojeno (u grupama >1):  226
+  - BalkanBet  ukupno zapisa:  268   spojeno (u grupama >1):  245
   - BetOle     ukupno zapisa:   22   spojeno (u grupama >1):   22
-  - Brazil_d   ukupno zapisa:   91   spojeno (u grupama >1):   79
+  - Brazil_d   ukupno zapisa:   99   spojeno (u grupama >1):   89
   - Brazil_p   ukupno zapisa:   72   spojeno (u grupama >1):   61
   - Brazil_s   ukupno zapisa:   76   spojeno (u grupama >1):   65
   - MaxBet     ukupno zapisa:   58   spojeno (u grupama >1):   57
   - Mozzart    ukupno zapisa:  217   spojeno (u grupama >1):  187
-  - Soccer     ukupno zapisa:  304   spojeno (u grupama >1):  273
-  - Topbet     ukupno zapisa:  255   spojeno (u grupama >1):  214
+  - Soccer     ukupno zapisa:  305   spojeno (u grupama >1):  275
+  - Topbet     ukupno zapisa:  255   spojeno (u grupama >1):  215
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 2
+  - 1-X-2: 3
   - 0-2 / 3+: 0
-  - Barem jedna arbitraža: 2
+  - Barem jedna arbitraža: 3
