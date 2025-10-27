@@ -1,21 +1,3 @@
-20:00   27.10.   [Engleska PL Kup]
-U21 Colchester  vs  U21 Bromley
-
-- BalkanBet  1=2.35  |  X=3.75  |  2=2.4  |  0-2=2.75  |  2+=1.12  |  3+=1.4  |  GG=1.26  |  IGG=2.7  |  GG&3+=1.45  |  GG&4+=2.25  |  4+=2
-- MaxBet     1=2.38  |  X=3.80  |  2=2.38
-- Mozzart    1=3.1  |  X=3.8  |  2=1.95  |  0-2=2.37  |  2+=1.13  |  3+=1.45
-- Soccer     1=3.0  |  X=3.75  |  2=1.95  |  0-2=2.8  |  2+=1.09  |  3+=1.38  |  GG=1.38  |  IGG=3.05  |  GG&3+=1.55
-- Topbet     1=2.65  |  X=3.85  |  2=2.3
-
-Najveća 1  : 3.10  [Mozzart]
-Najveća X  : 3.85  [Topbet]
-Najveća 2  : 2.40  [BalkanBet]
-Najveća 0-2: 2.80  [Soccer]
-Najveća 3+ : 1.45  [Mozzart]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9990   profit≈0.10%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0468   profit≈-4.68%
-
 20:00   27.10.   [Urugvaj Liga Rezervi]
 Progreso (R)  vs  Danubio (R)
 
@@ -121,6 +103,22 @@ Najveća 3+ : 1.68  [BalkanBet]
 Arbitraža (1-X-2): DA   inv_sum=0.9973   profit≈0.27%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0498   profit≈-4.98%
 
+18:00   02.11.   [Danska 1]
+Nordsjalland  vs  Odense
+
+- BalkanBet  1=1.8  |  X=4  |  2=4.05  |  0-2=2.47  |  2+=1.18  |  3+=1.55  |  GG=1.55  |  IGG=3.95  |  GG&3+=1.85  |  GG&4+=2.75  |  4+=2.4
+- Mozzart    1=1.67  |  X=3.8  |  2=5.3  |  0-2=2.29  |  2+=1.18  |  3+=1.55
+- Topbet     1=1.65  |  X=4.25  |  2=4.8
+
+Najveća 1  : 1.80  [BalkanBet]
+Najveća X  : 4.25  [Topbet]
+Najveća 2  : 5.30  [Mozzart]
+Najveća 0-2: 2.47  [BalkanBet]
+Najveća 3+ : 1.55  [BalkanBet, Mozzart]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9795   profit≈2.05%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0500   profit≈-5.00%
+
 16:00   01.11.   [Engleska 1]
 Fulham  vs  Wolves
 
@@ -141,23 +139,22 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0412   profit≈-4.12%
                                        SAŽETAK                                        
 ======================================================================================
 Ukupno mečeva (grupa): 1055
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 733
-Grupa sa veličinom ≥3: 484
-Grupa sa veličinom ≥4: 324
-Grupa sa veličinom ≥5: 149
-Grupa sa veličinom ≥6: 52
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 732
+Grupa sa veličinom ≥3: 481
+Grupa sa veličinom ≥4: 319
+Grupa sa veličinom ≥5: 131
+Grupa sa veličinom ≥6: 35
 Grupa sa veličinom ≥7: 13
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  733   spojeno (u grupama >1):  627
-  - BetOle     ukupno zapisa:   24   spojeno (u grupama >1):   24
-  - Brazil_d   ukupno zapisa:   14   spojeno (u grupama >1):   13
-  - Brazil_p   ukupno zapisa:   41   spojeno (u grupama >1):   41
+  - BalkanBet  ukupno zapisa:  732   spojeno (u grupama >1):  627
+  - BetOle     ukupno zapisa:   23   spojeno (u grupama >1):   23
+  - Brazil_d   ukupno zapisa:   13   spojeno (u grupama >1):   12
   - Brazil_s   ukupno zapisa:   58   spojeno (u grupama >1):   58
   - MaxBet     ukupno zapisa:   22   spojeno (u grupama >1):   22
   - Mozzart    ukupno zapisa:  361   spojeno (u grupama >1):  323
   - OktagonBet ukupno zapisa:  547   spojeno (u grupama >1):  434
-  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  339
+  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  337
   - Topbet     ukupno zapisa:  670   spojeno (u grupama >1):  617
 
 Arbitraže (broj mečeva/grupa):
