@@ -93,12 +93,12 @@
 ============================================
   KLADIONICA: Mozzart       TIKET #1
 --------------------------------------------
-  Ukupni koeficijent : 20.24  (cilj: 10.00)
+  Ukupni koeficijent : 12.32  (cilj: 10.00)
   Ulog               : 200.00 RSD
-  Potencijalni dobitak: 4048.00 RSD
+  Potencijalni dobitak: 2464.00 RSD
 
-  Ukupni raspon vrednosti (Σ diff%%): 26.86%
-  Prosečan profit arbitraže        : -0.60%
+  Ukupni raspon vrednosti (Σ diff%%): 31.62%
+  Prosečan profit arbitraže        : -0.57%
 --------------------------------------------
   SELEKCIJE:
    1) 20:30 31.10. Augsburg vs Dortmund (Nemačka 1)
@@ -106,10 +106,10 @@
        Raspon kvote     : 17.33%
        Profit za par    : -0.30%
        ------------------------------------
-   2) 16:00 01.11. Brighton vs Leeds (Engleska 1)
-       Market           : 2 @ 4.60
-       Raspon kvote     : 9.52%
-       Profit za par    : -0.90%
+   2) 17:30 02.11. Wolfsburg vs Hoffenheim (Nemačka 1)
+       Market           : 1 @ 2.80
+       Raspon kvote     : 14.29%
+       Profit za par    : -0.84%
        ------------------------------------
 ============================================
 
@@ -133,29 +133,6 @@
        Market           : 2 @ 3.55
        Raspon kvote     : 10.94%
        Profit za par    : -1.31%
-       ------------------------------------
-============================================
-
-============================================
-  KLADIONICA: Mozzart       TIKET #2
---------------------------------------------
-  Ukupni koeficijent : 10.55  (cilj: 10.00)
-  Ulog               : 200.00 RSD
-  Potencijalni dobitak: 2109.00 RSD
-
-  Ukupni raspon vrednosti (Σ diff%%): 25.24%
-  Prosečan profit arbitraže        : -1.19%
---------------------------------------------
-  SELEKCIJE:
-   1) 15:30 02.11. Koln vs Hamburger (Nemačka 1)
-       Market           : 2 @ 3.70
-       Raspon kvote     : 15.62%
-       Profit za par    : -0.98%
-       ------------------------------------
-   2) 19:00 29.10. Havre vs Brest (Francuska 1)
-       Market           : 2 @ 2.85
-       Raspon kvote     : 9.62%
-       Profit za par    : -1.39%
        ------------------------------------
 ============================================
 
@@ -228,14 +205,60 @@
        ------------------------------------
 ============================================
 
+============================================
+  KLADIONICA: BalkanBet       TIKET #4
+--------------------------------------------
+  Ukupni koeficijent : 13.47  (cilj: 10.00)
+  Ulog               : 200.00 RSD
+  Potencijalni dobitak: 2695.00 RSD
+
+  Ukupni raspon vrednosti (Σ diff%%): 19.56%
+  Prosečan profit arbitraže        : -1.62%
+--------------------------------------------
+  SELEKCIJE:
+   1) 21:05 29.10. Toulouse vs Rennes (Francuska 1)
+       Market           : X @ 3.50
+       Raspon kvote     : 11.11%
+       Profit za par    : -1.59%
+       ------------------------------------
+   2) 16:00 01.11. Southampton vs Preston (Engleska 2)
+       Market           : X @ 3.85
+       Raspon kvote     : 8.45%
+       Profit za par    : -1.66%
+       ------------------------------------
+============================================
+
+============================================
+  KLADIONICA: Mozzart       TIKET #2
+--------------------------------------------
+  Ukupni koeficijent : 13.11  (cilj: 10.00)
+  Ulog               : 200.00 RSD
+  Potencijalni dobitak: 2622.00 RSD
+
+  Ukupni raspon vrednosti (Σ diff%%): 19.14%
+  Prosečan profit arbitraže        : -1.15%
+--------------------------------------------
+  SELEKCIJE:
+   1) 16:00 01.11. Brighton vs Leeds (Engleska 1)
+       Market           : 2 @ 4.60
+       Raspon kvote     : 9.52%
+       Profit za par    : -0.90%
+       ------------------------------------
+   2) 19:00 29.10. Havre vs Brest (Francuska 1)
+       Market           : 2 @ 2.85
+       Raspon kvote     : 9.62%
+       Profit za par    : -1.39%
+       ------------------------------------
+============================================
+
 ##########   ANALIZA TIKETA   ##########
 
 Broj završenih tiketa po kladionici (zadržani):
   - MaxBet: 5 tiket(a)
-  - BalkanBet: 3 tiket(a)
+  - BalkanBet: 4 tiket(a)
   - Mozzart: 2 tiket(a)
 
-Ukupno zadržanih tiketa: 10
-Ukupno uloženo: 2000.00 RSD
-Najmanji potencijalni dobitak u tim tiketima: 2109.00 RSD
+Ukupno zadržanih tiketa: 11
+Ukupno uloženo: 2200.00 RSD
+Najmanji potencijalni dobitak u tim tiketima: 2365.50 RSD
 ########################################
