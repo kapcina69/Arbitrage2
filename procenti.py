@@ -60,7 +60,7 @@ CONFIG = {
     # (ovo odlučuje šta uopšte ide u kvote_procenti.txt;
     #  tiketi kasnije rade dodatni filter po rasponu <2%)
     "MAX_PROFIT_FOR_OUTPUT": 10.0,   # >10% ne upisujemo
-    "MIN_PROFIT_FOR_OUTPUT": -1.0,   # <=-1% ne upisujemo
+    "MIN_PROFIT_FOR_OUTPUT": -0.5,   # <=-1% ne upisujemo
 
     # ulog po tiketu
     "TICKET_STAKE": 200.0,
