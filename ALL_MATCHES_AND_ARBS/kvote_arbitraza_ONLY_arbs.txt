@@ -3,18 +3,36 @@ Progreso (R)  vs  Danubio (R)
 
 - BalkanBet  1=1.68  |  X=3.65  |  2=4.15  |  0-2=1.97  |  2+=1.25  |  3+=1.75  |  GG=1.7  |  IGG=4.45  |  GG&3+=2.05  |  GG&4+=3.3  |  4+=2.9
 - BetOle     1=4.8  |  X=3.5  |  2=1.57  |  0-2=1.81  |  3+=1.8
-- Brazil_d   -
+- Brazil_d   1=4.8  |  X=3.45  |  2=1.59  |  0-2=1.8  |  2+=1.23  |  3+=1.82
 - OktagonBet 1=4.8  |  X=3.55  |  2=1.57  |  0-2=1.84  |  3+=1.76  |  GG=1.84  |  GG&3+=2.32  |  4+=3.05
 - Soccer     1=1.72  |  X=3.55  |  2=4.05  |  0-2=1.95  |  2+=1.23  |  3+=1.75  |  GG=1.7  |  IGG=None  |  GG&3+=None
 
-Najveća 1  : 4.80  [BetOle, OktagonBet]
+Najveća 1  : 4.80  [BetOle, Brazil_d, OktagonBet]
 Najveća X  : 3.65  [BalkanBet]
 Najveća 2  : 4.15  [BalkanBet]
 Najveća 0-2: 1.97  [BalkanBet]
-Najveća 3+ : 1.80  [BetOle]
+Najveća 3+ : 1.82  [Brazil_d]
 
 Arbitraža (1-X-2): DA   inv_sum=0.7233   profit≈27.67%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0632   profit≈-6.32%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0571   profit≈-5.71%
+
+21:15   31.10.   [Portugal 1]
+Sporting  vs  Alverca
+
+- BalkanBet  1=1.12  |  X=9  |  2=16  |  0-2=3.1  |  2+=1.11  |  3+=1.37  |  GG=2.4  |  IGG=5.35  |  GG&3+=2.65  |  GG&4+=2.75  |  4+=1.9
+- Mozzart    1=1.1  |  X=11  |  2=18
+- OktagonBet 1=1.11  |  X=8.1  |  2=20  |  0-2=2.88  |  3+=1.36  |  GG=2.45  |  GG&3+=2.7  |  4+=1.97
+- Soccer     1=1.2  |  X=6.75  |  2=12.6  |  0-2=2.6  |  2+=1.11  |  3+=1.45  |  GG=2.0  |  IGG=4.65  |  GG&3+=2.23
+- Topbet     1=1.1  |  X=9.75  |  2=29
+
+Najveća 1  : 1.20  [Soccer]
+Najveća X  : 11.00  [Mozzart]
+Najveća 2  : 29.00  [Topbet]
+Najveća 0-2: 3.10  [BalkanBet]
+Najveća 3+ : 1.45  [Soccer]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9587   profit≈4.13%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0122   profit≈-1.22%
 
 20:30   31.10.   [Nemačka 1]
 Augsburg  vs  Dortmund
@@ -105,7 +123,7 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0498   profit≈-4.98%
 Chelmsford  vs  Braintree
 
 - BalkanBet  1=5.1  |  X=4.75  |  2=1.55  |  0-2=2.13  |  2+=1.24  |  3+=1.72  |  GG=1.85  |  IGG=4.9  |  GG&3+=2.15  |  GG&4+=3.3  |  4+=2.8
-- Mozzart    1=6.25  |  X=4.1  |  2=1.48  |  0-2=2.11  |  2+=1.22  |  3+=1.65
+- Mozzart    1=6  |  X=4  |  2=1.5  |  0-2=2.11  |  2+=1.22  |  3+=1.65
 - OktagonBet 1=7.35  |  X=4.5  |  2=1.4  |  0-2=2.12  |  3+=1.65  |  GG=1.93  |  GG&3+=2.32  |  4+=2.7
 - Topbet     1=6.26  |  X=4.5  |  2=1.45
 
@@ -153,27 +171,27 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0499   profit≈-4.99%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1276
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 842
-Grupa sa veličinom ≥3: 622
+Ukupno mečeva (grupa): 1271
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 835
+Grupa sa veličinom ≥3: 617
 Grupa sa veličinom ≥4: 394
-Grupa sa veličinom ≥5: 205
-Grupa sa veličinom ≥6: 104
-Grupa sa veličinom ≥7: 42
+Grupa sa veličinom ≥5: 201
+Grupa sa veličinom ≥6: 91
+Grupa sa veličinom ≥7: 45
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  747   spojeno (u grupama >1):  685
-  - BetOle     ukupno zapisa:   64   spojeno (u grupama >1):   64
-  - Brazil_d   ukupno zapisa:   62   spojeno (u grupama >1):   61
+  - BalkanBet  ukupno zapisa:  744   spojeno (u grupama >1):  681
+  - BetOle     ukupno zapisa:   63   spojeno (u grupama >1):   63
+  - Brazil_d   ukupno zapisa:   68   spojeno (u grupama >1):   67
   - Brazil_p   ukupno zapisa:   71   spojeno (u grupama >1):   69
   - Brazil_s   ukupno zapisa:   79   spojeno (u grupama >1):   79
-  - MaxBet     ukupno zapisa:   77   spojeno (u grupama >1):   75
-  - Mozzart    ukupno zapisa:  354   spojeno (u grupama >1):  327
-  - OktagonBet ukupno zapisa: 1045   spojeno (u grupama >1):  738
+  - MaxBet     ukupno zapisa:   76   spojeno (u grupama >1):   74
+  - Mozzart    ukupno zapisa:  354   spojeno (u grupama >1):  326
+  - OktagonBet ukupno zapisa: 1046   spojeno (u grupama >1):  737
   - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  344
-  - Topbet     ukupno zapisa:  659   spojeno (u grupama >1):  632
+  - Topbet     ukupno zapisa:  628   spojeno (u grupama >1):  603
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 8
+  - 1-X-2: 9
   - 0-2 / 3+: 1
-  - Barem jedna arbitraža: 9
+  - Barem jedna arbitraža: 10
