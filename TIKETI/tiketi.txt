@@ -34,13 +34,13 @@
   Potencijalni dobitak: 3150.00 RSD
 
   Ukupni raspon vrednosti (Σ diff%%): 40.69%
-  Prosečan profit arbitraže        : 0.88%
+  Prosečan profit arbitraže        : 0.99%
 --------------------------------------------
   SELEKCIJE:
    1) 19:00 29.10. Havre vs Brest (Francuska 1)
        Market           : X @ 3.50
        Raspon kvote     : 20.69%
-       Profit za par    : 0.99%
+       Profit za par    : 1.23%
        ------------------------------------
    2) 18:30 29.10. Roma vs Parma (Italija 1)
        Market           : X @ 4.50
@@ -147,6 +147,52 @@
 ============================================
 
 ============================================
+  KLADIONICA: BalkanBet       TIKET #8
+--------------------------------------------
+  Ukupni koeficijent : 20.25  (cilj: 10.00)
+  Ulog               : 200.00 RSD
+  Potencijalni dobitak: 4050.00 RSD
+
+  Ukupni raspon vrednosti (Σ diff%%): 25.14%
+  Prosečan profit arbitraže        : -2.29%
+--------------------------------------------
+  SELEKCIJE:
+   1) 18:45 04.11. Napoli vs Eintracht F. (Liga Šampiona)
+       Market           : X @ 4.50
+       Raspon kvote     : 9.76%
+       Profit za par    : -2.26%
+       ------------------------------------
+   2) 20:45 28.10. Wycombe vs Fulham (Engleska EFL Kup)
+       Market           : X @ 4.50
+       Raspon kvote     : 15.38%
+       Profit za par    : -2.32%
+       ------------------------------------
+============================================
+
+============================================
+  KLADIONICA: BalkanBet       TIKET #9
+--------------------------------------------
+  Ukupni koeficijent : 13.54  (cilj: 10.00)
+  Ulog               : 200.00 RSD
+  Potencijalni dobitak: 2707.50 RSD
+
+  Ukupni raspon vrednosti (Σ diff%%): 22.71%
+  Prosečan profit arbitraže        : -2.41%
+--------------------------------------------
+  SELEKCIJE:
+   1) 21:00 04.11. Bodo vs Monaco (Liga Šampiona)
+       Market           : 2 @ 2.85
+       Raspon kvote     : 9.62%
+       Profit za par    : -2.40%
+       ------------------------------------
+   2) 20:30 28.10. Troyes vs Amiens (Francuska 2)
+       Market           : X @ 4.75
+       Raspon kvote     : 13.10%
+       Profit za par    : -2.41%
+       ------------------------------------
+============================================
+
+============================================
   KLADIONICA: BalkanBet       TIKET #6
 --------------------------------------------
   Ukupni koeficijent : 18.00  (cilj: 10.00)
@@ -239,37 +285,14 @@
 ============================================
 
 ============================================
-  KLADIONICA: BalkanBet       TIKET #8
---------------------------------------------
-  Ukupni koeficijent : 12.83  (cilj: 10.00)
-  Ulog               : 200.00 RSD
-  Potencijalni dobitak: 2565.00 RSD
-
-  Ukupni raspon vrednosti (Σ diff%%): 19.37%
-  Prosečan profit arbitraže        : -2.33%
---------------------------------------------
-  SELEKCIJE:
-   1) 18:45 04.11. Napoli vs Eintracht F. (Liga Šampiona)
-       Market           : X @ 4.50
-       Raspon kvote     : 9.76%
-       Profit za par    : -2.26%
-       ------------------------------------
-   2) 21:00 04.11. Bodo vs Monaco (Liga Šampiona)
-       Market           : 2 @ 2.85
-       Raspon kvote     : 9.62%
-       Profit za par    : -2.40%
-       ------------------------------------
-============================================
-
-============================================
   KLADIONICA: Soccer       TIKET #3
 --------------------------------------------
-  Ukupni koeficijent : 13.50  (cilj: 10.00)
+  Ukupni koeficijent : 17.46  (cilj: 10.00)
   Ulog               : 200.00 RSD
-  Potencijalni dobitak: 2700.00 RSD
+  Potencijalni dobitak: 3492.00 RSD
 
-  Ukupni raspon vrednosti (Σ diff%%): 16.23%
-  Prosečan profit arbitraže        : -2.23%
+  Ukupni raspon vrednosti (Σ diff%%): 16.87%
+  Prosečan profit arbitraže        : -2.19%
 --------------------------------------------
   SELEKCIJE:
    1) 20:45 28.10. St. Pauli vs Hoffenheim (Nemačka Kup)
@@ -277,21 +300,21 @@
        Raspon kvote     : 9.09%
        Profit za par    : -2.08%
        ------------------------------------
-   2) 21:00 04.11. Olympiacos vs PSV (Liga Šampiona)
-       Market           : X @ 3.75
-       Raspon kvote     : 7.14%
-       Profit za par    : -2.38%
+   2) 18:00 29.10. Illertissen vs Magdeburg (Nemačka Kup)
+       Market           : X @ 4.85
+       Raspon kvote     : 7.78%
+       Profit za par    : -2.30%
        ------------------------------------
 ============================================
 
 ##########   ANALIZA TIKETA   ##########
 
 Broj završenih tiketa po kladionici (zadržani):
-  - BalkanBet: 8 tiket(a)
+  - BalkanBet: 9 tiket(a)
   - Soccer: 3 tiket(a)
   - Mozzart: 1 tiket(a)
 
-Ukupno zadržanih tiketa: 12
-Ukupno uloženo: 2400.00 RSD
-Najmanji potencijalni dobitak u tim tiketima: 2565.00 RSD
+Ukupno zadržanih tiketa: 13
+Ukupno uloženo: 2600.00 RSD
+Najmanji potencijalni dobitak u tim tiketima: 2707.50 RSD
 ########################################
