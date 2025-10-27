@@ -3,18 +3,18 @@ Progreso (R)  vs  Danubio (R)
 
 - BalkanBet  1=1.68  |  X=3.65  |  2=4.15  |  0-2=1.97  |  2+=1.25  |  3+=1.75  |  GG=1.7  |  IGG=4.45  |  GG&3+=2.05  |  GG&4+=3.3  |  4+=2.9
 - BetOle     1=4.8  |  X=3.5  |  2=1.57  |  0-2=1.81  |  3+=1.8
-- Brazil_d   -
+- Brazil_d   1=4.8  |  X=3.45  |  2=1.59  |  0-2=1.8  |  2+=1.23  |  3+=1.82
 - OktagonBet 1=4.8  |  X=3.55  |  2=1.57  |  0-2=1.84  |  3+=1.76  |  GG=1.84  |  GG&3+=2.32  |  4+=3.05
 - Soccer     1=1.72  |  X=3.55  |  2=4.05  |  0-2=1.95  |  2+=1.23  |  3+=1.75  |  GG=1.7  |  IGG=None  |  GG&3+=None
 
-Najveća 1  : 4.80  [BetOle, OktagonBet]
+Najveća 1  : 4.80  [BetOle, Brazil_d, OktagonBet]
 Najveća X  : 3.65  [BalkanBet]
 Najveća 2  : 4.15  [BalkanBet]
 Najveća 0-2: 1.97  [BalkanBet]
-Najveća 3+ : 1.80  [BetOle]
+Najveća 3+ : 1.82  [Brazil_d]
 
 Arbitraža (1-X-2): DA   inv_sum=0.7233   profit≈27.67%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0632   profit≈-6.32%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0571   profit≈-5.71%
 
 21:15   31.10.   [Portugal 1]
 Sporting  vs  Alverca
@@ -125,15 +125,15 @@ Viborg  vs  Randers
 - BalkanBet  1=2.4  |  X=3.5  |  2=2.85  |  0-2=2.2  |  2+=1.23  |  3+=1.68  |  GG=1.6  |  IGG=4.05  |  GG&3+=2  |  GG&4+=3.05  |  4+=2.7
 - Mozzart    1=2.2  |  X=3.45  |  2=3.25  |  0-2=2.11  |  2+=1.22  |  3+=1.65
 - OktagonBet 1=2.28  |  X=3.45  |  2=2.85  |  0-2=2.12  |  3+=1.65  |  GG=1.56  |  GG&3+=1.94  |  4+=2.7
-- Topbet     1=2.2  |  X=3.75  |  2=3
+- Topbet     1=2.25  |  X=3.8  |  2=2.95
 
 Najveća 1  : 2.40  [BalkanBet]
-Najveća X  : 3.75  [Topbet]
+Najveća X  : 3.80  [Topbet]
 Najveća 2  : 3.25  [Mozzart]
 Najveća 0-2: 2.20  [BalkanBet]
 Najveća 3+ : 1.68  [BalkanBet]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9910   profit≈0.90%
+Arbitraža (1-X-2): DA   inv_sum=0.9875   profit≈1.25%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0498   profit≈-4.98%
 
 13:00   01.11.   [Engleska FA Kup]
@@ -188,23 +188,23 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0499   profit≈-4.99%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1278
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 837
-Grupa sa veličinom ≥3: 618
-Grupa sa veličinom ≥4: 393
-Grupa sa veličinom ≥5: 197
-Grupa sa veličinom ≥6: 87
-Grupa sa veličinom ≥7: 39
+Ukupno mečeva (grupa): 1272
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 830
+Grupa sa veličinom ≥3: 614
+Grupa sa veličinom ≥4: 394
+Grupa sa veličinom ≥5: 191
+Grupa sa veličinom ≥6: 88
+Grupa sa veličinom ≥7: 42
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  747   spojeno (u grupama >1):  684
-  - BetOle     ukupno zapisa:   63   spojeno (u grupama >1):   63
-  - Brazil_d   ukupno zapisa:   60   spojeno (u grupama >1):   59
-  - Brazil_p   ukupno zapisa:   71   spojeno (u grupama >1):   69
-  - Brazil_s   ukupno zapisa:   79   spojeno (u grupama >1):   79
+  - BalkanBet  ukupno zapisa:  742   spojeno (u grupama >1):  680
+  - BetOle     ukupno zapisa:   59   spojeno (u grupama >1):   59
+  - Brazil_d   ukupno zapisa:   64   spojeno (u grupama >1):   63
+  - Brazil_p   ukupno zapisa:   66   spojeno (u grupama >1):   65
+  - Brazil_s   ukupno zapisa:   74   spojeno (u grupama >1):   74
   - MaxBet     ukupno zapisa:   72   spojeno (u grupama >1):   70
-  - Mozzart    ukupno zapisa:  354   spojeno (u grupama >1):  326
-  - OktagonBet ukupno zapisa: 1046   spojeno (u grupama >1):  733
+  - Mozzart    ukupno zapisa:  355   spojeno (u grupama >1):  327
+  - OktagonBet ukupno zapisa: 1046   spojeno (u grupama >1):  730
   - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  344
   - Topbet     ukupno zapisa:  628   spojeno (u grupama >1):  602
 

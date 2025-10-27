@@ -37,7 +37,7 @@ Sve
   
   
 FUDBAL
-1086
+1082
   
   
 DNEVNI SPECIJAL
@@ -45,19 +45,19 @@ DNEVNI SPECIJAL
   
   
 GOLOVI PO LIGAMA
-31
+30
   
   
 KOŠARKA
-60
+59
   
   
 SP. KOŠARKA
-150
+151
   
   
 TENIS
-198
+184
   
   
 RUKOMET
@@ -69,7 +69,7 @@ ODBOJKA
   
   
 HOKEJ
-171
+169
   
   
 SP. HOKEJ
@@ -89,7 +89,7 @@ BEJZBOL
   
   
 STONI TENIS
-143
+139
   
   
 FUTSAL
@@ -109,23 +109,23 @@ FORMULA 1
   
   
 KONJSKE TRKE
-374
+345
   
   
 ESPORT
-36
+35
   
   
 SP. FUDBAL
-597
+646
   
   
 VIR. FUDBAL
-104
+103
   
   
 VIR. TENIS
-10
+8
   
   
 OUTRIGHT
@@ -143,81 +143,17 @@ Top
 Specijali
 KONAČAN ISHOD
  
-Egypt, Premier League
-+621
-Smouha
-El Gouna
-27.10. 15:00
-ki 1
-1.92
-ki X
-2.83
-ki 2
-4.25
-manje 2.5
-1.30
-više 2.5
-3.15
- 
-England, Professional Development
-+635
-Watford U21
-Swansea U21
-27.10. 15:00
-ki 1
-2.55
-ki X
-4.15
-ki 2
-2.10
-manje 2.5
-4.40
-više 2.5
-1.16
- 
-Georgia, Crystalbet Erovnuli Liga
-+634
-Telavi
-Torpedo Kutaisi
-27.10. 15:00
-ki 1
-4.00
-ki X
-3.45
-ki 2
-1.75
-manje 2.5
-1.67
-više 2.5
-2.03
- 
-India, Super Cup
-+805
-Hyderabad
-Mumbai City
-27.10. 15:00
-ki 1
-6.25
-ki X
-4.30
-ki 2
-1.40
-manje 2.5
-2.20
-više 2.5
-1.57
- 
 Qatar, QSL Cup
 +638
 Al-Kharitiyath
 Al-Waab
 27.10. 15:30
 ki 1
-2.85
-ki X
 3.15
+ki X
+3.20
 ki 2
-2.25
+2.08
 manje 2.5
 1.83
 više 2.5
@@ -339,11 +275,11 @@ Naft Missan
 Al Karkh
 27.10. 16:00
 ki 1
-2.20
+2.30
 ki X
-2.97
+2.95
 ki 2
-3.15
+2.95
 manje 2.5
 1.57
 više 2.5
@@ -481,15 +417,15 @@ SJK
 KuPS
 27.10. 17:00
 ki 1
-2.83
+2.88
 ki X
 3.85
 ki 2
-2.20
+2.15
 manje 2.5
-2.70
+2.75
 više 2.5
-1.42
+1.40
  
 Russia, Premier League
 +804
@@ -570,20 +506,20 @@ manje 2.5
 2.25
 više 2.5
 1.57
-+937
++994
 Samsunspor
 Rizespor
 27.10. 18:00
 ki 1
-1.92
+1.93
 ki X
 3.40
 ki 2
-3.95
+3.85
 manje 2.5
-1.77
+1.81
 više 2.5
-1.95
+1.91
  
 Cyprus, Cyprus League
 +813
@@ -708,20 +644,20 @@ više 2.5
 1.93
  
 Iraq, Stars League
-+629
++630
 Al-Qassim
 Al Zawraa
 27.10. 18:30
 ki 1
-5.20
+5.10
 ki X
-3.40
+3.30
 ki 2
-1.61
+1.63
 manje 2.5
-1.65
+1.60
 više 2.5
-2.10
+2.15
  
 Uruguay, Reserve League
 +39
@@ -788,7 +724,7 @@ više 2.5
 2.00
  
 Sweden, Allsvenskan
-+914
++965
 Brommapojkarna
 GAIS
 27.10. 19:00
@@ -801,7 +737,7 @@ ki 2
 manje 2.5
 2.05
 više 2.5
-1.71
+1.70
  
 Brazil, Campeonato Carioca B2
 +634
@@ -1091,11 +1027,11 @@ Port Vale
 Stockport
 27.10. 21:00
 ki 1
-2.73
+2.70
 ki X
 3.25
 ki 2
-2.55
+2.57
 manje 2.5
 1.70
 više 2.5
@@ -1107,15 +1043,15 @@ Real Santander
 Huila
 27.10. 21:00
 ki 1
-3.75
+4.00
 ki X
-3.10
+3.15
 ki 2
-1.93
+1.83
 manje 2.5
-1.55
+1.57
 više 2.5
-2.25
+2.20
  
 Ecuador, Serie B - Relegation Group
 +638
@@ -1214,20 +1150,20 @@ više 2.5
 2.45
  
 Colombia, Primera B - Clausura
-+39
++40
 Jaguares de Cordoba
 Boca Juniors
 27.10. 23:15
 ki 1
-1.51
+1.55
 ki X
-3.60
+3.55
 ki 2
-5.90
+5.45
 manje 2.5
-1.71
+1.72
 više 2.5
-2.00
+1.97
 +41
 Quindio
 Cartagena
@@ -1253,9 +1189,9 @@ ki 1
 ki X
 3.70
 ki 2
-2.60
+2.57
 manje 2.5
-2.35
+2.37
 više 2.5
 1.57
  Tiket
@@ -1293,7 +1229,7 @@ Rezultat
 Nagrada
 1.
 Miljana J.
-5,441.75
+5,856.50
 70.000,00
 2.
 Vera D.
@@ -1316,7 +1252,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-14:58:40
+15:07:26
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
