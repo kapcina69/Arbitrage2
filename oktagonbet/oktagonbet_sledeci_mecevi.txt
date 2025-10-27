@@ -4,6 +4,7 @@ Klađenje
 Uživo	
 Rezultati	
 Slot	
+Virtuali	
 Promocije
 Turniri	
 Prijava
@@ -14,7 +15,7 @@ Top Mečevi
  
 Top Lige
  
-Fudbal (163)
+Fudbal (162)
 Sve
 Fudbal Strelci
 8
@@ -62,19 +63,19 @@ GG
 GG3+
 27.10. 16:45
 Al Salmiya - Al Qadsia SC
-2.22
+2.38
 3.25
-2.85
+2.60
 1.96
-1.74
+1.73
 2.95
 1.61
 2.05
 27.10. 17:00
 SJK - KuPS
-2.85
+2.88
 3.95
-2.15
+2.12
 2.95
 1.36
 1.95
@@ -82,14 +83,14 @@ SJK - KuPS
 1.55
 27.10. 17:00
 Latvia Wom. - Lithuania Wom.
-3.65
-3.05
-1.96
-1.54
-2.28
-4.50
-2.05
-2.85
+3.95
+3.20
+1.84
+1.63
+2.12
+4.00
+1.98
+2.62
 27.10. 17:30
 Akhmat Grozny - Sochi
 1.59
@@ -100,16 +101,6 @@ Akhmat Grozny - Sochi
 3.55
 2.07
 2.65
-27.10. 17:30
-Al-Gharafa - Shamal
-4.65
-4.25
-1.52
-2.70
-1.40
-2.05
-1.49
-1.71
 27.10. 17:50
 Al Sulaibikhat - Al Sahel
 2.47
@@ -263,14 +254,14 @@ Odense - Brondby
 1.88
 27.10. 19:00
 Vukovar 1991 - D. Zagreb
-10.6
-5.85
-1.21
-2.75
-1.40
-2.04
-1.92
-2.18
+11.4
+6.15
+1.19
+2.80
+1.38
+2.00
+1.95
+2.20
 27.10. 19:00
 Radomiak Radom - Wisla Plock
 2.28
@@ -363,14 +354,14 @@ Barracas Central - Boca Juniors
 3.35
 27.10. 20:00
 Budafoki - Soroksar
-2.50
+2.28
 3.30
-2.45
-2.02
-1.69
-2.85
-1.58
-1.99
+2.70
+2.03
+1.68
+2.80
+1.57
+1.98
 27.10. 20:00
 Crystal Palace U21 - Newcastle Utd U21
 1.50
@@ -503,14 +494,14 @@ Real Santander - Huila
 2.75
 27.10. 21:00
 Cumbaya - Imbabura
-2.28
-3.05
+2.30
 2.95
-1.68
-2.03
-3.75
-1.82
-2.45
+2.95
+1.58
+2.20
+4.25
+1.94
+2.70
 27.10. 21:15
 Moreirense - FC Porto
 10.2
@@ -643,14 +634,14 @@ Santa Ana - Consultants Desamparados
 2.20
 28.10. 02:30
 UMECIT - Tauro
-2.45
-2.90
+2.38
+3.00
 2.80
-1.46
-2.50
-5.15
-2.12
-3.05
+1.59
+2.18
+4.25
+1.93
+2.65
 28.10. 03:05
 Racing de Veracruz - Montaneses
 1.43
@@ -733,13 +724,13 @@ Slavia Prague B - Usti nad Labem
 1.83
 28.10. 14:30
 Chelyabinsk - Kamaz
-2.05
-3.05
-3.40
-1.61
+2.10
+3.00
+3.30
+1.60
 2.15
-4.10
-1.95
+4.15
+1.94
 2.65
 28.10. 14:30
 Brozany - Teplice B
@@ -833,13 +824,13 @@ Sparta Prague - Bohemians
 2.25
 28.10. 17:30
 CSM Slatina - CFR Cluj
-8.00
-4.85
-1.28
-2.20
-1.58
+7.85
+4.80
+1.29
+2.18
+1.59
 2.55
-2.00
+1.99
 2.38
 28.10. 17:45
 Dunav Ruse - Lok. Plovdiv
@@ -876,11 +867,11 @@ Eintracht Frankfurt - Dortmund
 2.88
 3.65
 2.22
-2.50
-1.48
-2.25
-1.44
-1.70
+2.55
+1.47
+2.22
+1.43
+1.69
 28.10. 18:30
 Heidenheim - Hamburger SV
 2.55
@@ -1093,7 +1084,7 @@ Palermo - Monza
 2.55
 28.10. 20:30
 Pescara - Avellino
-2.80
+2.85
 3.05
 2.55
 1.60
@@ -1654,14 +1645,14 @@ Arsenal Tivat - OFK Petrovac
 3.00
 29.10. 15:00
 Torpedo Moscow - Kholding
-1.71
-3.30
-4.50
+1.66
+3.35
+4.75
 1.73
 1.96
 3.55
-1.93
-2.50
+1.96
+2.55
 29.10. 15:30
 Hebar - Levski Sofia
 15.5
@@ -1704,14 +1695,14 @@ ASO Chlef - CR Belouizdad
 3.30
 29.10. 17:30
 Sanatatea Cluj - U Craiova 1948
-11.7
-6.55
-1.15
-3.25
+12.3
+6.70
+1.14
+3.20
 1.28
-1.77
-1.85
-2.03
+1.78
+1.90
+2.08
 29.10. 17:30
 Levadiakos - Asteras Tripolis
 1.85
@@ -1754,14 +1745,14 @@ Mainz - Stuttgart
 1.83
 29.10. 18:00
 Paderborn - Bayer Leverkusen
-4.35
-4.33
-1.64
-2.88
-1.37
-1.98
-1.43
-1.63
+4.30
+4.25
+1.65
+2.80
+1.39
+2.03
+1.44
+1.66
 29.10. 18:00
 Petrojet - Al Ahly Cairo
 8.75
@@ -2255,13 +2246,13 @@ Newcastle - Tottenham
 2.04
 29.10. 21:00
 Shamrock Rovers - Galway
-1.84
-3.35
-4.05
 1.78
-1.92
+3.35
+4.33
+1.79
+1.91
 3.45
-1.85
+1.87
 2.38
 29.10. 21:05
 Marseille - Angers
@@ -2345,14 +2336,14 @@ Fluminense - Ceara
 3.05
 30.10. 00:00
 Bolivar - Aurora
-1.25
-5.60
-7.75
-3.50
-1.25
-1.68
-1.52
-1.69
+1.23
+5.70
+8.25
+3.45
+1.26
+1.71
+1.57
+1.74
 30.10. 00:10
 Ind. Medellin - Bucaramanga
 1.99
@@ -2385,13 +2376,13 @@ Penarol - Plaza Colonia
 3.15
 30.10. 01:30
 Racing Club - Flamengo RJ
-3.35
+3.20
 3.10
-2.22
+2.28
 1.67
 2.15
 4.05
-1.93
+1.92
 2.62
 30.10. 02:20
 Millonarios - Once Caldas
@@ -4066,14 +4057,14 @@ Ural - Saratov
 2.95
 01.11. 12:00
 Ratchaburi - Chiangrai Utd
-1.59
-3.65
-4.80
-1.95
-1.74
-2.95
-1.80
-2.25
+1.53
+3.80
+5.25
+1.98
+1.72
+2.90
+1.85
+2.28
 01.11. 12:00
 Sporting CP B - Feirense
 2.20
@@ -4366,13 +4357,13 @@ Amiens - Grenoble
 2.40
 01.11. 14:00
 Reims - Dunkerque
-1.69
-3.85
-4.55
+1.65
+3.90
+4.75
 2.02
 1.72
 2.90
-1.73
+1.75
 2.15
 01.11. 14:00
 Aue - Jahn Regensburg
@@ -4876,13 +4867,13 @@ Oxford Utd - Millwall
 2.65
 01.11. 16:00
 QPR - Ipswich
-3.45
-3.40
-2.15
-1.96
-1.86
-3.25
-1.73
+3.65
+3.50
+2.05
+1.97
+1.85
+3.20
+1.74
 2.22
 01.11. 16:00
 Sheffield Utd - Derby
@@ -5704,6 +5695,16 @@ SC Ashdod - Hapoel Haifa
 2.65
 1.54
 1.91
+01.11. 17:30
+Cork City - Derry City
+10.1
+5.15
+1.26
+2.18
+1.61
+2.60
+2.20
+2.62
 01.11. 17:30
 Drogheda - Bohemian
 3.35
@@ -7116,14 +7117,14 @@ Viborg - Randers FC
 1.94
 02.11. 14:00
 Wil - Xamax
-2.50
-3.30
-2.45
-2.00
-1.66
-2.80
+2.65
+3.35
+2.30
+2.03
+1.65
+2.75
 1.55
-1.95
+1.94
 02.11. 14:00
 Boluspor - Bodrumspor
 3.35
@@ -7896,14 +7897,14 @@ Wolfsburg - Hoffenheim
 1.72
 02.11. 17:30
 Jagiellonia - Rakow
-2.55
-3.35
-2.62
-1.95
-1.77
-3.05
+2.40
+3.40
+2.75
+1.96
+1.76
+3.00
 1.64
-2.10
+2.08
 02.11. 17:30
 Krasnodar - Spartak Moscow
 2.08
@@ -8096,14 +8097,14 @@ Leones Negros - Venados
 1.83
 02.11. 19:00
 Vinotinto - Manta
-1.87
-3.25
-3.80
-1.68
-2.04
-3.80
-1.91
-2.50
+1.71
+3.30
+4.55
+1.70
+2.00
+3.70
+1.97
+2.55
 02.11. 19:15
 RAAL La Louviere - Cercle Brugge KSV
 2.70
@@ -10594,36 +10595,36 @@ Konačan Ishod
 X
 3.50
 X
-Falkirk - Kilmarnock
+Hearts - Dundee FC
 01.11. 16:00
 Konačan Ishod
 X
-3.65
+5.00
 X
-Viktoria Koln - Ingolstadt
+Deportes Temuco - Recoleta
 31.10. 19:00
 Konačan Ishod
 X
-3.65
+3.60
 X
-Leyton Orient - Aston Villa U21
+Luton - Brighton U21
 28.10. 20:00
 Konačan Ishod
 X
-5.65
+5.55
 X
-Chapecoense-SC - Operario
-27.10. 23:00
+Jaguares de Cordoba - Boca Juniors
+27.10. 23:15
 Konačan Ishod
 X
-3.10
+3.40
 X
 OBIČAN
 SISTEM
- Kvota:816,70
- Bonus: 3%  490,02
+ Kvota:1.188,81
+ Bonus: 3%  713,29
 Ukupan dobitak:
-16.824,00 RSD
+24.489,00 RSD
 UPLATI
 OKTAGON TIKET
 
