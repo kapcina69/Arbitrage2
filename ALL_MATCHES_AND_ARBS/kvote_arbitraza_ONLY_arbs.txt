@@ -2,35 +2,37 @@
 Odense  vs  Brondby
 
 - BalkanBet  1=3.5  |  X=3.75  |  2=2  |  0-2=2.25  |  2+=1.22  |  3+=1.65  |  GG=1.55  |  IGG=4.05  |  GG&3+=1.85  |  GG&4+=2.95  |  4+=2.65
-- BetOle     0-2=2.27  |  3+=1.57
+- BetOle     1=3.4  |  X=3.75  |  2=1.95  |  0-2=2.27  |  3+=1.57
 - Brazil_d   1=3.4  |  X=3.7  |  2=1.97  |  0-2=2.28  |  2+=1.17  |  3+=1.56
+- Brazil_s   1=3.4  |  X=3.7  |  2=1.97  |  0-2=2.28  |  2+=1.17  |  3+=1.56
 - MaxBet     1=3.70  |  X=4.15  |  2=2.05
 - Mozzart    1=3.5  |  X=3.5  |  2=2.05  |  0-2=2.29  |  2+=1.18  |  3+=1.55
-- Soccer     1=3.25  |  X=3.9  |  2=2.0  |  0-2=2.25  |  2+=1.18  |  3+=1.65  |  GG=1.57  |  IGG=3.7  |  GG&3+=1.87
+- Soccer     1=3.45  |  X=3.7  |  2=2.0  |  0-2=2.3  |  2+=1.17  |  3+=1.62  |  GG=1.55  |  IGG=3.65  |  GG&3+=1.83
 - Topbet     1=3.5  |  X=3.75  |  2=2
 
 Najveća 1  : 3.70  [MaxBet]
 Najveća X  : 4.15  [MaxBet]
 Najveća 2  : 2.05  [MaxBet, Mozzart]
-Najveća 0-2: 2.29  [Mozzart]
-Najveća 3+ : 1.65  [BalkanBet, Soccer]
+Najveća 0-2: 2.30  [Soccer]
+Najveća 3+ : 1.65  [BalkanBet]
 
 Arbitraža (1-X-2): DA   inv_sum=0.9990   profit≈0.10%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0427   profit≈-4.27%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0408   profit≈-4.08%
 
 20:00   27.10.   [Urugvaj Liga Rezervi]
 Progreso (R)  vs  Danubio (R)
 
 - BalkanBet  1=1.68  |  X=3.65  |  2=4.15  |  0-2=1.97  |  2+=1.25  |  3+=1.75  |  GG=1.7  |  IGG=4.45  |  GG&3+=2.05  |  GG&4+=3.3  |  4+=2.9
-- BetOle     0-2=1.81  |  3+=1.8
+- BetOle     1=4.8  |  X=3.5  |  2=1.57  |  0-2=1.81  |  3+=1.8
 - Brazil_d   1=4.8  |  X=3.45  |  2=1.59  |  0-2=1.8  |  2+=1.23  |  3+=1.82
+- Brazil_s   1=4.8  |  X=3.45  |  2=1.59  |  0-2=1.8  |  2+=1.23  |  3+=1.82
 - Soccer     1=1.72  |  X=3.55  |  2=4.05  |  0-2=1.95  |  2+=1.23  |  3+=1.75  |  GG=1.7  |  IGG=None  |  GG&3+=None
 
-Najveća 1  : 4.80  [Brazil_d]
+Najveća 1  : 4.80  [BetOle, Brazil_d, Brazil_s]
 Najveća X  : 3.65  [BalkanBet]
 Najveća 2  : 4.15  [BalkanBet]
 Najveća 0-2: 1.97  [BalkanBet]
-Najveća 3+ : 1.82  [Brazil_d]
+Najveća 3+ : 1.82  [Brazil_d, Brazil_s]
 
 Arbitraža (1-X-2): DA   inv_sum=0.7233   profit≈27.67%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0571   profit≈-5.71%
@@ -39,27 +41,28 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0571   profit≈-5.71%
 Betis  vs  Atl.Madrid
 
 - BalkanBet  1=3.1  |  X=3.65  |  2=2.25  |  0-2=2  |  2+=1.28  |  3+=1.85  |  GG=1.75  |  IGG=4.6  |  GG&3+=2.2  |  GG&4+=3.55  |  4+=3.2
-- BetOle     0-2=1.95  |  3+=1.85
+- BetOle     1=3.3  |  X=3.35  |  2=2.22  |  0-2=1.95  |  3+=1.85
 - Brazil_d   1=3.3  |  X=3.35  |  2=2.25  |  0-2=1.95  |  2+=1.28  |  3+=1.87
+- Brazil_s   1=3.3  |  X=3.35  |  2=2.25  |  0-2=1.95  |  2+=1.28  |  3+=1.87
 - MaxBet     1=3.50  |  X=3.55  |  2=2.30
 - Mozzart    1=3.4  |  X=3.5  |  2=2.25  |  0-2=1.95  |  2+=1.28  |  3+=1.89
-- Soccer     1=3.1  |  X=3.7  |  2=2.22  |  0-2=1.95  |  2+=1.3  |  3+=1.85  |  GG=1.75  |  IGG=4.5  |  GG&3+=2.2
+- Soccer     1=3.2  |  X=3.45  |  2=2.25  |  0-2=1.97  |  2+=1.29  |  3+=1.85  |  GG=1.7  |  IGG=4.4  |  GG&3+=2.12
 - Topbet     1=3.2  |  X=3.5  |  2=2.2
 
 Najveća 1  : 3.50  [MaxBet]
-Najveća X  : 3.70  [Soccer]
+Najveća X  : 3.65  [BalkanBet]
 Najveća 2  : 2.30  [MaxBet]
 Najveća 0-2: 2.00  [BalkanBet]
 Najveća 3+ : 1.89  [Mozzart]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9908   profit≈0.92%
+Arbitraža (1-X-2): DA   inv_sum=0.9945   profit≈0.55%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0291   profit≈-2.91%
 
 23:45   27.10.   [SAD 1]
 Cincinnati  vs  Columbus
 
 - BalkanBet  1=2.5  |  X=3.5  |  2=2.65  |  0-2=2.35  |  2+=1.2  |  3+=1.58  |  GG=1.55  |  IGG=3.7  |  GG&3+=1.9  |  GG&4+=2.8  |  4+=2.45
-- BetOle     0-2=2.55  |  3+=1.5
+- BetOle     1=2.5  |  X=3.8  |  2=2.55  |  0-2=2.55  |  3+=1.5
 - MaxBet     1=2.60  |  X=4.05  |  2=2.70
 - Soccer     1=2.5  |  X=3.7  |  2=2.55  |  0-2=2.5  |  2+=1.14  |  3+=1.53  |  GG=1.45  |  IGG=3.35  |  GG&3+=1.7
 - Topbet     1=2.45  |  X=3.6  |  2=2.75
@@ -90,24 +93,6 @@ Najveća 3+ : 1.43  [Soccer]
 Arbitraža (1-X-2): DA   inv_sum=0.9587   profit≈4.13%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0219   profit≈-2.19%
 
-19:00   29.10.   [Francuska 1]
-Nice  vs  Lille
-
-- BalkanBet  1=2.9  |  X=3.5  |  2=2.45  |  0-2=2.13  |  2+=1.25  |  3+=1.75  |  GG=1.65  |  IGG=4.2  |  GG&3+=2.05  |  GG&4+=3.25  |  4+=2.9
-- Brazil_p   1=2.88  |  X=3.15  |  2=2.6  |  0-2=2.1  |  2+=1.24  |  3+=1.75
-- Mozzart    1=2.95  |  X=3.5  |  2=2.5  |  0-2=2.08  |  2+=1.25  |  3+=1.75
-- Soccer     1=2.65  |  X=3.65  |  2=2.42  |  0-2=2.03  |  2+=1.21  |  3+=1.7  |  GG=1.6  |  IGG=3.9  |  GG&3+=1.95
-- Topbet     1=2.8  |  X=3.55  |  2=2.45
-
-Najveća 1  : 2.95  [Mozzart]
-Najveća X  : 3.65  [Soccer]
-Najveća 2  : 2.60  [Brazil_p]
-Najveća 0-2: 2.13  [BalkanBet]
-Najveća 3+ : 1.75  [BalkanBet, Brazil_p, Mozzart]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9976   profit≈0.24%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0409   profit≈-4.09%
-
 14:00   02.11.   [Danska 1]
 Viborg  vs  Randers
 
@@ -128,26 +113,26 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0498   profit≈-4.98%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 957
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 679
-Grupa sa veličinom ≥3: 399
-Grupa sa veličinom ≥4: 179
-Grupa sa veličinom ≥5: 72
-Grupa sa veličinom ≥6: 21
-Grupa sa veličinom ≥7: 9
+Ukupno mečeva (grupa): 954
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 673
+Grupa sa veličinom ≥3: 404
+Grupa sa veličinom ≥4: 142
+Grupa sa veličinom ≥5: 55
+Grupa sa veličinom ≥6: 25
+Grupa sa veličinom ≥7: 20
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  733   spojeno (u grupama >1):  588
-  - BetOle     ukupno zapisa:   32   spojeno (u grupama >1):   32
+  - BalkanBet  ukupno zapisa:  736   spojeno (u grupama >1):  591
+  - BetOle     ukupno zapisa:   30   spojeno (u grupama >1):   30
   - Brazil_d   ukupno zapisa:   30   spojeno (u grupama >1):   29
   - Brazil_p   ukupno zapisa:   59   spojeno (u grupama >1):   56
-  - Brazil_s   ukupno zapisa:   65   spojeno (u grupama >1):   64
+  - Brazil_s   ukupno zapisa:   30   spojeno (u grupama >1):   30
   - MaxBet     ukupno zapisa:   35   spojeno (u grupama >1):   34
-  - Mozzart    ukupno zapisa:  358   spojeno (u grupama >1):  319
-  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  329
+  - Mozzart    ukupno zapisa:  359   spojeno (u grupama >1):  320
+  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  325
   - Topbet     ukupno zapisa:  660   spojeno (u grupama >1):  593
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 7
+  - 1-X-2: 6
   - 0-2 / 3+: 0
-  - Barem jedna arbitraža: 7
+  - Barem jedna arbitraža: 6
