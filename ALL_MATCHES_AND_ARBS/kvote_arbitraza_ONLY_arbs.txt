@@ -1,3 +1,23 @@
+13:50   27.10.   [poluvreme - kraj i ukupno golova]
+Dubai City FC  vs  AL Arabi (UAE)
+
+- BalkanBet  1=2.2  |  X=3.4  |  2=2.65  |  0-2=2.1  |  2+=1.15  |  3+=1.58  |  4+=2.45
+- BetOle     1=2.22  |  X=3.5  |  2=2.67  |  0-2=2.22  |  3+=1.57
+- Brazil_d   -
+- Mozzart    1=2.3  |  X=3.4  |  2=2.85  |  0-2=2.19  |  2+=1.2  |  3+=1.6
+- OktagonBet 1=2.55  |  X=3.45  |  2=2.35  |  0-2=2.2  |  3+=1.58  |  GG=1.5  |  GG&3+=1.84  |  4+=2.55
+- Soccer     1=2.02  |  X=3.6  |  2=3.2  |  0-2=2.18  |  2+=1.18  |  3+=1.6  |  GG=1.55  |  IGG=3.7  |  GG&3+=1.8
+- Topbet     1=2.3  |  X=3.65  |  2=2.6
+
+Najveća 1  : 2.55  [OktagonBet]
+Najveća X  : 3.65  [Topbet]
+Najveća 2  : 3.20  [Soccer]
+Najveća 0-2: 2.22  [BetOle]
+Najveća 3+ : 1.60  [Mozzart, Soccer]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9786   profit≈2.14%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0755   profit≈-7.55%
+
 18:30   29.10.   [Italija 1]
 Roma  vs  Parma
 
@@ -40,26 +60,27 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0395   profit≈-3.95%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 705
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 374
-Grupa sa veličinom ≥3: 286
-Grupa sa veličinom ≥4: 204
-Grupa sa veličinom ≥5: 148
-Grupa sa veličinom ≥6: 105
-Grupa sa veličinom ≥7: 23
+Ukupno mečeva (grupa): 724
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 372
+Grupa sa veličinom ≥3: 289
+Grupa sa veličinom ≥4: 205
+Grupa sa veličinom ≥5: 142
+Grupa sa veličinom ≥6: 86
+Grupa sa veličinom ≥7: 6
 
 Po kladionici:
   - BalkanBet  ukupno zapisa:  247   spojeno (u grupama >1):  236
-  - Brazil_d   ukupno zapisa:   76   spojeno (u grupama >1):   75
+  - BetOle     ukupno zapisa:   23   spojeno (u grupama >1):   23
+  - Brazil_d   ukupno zapisa:   68   spojeno (u grupama >1):   67
   - Brazil_p   ukupno zapisa:   72   spojeno (u grupama >1):   72
   - Brazil_s   ukupno zapisa:   77   spojeno (u grupama >1):   77
-  - MaxBet     ukupno zapisa:   57   spojeno (u grupama >1):   56
+  - MaxBet     ukupno zapisa:   20   spojeno (u grupama >1):    0
   - Mozzart    ukupno zapisa:  217   spojeno (u grupama >1):  188
-  - OktagonBet ukupno zapisa:  548   spojeno (u grupama >1):  313
-  - Soccer     ukupno zapisa:  297   spojeno (u grupama >1):  276
+  - OktagonBet ukupno zapisa:  548   spojeno (u grupama >1):  312
+  - Soccer     ukupno zapisa:  297   spojeno (u grupama >1):  275
   - Topbet     ukupno zapisa:  255   spojeno (u grupama >1):  222
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 2
+  - 1-X-2: 3
   - 0-2 / 3+: 0
-  - Barem jedna arbitraža: 2
+  - Barem jedna arbitraža: 3

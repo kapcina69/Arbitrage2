@@ -10,7 +10,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 13:00;Pon;27.10.;IDN1;Persib Bandung;Persis Solo;499;1.45;4.25;6.5;1.97;1.23;1.75;1.93;4.8;2.27
 13:15;Pon;27.10.;VIJ1;Cong An;Ho Chi Minh;499;1.48;4.15;5.9;1.95;1.24;1.77;1.93;4.8;2.28
 13:30;Pon;27.10.;SMKD1;Shkendija;Vardar;501;1.73;3.4;4.25;1.7;1.34;2.02;1.95;5.1;2.4
-13:50;Pon;27.10.;UAE2;Al Thaid;Al Urooba;501;3.0;3.35;2.22;1.7;1.34;2.02;1.85;4.75;2.3
+13:50;Pon;27.10.;UAE2;Al Thaid;Al Urooba;501;3.1;3.1;2.27;1.7;1.34;2.03;1.8;4.75;2.25
 13:50;Pon;27.10.;UAE2;Dubai City;Al Arabi Umm Al Quwain;501;2.02;3.6;3.2;2.18;1.18;1.6;1.55;3.7;1.8
 13:50;Pon;27.10.;UAE2;Majd;Masfut;501;4.75;3.75;1.65;1.88;1.26;1.82;1.83;4.6;2.2
 14:00;Pon;27.10.;EP19W;Hungary U19 Wom.;Czech Republic U19 Wom.;490;3.9;4.0;1.72;2.32;1.15;1.53;1.55;3.6;1.8
@@ -49,7 +49,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 18:00;Pon;27.10.;LIT1;Dainava Alytus;Hegelmann;501;4.3;3.55;1.75;1.82;1.28;1.88;1.82;4.65;2.2
 18:00;Pon;27.10.;LIT1;Suduva;Kauno Zalgiris;502;3.85;3.45;1.87;1.8;1.29;1.9;1.8;4.6;2.18
 18:00;Pon;27.10.;SAR2;Jeddah;Al Adalh;502;2.05;3.45;3.25;1.78;1.3;1.92;1.8;4.55;2.2
-18:30;Pon;27.10.;IRK1;Al-Qassim;Al Zawraa;;3.95;3.05;1.9;1.58;1.4;2.23;2.0;;
+18:30;Pon;27.10.;IRK1;Al-Qassim;Al Zawraa;;3.35;2.85;2.17;1.58;1.4;2.23;1.9;;
 18:30;Pon;27.10.;URULR;Albion FC Res.;Defensor Sporting Res.;;3.45;3.35;1.92;1.93;1.24;1.77;1.68;;
 19:00;Pon;27.10.;DAN1;Odense;Brondby;1290;4.05;3.6;1.85;2.08;1.22;1.75;1.65;4.05;2.0
 19:00;Pon;27.10.;HRV1;Vukovar 1991;Dinamo Zagreb;527;9.6;5.9;1.27;2.65;1.11;1.43;1.85;4.2;2.08
@@ -68,7 +68,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 20:00;Pon;27.10.;URULR;Club Atletico Progreso Res.;Danubio Res.;;1.72;3.55;4.05;1.9;1.26;1.8;1.77;;
 20:00;Pon;27.10.;URULR;Club Oriental Res.;Miramar Misiones Res.;;4.9;3.55;1.6;1.95;1.24;1.75;1.75;;
 20:00;Pon;27.10.;URULR;Liverpool Montevideo Res.;CA River Plate Res.;;1.7;3.5;4.3;1.85;1.27;1.85;1.8;;
-20:30;Pon;27.10.;ITA3;Dolomiti Bellunesi;Triestina;499;4.3;3.1;1.9;1.6;1.4;2.2;1.95;5.4;2.48
+20:30;Pon;27.10.;ITA3;Dolomiti Bellunesi;Triestina;500;4.35;3.4;1.77;1.6;1.4;2.2;2.07;5.55;2.65
 20:30;Pon;27.10.;ITA3;Inter Milan U23;Cittadella;501;2.48;3.0;2.85;1.55;1.43;2.3;1.95;5.35;2.5
 20:30;Pon;27.10.;ITA3;Perugia;Livorno;501;2.15;3.2;3.25;1.58;1.4;2.22;1.95;5.25;2.5
 21:00;Pon;27.10.;ŠPA1;Betis;Atl. Madrid;3399;3.15;3.65;2.23;2.0;1.28;1.8;1.68;4.3;2.1
@@ -201,7 +201,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 00:10;Čet;30.10.;KOL1;Ind. Medellin;Bucaramanga;530;1.82;3.45;4.05;1.72;1.33;2.0;1.9;4.9;2.33
 01:30;Čet;30.10.;LIBK;Racing Club;Flamengo RJ;530;3.1;3.35;2.25;1.65;1.38;2.22;1.92;5.05;2.55
 02:20;Čet;30.10.;KOL1;Millonarios;Once Caldas;529;1.73;3.55;4.45;1.7;1.34;2.03;1.97;5.15;2.45
-03:30;Čet;30.10.;MLS;Los Angeles FC;Austin FC;2317;1.43;4.6;6.9;2.1;1.2;1.65;1.83;4.45;2.15
+03:30;Čet;30.10.;MLS;Los Angeles FC;Austin FC;2317;1.42;4.5;7.4;2.1;1.2;1.65;1.82;4.45;2.13
 16:15;Čet;30.10.;SAR1;Damac;Al-Fateh;530;2.8;3.45;2.27;2.12;1.19;1.65;1.55;3.7;1.82
 17:45;Čet;30.10.;DANK;Midtjylland;Silkeborg;533;1.4;4.9;6.2;2.75;1.1;1.4;1.6;3.6;1.77
 18:00;Čet;30.10.;EGI1;National Bank Egypt;Zamalek;497;3.45;2.95;2.2;1.45;1.55;2.6;2.17;6.15;2.9
@@ -218,7 +218,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 21:15;Čet;30.10.;POR2;Leixoes;Academico Viseu;490;2.47;3.25;2.65;1.63;1.38;2.13;1.9;5.0;2.4
 21:15;Čet;30.10.;POR2;Maritimo;Leiria;501;2.18;3.35;3.05;1.72;1.33;2.0;1.82;4.7;2.25
 22:00;Čet;30.10.;KOL1;U. Magdalena;Deportes Tolima;517;3.7;3.05;2.05;1.57;1.42;2.25;1.95;5.4;2.5
-23:00;Čet;30.10.;SUDAM;Lanus;U. De Chile;530;1.9;3.4;4.2;1.7;1.35;2.15;1.92;5.1;2.5
+23:00;Čet;30.10.;SUDAM;Lanus;U. De Chile;529;1.88;3.4;4.25;1.68;1.37;2.18;1.95;5.2;2.55
 00:10;Pet;31.10.;KOL1;Junior;Santa Fe;529;1.7;3.5;4.7;1.75;1.32;1.97;1.9;4.95;2.33
 01:30;Pet;31.10.;LIBK;Palmeiras;LDU Quito;524;1.2;6.0;16.2;2.25;1.18;1.65;2.35;5.9;2.75
 14:40;Pet;31.10.;SAR1;Al Akhdoud;Al Najma;529;2.1;3.5;3.05;1.82;1.28;1.88;1.75;4.4;2.15
