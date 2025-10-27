@@ -5,7 +5,6 @@ import re
 from pathlib import Path
 from typing import Dict, List, Tuple, Optional
 
-
 # === putanje / folderi ===
 TIKET_DIR = Path("TIKETI")
 TIKET_DIR.mkdir(parents=True, exist_ok=True)
@@ -15,22 +14,16 @@ CONFIG = {
     "OUTPUT_FILE": TIKET_DIR / "kvote_procenti.txt",
     "TICKET_FILE": TIKET_DIR / "tiketi.txt",
 
-    # koje tržišta pratimo
     "TARGET_MARKETS": ["1", "X", "2", "0-2", "3+"],
 
-    # kvote koje računamo za raspon
     "ODDS_MIN": 1.0,
     "ODDS_MAX": 5.0,
-
-    # clamp diff%
     "MAX_DIFF_PCT": 60.0,
 
-    # filter ženskih mečeva
     "WOMEN_KEYWORDS": [
         "women", "wom.", "wom", "(wom.)", "(wom)", "(w)",
     ],
 
-    # regexi za parsiranje FULL fajla
     "RE_HEADER": re.compile(
         r"^(?P<time>\d\d:\d\d)\s+(?P<date>\d\d\.\d\d\.)\s+\[(?P<liga>.+?)\]\s*$"
     ),
@@ -53,28 +46,17 @@ CONFIG = {
         r"(^|\|)\s*(?P<key>1|X|2|0-2|3\+)\s*=\s*(?P<val>[0-9]+(?:\.[0-9]+)?)"
     ),
 
-    # separator u FULL fajlu
     "SEPARATOR_MIN_DASHES": 5,
 
-    # pragovi profita za ulazak u kvote_procenti.txt
-    # (ovo odlučuje šta uopšte ide u kvote_procenti.txt;
-    #  tiketi kasnije rade dodatni filter po rasponu <2%)
-    "MAX_PROFIT_FOR_OUTPUT": 10.0,   # >10% ne upisujemo
-    "MIN_PROFIT_FOR_OUTPUT": -0.5,   # <=-1% ne upisujemo
+    "MAX_PROFIT_FOR_OUTPUT": 10.0,
+    "MIN_PROFIT_FOR_OUTPUT": -1.0,
 
-    # ulog po tiketu
     "TICKET_STAKE": 200.0,
 }
-
-
-# ===========
-# pomoćne za parsiranje FULL fajla
-# ===========
 
 def is_separator(line: str) -> bool:
     stripped = line.strip()
     return len(stripped) >= CONFIG["SEPARATOR_MIN_DASHES"] and set(stripped) == {"-"}
-
 
 def parse_markets_from_rest(rest: str) -> Dict[str, float]:
     mkts: Dict[str, float] = {}
@@ -90,17 +72,7 @@ def parse_markets_from_rest(rest: str) -> Dict[str, float]:
         mkts[key] = val
     return mkts
 
-
 def procitaj_sve_meceve(lines: List[str]) -> List[Dict]:
-    """
-    Iz FULL fajla pravimo listu mečeva:
-      {
-        time,date,liga,home,away,
-        kvote=[{"bkm":..., "markets":{mkt:kvota,...}}, ...],
-        profit_1x2, profit_02_3p
-      }
-    Odbacujemo kladionice sa <2 tržišta.
-    """
     mecevi: List[Dict] = []
     curr = {}
     state = "idle"
@@ -169,21 +141,17 @@ def procitaj_sve_meceve(lines: List[str]) -> List[Dict]:
 
     return mecevi
 
-
 def is_women_team(name: str) -> bool:
     low = name.lower()
     return any(w.lower() in low for w in CONFIG["WOMEN_KEYWORDS"])
 
-
 def mec_je_zenski(match: Dict) -> bool:
     return is_women_team(match.get("home","")) or is_women_team(match.get("away",""))
-
 
 def procentualna_razlika(max_v: float, min_v: float) -> float:
     if min_v == 0:
         return 0.0
     return (max_v - min_v) / min_v * 100.0
-
 
 def safe_float(v) -> Optional[float]:
     if v is None:
@@ -195,14 +163,7 @@ def safe_float(v) -> Optional[float]:
     except Exception:
         return None
 
-
 def analiza_meča(match: Dict) -> Dict:
-    """
-    - Računamo diff_pct po marketu (ograničavamo na MAX_DIFF_PCT).
-    - Čuvamo max_bkm, max_val po marketu.
-    - Čuvamo profite.
-    """
-
     TARGET_MKTS = CONFIG["TARGET_MARKETS"]
     MIN_ODD = CONFIG["ODDS_MIN"]
     MAX_ODD = CONFIG["ODDS_MAX"]
@@ -281,18 +242,7 @@ def analiza_meča(match: Dict) -> Dict:
         "profit_for_best": profit_for_best,
     }
 
-
-# ===========
-# kvote_procenti.txt blokovi
-# ===========
-
 def build_blocks_for_output(r: Dict) -> Tuple[List[str], bool]:
-    """
-    Od jednog meča pravimo blok(ove) za kvote_procenti.txt:
-    - Ako profit_1x2 je (-1%, 10%] -> ispiši 1, X, 2
-    - Ako profit_02_3p je (-1%, 10%] -> ispiši 0-2, 3+
-    Svaki market je POSEBAN blok.
-    """
     out_blocks: List[str] = []
     qualifies = False
 
@@ -353,11 +303,6 @@ def build_blocks_for_output(r: Dict) -> Tuple[List[str], bool]:
 
     return out_blocks, qualifies
 
-
-# ===========
-# parsiranje kvote_procenti.txt nazad → pickovi
-# ===========
-
 HEADER1_RE = re.compile(
     r"^(?P<time>\d{1,2}:\d{2})\s+(?P<date>\d{1,2}\.\d{1,2}\.)\s+\[(?P<liga>.+?)\]\s*$"
 )
@@ -375,19 +320,7 @@ PROFIT_RE = re.compile(
     r"^Profit grupa:\s+(?P<profit>-?[0-9.]+)%"
 )
 
-
 def parse_kvote_procenti_blocks(kp_text: str) -> List[Dict[str, object]]:
-    """
-    Svaki blok u kvote_procenti.txt postaje jedan pick:
-    {
-      match: "19:00 29.10. Havre vs Brest (Francuska 1)",
-      market: "X",
-      odd: 3.50,
-      bkm: "BalkanBet",
-      raspon_pct: float | None,
-      profit_pct: float | None,
-    }
-    """
     lines = kp_text.splitlines()
     picks: List[Dict[str, object]] = []
     i = 0
@@ -399,13 +332,11 @@ def parse_kvote_procenti_blocks(kp_text: str) -> List[Dict[str, object]]:
             i += 1
             continue
 
-        # sakupi block do "-----"
         block_lines = []
         j = i
         while j < n and not (lines[j].strip().startswith("-") and set(lines[j].strip()) == {"-"}):
             block_lines.append(lines[j].rstrip("\n"))
             j += 1
-        # preskoči dashed line
         if j < n:
             j += 1
 
@@ -457,32 +388,13 @@ def parse_kvote_procenti_blocks(kp_text: str) -> List[Dict[str, object]]:
 
     return picks
 
-
-# ===========
-# pravljenje tiketa (grupisanje)
-# ===========
-
 def _ticket_product_odds(picks: List[Dict[str, object]]) -> float:
     prod = 1.0
     for p in picks:
         prod *= float(p["odd"])
     return prod
 
-
 def group_picks_into_tickets_by_bookmaker(picks_all: List[Dict[str, object]]) -> List[Dict[str, object]]:
-    """
-    Logika pravljenja tiketa (bez formatiranja):
-
-    - Pickovi sa rasponom < 2% NE ULAZE u tikete.
-    - Tiket sadrži samo jednu kladionicu.
-    - Idealno 2 para po tiketu.
-    - U istom tiketu ne smeju kvote iz istog meča.
-    - Singl tiket pokušavamo da spojimo u neki višemeč tiket iste
-      kladionice sa najmanjim koeficijentom (max 3 para, bez istog meča).
-    - Ako ne može da se spoji, ostaje singl i dobija "star": True.
-      (ovo star koristimo samo ako uključimo prikaz kasnije)
-    """
-
     # 0) filtriraj pickove po rasponu (<2% izbaci)
     filtered_picks = []
     for pk in picks_all:
@@ -491,7 +403,7 @@ def group_picks_into_tickets_by_bookmaker(picks_all: List[Dict[str, object]]) ->
             continue
         filtered_picks.append(pk)
 
-    # 1) grupišemo po kladionici
+    # 1) po kladionici
     picks_by_bkm: Dict[str, List[Dict[str, object]]] = {}
     for pk in filtered_picks:
         picks_by_bkm.setdefault(pk["bkm"], []).append(pk)
@@ -499,7 +411,7 @@ def group_picks_into_tickets_by_bookmaker(picks_all: List[Dict[str, object]]) ->
     final_tickets: List[Dict[str, object]] = []
 
     for bkm, picks in picks_by_bkm.items():
-        # 2) prvi prolaz: gradimo tikete sa max 2, bez duplog meča
+        # inicijalno pravljenje tiketa po 2 meča, bez duplog meča
         raw_tickets: List[Dict[str, object]] = []
 
         current_ticket: List[Dict[str, object]] = []
@@ -516,15 +428,12 @@ def group_picks_into_tickets_by_bookmaker(picks_all: List[Dict[str, object]]) ->
             used_matches_in_ticket = set()
 
         for pk in picks:
-            # ako već imamo 2 u trenutnom tiketu -> zatvori pa kreni novi
             if len(current_ticket) >= 2:
                 flush_ticket()
 
-            # ako bi duplirali isti meč u istom tiketu -> zatvori pa kreni novi
             if pk["match"] in used_matches_in_ticket and current_ticket:
                 flush_ticket()
 
-            # ubaci sadašnji pick
             if len(current_ticket) < 2:
                 current_ticket.append(pk)
                 used_matches_in_ticket.add(pk["match"])
@@ -535,7 +444,7 @@ def group_picks_into_tickets_by_bookmaker(picks_all: List[Dict[str, object]]) ->
 
         flush_ticket()
 
-        # 3) sad imamo raw_tickets (svaki 1 ili 2 picka). Rešavamo singlove.
+        # spajanje singlova
         multis = [t for t in raw_tickets if len(t["picks"]) >= 2]
         singles = [t for t in raw_tickets if len(t["picks"]) == 1]
 
@@ -544,7 +453,6 @@ def group_picks_into_tickets_by_bookmaker(picks_all: List[Dict[str, object]]) ->
         for s in singles:
             spick = s["picks"][0]
 
-            # kandidati: postojeći multis sortirani po najmanjem koeficijentu
             candidates = sorted(
                 multis,
                 key=lambda t: _ticket_product_odds(t["picks"])
@@ -552,22 +460,17 @@ def group_picks_into_tickets_by_bookmaker(picks_all: List[Dict[str, object]]) ->
 
             merged = False
             for mt in candidates:
-                # tiket posle merge max 3
                 if len(mt["picks"]) >= 3:
                     continue
-                # ne dupliraj isti meč
                 existing_matches = {pp["match"] for pp in mt["picks"]}
                 if spick["match"] in existing_matches:
                     continue
-
-                # možemo da ga ubacimo
                 mt["picks"].append(spick)
                 merged = True
                 break
 
             if not merged:
-                # ostaje solo tiket za ovu kladionicu
-                s["star"] = True  # označi kao singl tiket
+                s["star"] = True
                 leftovers.append(s)
 
         final_for_bkm = multis + leftovers
@@ -575,23 +478,13 @@ def group_picks_into_tickets_by_bookmaker(picks_all: List[Dict[str, object]]) ->
 
     return final_tickets
 
-
-# ===========
-# pomoćne za formatiranje
-# ===========
-
 def _avg_profit_pct(picks: List[Dict[str, object]]) -> Optional[float]:
     vals = [p["profit_pct"] for p in picks if p.get("profit_pct") is not None]
     if not vals:
         return None
     return sum(vals) / float(len(vals))
 
-
 def _collect_topbet_matches(tickets: List[Dict[str, object]]) -> set:
-    """
-    Vrati skup svih match ID-ova koji se pojavljuju u tiketima
-    gde se kladionica zove 'Topbet'. (optionally koristi se za zvezdicu)
-    """
     topbet_matches = set()
     for t in tickets:
         for p in t["picks"]:
@@ -599,17 +492,24 @@ def _collect_topbet_matches(tickets: List[Dict[str, object]]) -> set:
                 topbet_matches.add(p["match"])
     return topbet_matches
 
+def sort_tickets_by_avg_profit(tickets: List[Dict[str, object]]) -> List[Dict[str, object]]:
+    """
+    Sortiraj tikete po prosečnom profitu opadajuće.
+    Ako tiket nema profit podatke (sve None), tretiramo ga kao -inf.
+    """
+    def ticket_key(t):
+        avgp = _avg_profit_pct(t["picks"])
+        # veći profit ide gore, None ide na dno
+        return (-9999.0 if avgp is None else -avgp)
+    return sorted(tickets, key=ticket_key)
 
 def format_tickets_for_output(tickets: List[Dict[str, object]]) -> str:
     """
     Štampa sve tikete.
 
-    Trenutni default:
-    - Bez zvezdica uopšte.
-
-    Ali ostavljamo flagove da lako možeš da ih uključiš:
-      USE_SINGLETON_STAR = False   # stavi True ako želiš * u naslovu singl tiketa
-      USE_TOPBET_STAR    = False   # stavi True ako želiš * pored svakog meča koji je viđen u Topbet tiketu
+    Flagovi (trenutno ugašeni):
+      USE_SINGLETON_STAR = False
+      USE_TOPBET_STAR    = False
     """
 
     USE_SINGLETON_STAR = False
@@ -624,7 +524,6 @@ def format_tickets_for_output(tickets: List[Dict[str, object]]) -> str:
             "============================================\n"
         )
 
-    # skup svih mečeva koji se pojavljuju sa Topbet kvotom
     topbet_matches = _collect_topbet_matches(tickets) if USE_TOPBET_STAR else set()
 
     lines: List[str] = []
@@ -639,7 +538,6 @@ def format_tickets_for_output(tickets: List[Dict[str, object]]) -> str:
         avg_profit = _avg_profit_pct(picks)
         avg_profit_txt = f"{avg_profit:.2f}%" if avg_profit is not None else "n/a"
 
-        # naslov tiketa
         title_line = f"  KLADIONICA: {bkm}       TIKET #{idx}"
         if USE_SINGLETON_STAR and t.get("star"):
             title_line += " *"
@@ -659,11 +557,7 @@ def format_tickets_for_output(tickets: List[Dict[str, object]]) -> str:
             raspon_txt = f"{p['raspon_pct']:.2f}%" if p["raspon_pct"] is not None else "n/a"
             profit_txt = f"{p['profit_pct']:.2f}%" if p["profit_pct"] is not None else "n/a"
 
-            # po defaultu ne stavljamo zvezdicu
             match_line = f"   {pick_idx}) {p['match']}"
-
-            # ako želiš kasnije:
-            # ako je USE_TOPBET_STAR uključen i ovaj meč se pojavljuje u Topbet tiketu => dodaj *
             if USE_TOPBET_STAR and (p["match"] in topbet_matches):
                 match_line += " *"
 
@@ -679,25 +573,16 @@ def format_tickets_for_output(tickets: List[Dict[str, object]]) -> str:
     return "\n".join(lines) + "\n"
 
 
-# ===========
-# MAIN
-# ===========
-
 def main():
-    # --- A) generišemo kvote_procenti.txt ---
-
+    # A) napravi kvote_procenti.txt
     full_lines = CONFIG["INPUT_FILE"].read_text(
         encoding="utf-8", errors="ignore"
     ).splitlines()
 
-    # svi mečevi
     mecevi = procitaj_sve_meceve(full_lines)
-    # skloni ženske
     mecevi = [m for m in mecevi if not mec_je_zenski(m)]
-    # analiza
     analyzed = [analiza_meča(m) for m in mecevi]
 
-    # sortiramo po profit_for_best opadajuće da izlaz bude stabilan/koristan
     def sort_key(r: Dict) -> float:
         p = r.get("profit_for_best")
         if p is None:
@@ -705,24 +590,22 @@ def main():
         return float(p)
     analyzed.sort(key=sort_key, reverse=True)
 
-    # generišemo blokove za kvote_procenti.txt
     all_blocks: List[str] = []
     for r in analyzed:
-        blks, _qualifies = build_blocks_for_output(r)
+        blks, _ = build_blocks_for_output(r)
         all_blocks.extend(blks)
 
     out_text = ("\n".join(all_blocks) + "\n") if all_blocks else ""
     CONFIG["OUTPUT_FILE"].write_text(out_text, encoding="utf-8")
 
-    # --- B) pravimo tikete ISKLJUČIVO iz kvote_procenti.txt ---
-
-    # parsiramo nazad svaki blok => pick
+    # B) tiketi od kvote_procenti
     picks_all = parse_kvote_procenti_blocks(out_text)
 
-    # grupišemo u tikete uz sva pravila
     tickets = group_picks_into_tickets_by_bookmaker(picks_all)
 
-    # format + snimi tiketi.txt
+    # >>> NOVO: sortiranje tiketa po prosečnom profitu (opadajuće) <<<
+    tickets = sort_tickets_by_avg_profit(tickets)
+
     tiketi_txt = format_tickets_for_output(tickets)
     CONFIG["TICKET_FILE"].write_text(tiketi_txt, encoding="utf-8")
 
