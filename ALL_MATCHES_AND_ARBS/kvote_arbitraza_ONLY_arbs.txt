@@ -2,15 +2,16 @@
 Progreso (R)  vs  Danubio (R)
 
 - BalkanBet  1=1.68  |  X=3.5  |  2=4.35  |  0-2=1.88  |  2+=1.28  |  3+=1.82  |  GG=1.7  |  IGG=4.55  |  GG&3+=2.15  |  GG&4+=3.45  |  4+=3.05
-- Brazil_d   -
+- BetOle     1=4.55  |  X=3.55  |  2=1.6  |  0-2=1.92  |  3+=1.7
+- Brazil_d   1=4.55  |  X=3.5  |  2=1.6  |  0-2=1.9  |  2+=1.19  |  3+=1.72
 - OktagonBet 1=4.55  |  X=3.55  |  2=1.59  |  0-2=1.92  |  3+=1.7  |  GG=1.75  |  GG&3+=2.18  |  4+=2.9
 - Soccer     1=1.72  |  X=3.55  |  2=4.05  |  0-2=1.9  |  2+=1.26  |  3+=1.8  |  GG=1.77  |  IGG=None  |  GG&3+=None
 - Topbet     1=1.72  |  X=3.65  |  2=3.9
 
-Najveća 1  : 4.55  [OktagonBet]
+Najveća 1  : 4.55  [BetOle, Brazil_d, OktagonBet]
 Najveća X  : 3.65  [Topbet]
 Najveća 2  : 4.35  [BalkanBet]
-Najveća 0-2: 1.92  [OktagonBet]
+Najveća 0-2: 1.92  [BetOle, OktagonBet]
 Najveća 3+ : 1.82  [BalkanBet]
 
 Arbitraža (1-X-2): DA   inv_sum=0.7236   profit≈27.64%
@@ -60,26 +61,25 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0319   profit≈-3.19%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1147
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 445
-Grupa sa veličinom ≥3: 347
-Grupa sa veličinom ≥4: 283
-Grupa sa veličinom ≥5: 203
-Grupa sa veličinom ≥6: 145
-Grupa sa veličinom ≥7: 79
+Ukupno mečeva (grupa): 1146
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 446
+Grupa sa veličinom ≥3: 352
+Grupa sa veličinom ≥4: 286
+Grupa sa veličinom ≥5: 204
+Grupa sa veličinom ≥6: 151
+Grupa sa veličinom ≥7: 81
 
 Po kladionici:
   - BalkanBet  ukupno zapisa:  284   spojeno (u grupama >1):  269
-  - BetOle     ukupno zapisa:   23   spojeno (u grupama >1):   23
-  - Brazil_d   ukupno zapisa:   90   spojeno (u grupama >1):   89
-  - Brazil_p   ukupno zapisa:   77   spojeno (u grupama >1):   74
+  - BetOle     ukupno zapisa:   86   spojeno (u grupama >1):   86
+  - Brazil_d   ukupno zapisa:   98   spojeno (u grupama >1):   97
+  - Brazil_p   ukupno zapisa:   76   spojeno (u grupama >1):   74
   - Brazil_s   ukupno zapisa:   84   spojeno (u grupama >1):   84
-  - MaxBet     ukupno zapisa:   58   spojeno (u grupama >1):   57
   - Merkur     ukupno zapisa:  107   spojeno (u grupama >1):  106
   - Mozzart    ukupno zapisa:  263   spojeno (u grupama >1):  229
-  - OktagonBet ukupno zapisa: 1045   spojeno (u grupama >1):  416
+  - OktagonBet ukupno zapisa: 1045   spojeno (u grupama >1):  417
   - Soccer     ukupno zapisa:  325   spojeno (u grupama >1):  324
-  - Topbet     ukupno zapisa:  333   spojeno (u grupama >1):  316
+  - Topbet     ukupno zapisa:  340   spojeno (u grupama >1):  322
 
 Arbitraže (broj mečeva/grupa):
   - 1-X-2: 3
