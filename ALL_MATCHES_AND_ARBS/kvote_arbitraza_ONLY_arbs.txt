@@ -7,16 +7,36 @@ Progreso (R)  vs  Danubio (R)
 - Merkur     1=5  |  X=3.6  |  2=1.57  |  0-2=1.82  |  3+=1.8  |  GG=1.85
 - OktagonBet 1=4.8  |  X=3.55  |  2=1.57  |  0-2=1.84  |  3+=1.76  |  GG=1.84  |  GG&3+=2.32  |  4+=3.05
 - Soccer     1=1.72  |  X=3.55  |  2=4.05  |  0-2=1.95  |  2+=1.23  |  3+=1.75  |  GG=1.7  |  IGG=None  |  GG&3+=None
-- Topbet     1=1.72  |  X=3.7  |  2=3.9
 
 Najveća 1  : 5.00  [Merkur]
-Najveća X  : 3.70  [Topbet]
+Najveća X  : 3.65  [BalkanBet]
 Najveća 2  : 4.15  [BalkanBet]
 Najveća 0-2: 1.97  [BalkanBet]
 Najveća 3+ : 1.80  [BetOle, Merkur]
 
-Arbitraža (1-X-2): DA   inv_sum=0.7112   profit≈28.88%
+Arbitraža (1-X-2): DA   inv_sum=0.7149   profit≈28.51%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0632   profit≈-6.32%
+
+21:00   27.10.   [Ekvador 2]
+Cumbaya  vs  Imbabura
+
+- BalkanBet  1=2.25  |  X=3.35  |  2=2.7  |  0-2=2.1  |  2+=1.22  |  3+=1.65  |  GG=1.47  |  IGG=3.7  |  GG&3+=1.85  |  GG&4+=2.95  |  4+=2.6
+- BetOle     1=2.22  |  X=3.2  |  2=2.88  |  0-2=1.85  |  3+=1.83
+- MaxBet     1=2.20  |  X=3.25  |  2=2.85
+- Merkur     1=2.2  |  X=3.25  |  2=2.9  |  0-2=1.75  |  3+=1.92  |  GG=1.72  |  IGG=4.8  |  GG&3+=2.28
+- Mozzart    1=2.3  |  X=3.3  |  2=2.9  |  0-2=1.8  |  2+=1.29  |  3+=1.9
+- OktagonBet 1=2.22  |  X=3.25  |  2=2.85  |  0-2=1.95  |  3+=1.74  |  GG=1.63  |  GG&3+=2.07  |  4+=3
+- Soccer     1=2.18  |  X=3.35  |  2=2.85  |  0-2=1.85  |  2+=1.27  |  3+=1.85  |  GG=1.72  |  IGG=4.3  |  GG&3+=2.1
+- Topbet     1=2.25  |  X=3.4  |  2=2.8
+
+Najveća 1  : 2.30  [Mozzart]
+Najveća X  : 3.40  [Topbet]
+Najveća 2  : 2.90  [Merkur, Mozzart]
+Najveća 0-2: 2.10  [BalkanBet]
+Najveća 3+ : 1.92  [Merkur]
+
+Arbitraža (1-X-2): NE   inv_sum=1.0737   profit≈-7.37%
+Arbitraža (0-2 / 3+): DA   inv_sum=0.9970   profit≈0.30%
 
 19:00   29.10.   [Francuska 1]
 Nice  vs  Lille
@@ -43,16 +63,16 @@ Chelmsford  vs  Braintree
 - BalkanBet  1=5.1  |  X=4.75  |  2=1.55  |  0-2=2.13  |  2+=1.24  |  3+=1.72  |  GG=1.85  |  IGG=4.9  |  GG&3+=2.15  |  GG&4+=3.3  |  4+=2.8
 - Mozzart    1=6  |  X=4  |  2=1.5  |  0-2=2.11  |  2+=1.22  |  3+=1.65
 - OktagonBet 1=7.35  |  X=4.5  |  2=1.4  |  0-2=2.12  |  3+=1.65  |  GG=1.93  |  GG&3+=2.32  |  4+=2.7
-- Soccer     1=7.9  |  X=4.9  |  2=1.37  |  0-2=2.05  |  2+=1.21  |  3+=1.7  |  GG=1.98  |  IGG=4.85  |  GG&3+=2.35
+- Soccer     1=6.6  |  X=4.65  |  2=1.45  |  0-2=2.05  |  2+=1.21  |  3+=1.68  |  GG=1.88  |  IGG=4.6  |  GG&3+=2.23
 - Topbet     1=6.26  |  X=4.5  |  2=1.45
 
-Najveća 1  : 7.90  [Soccer]
-Najveća X  : 4.90  [Soccer]
+Najveća 1  : 7.35  [OktagonBet]
+Najveća X  : 4.75  [BalkanBet]
 Najveća 2  : 1.55  [BalkanBet]
 Najveća 0-2: 2.13  [BalkanBet]
 Najveća 3+ : 1.72  [BalkanBet]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9758   profit≈2.42%
+Arbitraža (1-X-2): DA   inv_sum=0.9917   profit≈0.83%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0509   profit≈-5.09%
 
 19:00
@@ -86,22 +106,6 @@ Najveća 3+ : 1.51  [OktagonBet]
 Arbitraža (1-X-2): NE   inv_sum=1.0511   profit≈-5.11%
 Arbitraža (0-2 / 3+): DA   inv_sum=0.9848   profit≈1.52%
 
-16:00   01.11.   [Škotska 4]
-Spartans  vs  East Kilbride
-
-- BalkanBet  1=2.5  |  X=3.55  |  2=2.5  |  0-2=2.2  |  2+=1.2  |  3+=1.6  |  GG=1.55  |  IGG=3.75  |  GG&3+=1.9  |  GG&4+=2.85  |  4+=2.5
-- OktagonBet 1=2.5  |  X=3.45  |  2=2.38  |  0-2=2.18  |  3+=1.6  |  GG=1.52  |  GG&3+=1.86  |  4+=2.6
-- Topbet     1=3.5  |  X=3.75  |  2=1.8
-
-Najveća 1  : 3.50  [Topbet]
-Najveća X  : 3.75  [Topbet]
-Najveća 2  : 2.50  [BalkanBet]
-Najveća 0-2: 2.20  [BalkanBet]
-Najveća 3+ : 1.60  [BalkanBet, OktagonBet]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9524   profit≈4.76%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0795   profit≈-7.95%
-
 20:45   03.11.
 Lazio  vs  Cagliari
 
@@ -121,28 +125,28 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0499   profit≈-4.99%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1321
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 833
-Grupa sa veličinom ≥3: 606
-Grupa sa veličinom ≥4: 423
+Ukupno mečeva (grupa): 1320
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 831
+Grupa sa veličinom ≥3: 605
+Grupa sa veličinom ≥4: 422
 Grupa sa veličinom ≥5: 234
-Grupa sa veličinom ≥6: 130
-Grupa sa veličinom ≥7: 58
+Grupa sa veličinom ≥6: 129
+Grupa sa veličinom ≥7: 56
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  761   spojeno (u grupama >1):  691
-  - BetOle     ukupno zapisa:   70   spojeno (u grupama >1):   70
-  - Brazil_d   ukupno zapisa:   70   spojeno (u grupama >1):   69
+  - BalkanBet  ukupno zapisa:  760   spojeno (u grupama >1):  689
+  - BetOle     ukupno zapisa:   69   spojeno (u grupama >1):   69
+  - Brazil_d   ukupno zapisa:   69   spojeno (u grupama >1):   68
   - Brazil_p   ukupno zapisa:   72   spojeno (u grupama >1):   70
   - Brazil_s   ukupno zapisa:   82   spojeno (u grupama >1):   82
-  - MaxBet     ukupno zapisa:   83   spojeno (u grupama >1):   81
-  - Merkur     ukupno zapisa:  136   spojeno (u grupama >1):   85
+  - MaxBet     ukupno zapisa:   84   spojeno (u grupama >1):   82
+  - Merkur     ukupno zapisa:  135   spojeno (u grupama >1):   84
   - Mozzart    ukupno zapisa:  354   spojeno (u grupama >1):  320
   - OktagonBet ukupno zapisa: 1045   spojeno (u grupama >1):  750
   - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  348
-  - Topbet     ukupno zapisa:  648   spojeno (u grupama >1):  617
+  - Topbet     ukupno zapisa:  642   spojeno (u grupama >1):  611
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 6
-  - 0-2 / 3+: 1
+  - 1-X-2: 5
+  - 0-2 / 3+: 2
   - Barem jedna arbitraža: 7
