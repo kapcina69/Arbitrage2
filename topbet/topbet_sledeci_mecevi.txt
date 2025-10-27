@@ -263,7 +263,7 @@ X
 Brighton - Leeds
 1.78
 3.85
-4.55
+4.45
 +53
 16:00
 Burnley - Arsenal
@@ -355,9 +355,9 @@ Le Havre - Brest
 +53
 19:00
 Nice - Lille
-2.55
-3.50
-2.70
+2.60
+3.40
+2.65
 +53
 21:05
 Nantes - Monaco
@@ -679,9 +679,9 @@ X
 2
 21:00
 Betis - Atletico M.
-3.20
-3.55
-2.20
+3.15
+3.50
+2.25
 +58
 PET. 31.10.
 1
@@ -1269,9 +1269,9 @@ Port Vale - Maldon & Tiptree
 +41
 18:15
 Gainsborough - Accrington
-6.70
-5.20
-1.35
+7.13
+5.35
+1.32
 +41
 Alžir 1
 KONAČAN ISHOD
@@ -1473,9 +1473,9 @@ X
 2
 17:00
 BW Linz - LASK
-2.90
+3.00
 3.70
-2.30
+2.25
 +37
 17:00
 Grazer - Altach
@@ -1597,9 +1597,9 @@ Kapfenberg - Altach
 +39
 20:30
 Stripfing - LASK
-6.80
-4.60
-1.38
+5.90
+4.50
+1.42
 +39
 SRE. 29.10.
 1
@@ -1607,15 +1607,15 @@ X
 2
 18:00
 Admira - Sturm
-5.00
-4.10
-1.55
+4.40
+3.95
+1.60
 +39
 19:00
 Bregenz - Ried
-6.00
-5.15
-1.38
+5.80
+4.80
+1.42
 +39
 19:00
 Amstetten - Wolfsberger
@@ -2043,9 +2043,9 @@ Pardubice - Dukla P..
 +37
 18:00
 Slavia P. - Ostrava
-1.23
-6.70
-13.00
+1.20
+7.10
+16.50
 +37
 NED. 02.11.
 1
@@ -2354,8 +2354,8 @@ X
 21:00
 Cumbaya Fc - Imbabura Sporting Club
 2.25
-3.35
-2.80
+3.30
+2.70
 +36
 Engleska 2
 KONAČAN ISHOD
@@ -2640,8 +2640,8 @@ X
 15:00
 (U21) Watford - (U21) Swansea
 2.60
-3.95
-2.25
+4.20
+2.20
 +22
 UTO. 28.10.
 1
@@ -2693,9 +2693,9 @@ Tartu JK Welco - Elva
 +36
 18:00
 Viimsi - (U21) Levadia
-1.75
-4.00
-3.50
+1.68
+4.25
+3.70
 +36
 18:00
 (U21) Flora - FC Tallinn
@@ -2713,8 +2713,8 @@ X
 2
 17:00
 SJK - KuPS
-2.65
-3.70
+2.55
+3.85
 2.35
 +37
 ČET. 30.10.
@@ -2723,9 +2723,9 @@ X
 2
 17:00
 Inter T. - SJK
-1.68
-4.05
-3.90
+1.72
+4.00
+3.60
 +37
 17:00
 KuPS - Gnistan
@@ -2997,12 +2997,12 @@ X
 Telavi - Torpedo Kutaisi
 4.30
 3.60
-1.68
+1.70
 +39
 16:00
 Dinamo Tbilisi - Kolkheti 1913 Poti
-1.38
-4.60
+1.40
+4.40
 6.90
 +39
 Holandija 2
@@ -3267,20 +3267,6 @@ Ararat Yerevan - Noah
 8.25
 1.12
 +41
-Jordan 2
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-PON. 27.10.
-1
-X
-2
-14:00
-Al-Yarmouk - Kfarsoum
-1.62
-3.70
-4.60
-+6
 Katar Stars Kup
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -3297,9 +3283,9 @@ AL Kharitiyat - AL Waab
 +22
 17:30
 Al Gharafa - Al Shamal
-2.80
-3.75
-2.15
+3.00
+3.70
+2.00
 +22
 Kina 1
 KONAČAN ISHOD
@@ -4617,9 +4603,9 @@ X
 2
 16:10
 Al Bukayriyah - Al Wehda
-2.15
-3.15
-3.00
+2.20
+3.25
+2.90
 +36
 16:10
 Al Tai - AL Ula
@@ -4629,9 +4615,9 @@ Al Tai - AL Ula
 +36
 18:00
 Jeddah - Al Adalh
-1.80
-3.55
-3.70
+1.85
+3.50
+3.60
 +36
 S. Arabija Kup
 KONAČAN ISHOD
@@ -5201,9 +5187,9 @@ X
 2
 14:30
 Surkhon Termez - Andijon
-2.25
-3.05
-3.00
+2.30
+3.15
+2.95
 +39
 Engleska EFL Kup
 KONAČAN ISHOD
@@ -5320,6 +5306,46 @@ Luton - (U21) Brighton
 1.23
 6.10
 10.00
++36
+Bolivija Liga Kup
+KONAČAN ISHOD
+UKUPNO GOLOVA
+OBA TIMA DAJU GOL
+PON. 27.10.
+1
+X
+2
+20:00
+San Antonio Bulo Bulo - Independiente Petrolero
+1.68
+3.90
+4.00
++36
+UTO. 28.10.
+1
+X
+2
+01:00
+Bolivar - CD Real Tomayapo
+1.09
+10.00
+16.90
++36
+23:00
+Aurora - Guabira Montero
+2.00
+3.65
+3.00
++36
+SRE. 29.10.
+1
+X
+2
+01:00
+Blooming - Always Ready
+2.20
+3.50
+2.80
 +36
 
 Tiket (0)
