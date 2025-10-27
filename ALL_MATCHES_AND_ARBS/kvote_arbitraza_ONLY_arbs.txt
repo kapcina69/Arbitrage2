@@ -1,19 +1,34 @@
+18:30   [FINLAND, Veikkausliiga - Championship Group]
+Al-Qassim  vs  Al Zawraa
+
+- Brazil_d   1=4.95  |  X=3.25  |  2=1.67  |  0-2=1.6  |  2+=1.36  |  3+=2.18
+- MaxBet     1=4.95  |  X=3.30  |  2=1.65
+- Soccer     1=3.55  |  X=2.9  |  2=2.07  |  0-2=1.58  |  2+=1.4  |  3+=2.23  |  GG=1.93  |  IGG=None  |  GG&3+=None
+
+Najveća 1  : 4.95  [Brazil_d, MaxBet]
+Najveća X  : 3.30  [MaxBet]
+Najveća 2  : 2.07  [Soccer]
+Najveća 0-2: 1.60  [Brazil_d]
+Najveća 3+ : 2.23  [Soccer]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9881   profit≈1.19%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0734   profit≈-7.34%
+
 20:00   27.10.   [Urugvaj Liga Rezervi]
 Progreso (R)  vs  Danubio (R)
 
 - BalkanBet  1=1.68  |  X=3.5  |  2=4.35  |  0-2=1.88  |  2+=1.28  |  3+=1.82  |  GG=1.7  |  IGG=4.55  |  GG&3+=2.15  |  GG&4+=3.45  |  4+=3.05
-- BetOle     1=4.55  |  X=3.55  |  2=1.6  |  0-2=1.92  |  3+=1.7
 - Brazil_d   1=4.55  |  X=3.5  |  2=1.6  |  0-2=1.9  |  2+=1.19  |  3+=1.72
 - Soccer     1=1.72  |  X=3.55  |  2=4.05  |  0-2=1.9  |  2+=1.26  |  3+=1.8  |  GG=1.77  |  IGG=None  |  GG&3+=None
 
-Najveća 1  : 4.55  [BetOle, Brazil_d]
-Najveća X  : 3.55  [BetOle, Soccer]
+Najveća 1  : 4.55  [Brazil_d]
+Najveća X  : 3.55  [Soccer]
 Najveća 2  : 4.35  [BalkanBet]
-Najveća 0-2: 1.92  [BetOle]
+Najveća 0-2: 1.90  [Brazil_d, Soccer]
 Najveća 3+ : 1.82  [BalkanBet]
 
 Arbitraža (1-X-2): DA   inv_sum=0.7314   profit≈26.86%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0703   profit≈-7.03%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0758   profit≈-7.58%
 
 18:30   29.10.   [Italija 1]
 Roma  vs  Parma
@@ -55,26 +70,26 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0395   profit≈-3.95%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 511
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 328
-Grupa sa veličinom ≥3: 256
+Ukupno mečeva (grupa): 491
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 325
+Grupa sa veličinom ≥3: 254
 Grupa sa veličinom ≥4: 164
-Grupa sa veličinom ≥5: 117
-Grupa sa veličinom ≥6: 32
-Grupa sa veličinom ≥7: 2
+Grupa sa veličinom ≥5: 115
+Grupa sa veličinom ≥6: 34
+Grupa sa veličinom ≥7: 5
 
 Po kladionici:
   - BalkanBet  ukupno zapisa:  284   spojeno (u grupama >1):  250
-  - BetOle     ukupno zapisa:   86   spojeno (u grupama >1):   85
-  - Brazil_d   ukupno zapisa:   98   spojeno (u grupama >1):   91
+  - BetOle     ukupno zapisa:   23   spojeno (u grupama >1):   23
+  - Brazil_d   ukupno zapisa:   98   spojeno (u grupama >1):   88
   - Brazil_p   ukupno zapisa:   72   spojeno (u grupama >1):   61
   - Brazil_s   ukupno zapisa:   76   spojeno (u grupama >1):   65
-  - MaxBet     ukupno zapisa:   20   spojeno (u grupama >1):    0
+  - MaxBet     ukupno zapisa:   58   spojeno (u grupama >1):   57
   - Mozzart    ukupno zapisa:  217   spojeno (u grupama >1):  187
   - Soccer     ukupno zapisa:  305   spojeno (u grupama >1):  276
   - Topbet     ukupno zapisa:  255   spojeno (u grupama >1):  215
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 3
+  - 1-X-2: 4
   - 0-2 / 3+: 0
-  - Barem jedna arbitraža: 3
+  - Barem jedna arbitraža: 4
