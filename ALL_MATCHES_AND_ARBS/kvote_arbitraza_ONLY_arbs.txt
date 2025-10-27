@@ -1,23 +1,3 @@
-21:00   27.10.   [Ekvador 2]
-Cumbaya  vs  Imbabura
-
-- BalkanBet  1=2.35  |  X=3  |  2=2.85  |  0-2=1.5  |  2+=1.47  |  3+=2.4  |  GG=1.9  |  IGG=5.25  |  GG&3+=2.6  |  GG&4+=5  |  4+=4.6
-- BetOle     1=2.35  |  X=2.83  |  2=3.03  |  0-2=1.43  |  3+=2.55
-- MaxBet     1=2.35  |  X=2.90  |  2=2.95
-- Mozzart    1=2.35  |  X=3.1  |  2=3  |  0-2=1.6  |  2+=1.4  |  3+=2.2
-- OktagonBet 1=2.32  |  X=2.9  |  2=2.95  |  0-2=1.53  |  3+=2.32  |  GG=2.02  |  GG&3+=2.8  |  4+=4.6
-- Soccer     1=2.15  |  X=3.2  |  2=3.0  |  0-2=1.78  |  2+=1.3  |  3+=1.92  |  GG=1.75  |  IGG=4.5  |  GG&3+=2.15
-- Topbet     1=2.4  |  X=3.05  |  2=2.8
-
-Najveća 1  : 2.40  [Topbet]
-Najveća X  : 3.20  [Soccer]
-Najveća 2  : 3.03  [BetOle]
-Najveća 0-2: 1.78  [Soccer]
-Najveća 3+ : 2.55  [BetOle]
-
-Arbitraža (1-X-2): NE   inv_sum=1.0592   profit≈-5.92%
-Arbitraža (0-2 / 3+): DA   inv_sum=0.9540   profit≈4.60%
-
 21:15   31.10.   [Portugal 1]
 Sporting  vs  Alverca
 
@@ -135,27 +115,27 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0500   profit≈-5.00%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1052
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 720
-Grupa sa veličinom ≥3: 473
-Grupa sa veličinom ≥4: 325
-Grupa sa veličinom ≥5: 138
-Grupa sa veličinom ≥6: 42
-Grupa sa veličinom ≥7: 7
+Ukupno mečeva (grupa): 1053
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 725
+Grupa sa veličinom ≥3: 467
+Grupa sa veličinom ≥4: 317
+Grupa sa veličinom ≥5: 87
+Grupa sa veličinom ≥6: 15
+Grupa sa veličinom ≥7: 6
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  729   spojeno (u grupama >1):  614
-  - BetOle     ukupno zapisa:   12   spojeno (u grupama >1):   12
-  - Brazil_d   ukupno zapisa:    1   spojeno (u grupama >1):    0
-  - Brazil_p   ukupno zapisa:   36   spojeno (u grupama >1):   36
-  - Brazil_s   ukupno zapisa:   56   spojeno (u grupama >1):   56
-  - MaxBet     ukupno zapisa:   14   spojeno (u grupama >1):   14
+  - BalkanBet  ukupno zapisa:  724   spojeno (u grupama >1):  617
+  - BetOle     ukupno zapisa:   11   spojeno (u grupama >1):   11
+  - Brazil_d   ukupno zapisa:    5   spojeno (u grupama >1):    4
+  - Brazil_p   ukupno zapisa:    8   spojeno (u grupama >1):    8
+  - Brazil_s   ukupno zapisa:    2   spojeno (u grupama >1):    2
+  - MaxBet     ukupno zapisa:    8   spojeno (u grupama >1):    8
   - Mozzart    ukupno zapisa:  363   spojeno (u grupama >1):  322
-  - OktagonBet ukupno zapisa:  547   spojeno (u grupama >1):  438
-  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  335
-  - Topbet     ukupno zapisa:  652   spojeno (u grupama >1):  601
+  - OktagonBet ukupno zapisa:  547   spojeno (u grupama >1):  435
+  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  334
+  - Topbet     ukupno zapisa:  655   spojeno (u grupama >1):  604
 
 Arbitraže (broj mečeva/grupa):
   - 1-X-2: 6
-  - 0-2 / 3+: 2
-  - Barem jedna arbitraža: 8
+  - 0-2 / 3+: 1
+  - Barem jedna arbitraža: 7
