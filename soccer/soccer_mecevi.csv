@@ -1,17 +1,17 @@
 TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
-09:00;Pon;27.10.;AUS1;Macarthur FC;Adelaide United;671;2.35;3.7;2.55;2.45;1.13;1.5;1.45;3.3;1.65
-09:30;Pon;27.10.;IDN1;Bhayangkara FC;Persijap Jepara;499;2.15;2.9;3.6;1.48;1.5;2.47;2.07;5.9;2.7
-10:00;Pon;27.10.;MJAN1;Dagon;Mahar United;502;1.75;3.95;3.5;2.6;1.11;1.43;1.45;3.25;1.65
+09:00;Pon;27.10.;AUS1;Macarthur FC;Adelaide United;671;2.45;3.65;2.45;2.5;1.12;1.47;1.43;3.25;1.63
+09:30;Pon;27.10.;IDN1;Bhayangkara FC;Persijap Jepara;499;2.1;2.95;3.7;1.48;1.5;2.47;2.1;5.95;2.75
+10:00;Pon;27.10.;MJAN1;Dagon;Mahar United;501;1.77;3.75;3.6;2.5;1.13;1.47;1.48;3.4;1.68
 12:00;Pon;27.10.;PRIW;Croatia Wom.;Montenegro Wom.;501;1.87;3.55;3.7;2.05;1.21;1.7;1.63;4.0;1.93
 12:00;Pon;27.10.;PRIW;Thailand Wom.;Bangladesh Wom.;499;1.28;5.0;9.4;2.42;1.14;1.5;1.85;4.35;2.05
 12:00;Pon;27.10.;VIJ1;Nam Dinh;Da Nang;500;1.6;3.9;4.9;1.9;1.25;1.8;1.85;4.6;2.2
 12:30;Pon;27.10.;SIN1;Hougang;Tampines;502;6.75;5.35;1.33;3.05;1.07;1.33;1.58;3.45;1.72
-12:30;Pon;27.10.;SIN1;Lion City;Albirex Niigata Singapore;501;1.3;5.55;7.3;3.25;1.06;1.29;1.55;3.4;1.68
+12:30;Pon;27.10.;SIN1;Lion City;Albirex Niigata Singapore;500;1.28;5.75;7.8;3.25;1.06;1.29;1.6;3.45;1.72
 13:00;Pon;27.10.;IDN1;Persib Bandung;Persis Solo;499;1.4;4.15;7.3;2.0;1.22;1.72;1.9;4.8;2.2
 13:15;Pon;27.10.;VIJ1;Cong An;Ho Chi Minh;499;1.48;4.15;5.9;1.95;1.24;1.77;1.93;4.8;2.28
 13:30;Pon;27.10.;SMKD1;Shkendija;Vardar;501;1.73;3.4;4.25;1.7;1.34;2.02;1.95;5.1;2.4
 13:50;Pon;27.10.;UAE2;Al Thaid;Al Urooba;501;3.1;3.1;2.27;1.7;1.34;2.03;1.8;4.75;2.25
-13:50;Pon;27.10.;UAE2;Dubai City;Al Arabi Umm Al Quwain;502;2.55;3.7;2.35;2.2;1.17;1.6;1.53;3.6;1.78
+13:50;Pon;27.10.;UAE2;Dubai City;Al Arabi Umm Al Quwain;501;2.95;3.7;2.1;2.22;1.17;1.58;1.53;3.6;1.78
 13:50;Pon;27.10.;UAE2;Majd;Masfut;500;4.7;3.8;1.65;1.82;1.28;1.88;1.9;4.8;2.3
 14:00;Pon;27.10.;EP19W;Hungary U19 Wom.;Czech Republic U19 Wom.;501;3.8;3.95;1.75;2.3;1.15;1.55;1.55;3.6;1.78
 14:00;Pon;27.10.;PRIW;Slovenia Wom.;Serbia Wom.;500;2.45;3.25;2.7;1.88;1.26;1.82;1.65;4.2;2.0
@@ -24,9 +24,9 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 15:35;Pon;27.10.;KUV2;Al-Jazeera FC;Yarmouk;;3.55;3.05;2.0;1.6;1.4;2.17;1.92;;
 15:35;Pon;27.10.;SARKK;Al Khaleej;Al-Taawon Buraidah;502;2.35;3.3;2.8;1.85;1.27;1.85;1.68;4.25;2.05
 15:35;Pon;27.10.;SARKK;Al-Fateh;Al Riyadh SC;502;2.02;3.1;3.75;1.62;1.4;2.15;1.9;5.2;2.4
-16:00;Pon;27.10.;GRU1;Dinamo Tbilisi;Kolkheti 1913;498;1.34;4.65;8.2;2.13;1.19;1.63;1.95;4.75;2.2
+16:00;Pon;27.10.;GRU1;Dinamo Tbilisi;Kolkheti 1913;498;1.3;4.85;9.1;2.13;1.19;1.63;2.03;5.0;2.3
 16:00;Pon;27.10.;IRK1;Naft Missan;Al Karkh;;2.03;3.0;3.5;1.62;1.4;2.15;1.9;;
-16:00;Pon;27.10.;JER1;Ararat Yerevan;Noah;496;16.7;7.1;1.13;3.0;1.07;1.34;2.05;4.7;2.17
+16:00;Pon;27.10.;JER1;Ararat Yerevan;Noah;495;15.3;7.4;1.13;3.15;1.06;1.31;2.05;4.65;2.18
 16:00;Pon;27.10.;SARKK;Al Kholood;Al Najma;504;1.95;3.4;3.6;2.15;1.19;1.62;1.55;3.75;1.87
 16:10;Pon;27.10.;SAR2;Al Bukayriyah;Al-Wehda FC;501;2.25;3.35;2.9;1.77;1.31;1.95;1.77;4.5;2.18
 16:10;Pon;27.10.;SAR2;Al Taee;AL Ula;500;4.3;3.8;1.7;1.92;1.25;1.78;1.78;4.4;2.13
@@ -35,7 +35,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 16:30;Pon;27.10.;RUM1;Botosani;Hermannstadt;594;2.07;3.15;3.85;1.65;1.37;2.13;1.88;5.1;2.45
 16:45;Pon;27.10.;KUV1;Al Salmiya;Al Qadsia SC;501;2.65;3.4;2.4;1.77;1.31;1.95;1.77;4.5;2.2
 17:00;Pon;27.10.;FIN1;SJK;KuPS;597;2.65;3.75;2.37;2.48;1.13;1.47;1.43;3.3;1.65
-17:30;Pon;27.10.;KATSK;Al-Gharafa;Shamal;501;2.7;3.65;2.15;2.2;1.17;1.6;1.55;3.6;1.8
+17:30;Pon;27.10.;KATSK;Al-Gharafa;Shamal;501;2.7;3.65;2.15;2.3;1.16;1.55;1.5;3.5;1.75
 17:30;Pon;27.10.;RUS1;Akhmat Grozny;Sochi;529;1.55;3.8;6.45;1.8;1.29;1.9;1.93;5.05;2.4
 17:50;Pon;27.10.;KUV2;Al Sulaibikhat;Al Sahel SC;;2.6;3.0;2.55;1.65;1.35;2.1;1.83;;
 18:00;Pon;27.10.;TUR1;Gaziantep;Fenerbahce;3047;4.85;3.85;1.68;2.15;1.2;1.7;1.65;4.05;2.0
@@ -49,8 +49,8 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 18:00;Pon;27.10.;LIT1;Dainava Alytus;Hegelmann;501;4.3;3.55;1.75;1.82;1.28;1.88;1.82;4.65;2.2
 18:00;Pon;27.10.;LIT1;Suduva;Kauno Zalgiris;502;3.85;3.45;1.87;1.8;1.29;1.9;1.8;4.6;2.18
 18:00;Pon;27.10.;SAR2;Jeddah;Al Adalh;502;2.05;3.45;3.25;1.78;1.3;1.92;1.8;4.55;2.2
-18:30;Pon;27.10.;IRK1;Al-Qassim;Al Zawraa;;3.55;2.9;2.07;1.58;1.4;2.23;1.93;;
-18:30;Pon;27.10.;URULR;Albion FC Res.;Defensor Sporting Res.;;3.45;3.35;1.92;1.93;1.24;1.77;1.68;;
+18:30;Pon;27.10.;IRK1;Al-Qassim;Al Zawraa;;4.35;3.35;1.72;1.6;1.4;2.2;2.1;;
+18:30;Pon;27.10.;URULR;Albion FC Res.;Defensor Sporting Res.;;3.5;3.55;1.85;2.0;1.22;1.72;1.67;;
 19:00;Pon;27.10.;DAN1;Odense;Brondby;1290;4.05;3.6;1.85;2.08;1.22;1.75;1.65;4.05;2.0
 19:00;Pon;27.10.;HRV1;Vukovar 1991;Dinamo Zagreb;527;9.6;5.9;1.27;2.65;1.11;1.43;1.85;4.2;2.08
 19:00;Pon;27.10.;IZR1;Maccabi Tel Aviv;Kiryat Shmona;522;1.23;5.15;12.4;2.2;1.18;1.6;2.1;5.25;2.35
@@ -80,7 +80,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 21:30;Pon;27.10.;PAR1;Ameliano;General Caballero JLM;501;2.25;3.2;3.05;1.65;1.37;2.12;1.9;5.0;2.38
 22:00;Pon;27.10.;ČIL1;Colo Colo;Limache;3110;1.58;3.75;5.35;1.93;1.24;1.77;1.8;4.55;2.15
 23:00;Pon;27.10.;BRA2;Chapecoense-SC;Operario;665;1.97;2.95;4.2;1.5;1.47;2.4;2.07;5.9;2.7
-23:15;Pon;27.10.;KOL2;Jaguares de Cordoba;Boca Juniors De Cali;500;1.48;3.95;6.35;1.75;1.32;1.97;2.13;5.55;2.6
+23:15;Pon;27.10.;KOL2;Jaguares de Cordoba;Boca Juniors De Cali;500;1.45;3.95;7.3;1.75;1.32;1.97;2.17;5.75;2.6
 23:15;Pon;27.10.;KOL2;Quindio;Cartagena;501;2.5;3.15;2.7;1.75;1.32;1.97;1.75;4.55;2.15
 23:45;Pon;27.10.;MLS;FC Cincinnati;Columbus Crew;3065;2.35;3.65;2.75;2.4;1.15;1.57;1.48;3.45;1.75
 00:00;Uto;28.10.;PAR1;Nacional Asuncion;Cerro Porteno;500;3.65;3.05;2.07;1.62;1.4;2.15;1.9;5.15;2.4
@@ -91,7 +91,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 02:00;Uto;28.10.;MLS;Minnesota United;Seattle Sounders;3024;2.55;3.5;2.55;1.87;1.28;1.93;1.73;4.35;2.18
 02:30;Uto;28.10.;PAN1;UMECIT;Tauro;501;2.5;3.15;2.7;1.53;1.45;2.35;2.03;5.5;2.65
 12:00;Uto;28.10.;POR23;Maritimo U23;Academico Viseu U23;490;3.25;3.55;2.03;2.1;1.2;1.65;1.58;3.8;1.85
-14:00;Uto;28.10.;ČEŠ2;Slavia Prague B;Usti nad Labem;501;2.05;3.65;3.05;2.3;1.15;1.55;1.5;3.5;1.73
+14:00;Uto;28.10.;ČEŠ2;Slavia Prague B;Usti nad Labem;501;2.1;3.6;3.05;2.32;1.15;1.53;1.5;3.45;1.72
 15:00;Uto;28.10.;GRČK;OFI Crete;Iraklis 1908;489;1.45;4.0;6.8;1.7;1.34;2.02;2.25;5.95;2.75
 16:00;Uto;28.10.;POR23;Gil Vicente U23;Famalicao U23;500;2.27;3.35;2.85;1.85;1.27;1.85;1.7;4.3;2.07
 16:00;Uto;28.10.;POR23;Leixoes U23;Vizela U23;490;2.55;3.15;2.7;1.7;1.34;2.02;1.8;4.7;2.23
@@ -156,7 +156,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 00:10;Sre;29.10.;KOL1;Dep. Cali;Alianza;527;1.93;3.15;4.0;1.55;1.42;2.25;2.02;5.55;2.6
 01:30;Sre;29.10.;SUDAM;Atletico-MG;Ind. del Valle;529;1.67;3.65;5.3;1.72;1.35;2.1;2.0;5.35;2.6
 18:00;Sre;29.10.;NEMK;Greuther Furth;Kaiserslautern;535;2.7;3.7;2.35;2.42;1.14;1.5;1.45;3.35;1.7
-18:00;Sre;29.10.;NEMK;Illertissen;Magdeburg;533;5.85;4.65;1.48;2.5;1.12;1.47;1.6;3.65;1.82
+18:00;Sre;29.10.;NEMK;Illertissen;Magdeburg;533;6.85;4.85;1.4;2.6;1.11;1.45;1.6;3.65;1.8
 18:00;Sre;29.10.;NEMK;Mainz;Stuttgart;533;2.95;3.7;2.2;2.25;1.17;1.58;1.5;3.55;1.8
 18:00;Sre;29.10.;NEMK;Paderborn;Bayer Leverkusen;533;4.65;4.35;1.6;2.75;1.09;1.4;1.45;3.25;1.65
 18:00;Sre;29.10.;DANK;Fredericia;Viborg;532;3.5;3.6;1.9;2.25;1.17;1.58;1.55;3.65;1.78
@@ -188,7 +188,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 20:45;Sre;29.10.;NEMK;Union Berlin;Arminia Bielefeld;533;1.7;4.1;4.35;2.07;1.2;1.67;1.7;4.05;2.02
 20:45;Sre;29.10.;ITA1;Bologna;Torino;585;1.77;3.5;4.75;1.6;1.4;2.17;2.05;5.5;2.65
 20:45;Sre;29.10.;ITA1;Genoa;Cremonese;583;1.9;3.3;4.35;1.53;1.45;2.35;2.1;5.8;2.8
-20:45;Sre;29.10.;ITA1;Inter Milan;Fiorentina;582;1.35;5.0;8.2;2.05;1.21;1.7;2.0;4.95;2.38
+20:45;Sre;29.10.;ITA1;Inter Milan;Fiorentina;583;1.37;4.9;7.9;2.05;1.21;1.7;1.98;4.85;2.35
 20:45;Sre;29.10.;DANK;Aarhus;Sonderjyske;529;1.47;4.3;5.8;2.15;1.18;1.62;1.77;4.25;2.05
 20:45;Sre;29.10.;ŠKO1;Celtic;Falkirk;523;1.13;8.3;18.2;2.95;1.08;1.35;2.02;4.65;2.2
 20:45;Sre;29.10.;ŠKO1;Hibernian;Rangers;531;2.85;3.65;2.3;2.2;1.17;1.6;1.52;3.6;1.8
@@ -214,7 +214,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 18:30;Čet;30.10.;ITA1;Cagliari;Sassuolo;530;2.5;3.3;2.75;1.65;1.35;2.08;1.85;4.85;2.38
 18:30;Čet;30.10.;SAR1;Al Ahli Jeddah;Al Riyadh;525;1.26;5.1;10.2;2.25;1.17;1.57;2.0;4.9;2.25
 18:30;Čet;30.10.;SAR1;Al Kholood;Neom SC;530;3.5;3.6;1.9;1.92;1.25;1.78;1.7;4.2;2.05
-19:00;Čet;30.10.;AUTK;Salzburg;Tirol;501;1.34;4.85;7.5;2.25;1.17;1.57;1.88;4.5;2.15
+19:00;Čet;30.10.;AUTK;Salzburg;Tirol;501;1.35;4.8;7.4;2.35;1.15;1.52;1.8;4.25;2.0
 19:00;Čet;30.10.;POR2;Benfica B;Pacos Ferreira;492;1.85;3.3;4.05;1.78;1.3;1.92;1.8;4.65;2.18
 19:00;Čet;30.10.;POR2;Portimonense;Torreense;489;3.0;3.4;2.2;1.8;1.29;1.9;1.75;4.4;2.13
 20:30;Čet;30.10.;ŠVA1;Grasshoppers;Young Boys;520;3.55;3.9;1.9;2.25;1.17;1.57;1.55;3.65;1.82
@@ -253,7 +253,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 16:15;Sub;01.11.;ŠPA1;Atl. Madrid;Sevilla;527;1.37;4.9;7.7;2.07;1.2;1.67;1.95;4.75;2.3
 16:30;Sub;01.11.;HOL1;Ajax;Heerenveen;531;1.42;5.15;6.15;2.75;1.1;1.4;1.57;3.5;1.77
 17:00;Sub;01.11.;AUT1;BW Linz;LASK;520;2.85;3.65;2.3;2.05;1.21;1.7;1.6;3.85;1.92
-17:00;Sub;01.11.;AUT1;Grazer AK;Altach;519;3.4;3.35;2.13;1.7;1.34;2.03;1.85;4.8;2.35
+17:00;Sub;01.11.;AUT1;Grazer AK;Altach;530;3.25;3.35;2.18;1.65;1.35;2.08;1.87;4.9;2.4
 17:00;Sub;01.11.;AUT1;Hartberg;Austria Vienna;521;3.5;3.55;2.03;1.9;1.25;1.8;1.68;4.2;2.05
 18:15;Sub;01.11.;BEL1;Club Brugge;Dender;527;1.25;6.1;10.2;2.6;1.11;1.45;1.85;4.25;2.07
 18:30;Sub;01.11.;ENG1;Tottenham;Chelsea;529;2.65;3.55;2.5;2.0;1.23;1.73;1.6;3.95;1.95
