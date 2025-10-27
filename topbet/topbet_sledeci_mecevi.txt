@@ -343,8 +343,8 @@ Lorient - PSG
 +53
 19:00
 Metz - Lens
-5.95
-4.40
+6.10
+4.30
 1.55
 +53
 19:00
@@ -495,9 +495,9 @@ RB Leipzig - Stuttgart
 +53
 15:30
 Union Berlin - Freiburg
-2.70
-3.30
 2.65
+3.30
+2.70
 +53
 18:30
 Bayern M. - B. Leverkusen
@@ -643,9 +643,9 @@ Torino - Pisa
 +53
 18:00
 Parma - Bologna
-3.90
+4.10
 3.10
-2.10
+2.05
 +53
 20:45
 Milan - Roma
@@ -845,8 +845,8 @@ Heidenheim - Hamburger
 +52
 18:30
 E. Frankfurt - B. Dortmund
-2.80
-3.50
+2.70
+3.65
 2.20
 +53
 18:30
@@ -1199,9 +1199,9 @@ Spennymoor - Barrow
 +41
 16:00
 Stevenage - Chesterfield
-1.58
-4.10
-4.86
+1.55
+4.05
+5.18
 +41
 16:00
 Sutton - AFC Telford
@@ -1916,7 +1916,7 @@ X
 16:30
 CSKA 1948 - Ludogorets
 3.20
-3.35
+3.40
 2.00
 +37
 SUB. 01.11.
@@ -2099,8 +2099,8 @@ X
 2
 14:30
 Sokol - Teplice B
-3.30
-3.60
+3.20
+3.70
 1.90
 +35
 Čile 1
@@ -2663,9 +2663,9 @@ Tartu JK Welco - Elva
 +36
 18:00
 Viimsi - (U21) Levadia
-1.60
-4.15
+1.65
 4.20
+3.80
 +36
 18:00
 (U21) Flora - FC Tallinn
@@ -2750,7 +2750,7 @@ Nancy - SC Bastia
 20:30
 Rodez - Annecy
 2.10
-3.30
+3.25
 3.24
 +52
 20:30
@@ -2767,8 +2767,8 @@ Boulogne - Reims
 +52
 20:30
 Dunkerque - Red Star
-2.25
-3.20
+2.30
+3.30
 3.02
 +52
 Francuska 3
@@ -2955,20 +2955,6 @@ PAOK - AE Larissa
 5.90
 11.60
 +39
-Gruzija 1
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-PON. 27.10.
-1
-X
-2
-16:00
-Dinamo Tbilisi - Kolkheti 1913 Poti
-1.38
-4.45
-7.30
-+39
 Holandija 2
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -3017,9 +3003,9 @@ X
 2
 14:30
 Emmen - RKC
-2.15
-3.78
-2.90
+2.20
+3.70
+2.70
 +41
 16:45
 Maastricht - Den Haag
@@ -3055,12 +3041,6 @@ PON. 27.10.
 1
 X
 2
-16:00
-AL Nafit Missan - AL Karkh
-2.30
-2.95
-2.95
-+10
 18:30
 Al-Qasim SC - AL Zawraa SC
 4.70
@@ -3178,22 +3158,8 @@ X
 19:00
 Mac. Tel Aviv - I. Kiryat Shmona
 1.25
-5.65
+5.80
 9.20
-+41
-Jermenija 1
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-PON. 27.10.
-1
-X
-2
-16:00
-Ararat Yerevan - Noah
-18.80
-8.75
-1.10
 +41
 Katar Stars Kup
 KONAČAN ISHOD
@@ -3205,9 +3171,9 @@ X
 2
 17:30
 Al Gharafa - Al Shamal
-3.20
-3.75
-1.90
+3.40
+3.80
+1.85
 +22
 Kina 1
 KONAČAN ISHOD
@@ -3517,9 +3483,9 @@ X
 2
 18:45
 Valletta - Gzira
-1.85
+1.80
 3.50
-3.60
+3.70
 +36
 Meksiko 1
 KONAČAN ISHOD
@@ -4342,8 +4308,8 @@ X
 17:30
 Akhmat - Sochi
 1.55
-3.70
-5.80
+3.80
+5.50
 +53
 PET. 31.10.
 1
@@ -4525,15 +4491,15 @@ X
 2
 16:10
 Al Bukayriyah - Al Wehda
-2.50
-2.95
+2.45
+3.05
 2.80
 +36
 16:10
 Al Tai - AL Ula
-3.80
+3.60
 3.55
-1.78
+1.85
 +36
 18:00
 Jeddah - Al Adalh
@@ -4549,12 +4515,6 @@ PON. 27.10.
 1
 X
 2
-16:00
-AL Khlood - AL Najma
-1.62
-4.00
-4.30
-+22
 19:00
 Al Batin - Al Ahli
 15.60
@@ -5067,5 +5027,85 @@ Orebro - Utsiktens
 3.90
 3.60
 +41
+Turska 1
+KONAČAN ISHOD
+UKUPNO GOLOVA
+OBA TIMA DAJU GOL
+PON. 27.10.
+1
+X
+2
+18:00
+Gaziantep - Fenerbahce
+4.75
+4.30
+1.65
++53
+18:00
+Samsun - Rize
+1.95
+3.40
+4.10
++53
+Engleska EFL Kup
+KONAČAN ISHOD
+UKUPNO GOLOVA
+OBA TIMA DAJU GOL
+UTO. 28.10.
+1
+X
+2
+20:45
+Grimsby - Brentford
+7.13
+5.00
+1.35
++52
+20:45
+Wycombe - Fulham
+6.05
+4.15
+1.50
++52
+21:00
+Wrexham - Cardiff
+2.20
+3.30
+3.13
++52
+SRE. 29.10.
+1
+X
+2
+20:45
+Arsenal - Brighton
+1.40
+4.70
+6.59
++52
+20:45
+Liverpool - Crystal Palace
+1.58
+4.30
+4.75
++52
+20:45
+Swansea - Man. City
+11.70
+6.30
+1.20
++52
+20:45
+Wolverhampton - Chelsea
+4.43
+3.90
+1.65
++52
+21:00
+Newcastle - Tottenham
+1.75
+3.70
+4.00
++52
 
 Tiket (0)
