@@ -37,7 +37,7 @@ Sve
   
   
 FUDBAL
-1060
+1049
   
   
 DNEVNI SPECIJAL
@@ -45,11 +45,11 @@ DNEVNI SPECIJAL
   
   
 GOLOVI PO LIGAMA
-29
+27
   
   
 KOŠARKA
-55
+53
   
   
 SP. KOŠARKA
@@ -57,7 +57,7 @@ SP. KOŠARKA
   
   
 TENIS
-183
+182
   
   
 RUKOMET
@@ -69,7 +69,7 @@ ODBOJKA
   
   
 HOKEJ
-158
+157
   
   
 SP. HOKEJ
@@ -89,11 +89,11 @@ BEJZBOL
   
   
 STONI TENIS
-118
+114
   
   
 FUTSAL
-11
+9
   
   
 MMA
@@ -109,15 +109,15 @@ FORMULA 1
   
   
 KONJSKE TRKE
-108
+103
   
   
 ESPORT
-29
+28
   
   
 SP. FUDBAL
-646
+571
   
   
 VIR. FUDBAL
@@ -142,190 +142,6 @@ Vremenska
 Top
 Specijali
 KONAČAN ISHOD
- 
-Kuwait, Division 1
-+638
-Al Sulaibikhat
-Al Sahel
-27.10. 17:50
-ki 1
-2.47
-ki X
-3.00
-ki 2
-2.70
-manje 2.5
-1.63
-više 2.5
-2.10
- 
-Bosnia and Herzegovina, Premijer Liga BiH
-+798
-Zrinjski
-Borac Banja Luka
-27.10. 18:00
-ki 1
-2.08
-ki X
-3.00
-ki 2
-3.35
-manje 2.5
-1.48
-više 2.5
-2.41
- 
-Turkey, Super Lig
-+995
-Gaziantep
-Fenerbahce
-27.10. 18:00
-ki 1
-4.45
-ki X
-4.15
-ki 2
-1.65
-manje 2.5
-2.27
-više 2.5
-1.57
-+997
-Samsunspor
-Rizespor
-27.10. 18:00
-ki 1
-1.88
-ki X
-3.50
-ki 2
-3.95
-manje 2.5
-1.92
-više 2.5
-1.80
- 
-Cyprus, Cyprus League
-+813
-AEK Larnaca
-APOEL
-27.10. 18:00
-ki 1
-2.20
-ki X
-3.10
-ki 2
-3.25
-manje 2.5
-1.67
-više 2.5
-2.07
-+819
-Omonia
-Pafos
-27.10. 18:00
-ki 1
-2.45
-ki X
-3.30
-ki 2
-2.65
-manje 2.5
-1.93
-više 2.5
-1.77
- 
-Egypt, Premier League
-+618
-Al Ittihad Al Sakandary
-Wadi Degla
-27.10. 18:00
-ki 1
-3.70
-ki X
-2.57
-ki 2
-2.22
-manje 2.5
-1.26
-više 2.5
-3.45
- 
-Estonia, Esiliiga
-+639
-Tartu Welco
-Elva
-27.10. 18:00
-ki 1
-1.77
-ki X
-3.95
-ki 2
-3.40
-manje 2.5
-2.97
-više 2.5
-1.31
-+638
-Viimsi JK
-Levadia U21
-27.10. 18:00
-ki 1
-1.80
-ki X
-3.90
-ki 2
-3.35
-manje 2.5
-2.70
-više 2.5
-1.37
- 
-Lithuania, A Lyga
-+802
-Dainava Alytus
-Hegelmann
-27.10. 18:00
-ki 1
-5.00
-ki X
-3.95
-ki 2
-1.52
-manje 2.5
-1.88
-više 2.5
-1.80
-+814
-Suduva
-Kauno Zalgiris
-27.10. 18:00
-ki 1
-2.45
-ki X
-3.20
-ki 2
-2.57
-manje 2.5
-1.88
-više 2.5
-1.80
- 
-Saudi Arabia, Division 1
-+634
-Jeddah
-Al Adalah
-27.10. 18:00
-ki 1
-1.85
-ki X
-3.40
-ki 2
-3.70
-manje 2.5
-1.71
-više 2.5
-2.00
  
 Iraq, Stars League
 +630
@@ -360,20 +176,20 @@ više 2.5
 1.73
  
 Croatia, HNL
-+805
++802
 Vukovar 1991
 D. Zagreb
 27.10. 19:00
 ki 1
-10.0
+10.5
 ki X
-5.70
+5.80
 ki 2
-1.23
+1.22
 manje 2.5
-2.75
+2.77
 više 2.5
-1.40
+1.38
  
 Denmark, Superliga
 +817
@@ -408,7 +224,7 @@ više 2.5
 2.00
  
 Sweden, Allsvenskan
-+967
++917
 Brommapojkarna
 GAIS
 27.10. 19:00
@@ -440,7 +256,7 @@ više 2.5
 2.03
  
 Israel, Ligat ha'Al
-+801
++800
 Maccabi Tel Aviv
 Kiryat Shmona
 27.10. 19:00
@@ -451,7 +267,7 @@ ki X
 ki 2
 9.75
 manje 2.5
-2.25
+2.27
 više 2.5
 1.57
  
@@ -488,7 +304,7 @@ više 2.5
 1.80
  
 Sweden, Allsvenskan
-+915
++968
 Malmo FF
 Hammarby
 27.10. 19:10
@@ -501,7 +317,7 @@ ki 2
 manje 2.5
 1.93
 više 2.5
-1.80
+1.77
  
 Romania, Superliga
 +801
@@ -585,15 +401,15 @@ Liverpool Montevideo Res.
 CA River Plate Res.
 27.10. 20:00
 ki 1
-1.72
+1.73
 ki X
 3.25
 ki 2
 4.15
 manje 2.5
-1.75
+1.72
 više 2.5
-1.85
+1.90
  
 Bolivia, Copa Pacena
 +636
@@ -711,11 +527,11 @@ Port Vale
 Stockport
 27.10. 21:00
 ki 1
-2.97
+2.85
 ki X
-3.15
+3.20
 ki 2
-2.40
+2.45
 manje 2.5
 1.67
 više 2.5
@@ -786,18 +602,18 @@ više 2.5
 1.57
  
 Paraguay, Copa de Primera - Clausura
-+803
++804
 Ameliano
 General Caballero JLM
 27.10. 21:30
 ki 1
-2.12
+2.03
 ki X
-3.10
+3.15
 ki 2
-3.40
+3.55
 manje 2.5
-1.62
+1.63
 više 2.5
 2.15
  
@@ -869,15 +685,15 @@ FC Cincinnati
 Columbus Crew
 27.10. 23:45
 ki 1
-2.47
+2.50
 ki X
 3.80
 ki 2
 2.55
 manje 2.5
-2.50
+2.55
 više 2.5
-1.51
+1.50
  Tiket
 TIKET
 
@@ -925,7 +741,7 @@ Miljana J.
 24.000
 4.
 Aleksandar J.
-94,437.60
+95,181.60
 10.000
 5.
 Kristijan S.
@@ -936,7 +752,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-17:51:40
+18:01:27
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
