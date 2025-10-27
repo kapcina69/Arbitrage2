@@ -2,36 +2,19 @@
 Progreso (R)  vs  Danubio (R)
 
 - BalkanBet  1=1.68  |  X=3.65  |  2=4.15  |  0-2=1.97  |  2+=1.25  |  3+=1.75  |  GG=1.7  |  IGG=4.45  |  GG&3+=2.05  |  GG&4+=3.3  |  4+=2.9
+- BetOle     1=4.8  |  X=3.5  |  2=1.57  |  0-2=1.81  |  3+=1.8
 - Brazil_d   -
 - OktagonBet 1=4.8  |  X=3.55  |  2=1.57  |  0-2=1.84  |  3+=1.76  |  GG=1.84  |  GG&3+=2.32  |  4+=3.05
 - Soccer     1=1.72  |  X=3.55  |  2=4.05  |  0-2=1.95  |  2+=1.23  |  3+=1.75  |  GG=1.7  |  IGG=None  |  GG&3+=None
 
-Najveća 1  : 4.80  [OktagonBet]
+Najveća 1  : 4.80  [BetOle, OktagonBet]
 Najveća X  : 3.65  [BalkanBet]
 Najveća 2  : 4.15  [BalkanBet]
 Najveća 0-2: 1.97  [BalkanBet]
-Najveća 3+ : 1.76  [OktagonBet]
+Najveća 3+ : 1.80  [BetOle]
 
 Arbitraža (1-X-2): DA   inv_sum=0.7233   profit≈27.67%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0758   profit≈-7.58%
-
-23:45   27.10.   [SAD 1]
-Cincinnati  vs  Columbus
-
-- BalkanBet  1=2.5  |  X=3.5  |  2=2.65  |  0-2=2.35  |  2+=1.2  |  3+=1.58  |  GG=1.55  |  IGG=3.7  |  GG&3+=1.9  |  GG&4+=2.8  |  4+=2.45
-- MaxBet     1=2.60  |  X=4.05  |  2=2.65
-- OktagonBet 1=2.45  |  X=3.65  |  2=2.47  |  0-2=2.5  |  3+=1.47  |  GG=1.43  |  GG&3+=1.69  |  4+=2.25
-- Soccer     1=2.5  |  X=3.7  |  2=2.55  |  0-2=2.5  |  2+=1.14  |  3+=1.53  |  GG=1.45  |  IGG=3.35  |  GG&3+=1.7
-- Topbet     1=2.45  |  X=3.6  |  2=2.75
-
-Najveća 1  : 2.60  [MaxBet]
-Najveća X  : 4.05  [MaxBet]
-Najveća 2  : 2.75  [Topbet]
-Najveća 0-2: 2.50  [OktagonBet, Soccer]
-Najveća 3+ : 1.58  [BalkanBet]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9952   profit≈0.48%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0329   profit≈-3.29%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0632   profit≈-6.32%
 
 21:15   31.10.   [Portugal 1]
 Sporting  vs  Alverca
@@ -153,14 +136,15 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0500   profit≈-5.00%
 ======================================================================================
 Ukupno mečeva (grupa): 1063
 Mečeva spojenih sa ≥2 kladionice (grupa size>1): 727
-Grupa sa veličinom ≥3: 480
-Grupa sa veličinom ≥4: 313
-Grupa sa veličinom ≥5: 142
-Grupa sa veličinom ≥6: 45
-Grupa sa veličinom ≥7: 3
+Grupa sa veličinom ≥3: 481
+Grupa sa veličinom ≥4: 314
+Grupa sa veličinom ≥5: 143
+Grupa sa veličinom ≥6: 51
+Grupa sa veličinom ≥7: 12
 
 Po kladionici:
   - BalkanBet  ukupno zapisa:  741   spojeno (u grupama >1):  621
+  - BetOle     ukupno zapisa:   22   spojeno (u grupama >1):   22
   - Brazil_d   ukupno zapisa:   12   spojeno (u grupama >1):   11
   - Brazil_p   ukupno zapisa:   41   spojeno (u grupama >1):   41
   - Brazil_s   ukupno zapisa:   58   spojeno (u grupama >1):   58
@@ -171,6 +155,6 @@ Po kladionici:
   - Topbet     ukupno zapisa:  647   spojeno (u grupama >1):  594
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 8
+  - 1-X-2: 7
   - 0-2 / 3+: 1
-  - Barem jedna arbitraža: 9
+  - Barem jedna arbitraža: 8
