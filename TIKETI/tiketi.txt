@@ -1,27 +1,4 @@
 ============================================
-  KLADIONICA: Merkur       TIKET #1
---------------------------------------------
-  Ukupni koeficijent : 21.04  (cilj: 10.00)
-  Ulog               : 200.00 RSD
-  Potencijalni dobitak: 4207.50 RSD
-
-  Ukupni raspon vrednosti (Σ diff%%): 46.70%
-  Prosečan profit arbitraže        : -0.24%
---------------------------------------------
-  SELEKCIJE:
-   1) 18:00 27.10. Viimsi vs U21 Levadia (Estonija 2)
-       Market           : 2 @ 4.95
-       Raspon kvote     : 30.26%
-       Profit za par    : 0.69%
-       ------------------------------------
-   2) 17:30 27.10. Akhmat vs Sochi (Rusija 1)
-       Market           : X @ 4.25
-       Raspon kvote     : 16.44%
-       Profit za par    : -1.18%
-       ------------------------------------
-============================================
-
-============================================
   KLADIONICA: MaxBet       TIKET #1
 --------------------------------------------
   Ukupni koeficijent : 13.20  (cilj: 10.00)
@@ -166,7 +143,7 @@
   Ulog               : 200.00 RSD
   Potencijalni dobitak: 2475.00 RSD
 
-  Ukupni raspon vrednosti (Σ diff%%): 21.94%
+  Ukupni raspon vrednosti (Σ diff%%): 25.73%
   Prosečan profit arbitraže        : -0.82%
 --------------------------------------------
   SELEKCIJE:
@@ -177,8 +154,31 @@
        ------------------------------------
    2) 19:00 27.10. Radomiak R. vs Wisla P. (Poljska 1)
        Market           : 2 @ 3.30
-       Raspon kvote     : 10.00%
+       Raspon kvote     : 13.79%
        Profit za par    : -0.96%
+       ------------------------------------
+============================================
+
+============================================
+  KLADIONICA: Soccer       TIKET #1
+--------------------------------------------
+  Ukupni koeficijent : 12.75  (cilj: 10.00)
+  Ulog               : 200.00 RSD
+  Potencijalni dobitak: 2550.00 RSD
+
+  Ukupni raspon vrednosti (Σ diff%%): 23.42%
+  Prosečan profit arbitraže        : -1.42%
+--------------------------------------------
+  SELEKCIJE:
+   1) 15:30 02.11. Koln vs Hamburger (Nemačka 1)
+       Market           : X @ 3.75
+       Raspon kvote     : 11.94%
+       Profit za par    : -1.35%
+       ------------------------------------
+   2) 15:30 01.11. U. Berlin vs Freiburg (Nemačka 1)
+       Market           : X @ 3.40
+       Raspon kvote     : 11.48%
+       Profit za par    : -1.49%
        ------------------------------------
 ============================================
 
@@ -257,7 +257,7 @@ Broj završenih tiketa po kladionici (zadržani):
   - BalkanBet: 4 tiket(a)
   - MaxBet: 4 tiket(a)
   - Mozzart: 2 tiket(a)
-  - Merkur: 1 tiket(a)
+  - Soccer: 1 tiket(a)
 
 Ukupno zadržanih tiketa: 11
 Ukupno uloženo: 2200.00 RSD
