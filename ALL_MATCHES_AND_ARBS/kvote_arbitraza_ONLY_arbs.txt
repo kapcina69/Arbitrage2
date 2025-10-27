@@ -3,26 +3,26 @@ Progreso (R)  vs  Danubio (R)
 
 - BalkanBet  1=1.68  |  X=3.65  |  2=4.15  |  0-2=1.97  |  2+=1.25  |  3+=1.75  |  GG=1.7  |  IGG=4.45  |  GG&3+=2.05  |  GG&4+=3.3  |  4+=2.9
 - BetOle     1=4.8  |  X=3.5  |  2=1.57  |  0-2=1.81  |  3+=1.8
-- Brazil_d   1=4.8  |  X=3.45  |  2=1.59  |  0-2=1.8  |  2+=1.23  |  3+=1.82
+- Brazil_d   -
 - Merkur     1=5  |  X=3.6  |  2=1.57  |  0-2=1.82  |  3+=1.8  |  GG=1.85
 - OktagonBet 1=4.8  |  X=3.55  |  2=1.57  |  0-2=1.84  |  3+=1.76  |  GG=1.84  |  GG&3+=2.32  |  4+=3.05
 - Soccer     1=1.72  |  X=3.55  |  2=4.05  |  0-2=1.95  |  2+=1.23  |  3+=1.75  |  GG=1.7  |  IGG=None  |  GG&3+=None
+- Topbet     1=1.72  |  X=3.7  |  2=3.9
 
 Najveća 1  : 5.00  [Merkur]
-Najveća X  : 3.65  [BalkanBet]
+Najveća X  : 3.70  [Topbet]
 Najveća 2  : 4.15  [BalkanBet]
 Najveća 0-2: 1.97  [BalkanBet]
-Najveća 3+ : 1.82  [Brazil_d]
+Najveća 3+ : 1.80  [BetOle, Merkur]
 
-Arbitraža (1-X-2): DA   inv_sum=0.7149   profit≈28.51%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0571   profit≈-5.71%
+Arbitraža (1-X-2): DA   inv_sum=0.7112   profit≈28.88%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0632   profit≈-6.32%
 
 19:00   29.10.   [Francuska 1]
 Nice  vs  Lille
 
 - BalkanBet  1=2.55  |  X=3.5  |  2=2.75  |  0-2=2.06  |  2+=1.28  |  3+=1.8  |  GG=1.7  |  IGG=4.35  |  GG&3+=2.1  |  GG&4+=3.4  |  4+=3.05
 - Brazil_p   1=2.75  |  X=3.1  |  2=2.75  |  0-2=2.05  |  2+=1.25  |  3+=1.77
-- Merkur     1=2.62  |  X=3.45  |  2=2.63  |  0-2=2.07  |  3+=1.75  |  GG=1.57  |  IGG=4.3  |  GG&3+=2
 - Mozzart    1=2.6  |  X=3.5  |  2=2.85  |  0-2=2.08  |  2+=1.25  |  3+=1.75
 - OktagonBet 1=2.75  |  X=3.15  |  2=2.75  |  0-2=2.07  |  3+=1.77  |  GG=1.64  |  GG&3+=2.08  |  4+=3
 - Soccer     1=2.55  |  X=3.65  |  2=2.55  |  0-2=2.03  |  2+=1.21  |  3+=1.7  |  GG=1.6  |  IGG=3.9  |  GG&3+=1.95
@@ -121,26 +121,26 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0499   profit≈-4.99%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1260
+Ukupno mečeva (grupa): 1321
 Mečeva spojenih sa ≥2 kladionice (grupa size>1): 833
-Grupa sa veličinom ≥3: 609
-Grupa sa veličinom ≥4: 426
-Grupa sa veličinom ≥5: 250
-Grupa sa veličinom ≥6: 192
-Grupa sa veličinom ≥7: 122
+Grupa sa veličinom ≥3: 606
+Grupa sa veličinom ≥4: 423
+Grupa sa veličinom ≥5: 234
+Grupa sa veličinom ≥6: 130
+Grupa sa veličinom ≥7: 58
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  761   spojeno (u grupama >1):  688
+  - BalkanBet  ukupno zapisa:  761   spojeno (u grupama >1):  691
   - BetOle     ukupno zapisa:   70   spojeno (u grupama >1):   70
-  - Brazil_d   ukupno zapisa:   79   spojeno (u grupama >1):   78
+  - Brazil_d   ukupno zapisa:   70   spojeno (u grupama >1):   69
   - Brazil_p   ukupno zapisa:   72   spojeno (u grupama >1):   70
   - Brazil_s   ukupno zapisa:   82   spojeno (u grupama >1):   82
-  - MaxBet     ukupno zapisa:   84   spojeno (u grupama >1):   82
-  - Merkur     ukupno zapisa:  231   spojeno (u grupama >1):  226
-  - Mozzart    ukupno zapisa:  354   spojeno (u grupama >1):  334
-  - OktagonBet ukupno zapisa: 1045   spojeno (u grupama >1):  752
-  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  349
-  - Topbet     ukupno zapisa:  642   spojeno (u grupama >1):  612
+  - MaxBet     ukupno zapisa:   83   spojeno (u grupama >1):   81
+  - Merkur     ukupno zapisa:  136   spojeno (u grupama >1):   85
+  - Mozzart    ukupno zapisa:  354   spojeno (u grupama >1):  320
+  - OktagonBet ukupno zapisa: 1045   spojeno (u grupama >1):  750
+  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  348
+  - Topbet     ukupno zapisa:  648   spojeno (u grupama >1):  617
 
 Arbitraže (broj mečeva/grupa):
   - 1-X-2: 6
