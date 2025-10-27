@@ -1,3 +1,20 @@
+20:00   27.10.   [Urugvaj Liga Rezervi]
+Progreso (R)  vs  Danubio (R)
+
+- BalkanBet  1=1.68  |  X=3.5  |  2=4.35  |  0-2=1.88  |  2+=1.28  |  3+=1.82  |  GG=1.7  |  IGG=4.55  |  GG&3+=2.15  |  GG&4+=3.45  |  4+=3.05
+- Brazil_d   1=4.55  |  X=3.5  |  2=1.6  |  0-2=1.9  |  2+=1.19  |  3+=1.72
+- Soccer     1=1.72  |  X=3.55  |  2=4.05  |  0-2=1.9  |  2+=1.26  |  3+=1.8  |  GG=1.77  |  IGG=None  |  GG&3+=None
+- Topbet     1=1.72  |  X=3.65  |  2=3.9
+
+Najveća 1  : 4.55  [Brazil_d]
+Najveća X  : 3.65  [Topbet]
+Najveća 2  : 4.35  [BalkanBet]
+Najveća 0-2: 1.90  [Brazil_d, Soccer]
+Najveća 3+ : 1.82  [BalkanBet]
+
+Arbitraža (1-X-2): DA   inv_sum=0.7236   profit≈27.64%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0758   profit≈-7.58%
+
 18:30   29.10.   [Italija 1]
 Roma  vs  Parma
 
@@ -38,26 +55,26 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0344   profit≈-3.44%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 492
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 325
-Grupa sa veličinom ≥3: 254
-Grupa sa veličinom ≥4: 162
-Grupa sa veličinom ≥5: 114
-Grupa sa veličinom ≥6: 31
-Grupa sa veličinom ≥7: 5
+Ukupno mečeva (grupa): 495
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 330
+Grupa sa veličinom ≥3: 255
+Grupa sa veličinom ≥4: 170
+Grupa sa veličinom ≥5: 116
+Grupa sa veličinom ≥6: 39
+Grupa sa veličinom ≥7: 6
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  284   spojeno (u grupama >1):  250
+  - BalkanBet  ukupno zapisa:  284   spojeno (u grupama >1):  255
   - BetOle     ukupno zapisa:   23   spojeno (u grupama >1):   23
-  - Brazil_d   ukupno zapisa:   90   spojeno (u grupama >1):   80
-  - Brazil_p   ukupno zapisa:   72   spojeno (u grupama >1):   61
+  - Brazil_d   ukupno zapisa:   98   spojeno (u grupama >1):   88
+  - Brazil_p   ukupno zapisa:   71   spojeno (u grupama >1):   60
   - Brazil_s   ukupno zapisa:   76   spojeno (u grupama >1):   65
   - MaxBet     ukupno zapisa:   58   spojeno (u grupama >1):   57
-  - Mozzart    ukupno zapisa:  220   spojeno (u grupama >1):  189
+  - Mozzart    ukupno zapisa:  222   spojeno (u grupama >1):  191
   - Soccer     ukupno zapisa:  305   spojeno (u grupama >1):  276
-  - Topbet     ukupno zapisa:  255   spojeno (u grupama >1):  215
+  - Topbet     ukupno zapisa:  275   spojeno (u grupama >1):  232
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 2
+  - 1-X-2: 3
   - 0-2 / 3+: 0
-  - Barem jedna arbitraža: 2
+  - Barem jedna arbitraža: 3
