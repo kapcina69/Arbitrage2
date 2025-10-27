@@ -368,8 +368,8 @@ Nantes - Monaco
 21:05
 Marseille - Angers
 1.23
-6.20
-15.50
+6.30
+14.00
 +53
 21:05
 Paris - Lyon
@@ -472,7 +472,7 @@ X
 15:30
 Heidenheim - E. Frankfurt
 3.40
-4.10
+4.15
 1.95
 +53
 15:30
@@ -518,7 +518,7 @@ Koln - Hamburger
 17:30
 Wolfsburg - Hoffenheim
 2.60
-3.70
+3.75
 2.50
 +53
 Italija 1
@@ -554,8 +554,8 @@ Roma - Parma
 18:30
 Como - Verona
 1.60
-3.85
-6.40
+3.90
+6.30
 +53
 18:30
 Juventus - Udinese
@@ -826,8 +826,8 @@ Sparta R. - AZ Alkmaar
 16:45
 Utrecht - NEC
 2.05
-3.75
-3.45
+4.00
+3.30
 +53
 Nemačka Kup
 KONAČAN ISHOD
@@ -915,7 +915,7 @@ Paderborn - B. Leverkusen
 +53
 20:45
 Koln - Bayern M.
-9.60
+8.40
 6.40
 1.23
 +53
@@ -1115,9 +1115,9 @@ Colchester - MK Dons
 +41
 16:00
 Crewe - Doncaster
-3.78
-3.90
-1.80
+3.46
+3.80
+1.85
 +41
 16:00
 Halifax - Exeter
@@ -1263,9 +1263,9 @@ Eastleigh - Walsall
 +41
 16:00
 Port Vale - Maldon & Tiptree
-1.18
-6.80
-13.80
+1.15
+7.10
+15.10
 +41
 18:15
 Gainsborough - Accrington
@@ -1591,8 +1591,8 @@ BW Linz - Hartberg
 +39
 20:30
 Kapfenberg - Altach
-4.90
-4.20
+4.80
+4.25
 1.52
 +39
 20:30
@@ -1625,9 +1625,9 @@ Amstetten - Wolfsberger
 +39
 20:30
 St. Polten - Rapid W.
-4.05
-3.70
-1.75
+4.00
+3.75
+1.70
 +39
 ČET. 30.10.
 1
@@ -1902,8 +1902,8 @@ X
 01:30
 Atl. Paranaense PR - Amazonas AM
 1.35
-4.45
-8.40
+4.55
+7.90
 +41
 Bugarska 1
 KONAČAN ISHOD
@@ -1948,8 +1948,8 @@ X
 11:45
 CSKA S. - Montana
 1.18
-6.10
-14.00
+6.30
+15.60
 +37
 14:15
 Arda - Levski
@@ -1987,6 +1987,18 @@ SRE. 29.10.
 1
 X
 2
+11:00
+Minyor Pernik - Cherno More
+14.00
+5.70
+1.20
++40
+12:30
+Marek Dupnica - Montana
+4.00
+3.30
+1.80
++40
 15:30
 Hebar Pazardzhik - Levski
 16.00
@@ -2593,9 +2605,9 @@ Hednesford - Stockton Town
 +39
 20:45
 Prescot Cables - Hyde
-2.40
+2.30
 3.45
-2.60
+2.70
 +39
 20:45
 Warrington - Ashton
@@ -2631,6 +2643,40 @@ X
 3.95
 2.25
 +22
+UTO. 28.10.
+1
+X
+2
+14:00
+(U21) Bristol City - (U21) Brentford Reserve
+3.50
+4.30
+1.70
++22
+14:00
+(U21) Huddersfield Town - (U21) Peterborough United
+2.70
+4.05
+2.00
++22
+14:00
+(U21) Wigan - (U21) Hull
+2.75
+4.15
+2.10
++22
+14:30
+(U21) Millwall - (U21) Charlton
+3.00
+3.90
+1.95
++22
+15:00
+(U21) Cardiff - (U21) Bournemouth
+2.05
+4.00
+2.80
++22
 Estonija 2
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -2647,9 +2693,9 @@ Tartu JK Welco - Elva
 +36
 18:00
 Viimsi - (U21) Levadia
-1.80
-3.95
-3.30
+1.75
+4.00
+3.50
 +36
 18:00
 (U21) Flora - FC Tallinn
@@ -2935,9 +2981,9 @@ Atromitos - Panathinaikos
 +39
 20:30
 PAOK - AE Larissa
-1.16
-6.60
-16.00
+1.20
+5.90
+11.60
 +39
 Gruzija 1
 KONAČAN ISHOD
@@ -2949,15 +2995,15 @@ X
 2
 15:00
 Telavi - Torpedo Kutaisi
-4.90
-3.70
-1.60
+4.30
+3.60
+1.68
 +39
 16:00
 Dinamo Tbilisi - Kolkheti 1913 Poti
 1.38
 4.60
-7.50
+6.90
 +39
 Holandija 2
 KONAČAN ISHOD
@@ -3085,8 +3131,8 @@ Pescara - Avellino
 +52
 20:30
 Empoli - Sampdoria
-2.45
-3.05
+2.40
+2.95
 2.80
 +52
 20:30
@@ -3251,10 +3297,74 @@ AL Kharitiyat - AL Waab
 +22
 17:30
 Al Gharafa - Al Shamal
-3.40
-3.80
-1.85
+2.80
+3.75
+2.15
 +22
+Kina 1
+KONAČAN ISHOD
+UKUPNO GOLOVA
+OBA TIMA DAJU GOL
+PET. 31.10.
+1
+X
+2
+11:00
+Shanghai SIPG - Zhejiang G.
+1.42
+5.20
+5.30
++41
+12:35
+Chengdu Q. - Henan Songshan
+1.30
+5.65
+7.10
++41
+13:00
+Shanghai S. - Shenzhen Peng City
+1.14
+7.70
+14.40
++41
+SUB. 01.11.
+1
+X
+2
+08:30
+Changchun Y. - Beijing G.
+2.70
+3.85
+2.15
++41
+08:30
+Shandong Taishan - Tianjin T.
+1.40
+4.95
+6.10
++41
+12:35
+Meizhou H. - Dalian Zhixing FC
+1.68
+4.00
+3.80
++41
+NED. 02.11.
+1
+X
+2
+08:30
+Qingdao Jonoon - Wuhan Three Towns FC
+1.70
+3.95
+3.80
++41
+12:35
+Yunnan Yukun - Qingdao Youth Island
+1.95
+3.70
+3.20
++41
 Kipar 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -3285,10 +3395,10 @@ X
 2
 01:45
 Dep.Pasto - Pereira
-1.09
-9.25
-19.20
-+40
+1.08
+10.00
+20.80
++41
 22:00
 Aguilas - Envigado
 1.70
@@ -3399,9 +3509,9 @@ X
 2
 16:45
 Al Salmiyah - Qadsia
-3.00
-3.45
-2.05
+2.80
+3.30
+2.20
 +36
 Litvanija 1
 KONAČAN ISHOD
@@ -3413,9 +3523,9 @@ X
 2
 18:00
 Dainava Alytus - Hegelmann Litauen Kaunas
-5.60
-4.15
-1.50
+5.10
+4.00
+1.55
 +40
 18:00
 Suduva - Kauno Zalgiris
@@ -3797,6 +3907,62 @@ Rosenborg - Sandefjord
 3.80
 3.00
 +53
+SUB. 01.11.
+1
+X
+2
+16:00
+Valerenga - Bodo Glimt
+5.10
+4.75
+1.48
++53
+18:00
+Molde - Rosenborg
+2.10
+3.65
+2.80
++53
+NED. 02.11.
+1
+X
+2
+14:30
+Stromsgodset - Viking
+4.30
+4.45
+1.55
++53
+17:00
+Bryne - Brann
+3.60
+3.70
+1.78
++53
+17:00
+Fredrikstad - Kristiansund
+1.78
+3.70
+3.60
++53
+17:00
+Ham Kam - Sandefjord
+2.35
+3.65
+2.60
++53
+17:00
+KFUM Oslo - Haugesund
+1.20
+6.00
+11.20
++53
+19:15
+Tromso - Sarpsborg
+1.55
+4.25
+4.70
++53
 Norveška 2
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -3903,6 +4069,66 @@ Radomiak Radom - Wisla P.
 3.30
 3.05
 +53
+PET. 31.10.
+1
+X
+2
+18:00
+Termalica B.B. - Katowice
+2.30
+3.90
+2.80
++53
+20:30
+Piast Gliwice - Korona K.
+2.40
+3.40
+2.90
++53
+NED. 02.11.
+1
+X
+2
+12:15
+Gornik Z. - Arka
+1.52
+4.15
+6.80
++53
+14:45
+Lech P. - Motor Lublin
+1.52
+4.65
+5.75
++51
+17:30
+Jagiellonia - Rakow
+2.85
+3.45
+2.40
++53
+20:15
+Widzew Lodz - Legia W.
+3.00
+3.70
+2.25
++53
+PON. 03.11.
+1
+X
+2
+18:00
+Wisla P. - Pogon S.
+2.25
+3.70
+3.00
++53
+20:30
+Cracovia - Zaglebie L.
+2.00
+3.45
+3.75
++53
 Poljska 2
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -3979,6 +4205,20 @@ Maritimo - Leiria
 3.25
 3.10
 +41
+Portugal Liga Kup
+KONAČAN ISHOD
+UKUPNO GOLOVA
+OBA TIMA DAJU GOL
+UTO. 28.10.
+1
+X
+2
+21:15
+Sporting - Alverca
+1.14
+7.50
+14.40
++40
 Portugal (U23)
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -4010,6 +4250,26 @@ X
 2.80
 3.40
 2.20
++36
+SRE. 29.10.
+1
+X
+2
+12:00
+(U23) Estoril - (U23) Santa Clara
+2.55
+3.50
+2.50
++36
+ČET. 30.10.
+1
+X
+2
+12:00
+(U23) Sporting - (U23) Estrela Amadora
+1.52
+4.25
+5.00
 +36
 R. Irska 1
 KONAČAN ISHOD
@@ -4337,9 +4597,9 @@ Al Taawoun - Al Qadisiya
 +39
 15:35
 Al Khaleej - Al Ittihad
-3.10
+3.20
 3.85
-1.90
+1.85
 +39
 18:30
 Al Nassr - Al Feiha
@@ -4390,7 +4650,7 @@ Al Fateh - AL Riyadh
 15:35
 Al Khaleej - Al Taawoun
 2.40
-3.30
+3.25
 2.70
 +22
 16:00
@@ -4467,20 +4727,6 @@ Cliftonville - Linfield
 3.50
 1.90
 +37
-S. Makedonija 1
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-PON. 27.10.
-1
-X
-2
-13:30
-Škendija - Vardar
-2.00
-2.95
-3.60
-+39
 SAD 1 MLS
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -4942,35 +5188,9 @@ Gaziantep - Fenerbahce
 18:00
 Samsun - Rize
 1.90
-3.35
-4.40
+3.40
+4.35
 +53
-UAE 2
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-PON. 27.10.
-1
-X
-2
-13:50
-Al Thaid - Al Oruba
-4.10
-3.45
-1.75
-+36
-13:50
-City Football Club - Al Arabi (UAE)
-4.40
-4.10
-1.60
-+36
-13:50
-AL Dahra FC - Masfut
-3.10
-3.25
-2.10
-+36
 Uzbekistan 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -5100,174 +5320,6 @@ Luton - (U21) Brighton
 1.23
 6.10
 10.00
-+36
-Bolivija Liga Kup
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-PON. 27.10.
-1
-X
-2
-20:00
-San Antonio Bulo Bulo - Independiente Petrolero
-1.68
-3.85
-4.00
-+36
-UTO. 28.10.
-1
-X
-2
-01:00
-Bolivar - CD Real Tomayapo
-1.09
-10.00
-16.90
-+36
-23:00
-Aurora - Guabira Montero
-1.95
-3.65
-3.10
-+36
-SRE. 29.10.
-1
-X
-2
-01:00
-Blooming - Always Ready
-2.20
-3.50
-2.80
-+36
-Danska Kup
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-SRE. 29.10.
-1
-X
-2
-18:00
-Fredericia - Viborg
-3.40
-3.60
-1.90
-+40
-20:45
-AGF Aarhus - Sonderjyske
-1.45
-4.35
-5.90
-+40
-ČET. 30.10.
-1
-X
-2
-17:45
-Midtjylland - Silkeborg
-1.42
-4.75
-5.80
-+40
-20:45
-Nordsjaelland - Brondby
-2.60
-3.60
-2.40
-+40
-Engleska U21 Liga Kup
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-PON. 27.10.
-1
-X
-2
-20:00
-(U21) Colchester - Bromley FC U21
-2.90
-3.70
-2.05
-+36
-Indian Super Cup
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-PON. 27.10.
-1
-X
-2
-15:00
-Hyderabad - Mumbai
-3.70
-3.90
-1.72
-+36
-Međunarodne Prijateljske (W)
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-PON. 27.10.
-1
-X
-2
-13:30
-(W) India - Nepal
-1.65
-3.85
-4.30
-+22
-14:00
-(W) Slovenija - (W) Srbija
-2.40
-3.20
-2.70
-+22
-Kup Sudamerikana
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-SRE. 29.10.
-1
-X
-2
-01:30
-Atl. Mineiro MG - Ind.del Valle
-1.65
-3.55
-4.70
-+41
-ČET. 30.10.
-1
-X
-2
-23:00
-Lanus - Uni. Chile
-1.85
-3.35
-3.80
-+41
-(U19) Kvalif. Evropsko Prvenstvo (W)
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-PON. 27.10.
-1
-X
-2
-14:00
-W(U19) Hungary - (U19) Češka (W)
-3.80
-3.95
-1.70
-+36
-14:00
-W(U19) Moldova - W(U19) Lithuania
-8.80
-6.30
-1.23
 +36
 
 Tiket (0)
