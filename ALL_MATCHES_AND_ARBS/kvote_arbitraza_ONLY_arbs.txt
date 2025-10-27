@@ -4,17 +4,37 @@ U19 C.Zvezda  vs  U19 Napredak
 - BalkanBet  1=1.02  |  X=12  |  2=21  |  2+=1.18  |  3+=4.3
 - Brazil_d   1=1.01  |  X=10.5  |  2=24  |  0-2=3.85  |  2+=1.01  |  3+=1.19
 - Merkur     1=1.02  |  X=10  |  2=20  |  0-2=3.9  |  3+=1.19  |  GG=2.37
-- OktagonBet 1=1.01  |  X=10.4  |  2=23.5  |  0-2=3.8  |  3+=1.19  |  GG=2.9  |  GG&3+=3.05  |  4+=1.56
-- Soccer     1=1.06  |  X=8.5  |  2=18.6  |  0-2=4.2  |  2+=1.02  |  3+=1.19  |  GG=2.2  |  IGG=None  |  GG&3+=None
+- Soccer     1=1.07  |  X=8.4  |  2=18.6  |  0-2=4.05  |  2+=1.02  |  3+=1.2  |  GG=2.2  |  IGG=None  |  GG&3+=None
 
-Najveća 1  : 1.06  [Soccer]
+Najveća 1  : 1.07  [Soccer]
 Najveća X  : 12.00  [BalkanBet]
 Najveća 2  : 24.00  [Brazil_d]
-Najveća 0-2: 4.20  [Soccer]
+Najveća 0-2: 4.05  [Soccer]
 Najveća 3+ : 4.30  [BalkanBet]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0684   profit≈-6.84%
-Arbitraža (0-2 / 3+): DA   inv_sum=0.4707   profit≈52.93%
+Arbitraža (1-X-2): NE   inv_sum=1.0596   profit≈-5.96%
+Arbitraža (0-2 / 3+): DA   inv_sum=0.4795   profit≈52.05%
+
+18:00   27.10.   [BiH 1]
+Zrinjski  vs  Borac BL
+
+- BalkanBet  1=2.55  |  X=2.85  |  2=2.7  |  0-2=1.45  |  2+=1.5  |  3+=2.55  |  GG=2  |  IGG=5.45  |  GG&3+=3.05  |  GG&4+=5.4  |  4+=5
+- BetOle     1=2.37  |  X=2.93  |  2=2.88  |  0-2=1.45  |  3+=2.5
+- Brazil_d   1=2.35  |  X=2.9  |  2=2.95  |  0-2=1.45  |  2+=1.48  |  3+=2.5
+- MaxBet     1=3.10  |  X=3.00  |  2=2.85
+- Merkur     1=2.5  |  X=2.85  |  2=2.78  |  0-2=1.45  |  3+=2.5  |  GG=2.07  |  IGG=6.25  |  GG&3+=3.05
+- Mozzart    1=2.7  |  X=2.85  |  2=2.8  |  0-2=1.47  |  2+=1.55  |  3+=2.5
+- Soccer     1=2.7  |  X=2.7  |  2=2.9  |  0-2=1.45  |  2+=1.52  |  3+=2.55  |  GG=2.05  |  IGG=5.95  |  GG&3+=2.7
+- Topbet     1=2.7  |  X=2.85  |  2=2.7
+
+Najveća 1  : 3.10  [MaxBet]
+Najveća X  : 3.00  [MaxBet]
+Najveća 2  : 2.95  [Brazil_d]
+Najveća 0-2: 1.47  [Mozzart]
+Najveća 3+ : 2.55  [BalkanBet, Soccer]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9949   profit≈0.51%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0724   profit≈-7.24%
 
 20:00   27.10.   [Urugvaj Liga Rezervi]
 Progreso (R)  vs  Danubio (R)
@@ -56,22 +76,39 @@ Najveća 3+ : 1.80  [BalkanBet]
 Arbitraža (1-X-2): DA   inv_sum=0.9885   profit≈1.15%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0363   profit≈-3.63%
 
+20:00   31.10.   [Holandija 2]
+Oss  vs  Helmond
+
+- BalkanBet  1=2.6  |  X=3.65  |  2=2.35  |  0-2=2.15  |  2+=1.21  |  3+=1.63  |  GG=1.55  |  IGG=3.75  |  GG&3+=1.9  |  GG&4+=2.9  |  4+=2.55
+- OktagonBet 1=2.6  |  X=3.5  |  2=2.38  |  0-2=2.18  |  3+=1.61  |  GG=1.53  |  GG&3+=1.88  |  4+=2.62
+- Soccer     1=2.6  |  X=3.6  |  2=2.35  |  0-2=2.12  |  2+=1.19  |  3+=1.65  |  GG=1.55  |  IGG=3.7  |  GG&3+=1.83
+- Topbet     1=3.4  |  X=3.7  |  2=1.85
+
+Najveća 1  : 3.40  [Topbet]
+Najveća X  : 3.70  [Topbet]
+Najveća 2  : 2.38  [OktagonBet]
+Najveća 0-2: 2.18  [OktagonBet]
+Najveća 3+ : 1.65  [Soccer]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9846   profit≈1.54%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0648   profit≈-6.48%
+
 13:00   01.11.   [Engleska FA Kup]
 Chelmsford  vs  Braintree
 
 - BalkanBet  1=5.1  |  X=4.75  |  2=1.55  |  0-2=2.13  |  2+=1.24  |  3+=1.72  |  GG=1.85  |  IGG=4.9  |  GG&3+=2.15  |  GG&4+=3.3  |  4+=2.8
 - Mozzart    1=6  |  X=4  |  2=1.5  |  0-2=2.11  |  2+=1.22  |  3+=1.65
 - OktagonBet 1=7.35  |  X=4.5  |  2=1.4  |  0-2=2.12  |  3+=1.65  |  GG=1.93  |  GG&3+=2.32  |  4+=2.7
-- Soccer     1=6.35  |  X=4.45  |  2=1.47  |  0-2=2.05  |  2+=1.21  |  3+=1.68  |  GG=1.83  |  IGG=4.5  |  GG&3+=2.17
+- Soccer     1=7.9  |  X=4.9  |  2=1.37  |  0-2=2.05  |  2+=1.21  |  3+=1.7  |  GG=1.98  |  IGG=4.85  |  GG&3+=2.35
 - Topbet     1=6.26  |  X=4.5  |  2=1.45
 
-Najveća 1  : 7.35  [OktagonBet]
-Najveća X  : 4.75  [BalkanBet]
+Najveća 1  : 7.90  [Soccer]
+Najveća X  : 4.90  [Soccer]
 Najveća 2  : 1.55  [BalkanBet]
 Najveća 0-2: 2.13  [BalkanBet]
 Najveća 3+ : 1.72  [BalkanBet]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9917   profit≈0.83%
+Arbitraža (1-X-2): DA   inv_sum=0.9758   profit≈2.42%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0509   profit≈-5.09%
 
 19:00
@@ -124,28 +161,28 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0499   profit≈-4.99%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1244
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 825
-Grupa sa veličinom ≥3: 553
-Grupa sa veličinom ≥4: 391
-Grupa sa veličinom ≥5: 248
-Grupa sa veličinom ≥6: 188
-Grupa sa veličinom ≥7: 126
+Ukupno mečeva (grupa): 1257
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 831
+Grupa sa veličinom ≥3: 565
+Grupa sa veličinom ≥4: 406
+Grupa sa veličinom ≥5: 247
+Grupa sa veličinom ≥6: 192
+Grupa sa veličinom ≥7: 125
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  763   spojeno (u grupama >1):  689
+  - BalkanBet  ukupno zapisa:  763   spojeno (u grupama >1):  691
   - BetOle     ukupno zapisa:   72   spojeno (u grupama >1):   72
   - Brazil_d   ukupno zapisa:   81   spojeno (u grupama >1):   80
-  - Brazil_p   ukupno zapisa:   74   spojeno (u grupama >1):   72
-  - Brazil_s   ukupno zapisa:   83   spojeno (u grupama >1):   83
-  - MaxBet     ukupno zapisa:   85   spojeno (u grupama >1):   83
+  - Brazil_p   ukupno zapisa:   72   spojeno (u grupama >1):   70
+  - Brazil_s   ukupno zapisa:   82   spojeno (u grupama >1):   82
+  - MaxBet     ukupno zapisa:   84   spojeno (u grupama >1):   82
   - Merkur     ukupno zapisa:  233   spojeno (u grupama >1):  228
   - Mozzart    ukupno zapisa:  354   spojeno (u grupama >1):  334
-  - OktagonBet ukupno zapisa: 1045   spojeno (u grupama >1):  746
+  - OktagonBet ukupno zapisa: 1045   spojeno (u grupama >1):  747
   - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  349
-  - Topbet     ukupno zapisa:  515   spojeno (u grupama >1):  500
+  - Topbet     ukupno zapisa:  566   spojeno (u grupama >1):  541
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 5
+  - 1-X-2: 7
   - 0-2 / 3+: 2
-  - Barem jedna arbitraža: 7
+  - Barem jedna arbitraža: 9
