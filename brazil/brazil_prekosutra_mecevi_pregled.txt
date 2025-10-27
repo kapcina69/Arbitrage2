@@ -18,15 +18,15 @@ Metalul Buzau  vs  U. Cluj   (ID: 650)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:30
-Ilioupoli  vs  AEK Athens FC   (ID: 799)
-1=21   X=7.75   2=1.1
-0-2=2.55   2+=1.12   3+=1.45
+Ilioupoli  vs  AEK Athens FC   (ID: 805)
+1=16   X=6.9   2=1.14
+0-2=2.55   2+=1.11   3+=1.44
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:30
-Arsenal Tivat  vs  OFK Petrovac   (ID: 651)
-1=3.3   X=2.85   2=2.22
-0-2=1.45   2+=1.48   3+=2.5
+Arsenal Tivat  vs  OFK Petrovac   (ID: 652)
+1=3.1   X=2.85   2=2.3
+0-2=1.45   2+=1.47   3+=2.45
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 15:00  [RUSSIA, Russian Cup - Regions Path]
@@ -96,7 +96,7 @@ Petrojet  vs  Al Ahly Cairo   (ID: 646)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 18:00  [RUSSIA, Russian Cup - Regions Path]
-Greuther Furth  vs  Kaiserslautern   (ID: 978)
+Greuther Furth  vs  Kaiserslautern   (ID: 937)
 1=2.88   X=3.6   2=2.25
 0-2=2.5   2+=1.13   3+=1.48
 GG=-   IGG=-   GG&3+=-
@@ -117,6 +117,12 @@ GG=-   IGG=-   GG&3+=-
 Paderborn  vs  Bayer Leverkusen   (ID: 975)
 1=4.35   X=4.3   2=1.65
 0-2=2.85   2+=1.09   3+=1.37
+GG=-   IGG=-   GG&3+=-
+======================================================================
+18:00  [RUSSIA, Russian Cup - Regions Path]
+Decic  vs  Buducnost   (ID: 654)
+1=3.3   X=2.95   2=2.15
+0-2=1.55   2+=1.39   3+=2.28
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 18:00  [RUSSIA, Russian Cup - Regions Path]
@@ -144,19 +150,19 @@ Lusitania FC  vs  Vizela   (ID: 830)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 18:30  [RUSSIA, Russian Cup - Regions Path]
-AS Roma  vs  Parma   (ID: 978)
+AS Roma  vs  Parma   (ID: 950)
 1=1.56   X=3.75   2=7
 0-2=1.75   2+=1.36   3+=2.12
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 18:30  [RUSSIA, Russian Cup - Regions Path]
-Como  vs  Verona   (ID: 955)
+Como  vs  Verona   (ID: 970)
 1=1.7   X=3.45   2=5.75
 0-2=1.7   2+=1.38   3+=2.18
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 18:30  [RUSSIA, Russian Cup - Regions Path]
-Juventus  vs  Udinese   (ID: 968)
+Juventus  vs  Udinese   (ID: 940)
 1=1.48   X=4.2   2=7.4
 0-2=1.88   2+=1.31   3+=1.94
 GG=-   IGG=-   GG&3+=-
@@ -174,7 +180,7 @@ Le Havre  vs  Brest   (ID: 941)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 19:00  [RUSSIA, Russian Cup - Regions Path]
-Lorient  vs  Paris SG   (ID: 977)
+Lorient  vs  Paris SG   (ID: 945)
 1=10.5   X=6.1   2=1.27
 0-2=2.95   2+=1.12   3+=1.41
 GG=-   IGG=-   GG&3+=-
@@ -186,9 +192,9 @@ Metz  vs  Lens   (ID: 941)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 19:00  [RUSSIA, Russian Cup - Regions Path]
-Nice  vs  Lille   (ID: 944)
-1=2.75   X=3.1   2=2.75
-0-2=2.05   2+=1.25   3+=1.77
+Nice  vs  Lille   (ID: 945)
+1=2.8   X=3.1   2=2.7
+0-2=2.08   2+=1.25   3+=1.77
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 19:00  [RUSSIA, Russian Cup - Regions Path]
@@ -207,12 +213,6 @@ GG=-   IGG=-   GG&3+=-
 Real Oruro  vs  Universitario de Vinto   (ID: 653)
 1=1.95   X=3.1   2=3.65
 0-2=1.58   2+=1.36   3+=2.2
-GG=-   IGG=-   GG&3+=-
-======================================================================
-20:00  [RUSSIA, Russian Cup - Regions Path]
-Decic  vs  Buducnost   (ID: 654)
-1=3.3   X=2.95   2=2.15
-0-2=1.55   2+=1.39   3+=2.28
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:00  [RUSSIA, Russian Cup - Regions Path]
@@ -270,13 +270,13 @@ Lausanne  vs  Servette   (ID: 839)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:45  [RUSSIA, Russian Cup - Regions Path]
-Bologna  vs  Torino   (ID: 983)
+Bologna  vs  Torino   (ID: 955)
 1=1.81   X=3.4   2=4.95
 0-2=1.65   2+=1.41   3+=2.25
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:45  [RUSSIA, Russian Cup - Regions Path]
-Genoa  vs  Cremonese   (ID: 963)
+Genoa  vs  Cremonese   (ID: 935)
 1=1.89   X=3.25   2=4.6
 0-2=1.6   2+=1.45   3+=2.38
 GG=-   IGG=-   GG&3+=-
@@ -294,19 +294,19 @@ Aarhus  vs  Sonderjyske   (ID: 652)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:45  [RUSSIA, Russian Cup - Regions Path]
-Arsenal  vs  Brighton   (ID: 1013)
+Arsenal  vs  Brighton   (ID: 929)
 1=1.41   X=4.75   2=6.6
 0-2=2.35   2+=1.16   3+=1.56
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:45  [RUSSIA, Russian Cup - Regions Path]
-Liverpool  vs  Crystal Palace   (ID: 1017)
+Liverpool  vs  Crystal Palace   (ID: 933)
 1=1.59   X=4.2   2=4.9
 0-2=2.4   2+=1.15   3+=1.51
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:45  [RUSSIA, Russian Cup - Regions Path]
-Swansea  vs  Manchester City   (ID: 995)
+Swansea  vs  Manchester City   (ID: 913)
 1=12   X=6.2   2=1.22
 0-2=2.8   2+=1.1   3+=1.39
 GG=-   IGG=-   GG&3+=-
@@ -336,7 +336,7 @@ Dusseldorf  vs  Freiburg   (ID: 971)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 20:45  [RUSSIA, Russian Cup - Regions Path]
-FC Koln  vs  Bayern Munich   (ID: 997)
+FC Koln  vs  Bayern Munich   (ID: 926)
 1=10   X=6.3   2=1.24
 0-2=3.5   2+=1.05   3+=1.26
 GG=-   IGG=-   GG&3+=-
@@ -378,7 +378,7 @@ St. Mirren  vs  Hearts   (ID: 828)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 21:00  [RUSSIA, Russian Cup - Regions Path]
-Newcastle  vs  Tottenham   (ID: 1008)
+Newcastle  vs  Tottenham   (ID: 930)
 1=1.81   X=3.65   2=4.05
 0-2=2.05   2+=1.21   3+=1.72
 GG=-   IGG=-   GG&3+=-
