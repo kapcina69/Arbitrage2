@@ -70,12 +70,12 @@
 ============================================
   KLADIONICA: MaxBet       TIKET #5
 --------------------------------------------
-  Ukupni koeficijent : 13.53  (cilj: 10.00)
+  Ukupni koeficijent : 12.91  (cilj: 10.00)
   Ulog               : 200.00 RSD
-  Potencijalni dobitak: 2706.00 RSD
+  Potencijalni dobitak: 2583.00 RSD
 
-  Ukupni raspon vrednosti (Σ diff%%): 30.94%
-  Prosečan profit arbitraže        : -0.83%
+  Ukupni raspon vrednosti (Σ diff%%): 33.81%
+  Prosečan profit arbitraže        : -0.75%
 --------------------------------------------
   SELEKCIJE:
    1) 19:00 27.10. Odense vs Brondby (Danska 1)
@@ -83,33 +83,10 @@
        Raspon kvote     : 17.14%
        Profit za par    : -0.71%
        ------------------------------------
-   2) 19:00 27.10. Radomiak R. vs Wisla P. (Poljska 1)
-       Market           : 2 @ 3.30
-       Raspon kvote     : 13.79%
-       Profit za par    : -0.96%
-       ------------------------------------
-============================================
-
-============================================
-  KLADIONICA: MaxBet       TIKET #4
---------------------------------------------
-  Ukupni koeficijent : 10.88  (cilj: 10.00)
-  Ulog               : 200.00 RSD
-  Potencijalni dobitak: 2175.00 RSD
-
-  Ukupni raspon vrednosti (Σ diff%%): 30.31%
-  Prosečan profit arbitraže        : -0.64%
---------------------------------------------
-  SELEKCIJE:
-   1) 18:00 27.10. Zrinjski vs Borac BL (BiH 1)
-       Market           : 1 @ 2.90
-       Raspon kvote     : 18.37%
-       Profit za par    : -0.60%
-       ------------------------------------
-   2) 18:00 27.10. Samsunspor vs Rizespor (Turkey, Super Lig)
-       Market           : X @ 3.75
-       Raspon kvote     : 11.94%
-       Profit za par    : -0.68%
+   2) 18:00 27.10. Zrinjski vs Borac BL (BiH 1)
+       Market           : 2 @ 3.15
+       Raspon kvote     : 16.67%
+       Profit za par    : -0.79%
        ------------------------------------
 ============================================
 
@@ -133,6 +110,52 @@
        Market           : 2 @ 2.75
        Raspon kvote     : 10.00%
        Profit za par    : -0.47%
+       ------------------------------------
+============================================
+
+============================================
+  KLADIONICA: Mozzart       TIKET #3
+--------------------------------------------
+  Ukupni koeficijent : 10.83  (cilj: 10.00)
+  Ulog               : 200.00 RSD
+  Potencijalni dobitak: 2166.00 RSD
+
+  Ukupni raspon vrednosti (Σ diff%%): 28.37%
+  Prosečan profit arbitraže        : -1.35%
+--------------------------------------------
+  SELEKCIJE:
+   1) 20:30 01.11. Darmstadt vs Bielefeld (Nemačka 2)
+       Market           : 2 @ 3.80
+       Raspon kvote     : 18.75%
+       Profit za par    : -1.32%
+       ------------------------------------
+   2) 19:00 29.10. Havre vs Brest (Francuska 1)
+       Market           : 2 @ 2.85
+       Raspon kvote     : 9.62%
+       Profit za par    : -1.39%
+       ------------------------------------
+============================================
+
+============================================
+  KLADIONICA: MaxBet       TIKET #4
+--------------------------------------------
+  Ukupni koeficijent : 10.88  (cilj: 10.00)
+  Ulog               : 200.00 RSD
+  Potencijalni dobitak: 2175.00 RSD
+
+  Ukupni raspon vrednosti (Σ diff%%): 27.94%
+  Prosečan profit arbitraže        : -0.69%
+--------------------------------------------
+  SELEKCIJE:
+   1) 18:00 27.10. Samsunspor vs Rizespor (Turkey, Super Lig)
+       Market           : X @ 3.75
+       Raspon kvote     : 11.94%
+       Profit za par    : -0.68%
+       ------------------------------------
+   2) 21:00 27.10. Port Vale vs Stockport (Engleska 3)
+       Market           : 1 @ 2.90
+       Raspon kvote     : 16.00%
+       Profit za par    : -0.70%
        ------------------------------------
 ============================================
 
@@ -183,29 +206,6 @@
 ============================================
 
 ============================================
-  KLADIONICA: BalkanBet       TIKET #3
---------------------------------------------
-  Ukupni koeficijent : 11.89  (cilj: 10.00)
-  Ulog               : 200.00 RSD
-  Potencijalni dobitak: 2378.50 RSD
-
-  Ukupni raspon vrednosti (Σ diff%%): 24.50%
-  Prosečan profit arbitraže        : -0.98%
---------------------------------------------
-  SELEKCIJE:
-   1) 21:00 27.10. Port Vale vs Stockport (Engleska 3)
-       Market           : X @ 3.35
-       Raspon kvote     : 13.56%
-       Profit za par    : -0.65%
-       ------------------------------------
-   2) 21:00 05.11. Marseille vs Atalanta (Liga Šampiona)
-       Market           : 2 @ 3.55
-       Raspon kvote     : 10.94%
-       Profit za par    : -1.31%
-       ------------------------------------
-============================================
-
-============================================
   KLADIONICA: MaxBet       TIKET #2
 --------------------------------------------
   Ukupni koeficijent : 12.24  (cilj: 10.00)
@@ -232,10 +232,10 @@
 
 Broj završenih tiketa po kladionici (zadržani):
   - MaxBet: 5 tiket(a)
-  - BalkanBet: 3 tiket(a)
-  - Mozzart: 2 tiket(a)
+  - Mozzart: 3 tiket(a)
+  - BalkanBet: 2 tiket(a)
 
 Ukupno zadržanih tiketa: 10
 Ukupno uloženo: 2000.00 RSD
-Najmanji potencijalni dobitak u tim tiketima: 2175.00 RSD
+Najmanji potencijalni dobitak u tim tiketima: 2166.00 RSD
 ########################################
