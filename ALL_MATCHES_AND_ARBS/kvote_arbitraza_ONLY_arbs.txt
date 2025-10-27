@@ -1,20 +1,58 @@
+21:00   27.10.   [Španija 1]
+Betis  vs  Atl.Madrid
+
+- BalkanBet  1=3.35  |  X=3.5  |  2=2.2  |  0-2=2  |  2+=1.28  |  3+=1.85  |  GG=1.7  |  IGG=4.5  |  GG&3+=2.2  |  GG&4+=3.55  |  4+=3.2
+- BetOle     1=3.35  |  X=3.35  |  2=2.2  |  0-2=1.95  |  3+=1.85
+- MaxBet     1=3.50  |  X=3.55  |  2=2.30
+- Mozzart    1=3.3  |  X=3.6  |  2=2.25  |  0-2=1.95  |  2+=1.28  |  3+=1.89
+- OktagonBet 1=3.35  |  X=3.35  |  2=2.22  |  0-2=1.93  |  3+=1.88  |  GG=1.74  |  GG&3+=2.25  |  4+=3.3
+- Soccer     1=3.2  |  X=3.5  |  2=2.25  |  0-2=1.93  |  2+=1.3  |  3+=1.87  |  GG=1.72  |  IGG=4.5  |  GG&3+=2.15
+- Topbet     1=3.2  |  X=3.5  |  2=2.2
+
+Najveća 1  : 3.50  [MaxBet]
+Najveća X  : 3.60  [Mozzart]
+Najveća 2  : 2.30  [MaxBet]
+Najveća 0-2: 2.00  [BalkanBet]
+Najveća 3+ : 1.89  [Mozzart]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9983   profit≈0.17%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0291   profit≈-2.91%
+
 21:15   31.10.   [Portugal 1]
 Sporting  vs  Alverca
 
 - BalkanBet  1=1.12  |  X=9  |  2=16  |  0-2=3.1  |  2+=1.11  |  3+=1.37  |  GG=2.4  |  IGG=5.35  |  GG&3+=2.65  |  GG&4+=2.75  |  4+=1.9
 - Mozzart    1=1.1  |  X=11  |  2=18
 - OktagonBet 1=1.1  |  X=8.65  |  2=22.5  |  0-2=2.95  |  3+=1.35  |  GG=2.55  |  GG&3+=2.85  |  4+=1.93
-- Soccer     1=1.22  |  X=6.4  |  2=11.5  |  0-2=2.65  |  2+=1.1  |  3+=1.43  |  GG=1.95  |  IGG=4.5  |  GG&3+=2.2
+- Soccer     1=1.25  |  X=5.55  |  2=11.4  |  0-2=2.47  |  2+=1.13  |  3+=1.5  |  GG=1.88  |  IGG=4.45  |  GG&3+=2.15
 - Topbet     1=1.11  |  X=9.25  |  2=27.5
 
-Najveća 1  : 1.22  [Soccer]
+Najveća 1  : 1.25  [Soccer]
 Najveća X  : 11.00  [Mozzart]
 Najveća 2  : 27.50  [Topbet]
 Najveća 0-2: 3.10  [BalkanBet]
-Najveća 3+ : 1.43  [Soccer]
+Najveća 3+ : 1.50  [Soccer]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9469   profit≈5.31%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0219   profit≈-2.19%
+Arbitraža (1-X-2): DA   inv_sum=0.9273   profit≈7.27%
+Arbitraža (0-2 / 3+): DA   inv_sum=0.9892   profit≈1.08%
+
+19:00   29.10.   [Francuska 1]
+Nice  vs  Lille
+
+- BalkanBet  1=2.9  |  X=3.5  |  2=2.45  |  0-2=2.13  |  2+=1.25  |  3+=1.75  |  GG=1.65  |  IGG=4.2  |  GG&3+=2.05  |  GG&4+=3.25  |  4+=2.9
+- Mozzart    1=3  |  X=3.5  |  2=2.45  |  0-2=2.08  |  2+=1.25  |  3+=1.75
+- OktagonBet 1=2.88  |  X=3.2  |  2=2.6  |  0-2=2.12  |  3+=1.73  |  GG=1.62  |  GG&3+=2.04  |  4+=2.88
+- Soccer     1=2.75  |  X=3.6  |  2=2.38  |  0-2=2.03  |  2+=1.21  |  3+=1.7  |  GG=1.6  |  IGG=3.9  |  GG&3+=1.93
+- Topbet     1=2.85  |  X=3.45  |  2=2.4
+
+Najveća 1  : 3.00  [Mozzart]
+Najveća X  : 3.60  [Soccer]
+Najveća 2  : 2.60  [OktagonBet]
+Najveća 0-2: 2.13  [BalkanBet]
+Najveća 3+ : 1.75  [BalkanBet, Mozzart]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9957   profit≈0.43%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0409   profit≈-4.09%
 
 13:00   31.10.   [Kina 1]
 Shanghai Shenh.  vs  Shenzhen P.C.
@@ -115,27 +153,27 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0500   profit≈-5.00%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1056
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 722
-Grupa sa veličinom ≥3: 472
+Ukupno mečeva (grupa): 1055
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 719
+Grupa sa veličinom ≥3: 471
 Grupa sa veličinom ≥4: 325
-Grupa sa veličinom ≥5: 141
-Grupa sa veličinom ≥6: 46
-Grupa sa veličinom ≥7: 12
+Grupa sa veličinom ≥5: 138
+Grupa sa veličinom ≥6: 43
+Grupa sa veličinom ≥7: 7
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  732   spojeno (u grupama >1):  617
-  - BetOle     ukupno zapisa:   16   spojeno (u grupama >1):   16
-  - Brazil_d   ukupno zapisa:   13   spojeno (u grupama >1):   12
+  - BalkanBet  ukupno zapisa:  729   spojeno (u grupama >1):  614
+  - BetOle     ukupno zapisa:   13   spojeno (u grupama >1):   13
+  - Brazil_d   ukupno zapisa:    2   spojeno (u grupama >1):    1
   - Brazil_p   ukupno zapisa:   36   spojeno (u grupama >1):   36
   - Brazil_s   ukupno zapisa:   56   spojeno (u grupama >1):   56
-  - MaxBet     ukupno zapisa:   17   spojeno (u grupama >1):   17
+  - MaxBet     ukupno zapisa:   14   spojeno (u grupama >1):   14
   - Mozzart    ukupno zapisa:  362   spojeno (u grupama >1):  322
-  - OktagonBet ukupno zapisa:  547   spojeno (u grupama >1):  437
+  - OktagonBet ukupno zapisa:  547   spojeno (u grupama >1):  435
   - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  335
-  - Topbet     ukupno zapisa:  651   spojeno (u grupama >1):  598
+  - Topbet     ukupno zapisa:  652   spojeno (u grupama >1):  599
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 6
-  - 0-2 / 3+: 1
-  - Barem jedna arbitraža: 7
+  - 1-X-2: 8
+  - 0-2 / 3+: 2
+  - Barem jedna arbitraža: 9
