@@ -27,7 +27,7 @@ Botosani  vs  Hermannstadt
 - BetOle     1=2.07  |  X=3.15  |  2=3.5  |  0-2=1.65  |  3+=2.12
 - Brazil_d   1=2.07  |  X=3.1  |  2=3.5  |  0-2=1.65  |  2+=1.35  |  3+=2.12
 - MaxBet     1=2.20  |  X=3.45  |  2=3.85
-- Merkur     1=1.93  |  X=3.4  |  2=3.9  |  0-2=1.67  |  3+=2.17  |  GG=1.97  |  IGG=5.35  |  GG&3+=2.6
+- Merkur     1=2.03  |  X=3.35  |  2=3.6  |  0-2=1.67  |  3+=2.18  |  GG=1.95  |  IGG=5.35  |  GG&3+=2.63
 - Mozzart    1=2  |  X=3.4  |  2=3.9  |  0-2=1.62  |  2+=1.38  |  3+=2.15
 - OktagonBet 1=2.07  |  X=3.15  |  2=3.5  |  0-2=1.64  |  3+=2.12  |  GG=1.93  |  GG&3+=2.6  |  4+=4
 - Soccer     1=1.98  |  X=3.3  |  2=3.95  |  0-2=1.63  |  2+=1.38  |  3+=2.15  |  GG=1.93  |  IGG=5.2  |  GG&3+=2.55
@@ -37,10 +37,10 @@ Najveća 1  : 2.20  [MaxBet]
 Najveća X  : 3.45  [MaxBet]
 Najveća 2  : 3.95  [Soccer]
 Najveća 0-2: 1.67  [Merkur]
-Najveća 3+ : 2.17  [Merkur]
+Najveća 3+ : 2.18  [Merkur]
 
 Arbitraža (1-X-2): DA   inv_sum=0.9976   profit≈0.24%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0596   profit≈-5.96%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0575   profit≈-5.75%
 
 18:00   27.10.   [Turkey, Super Lig]
 Samsunspor  vs  Rizespor
@@ -102,24 +102,6 @@ Najveća 3+ : 1.63  [Merkur]
 Arbitraža (1-X-2): DA   inv_sum=0.9921   profit≈0.79%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0390   profit≈-3.90%
 
-01:45   28.10.   [Kolumbija 1]
-Dep. Pasto  vs  Dep.Pereira
-
-- BalkanBet  1=1.15  |  X=6  |  2=13.35  |  0-2=3.4  |  2+=1.07  |  3+=1.27  |  GG=1.8  |  IGG=3.85  |  GG&3+=2.05  |  GG&4+=2.3  |  4+=1.7
-- Merkur     1=1.05  |  X=11  |  2=28  |  0-2=3.7  |  3+=1.22  |  GG=2.52  |  IGG=5.25  |  GG&3+=2.75
-- OktagonBet 1=1.07  |  X=9.15  |  2=20.5  |  0-2=3.55  |  3+=1.24  |  GG=2.28  |  GG&3+=2.45  |  4+=1.68
-- Soccer     1=1.1  |  X=8.1  |  2=17.3  |  0-2=3.4  |  2+=1.05  |  3+=1.27  |  GG=2.18  |  IGG=4.9  |  GG&3+=2.3
-- Topbet     1=1.12  |  X=8.25  |  2=15.2
-
-Najveća 1  : 1.15  [BalkanBet]
-Najveća X  : 11.00  [Merkur]
-Najveća 2  : 28.00  [Merkur]
-Najveća 0-2: 3.70  [Merkur]
-Najveća 3+ : 1.27  [BalkanBet, Soccer]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9962   profit≈0.38%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0577   profit≈-5.77%
-
 18:30   29.10.   [Italija 1]
 Roma  vs  Parma
 
@@ -140,35 +122,15 @@ Najveća 3+ : 2.10  [Brazil_p, Merkur]
 Arbitraža (1-X-2): DA   inv_sum=0.9924   profit≈0.76%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0167   profit≈-1.67%
 
-19:00   29.10.   [Francuska 1]
-Nice  vs  Lille
-
-- BalkanBet  1=2.55  |  X=3.5  |  2=2.75  |  0-2=2.06  |  2+=1.28  |  3+=1.8  |  GG=1.7  |  IGG=4.35  |  GG&3+=2.1  |  GG&4+=3.4  |  4+=3.05
-- Brazil_p   1=2.75  |  X=3.1  |  2=2.75  |  0-2=2.05  |  2+=1.25  |  3+=1.77
-- Merkur     1=2.62  |  X=3.45  |  2=2.63  |  0-2=2.07  |  3+=1.75  |  GG=1.57  |  IGG=4.3  |  GG&3+=2
-- Mozzart    1=2.55  |  X=3.5  |  2=2.85  |  0-2=2.08  |  2+=1.25  |  3+=1.75
-- OktagonBet 1=2.75  |  X=3.15  |  2=2.75  |  0-2=2.07  |  3+=1.77  |  GG=1.64  |  GG&3+=2.08  |  4+=3
-- Soccer     1=2.48  |  X=3.5  |  2=2.65  |  0-2=1.97  |  2+=1.23  |  3+=1.75  |  GG=1.62  |  IGG=4.0  |  GG&3+=1.97
-- Topbet     1=2.5  |  X=3.65  |  2=2.65
-
-Najveća 1  : 2.75  [Brazil_p, OktagonBet]
-Najveća X  : 3.65  [Topbet]
-Najveća 2  : 2.85  [Mozzart]
-Najveća 0-2: 2.08  [Mozzart]
-Najveća 3+ : 1.80  [BalkanBet]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9885   profit≈1.15%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0363   profit≈-3.63%
-
 20:45   03.11.
 Lazio  vs  Cagliari
 
 - OktagonBet 1=1.66  |  X=3.65  |  2=5.7  |  0-2=1.91  |  3+=1.9  |  GG=1.98  |  GG&3+=2.5  |  4+=3.35
-- Soccer     1=1.57  |  X=3.9  |  2=5.95  |  0-2=1.8  |  2+=1.29  |  3+=1.88  |  GG=1.93  |  IGG=5.0  |  GG&3+=2.37
+- Soccer     1=1.57  |  X=4.0  |  2=5.7  |  0-2=1.82  |  2+=1.28  |  3+=1.88  |  GG=1.95  |  IGG=4.95  |  GG&3+=2.4
 - Topbet     1=1.55  |  X=4  |  2=6.9
 
 Najveća 1  : 1.66  [OktagonBet]
-Najveća X  : 4.00  [Topbet]
+Najveća X  : 4.00  [Soccer, Topbet]
 Najveća 2  : 6.90  [Topbet]
 Najveća 0-2: 1.91  [OktagonBet]
 Najveća 3+ : 1.90  [OktagonBet]
@@ -180,28 +142,28 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0499   profit≈-4.99%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1188
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 499
-Grupa sa veličinom ≥3: 379
+Ukupno mečeva (grupa): 1187
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 505
+Grupa sa veličinom ≥3: 378
 Grupa sa veličinom ≥4: 314
-Grupa sa veličinom ≥5: 250
-Grupa sa veličinom ≥6: 162
+Grupa sa veličinom ≥5: 249
+Grupa sa veličinom ≥6: 158
 Grupa sa veličinom ≥7: 91
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  302   spojeno (u grupama >1):  277
+  - BalkanBet  ukupno zapisa:  303   spojeno (u grupama >1):  278
   - BetOle     ukupno zapisa:   85   spojeno (u grupama >1):   85
   - Brazil_d   ukupno zapisa:   97   spojeno (u grupama >1):   96
   - Brazil_p   ukupno zapisa:   75   spojeno (u grupama >1):   73
   - Brazil_s   ukupno zapisa:   84   spojeno (u grupama >1):   84
   - MaxBet     ukupno zapisa:   99   spojeno (u grupama >1):   97
   - Merkur     ukupno zapisa:  105   spojeno (u grupama >1):  104
-  - Mozzart    ukupno zapisa:  362   spojeno (u grupama >1):  306
-  - OktagonBet ukupno zapisa: 1045   spojeno (u grupama >1):  462
+  - Mozzart    ukupno zapisa:  360   spojeno (u grupama >1):  306
+  - OktagonBet ukupno zapisa: 1045   spojeno (u grupama >1):  467
   - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  348
   - Topbet     ukupno zapisa:  381   spojeno (u grupama >1):  364
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 9
+  - 1-X-2: 7
   - 0-2 / 3+: 0
-  - Barem jedna arbitraža: 9
+  - Barem jedna arbitraža: 7
