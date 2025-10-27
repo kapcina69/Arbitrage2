@@ -54,7 +54,7 @@ Nordsjalland  vs  Odense
 
 - BalkanBet  1=1.85  |  X=4  |  2=3.8  |  0-2=2.47  |  2+=1.18  |  3+=1.55  |  GG=1.55  |  IGG=3.95  |  GG&3+=1.8  |  GG&4+=2.7  |  4+=2.4
 - Mozzart    1=1.75  |  X=3.7  |  2=4.7  |  0-2=2.41  |  2+=1.17  |  3+=1.5
-- Topbet     1=1.72  |  X=4.25  |  2=4.3
+- Topbet     1=1.75  |  X=4.25  |  2=4.25
 
 Najveća 1  : 1.85  [BalkanBet]
 Najveća X  : 4.25  [Topbet]
@@ -116,16 +116,16 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0500   profit≈-5.00%
 ======================================================================================
 Ukupno mečeva (grupa): 1061
 Mečeva spojenih sa ≥2 kladionice (grupa size>1): 723
-Grupa sa veličinom ≥3: 466
+Grupa sa veličinom ≥3: 470
 Grupa sa veličinom ≥4: 315
 Grupa sa veličinom ≥5: 87
 Grupa sa veličinom ≥6: 5
-Grupa sa veličinom ≥7: 5
+Grupa sa veličinom ≥7: 3
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  735   spojeno (u grupama >1):  616
+  - BalkanBet  ukupno zapisa:  739   spojeno (u grupama >1):  620
   - BetOle     ukupno zapisa:    4   spojeno (u grupama >1):    4
-  - Brazil_d   ukupno zapisa:    5   spojeno (u grupama >1):    4
+  - Brazil_d   ukupno zapisa:    1   spojeno (u grupama >1):    0
   - MaxBet     ukupno zapisa:    5   spojeno (u grupama >1):    5
   - Mozzart    ukupno zapisa:  367   spojeno (u grupama >1):  324
   - OktagonBet ukupno zapisa:  547   spojeno (u grupama >1):  436
