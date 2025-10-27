@@ -1,7 +1,7 @@
-=== [Mon Oct 27 18:07:44 CET 2025] Starting run_all.py ===
+=== [Mon Oct 27 18:18:28 CET 2025] Starting run_all.py ===
 
 ============================================================
-NOVI CIKLUS: 2025-10-27 18:07:44
+NOVI CIKLUS: 2025-10-27 18:18:28
 ============================================================
 
 [*] Pokrećem 11 skripti sa pauzom 30s između STARTOVA...
@@ -34,34 +34,58 @@ NOVI CIKLUS: 2025-10-27 18:07:44
  - TXT: /home/runner/work/Arbitrage2/Arbitrage2/soccer/soccer_mecevi_pregled.txt
 
 [OK] soccer.py završen uspešno.
-[OK] Fajl soccer/soccer_sledeci_mecevi.txt je stabilan (34595 bytes).
-[OK] Fajl soccer/soccer_mecevi_pregled.txt je stabilan (77467 bytes).
+[OK] Fajl soccer/soccer_sledeci_mecevi.txt je stabilan (34606 bytes).
+[OK] Fajl soccer/soccer_mecevi_pregled.txt je stabilan (77461 bytes).
 [TIME] merkur.py trajanje: 04:34.01
 [STDOUT:merkur.py]
 [OK] Sačuvano:
  - RAW: /home/runner/work/Arbitrage2/Arbitrage2/merkur/merkur_sledeci_mecevi.txt
  - CSV: /home/runner/work/Arbitrage2/Arbitrage2/merkur/merkur_mecevi_format.csv
  - TXT: /home/runner/work/Arbitrage2/Arbitrage2/merkur/merkur_mecevi_pregled.txt
-[TIME] merkur_text_20scrolls_parse.py trajanje: 01:38.32
+[TIME] merkur_text_20scrolls_parse.py trajanje: 01:38.23
 
 [OK] merkur.py završen uspešno.
 [!] Fajl merkur/merkur_sledeci_mecevi.txt je premali (0 < 100). Preskačem.
 [!] Fajl merkur/merkur_mecevi_pregled.txt je premali (50 < 100). Preskačem.
-[TIME] mozzart.py trajanje: 06:04.05
-[STDOUT:mozzart.py]
-[OK] Sačuvano: /home/runner/work/Arbitrage2/Arbitrage2/mozzart/mozzart_mecevi_pregled.txt
+[TIME] mozzart.py trajanje: 06:04.04
+[STDERR:mozzart.py]
+Traceback (most recent call last):
+  File "/home/runner/work/Arbitrage2/Arbitrage2/mozzart.py", line 346, in <module>
+    run(headless=True)
+  File "/home/runner/work/Arbitrage2/Arbitrage2/mozzart.py", line 337, in run
+    capture_text_and_close(headless=headless)
+  File "/home/runner/work/Arbitrage2/Arbitrage2/mozzart.py", line 152, in capture_text_and_close
+    page.goto(URL, wait_until="domcontentloaded", timeout=60000)
+  File "/opt/hostedtoolcache/Python/3.11.13/x64/lib/python3.11/site-packages/playwright/sync_api/_generated.py", line 9019, in goto
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.11.13/x64/lib/python3.11/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.13/x64/lib/python3.11/site-packages/playwright/_impl/_page.py", line 556, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.13/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py", line 153, in goto
+    await self._channel.send(
+  File "/opt/hostedtoolcache/Python/3.11.13/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.13/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py", line 558, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.mozzartbet.com/sr/kladjenje/sport/1?date=all_days", waiting until "domcontentloaded"
 
-[OK] mozzart.py završen uspešno.
+[!] mozzart.py exit code: 1
 [OK] Fajl mozzart/mozzart_sledeci_mecevi.txt je stabilan (39327 bytes).
 [OK] Fajl mozzart/mozzart_mecevi_pregled.txt je stabilan (68901 bytes).
-[TIME] betole.py trajanje: 05:38.05
+[TIME] betole.py trajanje: 05:38.04
 [STDOUT:betole.py]
 [OK] Tekst sačuvan u: /home/runner/work/Arbitrage2/Arbitrage2/betole/betole_sledeci_mecevi.txt
 [OK] Formatirano: /home/runner/work/Arbitrage2/Arbitrage2/betole/betole_mecevi_pregled.txt  (ukupno mečeva: 32)
 
 [OK] betole.py završen uspešno.
-[OK] Fajl betole/betole_sledeci_mecevi.txt je stabilan (6636 bytes).
-[OK] Fajl betole/betole_mecevi_pregled.txt je stabilan (7422 bytes).
+[OK] Fajl betole/betole_sledeci_mecevi.txt je stabilan (5587 bytes).
+[OK] Fajl betole/betole_mecevi_pregled.txt je stabilan (7185 bytes).
 [TIME] balkanbet.py trajanje: 05:12.05
 [STDOUT:balkanbet.py]
 [i] Down koraka (wheel): 120
@@ -70,15 +94,15 @@ NOVI CIKLUS: 2025-10-27 18:07:44
 
 [OK] balkanbet.py završen uspešno.
 [OK] Fajl balkanbet/balkanbet_sledeci_mecevi.txt je stabilan (79647 bytes).
-[OK] Fajl balkanbet/balkanbet_mecevi_pregled.txt je stabilan (175993 bytes).
+[OK] Fajl balkanbet/balkanbet_mecevi_pregled.txt je stabilan (176001 bytes).
 [TIME] brazil.py trajanje: 04:46.05
 [STDOUT:brazil.py]
 [OK] RAW snimljen: /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_sledeci_mecevi.txt
-[OK] Pretty: /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_mecevi_pregled.txt (mečeva: 32)
+[OK] Pretty: /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_mecevi_pregled.txt (mečeva: 24)
 
 [OK] brazil.py završen uspešno.
-[OK] Fajl brazil/brazil_sledeci_mecevi.txt je stabilan (4316 bytes).
-[OK] Fajl brazil/brazil_mecevi_pregled.txt je stabilan (6957 bytes).
+[OK] Fajl brazil/brazil_sledeci_mecevi.txt je stabilan (2677 bytes).
+[OK] Fajl brazil/brazil_mecevi_pregled.txt je stabilan (4761 bytes).
 [TIME] brazil_sutra.py trajanje: 04:20.05
 [STDOUT:brazil_sutra.py]
 [OK] RAW (SUTRA) snimljen: /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_sutra_sledeci_mecevi.txt
@@ -86,7 +110,7 @@ NOVI CIKLUS: 2025-10-27 18:07:44
 
 [OK] brazil_sutra.py završen uspešno.
 [OK] Fajl brazil/brazil_sutra_sledeci_mecevi.txt je stabilan (7021 bytes).
-[OK] Fajl brazil/brazil_sutra_mecevi_pregled.txt je stabilan (16181 bytes).
+[OK] Fajl brazil/brazil_sutra_mecevi_pregled.txt je stabilan (16183 bytes).
 [TIME] brazil_prekosutra.py trajanje: 03:54.05
 [STDOUT:brazil_prekosutra.py]
 [OK] RAW (PREKOSUTRA) snimljen: /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_prekosutra_sledeci_mecevi.txt
@@ -111,21 +135,21 @@ NOVI CIKLUS: 2025-10-27 18:07:44
 [scroll] step 11/30  advanced=False
 [OK] RAW sačuvan: /home/runner/work/Arbitrage2/Arbitrage2/topbet/topbet_sledeci_mecevi.txt
 [OK] Pretty sačuvan: /home/runner/work/Arbitrage2/Arbitrage2/topbet/topbet_mecevi_pregled.txt
-[OK] Isparsiranih mečeva: 0
+[OK] Isparsiranih mečeva: 657
 
 [OK] topbet.py završen uspešno.
-[OK] Fajl topbet/topbet_sledeci_mecevi.txt je stabilan (571 bytes).
-[!] Fajl topbet/topbet_mecevi_pregled.txt je premali (0 < 100). Preskačem.
-[TIME] oktagon.py trajanje: 04:00.07
+[OK] Fajl topbet/topbet_sledeci_mecevi.txt je stabilan (41543 bytes).
+[OK] Fajl topbet/topbet_mecevi_pregled.txt je stabilan (136372 bytes).
+[TIME] oktagon.py trajanje: 03:02.05
 [STDOUT:oktagon.py]
 [!] Dugme '500' nije nađeno – nastavljam bez klika.
-[OK] RAW sačuvan: /home/runner/work/Arbitrage2/Arbitrage2/oktagonbet/oktagonbet_sledeci_mecevi.txt  (dužina: 938)
+[OK] RAW sačuvan: /home/runner/work/Arbitrage2/Arbitrage2/oktagonbet/oktagonbet_sledeci_mecevi.txt  (dužina: 913)
 [OK] Pretty sačuvan: /home/runner/work/Arbitrage2/Arbitrage2/oktagonbet/oktagonbet_mecevi_pregled.txt (mečeva: 0)
 
 [OK] oktagon.py završen uspešno.
-[OK] Fajl oktagonbet/oktagonbet_sledeci_mecevi.txt je stabilan (969 bytes).
+[OK] Fajl oktagonbet/oktagonbet_sledeci_mecevi.txt je stabilan (942 bytes).
 [!] Fajl oktagonbet/oktagonbet_mecevi_pregled.txt je premali (0 < 100). Preskačem.
-[TIME] maxbet.py trajanje: 04:32.09
+[TIME] maxbet.py trajanje: 03:34.06
 [STDOUT:maxbet.py]
 [*] Otvaram https://www.maxbet.rs/sr/sportsko-kladjenje/vremenska-ponuda ...
 [*] Pokušavam klik na sport/tab ikonici ...
@@ -134,38 +158,37 @@ NOVI CIKLUS: 2025-10-27 18:07:44
 [INFO] Klik uspeo? True
 [*] Skrolujem 60 puta ...
 [*] Čitam document.body.innerText ...
-[OK] Sačuvan RAW: maxbet/maxbet_sledeci_mecevi.txt (dužina: 4531 bajtova)
+[OK] Sačuvan RAW: maxbet/maxbet_sledeci_mecevi.txt (dužina: 4532 bajtova)
 [OK] Prepoznato mečeva: 36
 [OK] Sačuvan pregled: maxbet/maxbet_mecevi_pregled.txt
 === PREVIEW ===
 ======================================================================
 18:30  27.10.  [IRAQ 1]
 Al-Qassim  vs  Al Zawraa
-1=5.10   X=3.35   2=1.63
+1=5.70   X=3.45   2=1.55
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 
 [OK] maxbet.py završen uspešno.
-[OK] Fajl maxbet/maxbet_sledeci_mecevi.txt je stabilan (4810 bytes).
+[OK] Fajl maxbet/maxbet_sledeci_mecevi.txt je stabilan (4811 bytes).
 [OK] Fajl maxbet/maxbet_mecevi_pregled.txt je stabilan (9474 bytes).
 
 [*] Pokrećem proba.py...
-[TIME] proba.py trajanje: 00:02.31
+[TIME] proba.py trajanje: 00:02.74
 [OK] proba.py završen uspešno.
 
 [*] Pokrećem procenti.py...
-[TIME] procenti.py trajanje: 00:00.10
+[TIME] procenti.py trajanje: 00:00.11
 [OK] procenti.py završen uspešno.
 
 [*] Provera stabilnosti ALL_MATCHES_AND_ARBS/kvote_arbitraza_FULL.txt pre push-a...
-[OK] Fajl ALL_MATCHES_AND_ARBS/kvote_arbitraza_FULL.txt je stabilan (561835 bytes).
-[git] Commit ok: auto: update kvote_arbitraza_FULL.txt, tiketi.txt @ 2025-10-27 18:17
+[OK] Fajl ALL_MATCHES_AND_ARBS/kvote_arbitraza_FULL.txt je stabilan (611138 bytes).
+[git] Commit ok: auto: update kvote_arbitraza_FULL.txt, tiketi.txt @ 2025-10-27 18:27
 [git] Push uspešan.
 
 [*] Generisanje izveštaja...
-[OK] Sačuvan izveštaj: izvestaji/izvestaj_2025-10-27_18-17.txt
+[OK] Sačuvan izveštaj: izvestaji/izvestaj_2025-10-27_18-27.txt
 
-[OK] Ciklus završen za 09:41.41.
-=== [Mon Oct 27 18:17:26 CET 2025] Finished run_all.py, syncing and pushing... ===
-=== [Mon Oct 27 18:17:28 CET 2025] Sleeping 1 minute before next cycle... ===
+[OK] Ciklus završen za 08:43.73.
+=== [Mon Oct 27 18:27:11 CET 2025] Finished run_all.py, syncing and pushing... ===
