@@ -1,20 +1,20 @@
 20:00   27.10.   [Urugvaj Liga Rezervi]
 Progreso (R)  vs  Danubio (R)
 
-- BalkanBet  1=1.65  |  X=3.65  |  2=4.35  |  0-2=1.88  |  2+=1.28  |  3+=1.82  |  GG=1.8  |  IGG=4.7  |  GG&3+=2.25  |  GG&4+=3.5  |  4+=3.05
-- Brazil_d   1=4.4  |  X=3.45  |  2=1.64  |  0-2=1.88  |  2+=1.2  |  3+=1.74
-- OktagonBet 1=4.4  |  X=3.5  |  2=1.63  |  0-2=1.89  |  3+=1.72  |  GG=1.75  |  GG&3+=2.18  |  4+=2.95
-- Soccer     1=1.7  |  X=3.65  |  2=4.1  |  0-2=1.87  |  2+=1.26  |  3+=1.83  |  GG=1.82  |  IGG=None  |  GG&3+=None
+- BalkanBet  1=1.65  |  X=3.65  |  2=4.35  |  0-2=1.97  |  2+=1.25  |  3+=1.75  |  GG=1.75  |  IGG=4.65  |  GG&3+=2.2  |  GG&4+=3.35  |  4+=2.9
+- Brazil_d   1=4.8  |  X=3.5  |  2=1.58  |  0-2=1.85  |  2+=1.22  |  3+=1.77
+- OktagonBet 1=4.8  |  X=3.55  |  2=1.57  |  0-2=1.84  |  3+=1.76  |  GG=1.84  |  GG&3+=2.32  |  4+=3.05
+- Soccer     1=1.7  |  X=3.65  |  2=4.1  |  0-2=1.97  |  2+=1.23  |  3+=1.75  |  GG=1.73  |  IGG=None  |  GG&3+=None
 - Topbet     1=1.68  |  X=3.8  |  2=4.2
 
-Najveća 1  : 4.40  [Brazil_d, OktagonBet]
+Najveća 1  : 4.80  [Brazil_d, OktagonBet]
 Najveća X  : 3.80  [Topbet]
 Najveća 2  : 4.35  [BalkanBet]
-Najveća 0-2: 1.89  [OktagonBet]
-Najveća 3+ : 1.83  [Soccer]
+Najveća 0-2: 1.97  [BalkanBet, Soccer]
+Najveća 3+ : 1.77  [Brazil_d]
 
-Arbitraža (1-X-2): DA   inv_sum=0.7203   profit≈27.97%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0755   profit≈-7.55%
+Arbitraža (1-X-2): DA   inv_sum=0.7014   profit≈29.86%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0726   profit≈-7.26%
 
 18:30   29.10.   [Italija 1]
 Roma  vs  Parma
@@ -61,10 +61,10 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0319   profit≈-3.19%
                                        SAŽETAK                                        
 ======================================================================================
 Ukupno mečeva (grupa): 1157
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 447
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 446
 Grupa sa veličinom ≥3: 350
 Grupa sa veličinom ≥4: 284
-Grupa sa veličinom ≥5: 207
+Grupa sa veličinom ≥5: 208
 Grupa sa veličinom ≥6: 150
 Grupa sa veličinom ≥7: 81
 
@@ -72,11 +72,11 @@ Po kladionici:
   - BalkanBet  ukupno zapisa:  294   spojeno (u grupama >1):  271
   - BetOle     ukupno zapisa:   23   spojeno (u grupama >1):   23
   - Brazil_d   ukupno zapisa:   98   spojeno (u grupama >1):   97
-  - Brazil_p   ukupno zapisa:   76   spojeno (u grupama >1):   74
+  - Brazil_p   ukupno zapisa:   75   spojeno (u grupama >1):   73
   - Brazil_s   ukupno zapisa:   84   spojeno (u grupama >1):   84
   - MaxBet     ukupno zapisa:   58   spojeno (u grupama >1):   57
-  - Merkur     ukupno zapisa:  107   spojeno (u grupama >1):  106
-  - Mozzart    ukupno zapisa:  263   spojeno (u grupama >1):  230
+  - Merkur     ukupno zapisa:  107   spojeno (u grupama >1):  105
+  - Mozzart    ukupno zapisa:  264   spojeno (u grupama >1):  231
   - OktagonBet ukupno zapisa: 1045   spojeno (u grupama >1):  415
   - Soccer     ukupno zapisa:  325   spojeno (u grupama >1):  324
   - Topbet     ukupno zapisa:  346   spojeno (u grupama >1):  328
