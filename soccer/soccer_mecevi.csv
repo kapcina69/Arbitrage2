@@ -10,7 +10,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 13:00;Uto;28.10.;ETI1;Shire Endaselassie;Welwalo Adigrat;;2.47;2.8;2.9;1.45;1.55;2.6;2.12;;
 13:00;Uto;28.10.;KEN1;Sofapaka;Mara Sugar;;2.37;2.85;3.0;1.5;1.45;2.37;2.0;;
 13:30;Uto;28.10.;SRBK;Javor;Zeleznicar Pancevo;500;3.0;3.3;2.22;1.85;1.27;1.85;1.7;4.3;2.05
-13:35;Uto;28.10.;SAR2;Abha;Al Arabi Al Saudi;501;1.95;3.45;3.55;2.05;1.21;1.7;1.6;3.95;1.9
+13:35;Uto;28.10.;SAR2;Abha;Al Arabi Al Saudi;501;1.93;3.5;3.5;2.08;1.2;1.65;1.6;3.85;1.87
 14:00;Uto;28.10.;AFCCL;Bashundhara Kings;Al Ansar;500;2.85;3.3;2.32;1.9;1.26;1.8;1.65;4.2;2.0
 14:00;Uto;28.10.;ALB1;Bylis;Vora;500;2.0;3.2;3.4;1.58;1.4;2.23;2.0;5.35;2.6
 14:00;Uto;28.10.;ČEŠ2;Slavia Prague B;Usti nad Labem;502;2.55;3.7;2.37;2.25;1.17;1.57;1.5;3.55;1.75
@@ -64,7 +64,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 19:00;Uto;28.10.;ŠPAK;Ourense CF;Oviedo;509;4.9;3.6;1.65;1.75;1.32;1.98;1.95;5.1;2.4
 19:00;Uto;28.10.;ŠPAK;Constancia;Girona;489;31.0;9.3;1.05;3.1;1.07;1.32;3.6;8.5;3.7
 19:00;Uto;28.10.;GRČK;Kifisias;Kallithea;501;1.55;3.6;6.0;1.78;1.3;1.92;1.95;5.1;2.33
-19:00;Uto;28.10.;LNW;Sweden Wom.;Spain Wom.;500;6.1;4.45;1.45;2.32;1.15;1.53;1.7;4.0;1.93
+19:00;Uto;28.10.;LNW;Sweden Wom.;Spain Wom.;500;6.75;4.4;1.4;2.33;1.15;1.53;1.7;4.05;1.93
 19:00;Uto;28.10.;LNW;Iceland Wom.;Northern Ireland Wom.;491;1.07;8.8;29.5;2.85;1.09;1.37;3.25;7.8;3.4
 19:00;Uto;28.10.;SARKK;Al-Nassr Riyadh;Al Ittihad Jeddah;504;1.52;4.7;5.2;3.05;1.07;1.35;1.45;3.15;1.6
 19:30;Uto;28.10.;ŠPAK;Langreo;Ferrol;508;4.45;3.5;1.75;1.62;1.38;2.15;2.05;5.45;2.6
@@ -163,10 +163,10 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 22:00;Uto;28.10.;KOL1;Aguilas;Envigado;528;1.67;3.5;4.95;1.63;1.38;2.13;2.08;5.55;2.6
 23:00;Uto;28.10.;BOLLK;Aurora;Guabira;501;1.95;3.85;3.2;2.35;1.15;1.52;1.5;3.45;1.73
 23:45;Uto;28.10.;MLS;Charlotte;New York City;2765;2.7;3.5;2.47;1.98;1.23;1.73;1.6;3.95;1.98
-00:10;Sre;29.10.;KOL1;Dep. Cali;Alianza;528;1.93;3.15;4.0;1.67;1.35;2.07;1.85;5.0;2.32
+00:10;Sre;29.10.;KOL1;Dep. Cali;Alianza;529;1.92;3.25;3.9;1.7;1.34;2.0;1.85;4.9;2.3
 01:00;Sre;29.10.;BOLLK;Blooming;Always Ready;501;2.15;3.85;2.75;2.35;1.15;1.52;1.5;3.4;1.7
 01:30;Sre;29.10.;SUDAM;Atletico-MG;Ind. del Valle;3241;1.63;3.5;6.05;1.72;1.35;2.1;2.0;5.4;2.55
-03:00;Sre;29.10.;KUPCA;Motagua;Cartagines;490;1.93;3.05;3.8;1.53;1.45;2.35;2.07;5.75;2.7
+03:00;Sre;29.10.;KUPCA;Motagua;Cartagines;501;1.93;3.05;3.8;1.53;1.45;2.35;2.07;5.75;2.7
 11:00;Sre;29.10.;BUGK;Minyor Pernik;Cherno More;498;15.2;4.95;1.22;1.95;1.24;1.75;2.43;6.4;2.75
 12:30;Sre;29.10.;BUGK;Marek;Montana;500;4.65;3.3;1.77;1.5;1.47;2.4;2.25;6.15;2.9
 12:30;Sre;29.10.;BUGK;Sevlievo;CSKA Sofia;493;25.5;8.0;1.09;2.6;1.11;1.45;3.15;7.6;3.3
