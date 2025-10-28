@@ -1,6 +1,6 @@
 TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 01:00;Uto;28.10.;BOLLK;Bolivar;Tomayapo;;1.08;8.8;19.3;4.65;;;;;
-01:30;Uto;28.10.;BRA2;Athletico-PR;Amazonas;665;1.37;4.1;9.0;1.75;1.31;1.95;2.25;6.0;2.7
+01:30;Uto;28.10.;BRA2;Athletico-PR;Amazonas;665;1.38;4.2;8.3;1.75;1.31;1.95;2.3;6.0;2.75
 01:45;Uto;28.10.;KOL1;Dep. Pasto;Pereira;;1.12;8.0;15.1;4.05;1.02;1.2;1.82;;
 02:00;Uto;28.10.;KRK2;AD Municipal Santa Ana;Consultants Desamparados;;1.85;3.35;3.7;1.97;1.23;1.75;1.65;;
 02:00;Uto;28.10.;MLS;Minnesota United;Seattle Sounders;3045;3.1;3.5;2.2;1.97;1.25;1.83;1.65;4.15;2.05
@@ -21,7 +21,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 14:00;Uto;28.10.;ALB1;Bylis;Vora;489;1.95;3.2;3.5;1.58;1.4;2.23;2.02;5.4;2.6
 14:00;Uto;28.10.;ČEŠ2;Slavia Prague B;Usti nad Labem;501;2.27;3.6;2.7;2.22;1.17;1.58;1.5;3.55;1.75
 14:00;Uto;28.10.;ČEŠK;Karvina;Slovacko;503;1.95;3.45;3.5;1.92;1.25;1.78;1.68;4.2;2.02
-14:00;Uto;28.10.;ENGRL;Bristol City U21;Brentford U21;502;3.85;4.3;1.62;3.15;1.06;1.31;1.38;2.95;1.5
+14:00;Uto;28.10.;ENGRL;Bristol City U21;Brentford U21;502;4.0;4.3;1.6;3.2;1.06;1.3;1.37;2.9;1.5
 14:00;Uto;28.10.;ENGRL;Huddersfield U21;Peterborough U21;503;2.9;4.05;1.93;3.4;1.05;1.27;1.29;2.7;1.4
 14:00;Uto;28.10.;ENGRL;Wigan U21;Hull U21;503;2.85;3.95;1.98;3.15;1.06;1.3;1.32;2.8;1.45
 14:00;Uto;28.10.;ETI1;Bahir Dar Kenema;Ethiopia Bunna;;2.15;2.75;3.6;1.43;1.55;2.6;2.13;;
@@ -42,7 +42,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 16:00;Uto;28.10.;POR23;Leixoes U23;Vizela U23;501;2.07;3.4;3.25;1.85;1.27;1.85;1.7;4.3;2.07
 16:00;Uto;28.10.;POR23;Rio Ave U23;Braga U23;500;2.6;3.55;2.37;2.05;1.21;1.7;1.6;3.85;1.9
 16:10;Uto;28.10.;SARKK;Al Akhdoud;Al Hilal;499;11.3;6.2;1.2;3.2;1.06;1.3;1.72;3.8;1.83
-17:00;Uto;28.10.;AFCCL;Al Kuwait;Al Seeb;490;1.9;3.7;3.4;2.35;1.15;1.52;1.5;3.5;1.72
+17:00;Uto;28.10.;AFCCL;Al Kuwait;Al Seeb;501;1.9;3.75;3.4;2.3;1.15;1.55;1.5;3.55;1.75
 17:00;Uto;28.10.;ALB1;Egnatia;Teuta;488;1.75;3.25;4.3;1.5;1.45;2.37;2.22;6.05;2.9
 17:00;Uto;28.10.;ČEŠ1;Sparta Prague;Bohemians;2704;1.34;5.25;8.0;2.45;1.13;1.48;1.75;4.05;1.97
 17:00;Uto;28.10.;ČEŠK;Jablonec;Dukla Prague;502;1.5;4.0;5.9;1.82;1.28;1.88;2.02;5.15;2.43
@@ -58,11 +58,11 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 18:00;Uto;28.10.;POLK;Pruszkow;Korona Kielce;503;3.65;3.65;1.85;2.05;1.21;1.68;1.63;3.95;1.92
 18:00;Uto;28.10.;POLK;Zawisza;Wikielec;504;1.37;4.7;6.85;2.65;1.1;1.4;1.6;3.65;1.78
 18:30;Uto;28.10.;SRBK;Macva;Partizan;498;8.8;5.15;1.28;2.2;1.17;1.6;2.03;4.9;2.3
-18:30;Uto;28.10.;NEMK;Eintracht Frankfurt;Dortmund;547;2.8;3.8;2.25;2.35;1.15;1.52;1.47;3.4;1.73
-18:30;Uto;28.10.;NEMK;Heidenheim;Hamburger SV;547;2.55;3.55;2.55;2.2;1.18;1.6;1.52;3.6;1.8
-18:30;Uto;28.10.;NEMK;Hertha Berlin;Elversberg;535;2.55;3.55;2.55;2.2;1.18;1.6;1.52;3.6;1.8
-18:30;Uto;28.10.;NEMK;Wolfsburg;Holstein Kiel;530;1.55;4.2;5.6;2.0;1.23;1.73;1.8;4.45;2.17
-18:30;Uto;28.10.;ITA1;Lecce;Napoli;2986;6.3;4.0;1.53;1.7;1.34;2.0;2.12;5.55;2.65
+18:30;Uto;28.10.;NEMK;Eintracht Frankfurt;Dortmund;547;2.8;3.85;2.25;2.48;1.14;1.55;1.47;3.35;1.73
+18:30;Uto;28.10.;NEMK;Heidenheim;Hamburger SV;547;2.55;3.55;2.6;2.18;1.19;1.68;1.55;3.75;1.87
+18:30;Uto;28.10.;NEMK;Hertha Berlin;Elversberg;535;2.55;3.55;2.6;2.18;1.19;1.68;1.55;3.75;1.87
+18:30;Uto;28.10.;NEMK;Wolfsburg;Holstein Kiel;531;1.55;4.2;5.5;2.03;1.23;1.78;1.85;4.55;2.25
+18:30;Uto;28.10.;ITA1;Lecce;Napoli;2989;6.4;4.05;1.57;1.75;1.38;2.1;2.2;6.0;2.85
 18:45;Uto;28.10.;HOLK;Den Bosch;Den Haag;504;4.8;4.4;1.55;2.85;1.09;1.37;1.45;3.25;1.62
 18:45;Uto;28.10.;HOLK;Gemert;Sittard;498;16.7;6.45;1.15;2.65;1.1;1.4;2.1;5.0;2.25
 18:45;Uto;28.10.;MLT1;Valletta;Gzira;501;1.73;3.6;4.35;1.75;1.31;1.95;1.9;4.9;2.35
@@ -72,7 +72,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 19:00;Uto;28.10.;GRČK;Kifisias;Kallithea;501;1.55;3.6;6.0;1.78;1.3;1.92;1.95;5.1;2.33
 19:00;Uto;28.10.;LNW;Sweden Wom.;Spain Wom.;500;6.75;4.4;1.4;2.33;1.15;1.53;1.7;4.05;1.93
 19:00;Uto;28.10.;LNW;Iceland Wom.;Northern Ireland Wom.;491;1.07;8.8;29.5;2.85;1.09;1.37;3.25;7.8;3.4
-19:00;Uto;28.10.;SARKK;Al-Nassr Riyadh;Al Ittihad Jeddah;504;1.5;4.5;5.0;3.1;1.07;1.32;1.42;3.1;1.55
+19:00;Uto;28.10.;SARKK;Al-Nassr Riyadh;Al Ittihad Jeddah;504;1.52;4.7;5.2;3.05;1.07;1.35;1.45;3.15;1.6
 19:30;Uto;28.10.;ŠPAK;Langreo;Ferrol;500;4.45;3.5;1.75;1.62;1.38;2.15;2.05;5.45;2.6
 19:30;Uto;28.10.;ŠPAK;SD Logrones;Racing Santander;510;3.85;3.45;1.87;1.8;1.29;1.9;1.8;4.6;2.18
 19:30;Uto;28.10.;ŠPAK;UCAM Murcia;Cadiz;508;3.45;3.3;2.05;1.62;1.38;2.15;1.95;5.15;2.47
@@ -134,11 +134,11 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 20:30;Uto;28.10.;POLK;Odra Opole;Piast Gliwice;504;3.65;3.5;1.9;1.77;1.3;1.93;1.82;4.65;2.23
 20:45;Uto;28.10.;ELK;Grimsby;Brentford;3389;7.3;5.15;1.37;2.33;1.15;1.53;1.78;4.2;2.05
 20:45;Uto;28.10.;ELK;Wycombe;Fulham;3472;6.1;4.25;1.5;1.88;1.26;1.82;1.95;4.9;2.38
-20:45;Uto;28.10.;NEMK;Augsburg;Bochum;533;1.55;4.45;5.15;2.25;1.17;1.57;1.67;3.95;1.95
-20:45;Uto;28.10.;NEMK;B. Monchengladbach;Karlsruher SC;533;1.65;4.0;4.8;2.2;1.17;1.6;1.6;3.85;1.9
-20:45;Uto;28.10.;NEMK;Cottbus;RB Leipzig;532;9.1;6.65;1.25;3.45;1.04;1.26;1.57;3.35;1.7
-20:45;Uto;28.10.;NEMK;St. Pauli;Hoffenheim;531;2.65;3.6;2.45;1.95;1.24;1.77;1.65;4.05;2.02
-20:45;Uto;28.10.;ITA1;Atalanta;Milan;3065;2.6;3.3;2.65;1.87;1.26;1.83;1.65;4.2;2.05
+20:45;Uto;28.10.;NEMK;Augsburg;Bochum;533;1.57;4.2;5.35;2.35;1.16;1.6;1.63;3.9;1.92
+20:45;Uto;28.10.;NEMK;B. Monchengladbach;Karlsruher SC;533;1.68;4.15;4.45;2.3;1.17;1.62;1.63;3.85;1.93
+20:45;Uto;28.10.;NEMK;Cottbus;RB Leipzig;532;8.6;6.2;1.27;3.6;1.05;1.29;1.57;3.35;1.72
+20:45;Uto;28.10.;NEMK;St. Pauli;Hoffenheim;532;2.75;3.4;2.45;1.98;1.24;1.82;1.63;4.1;2.02
+20:45;Uto;28.10.;ITA1;Atalanta;Milan;3069;2.65;3.5;2.65;1.98;1.29;1.83;1.68;4.35;2.1
 20:45;Uto;28.10.;ENG3;Bradford City;Lincoln;530;2.1;3.4;3.2;1.78;1.3;1.92;1.77;4.5;2.18
 20:45;Uto;28.10.;ENG3;Mansfield;Plymouth;530;2.17;3.55;2.9;1.9;1.25;1.8;1.7;4.15;2.05
 20:45;Uto;28.10.;ENG4;Accrington;Tranmere;530;2.32;3.4;2.8;1.78;1.3;1.92;1.75;4.45;2.15
