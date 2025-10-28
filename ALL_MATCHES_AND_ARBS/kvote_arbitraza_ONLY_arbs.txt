@@ -1,29 +1,30 @@
-02:00   28.10.   [SAD 1]
-Minnesota  vs  Seattle
+18:30   28.10.   [Italija 1]
+Lecce  vs  Napoli
 
-- BalkanBet  1=3.2  |  X=3.35  |  2=2.2  |  0-2=1.96  |  2+=1.28  |  3+=1.82  |  GG=1.65  |  IGG=4.25  |  GG&3+=2.05  |  GG&4+=3.4  |  4+=3.05
-- BetOle     1=3.25  |  X=3.4  |  2=2.2  |  0-2=2  |  3+=1.8
-- Brazil_d   -
-- MaxBet     1=3.45  |  X=3.65  |  2=2.30
-- OktagonBet 1=3.1  |  X=3.3  |  2=2.15  |  0-2=1.95  |  3+=1.76  |  GG=1.65  |  GG&3+=2.1  |  4+=3
-- Soccer     1=3.1  |  X=3.5  |  2=2.2  |  0-2=1.97  |  2+=1.25  |  3+=1.83  |  GG=1.65  |  IGG=4.15  |  GG&3+=2.05
-- Topbet     1=3.02  |  X=3.25  |  2=2.2
+- BalkanBet  1=6.5  |  X=4  |  2=1.57  |  0-2=1.77  |  2+=1.37  |  3+=2.1  |  GG=2.2  |  IGG=6  |  GG&3+=2.7  |  GG&4+=4.3  |  4+=3.8
+- BetOle     1=6.1  |  X=3.85  |  2=1.6  |  0-2=1.75  |  3+=2.08
+- Brazil_d   1=6.1  |  X=3.8  |  2=1.61  |  0-2=1.75  |  2+=1.36  |  3+=2.1
+- MaxBet     1=6.20  |  X=3.65  |  2=1.63
+- Mozzart    1=6.75  |  X=3.9  |  2=1.55  |  0-2=1.72  |  2+=1.3  |  3+=2
+- OktagonBet 1=6.1  |  X=3.85  |  2=1.6  |  0-2=1.75  |  3+=2.08  |  GG=2.2  |  GG&3+=2.85  |  4+=3.85
+- Soccer     1=6.25  |  X=4.1  |  2=1.57  |  0-2=1.75  |  2+=1.38  |  3+=2.1  |  GG=2.2  |  IGG=6.0  |  GG&3+=2.85
+- Topbet     1=7.1  |  X=3.85  |  2=1.55
 
-Najveća 1  : 3.45  [MaxBet]
-Najveća X  : 3.65  [MaxBet]
-Najveća 2  : 2.30  [MaxBet]
-Najveća 0-2: 2.00  [BetOle]
-Najveća 3+ : 1.83  [Soccer]
+Najveća 1  : 7.10  [Topbet]
+Najveća X  : 4.10  [Soccer]
+Najveća 2  : 1.63  [MaxBet]
+Najveća 0-2: 1.77  [BalkanBet]
+Najveća 3+ : 2.10  [BalkanBet, Brazil_d, Soccer]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9986   profit≈0.14%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0464   profit≈-4.64%
+Arbitraža (1-X-2): DA   inv_sum=0.9982   profit≈0.18%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0412   profit≈-4.12%
 
 20:30   28.10.   [Švajcarska 1]
 Sion  vs  St. Gallen
 
 - BalkanBet  1=2.2  |  X=3.75  |  2=3  |  0-2=2.13  |  2+=1.24  |  3+=1.72  |  GG=1.65  |  IGG=4.35  |  GG&3+=2.05  |  GG&4+=3.2  |  4+=2.8
 - BetOle     1=2.2  |  X=3.4  |  2=2.93  |  0-2=2.07  |  3+=1.67
-- Brazil_d   -
+- Brazil_d   1=2.2  |  X=3.4  |  2=2.95  |  0-2=2.07  |  2+=1.19  |  3+=1.67
 - MaxBet     1=2.20  |  X=3.45  |  2=3.00
 - OktagonBet 1=2.45  |  X=3.4  |  2=2.6  |  0-2=2.05  |  3+=1.68  |  GG=1.57  |  GG&3+=1.97  |  4+=2.8
 - Soccer     1=2.2  |  X=3.45  |  2=3.15  |  0-2=2.0  |  2+=1.22  |  3+=1.72  |  GG=1.6  |  IGG=3.95  |  GG&3+=1.97
@@ -158,15 +159,15 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0500   profit≈-5.00%
 Ukupno mečeva (grupa): 1073
 Mečeva spojenih sa ≥2 kladionice (grupa size>1): 763
 Grupa sa veličinom ≥3: 512
-Grupa sa veličinom ≥4: 333
+Grupa sa veličinom ≥4: 335
 Grupa sa veličinom ≥5: 188
 Grupa sa veličinom ≥6: 115
-Grupa sa veličinom ≥7: 67
+Grupa sa veličinom ≥7: 69
 
 Po kladionici:
   - BalkanBet  ukupno zapisa:  735   spojeno (u grupama >1):  625
   - BetOle     ukupno zapisa:   88   spojeno (u grupama >1):   88
-  - Brazil_d   ukupno zapisa:   81   spojeno (u grupama >1):   81
+  - Brazil_d   ukupno zapisa:   89   spojeno (u grupama >1):   89
   - Brazil_p   ukupno zapisa:   36   spojeno (u grupama >1):   36
   - Brazil_s   ukupno zapisa:   77   spojeno (u grupama >1):   75
   - MaxBet     ukupno zapisa:  140   spojeno (u grupama >1):  132
