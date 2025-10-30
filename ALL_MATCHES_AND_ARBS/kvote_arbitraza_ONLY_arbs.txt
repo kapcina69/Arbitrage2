@@ -2,22 +2,22 @@
 Samano  vs  La Coruna
 
 - BalkanBet  1=14.1  |  X=5.25  |  2=1.22  |  0-2=2.2  |  2+=1.2  |  3+=1.6  |  GG=2.3  |  IGG=5.5  |  GG&3+=2.8  |  GG&4+=3.2  |  4+=2.5
-- BetOle     1=9.25  |  X=4.5  |  2=1.35  |  0-2=1.9  |  3+=1.82
+- BetOle     1=10.5  |  X=4.75  |  2=1.31  |  0-2=1.97  |  3+=1.77
 - MaxBet     1=9.25  |  X=4.60  |  2=1.31
-- Merkur     1=8.75  |  X=3.45  |  2=1.42  |  0-2=1.87  |  3+=1.83  |  GG=2.18  |  IGG=5.7  |  GG&3+=2.75
+- Merkur     1=9.75  |  X=4  |  2=1.32  |  0-2=2.3  |  3+=1.55  |  GG=1.97  |  IGG=4.85  |  GG&3+=2.32
 - Mozzart    1=9.5  |  X=4.8  |  2=1.3
-- OktagonBet 1=9.3  |  X=4.5  |  2=1.35  |  0-2=1.9  |  3+=1.82  |  GG=2.32  |  GG&3+=2.88  |  4+=3.15
-- Soccer     1=10.0  |  X=4.8  |  2=1.29  |  0-2=1.98  |  2+=1.23  |  3+=1.73  |  GG=2.2  |  IGG=5.6  |  GG&3+=2.55
-- Topbet     1=10.4  |  X=5.25  |  2=1.25
+- OktagonBet 1=10.3  |  X=4.75  |  2=1.31  |  0-2=1.97  |  3+=1.76  |  GG=2.35  |  GG&3+=2.9  |  4+=3
+- Soccer     1=10.1  |  X=4.9  |  2=1.28  |  0-2=1.98  |  2+=1.23  |  3+=1.73  |  GG=2.27  |  IGG=5.75  |  GG&3+=2.6
+- Topbet     1=10  |  X=5.25  |  2=1.25
 
 Najveća 1  : 14.10  [BalkanBet]
 Najveća X  : 5.25  [BalkanBet, Topbet]
-Najveća 2  : 1.42  [Merkur]
-Najveća 0-2: 2.20  [BalkanBet]
-Najveća 3+ : 1.83  [Merkur]
+Najveća 2  : 1.32  [Merkur]
+Najveća 0-2: 2.30  [Merkur]
+Najveća 3+ : 1.77  [BetOle]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9656   profit≈3.44%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0010   profit≈-0.10%
+Arbitraža (1-X-2): NE   inv_sum=1.0190   profit≈-1.90%
+Arbitraža (0-2 / 3+): DA   inv_sum=0.9998   profit≈0.02%
 
 21:00   05.11.   [Liga Šampiona]
 Club Brugge  vs  Barcelona
@@ -39,26 +39,27 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0392   profit≈-3.92%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1483
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 963
+Ukupno mečeva (grupa): 1490
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 975
 Grupa sa veličinom ≥3: 619
-Grupa sa veličinom ≥4: 318
-Grupa sa veličinom ≥5: 76
-Grupa sa veličinom ≥6: 17
-Grupa sa veličinom ≥7: 12
+Grupa sa veličinom ≥4: 321
+Grupa sa veličinom ≥5: 90
+Grupa sa veličinom ≥6: 22
+Grupa sa veličinom ≥7: 11
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  948   spojeno (u grupama >1):  818
+  - BalkanBet  ukupno zapisa:  948   spojeno (u grupama >1):  824
   - BetOle     ukupno zapisa:   15   spojeno (u grupama >1):   15
   - Brazil_d   ukupno zapisa:    8   spojeno (u grupama >1):    7
-  - MaxBet     ukupno zapisa:   21   spojeno (u grupama >1):   21
+  - Brazil_s   ukupno zapisa:   38   spojeno (u grupama >1):   38
+  - MaxBet     ukupno zapisa:   17   spojeno (u grupama >1):   17
   - Merkur     ukupno zapisa:   67   spojeno (u grupama >1):   26
   - Mozzart    ukupno zapisa:  396   spojeno (u grupama >1):  364
-  - OktagonBet ukupno zapisa: 1041   spojeno (u grupama >1):  764
-  - Soccer     ukupno zapisa:  348   spojeno (u grupama >1):  340
+  - OktagonBet ukupno zapisa: 1042   spojeno (u grupama >1):  763
+  - Soccer     ukupno zapisa:  348   spojeno (u grupama >1):  341
   - Topbet     ukupno zapisa:  660   spojeno (u grupama >1):  629
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 2
-  - 0-2 / 3+: 0
+  - 1-X-2: 1
+  - 0-2 / 3+: 1
   - Barem jedna arbitraža: 2
