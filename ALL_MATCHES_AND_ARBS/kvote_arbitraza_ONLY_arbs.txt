@@ -1,38 +1,3 @@
-21:00   31.10.   [Španija 1]
-Getafe  vs  Girona
-
-- BalkanBet  1=2.15  |  X=3.15  |  2=3.85  |  0-2=1.5  |  2+=1.53  |  3+=2.65  |  GG=2.25  |  IGG=6.2  |  GG&3+=3.25  |  GG&4+=5.65  |  4+=5.5
-- Merkur     1=2.15  |  X=3  |  2=4.2  |  0-2=1.48  |  3+=2.7  |  GG=2.25  |  IGG=6.9  |  GG&3+=3.3
-- Mozzart    1=2.25  |  X=3.2  |  2=3.7  |  0-2=1.47  |  2+=1.6  |  3+=2.7
-- OktagonBet 1=2.2  |  X=3  |  2=3.8  |  0-2=1.5  |  3+=2.6  |  GG=2.25  |  GG&3+=3.2  |  4+=5.35
-- Soccer     1=2.2  |  X=3.0  |  2=4.0  |  0-2=1.5  |  2+=1.53  |  3+=2.65  |  GG=2.12  |  IGG=6.65  |  GG&3+=3.05
-- Topbet     1=2.2  |  X=3.05  |  2=3.8
-
-Najveća 1  : 2.25  [Mozzart]
-Najveća X  : 3.20  [Mozzart]
-Najveća 2  : 4.20  [Merkur]
-Najveća 0-2: 1.50  [BalkanBet, OktagonBet, Soccer]
-Najveća 3+ : 2.70  [Merkur, Mozzart]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9950   profit≈0.50%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0370   profit≈-3.70%
-
-18:15   01.11.   [Vels 1]
-Colwyn Bay  vs  Barry Town
-
-- BalkanBet  1=2.2  |  X=3.25  |  2=3  |  0-2=1.83  |  2+=1.28  |  3+=1.87  |  GG=1.65  |  IGG=4.4  |  GG&3+=2.15  |  GG&4+=3.55  |  4+=3.2
-- Merkur     1=2.28  |  X=2.95  |  2=3  |  0-2=1.65  |  3+=2.05  |  GG=1.8  |  IGG=5  |  GG&3+=2.47
-- OktagonBet 1=2.12  |  X=3.3  |  2=3  |  0-2=2  |  3+=1.71  |  GG=1.6  |  GG&3+=2.03  |  4+=2.88
-
-Najveća 1  : 2.28  [Merkur]
-Najveća X  : 3.30  [OktagonBet]
-Najveća 2  : 3.00  [BalkanBet, Merkur, OktagonBet]
-Najveća 0-2: 2.00  [OktagonBet]
-Najveća 3+ : 2.05  [Merkur]
-
-Arbitraža (1-X-2): NE   inv_sum=1.0750   profit≈-7.50%
-Arbitraža (0-2 / 3+): DA   inv_sum=0.9878   profit≈1.22%
-
 21:00   05.11.   [Liga Šampiona]
 Club Brugge  vs  Barcelona
 
@@ -53,26 +18,26 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0392   profit≈-3.92%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1470
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1034
-Grupa sa veličinom ≥3: 715
-Grupa sa veličinom ≥4: 466
-Grupa sa veličinom ≥5: 271
-Grupa sa veličinom ≥6: 55
+Ukupno mečeva (grupa): 1502
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 976
+Grupa sa veličinom ≥3: 614
+Grupa sa veličinom ≥4: 324
+Grupa sa veličinom ≥5: 84
+Grupa sa veličinom ≥6: 8
 Grupa sa veličinom ≥7: 2
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  935   spojeno (u grupama >1):  809
+  - BalkanBet  ukupno zapisa:  935   spojeno (u grupama >1):  807
   - BetOle     ukupno zapisa:    5   spojeno (u grupama >1):    5
   - Brazil_d   ukupno zapisa:    3   spojeno (u grupama >1):    2
-  - MaxBet     ukupno zapisa:    6   spojeno (u grupama >1):    6
-  - Merkur     ukupno zapisa:  623   spojeno (u grupama >1):  596
-  - Mozzart    ukupno zapisa:  420   spojeno (u grupama >1):  387
-  - OktagonBet ukupno zapisa: 1041   spojeno (u grupama >1):  827
-  - Soccer     ukupno zapisa:  348   spojeno (u grupama >1):  342
-  - Topbet     ukupno zapisa:  635   spojeno (u grupama >1):  606
+  - MaxBet     ukupno zapisa:    5   spojeno (u grupama >1):    5
+  - Merkur     ukupno zapisa:  135   spojeno (u grupama >1):   73
+  - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  374
+  - OktagonBet ukupno zapisa: 1041   spojeno (u grupama >1):  774
+  - Soccer     ukupno zapisa:  348   spojeno (u grupama >1):  341
+  - Topbet     ukupno zapisa:  635   spojeno (u grupama >1):  605
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 2
-  - 0-2 / 3+: 1
-  - Barem jedna arbitraža: 3
+  - 1-X-2: 1
+  - 0-2 / 3+: 0
+  - Barem jedna arbitraža: 1
