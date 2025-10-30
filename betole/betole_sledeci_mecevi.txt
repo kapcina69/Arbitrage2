@@ -57,11 +57,11 @@ TENIS
   
   
 RUKOMET
-20
+19
   
   
 SP. RUKOMET
-12
+6
   
   
 ODBOJKA
@@ -125,7 +125,7 @@ FORMULA 1
   
   
 KONJSKE TRKE
-100
+91
   
   
 ESPORT
@@ -133,7 +133,7 @@ ESPORT
   
   
 SP. FUDBAL
-2806
+2805
   
   
 VIR. FUDBAL
@@ -160,36 +160,36 @@ Specijali
 KONAČAN ISHOD
  
 Italy, Serie A
-+1040
++1043
 Cagliari
 Sassuolo
 30.10. 18:30
 ki 1
-2.67
+2.65
 ki X
 3.10
 ki 2
 2.85
 manje 2.5
-1.65
+1.67
 više 2.5
-2.25
+2.20
  
 Saudi Arabia, Saudi Professional League
-+788
++793
 Al Ahli SC
 Al Riyadh
 30.10. 18:30
 ki 1
-1.10
+1.11
 ki X
-7.25
+7.00
 ki 2
-16.25
+16.0
 manje 2.5
-2.77
+2.70
 više 2.5
-1.37
+1.38
 +820
 Al Kholood
 Neom SC
@@ -273,15 +273,15 @@ Rijnsburgse Boys
 Nijmegen
 30.10. 18:45
 ki 1
-7.90
+6.90
 ki X
-5.30
+5.10
 ki 2
-1.26
+1.30
 manje 2.5
-2.97
+3.10
 više 2.5
-1.33
+1.31
  
 Spain, Copa del Rey
 +824
@@ -289,15 +289,15 @@ Orihuela
 Levante
 30.10. 19:00
 ki 1
-6.30
+6.60
 ki X
-4.95
+5.25
 ki 2
-1.41
+1.37
 manje 2.5
-2.62
+2.85
 više 2.5
-1.45
+1.38
 +30
 Puerto de Vega
 Celta Vigo
@@ -347,11 +347,11 @@ Defensa y Justicia Res.
 Ind. Rivadavia Res.
 30.10. 19:00
 ki 1
-2.60
+2.57
 ki X
 2.97
 ki 2
-2.57
+2.60
 manje 2.5
 1.80
 više 2.5
@@ -423,15 +423,15 @@ Vargas Torres
 Cumbaya
 30.10. 19:00
 ki 1
-1.97
+1.95
 ki X
-3.30
+3.35
 ki 2
 3.35
 manje 2.5
-1.85
+1.92
 više 2.5
-1.82
+1.77
  
 Portugal, Liga Portugal 2
 +817
@@ -606,6 +606,508 @@ manje 2.5
 3.10
 više 2.5
 1.31
++647
+Willem II
+Dordrecht
+30.10. 20:00
+ki 1
+2.15
+ki X
+3.55
+ki 2
+2.77
+manje 2.5
+2.30
+više 2.5
+1.53
+ 
+Hungary, Hungarian Cup
++643
+Debrecen
+Honved
+30.10. 20:00
+ki 1
+1.72
+ki X
+3.85
+ki 2
+3.75
+manje 2.5
+2.50
+više 2.5
+1.45
+ 
+Morocco, Botola Pro
++803
+FUS Rabat
+Olympique de Safi
+30.10. 20:00
+ki 1
+2.12
+ki X
+2.85
+ki 2
+3.45
+manje 2.5
+1.42
+više 2.5
+2.60
+ 
+Romania, Romanian Cup
++630
+CSC Dumbravita
+FC Rapid Bucuresti
+30.10. 20:00
+ki 1
+12.5
+ki X
+6.50
+ki 2
+1.14
+manje 2.5
+2.90
+više 2.5
+1.35
+ 
+Switzerland, Super League
++831
+Grasshoppers
+Young Boys
+30.10. 20:30
+ki 1
+3.20
+ki X
+3.55
+ki 2
+2.02
+manje 2.5
+2.15
+više 2.5
+1.62
++827
+Lugano
+Luzern
+30.10. 20:30
+ki 1
+1.87
+ki X
+3.75
+ki 2
+3.50
+manje 2.5
+2.30
+više 2.5
+1.55
+ 
+Belgium, Belgian Cup
++828
+Beerschot VA
+Westerlo
+30.10. 20:30
+ki 1
+4.00
+ki X
+3.95
+ki 2
+1.70
+manje 2.5
+2.55
+više 2.5
+1.45
++822
+Cercle Brugge KSV
+Kortrijk
+30.10. 20:30
+ki 1
+1.63
+ki X
+3.90
+ki 2
+4.55
+manje 2.5
+2.20
+više 2.5
+1.61
++817
+Gent
+Patro Eisden
+30.10. 20:30
+ki 1
+1.25
+ki X
+5.60
+ki 2
+9.25
+manje 2.5
+2.85
+više 2.5
+1.37
++822
+Seraing
+Leuven
+30.10. 20:30
+ki 1
+6.20
+ki X
+4.50
+ki 2
+1.42
+manje 2.5
+2.41
+više 2.5
+1.50
++817
+Knokke
+St. Truiden
+30.10. 20:30
+ki 1
+5.80
+ki X
+4.55
+ki 2
+1.43
+manje 2.5
+2.22
+više 2.5
+1.57
+ 
+Italy, Coppa Italia Serie C
++815
+Latina
+Perugia
+30.10. 20:30
+ki 1
+2.37
+ki X
+3.03
+ki 2
+2.80
+manje 2.5
+1.65
+više 2.5
+2.07
++823
+Ospitaletto
+Inter U23
+30.10. 20:30
+ki 1
+2.55
+ki X
+3.20
+ki 2
+2.50
+manje 2.5
+1.85
+više 2.5
+1.83
+ 
+Italy, Serie A
++1041
+Pisa
+Lazio
+30.10. 20:45
+ki 1
+3.60
+ki X
+3.20
+ki 2
+2.20
+manje 2.5
+1.65
+više 2.5
+2.27
+ 
+Denmark, Landspokal Cup
++646
+Nordsjaelland
+Brondby
+30.10. 20:45
+ki 1
+2.41
+ki X
+3.45
+ki 2
+2.45
+manje 2.5
+2.20
+više 2.5
+1.57
+ 
+Spain, Copa del Rey
++809
+Antoniano
+Castellon
+30.10. 21:00
+ki 1
+7.20
+ki X
+4.15
+ki 2
+1.45
+manje 2.5
+1.92
+više 2.5
+1.80
++805
+Murcia
+Antequera
+30.10. 21:00
+ki 1
+2.15
+ki X
+3.05
+ki 2
+3.55
+manje 2.5
+1.55
+više 2.5
+2.30
++802
+UD Samano
+Dep. La Coruna
+30.10. 21:00
+ki 1
+14.0
+ki X
+5.90
+ki 2
+1.21
+manje 2.5
+2.25
+više 2.5
+1.57
++786
+Atletic Lleida
+Espanyol
+30.10. 21:00
+ki 1
+26.0
+ki X
+10.0
+ki 2
+1.07
+manje 2.5
+3.40
+više 2.5
+1.27
+Atletico Palma del Rio
+Betis
+30.10. 21:00
+ 
+ki 1
+60.0
+ki X
+23.0
+ki 2
+-
+manje 2.5
+9.00
+više 2.5
+1.03
++805
+CD Estepona
+Malaga
+30.10. 21:00
+ki 1
+5.20
+ki X
+3.65
+ki 2
+1.65
+manje 2.5
+1.65
+više 2.5
+2.12
+ 
+Costa Rica, Liga de Ascenso - Apertura
++647
+Ad Aserri
+Santa Ana
+30.10. 21:00
+ki 1
+2.45
+ki X
+3.20
+ki 2
+2.60
+manje 2.5
+1.77
+više 2.5
+1.91
+ 
+Ecuador, Serie B - Relegation Group
+Imbabura
+Chacaritas
+30.10. 21:00
+ 
+ki 1
+1.35
+ki X
+4.60
+ki 2
+6.70
+manje 2.5
+2.41
+više 2.5
+1.48
+ 
+Holland, KNVB Beker
++77
+Raalte
+Twente
+30.10. 21:00
+ki 1
+13.0
+ki X
+7.10
+ki 2
+1.12
+manje 2.5
+3.25
+više 2.5
+1.28
+ 
+Poland, Polish Cup
++816
+Legia
+Pogon Szczecin
+30.10. 21:00
+ki 1
+1.63
+ki X
+3.55
+ki 2
+4.55
+manje 2.5
+2.00
+više 2.5
+1.71
+ 
+Portugal, Liga Portugal 2
++809
+Leixoes
+Academico Viseu
+30.10. 21:15
+ki 1
+2.67
+ki X
+3.00
+ki 2
+2.63
+manje 2.5
+1.57
+više 2.5
+2.27
++817
+Maritimo
+Leiria
+30.10. 21:15
+ki 1
+2.12
+ki X
+3.15
+ki 2
+3.35
+manje 2.5
+1.71
+više 2.5
+2.00
+ 
+Brazil, Copa do Brasil U20
++642
+Gremio U20
+Sao Paulo U20
+30.10. 21:30
+ki 1
+3.05
+ki X
+3.25
+ki 2
+2.10
+manje 2.5
+1.95
+više 2.5
+1.75
+ 
+Colombia, Primera A - Clausura
++816
+U. Magdalena
+Deportes Tolima
+30.10. 22:00
+ki 1
+3.95
+ki X
+3.20
+ki 2
+1.91
+manje 2.5
+1.60
+više 2.5
+2.20
+ 
+International Clubs, Copa Sudamericana - Play Offs
++956
+Lanus
+U. De Chile
+30.10. 23:00
+ki 1
+1.85
+ki X
+3.15
+ki 2
+4.35
+manje 2.5
+1.55
+više 2.5
+2.27
+ 
+Brazil, Copa do Brasil U20
++619
+Monte Roraima U20
+IAPE U20
+30.10. 23:00
+ki 1
+4.55
+ki X
+3.85
+ki 2
+1.57
+manje 2.5
+2.20
+više 2.5
+1.57
+ 
+International Clubs, CONCACAF Caribbean Cup - Play Offs
++644
+Universidad O&M
+Cibao FC
+30.10. 23:00
+ki 1
+3.70
+ki X
+3.45
+ki 2
+1.82
+manje 2.5
+1.93
+više 2.5
+1.75
+ 
+Bolivia, Copa Pacena
++647
+Tomayapo
+Independiente Petrolero
+30.10. 23:00
+ki 1
+1.95
+ki X
+3.65
+ki 2
+3.10
+manje 2.5
+2.35
+više 2.5
+1.51
  Tiket
 TIKET
 
@@ -619,7 +1121,7 @@ UPLATI
 DOBITAK DO: 10,000.00 din
 din
 RSD
-1
+5
 0
 0
 .
@@ -657,18 +1159,17 @@ Danijela D.
 8.000,00
 5.
 Nina T.
-10,238.88
+10,318.38
 5.000,00
 Pravila igre
 Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-18:11:17
+18:20:06
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
 Betole priredjuje igre na sreću u skladu sa rešenjem izdatim od Ministarstva Finansija Srbije – Uprava za igre na sreću.
 
 LIVE CHAT
- 
