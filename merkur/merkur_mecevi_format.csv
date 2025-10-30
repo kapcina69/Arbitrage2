@@ -1,21 +1,21 @@
 TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
-16:00;Pyramids;Ethiopian Insurance;;1.05;9.5;30.0;2.7;1.4;2.0;3.4;;
+16:00;Pyramids;Ethiopian Insurance;;1.06;9.25;30.0;2.55;1.43;2.13;3.55;;
 16:00;Metalist 1925;Ahrobiznes;753;1.3;4.9;11.0;2.07;1.72;2.85;2.28;6.0;2.8
-16:00;UTA Arad;Petrolul;754;2.68;2.9;2.68;1.55;2.3;4.45;1.95;5.6;2.75
+16:00;UTA Arad;Petrolul;756;2.65;2.9;2.72;1.55;2.3;4.45;1.95;5.6;2.75
 16:00;Vikos;Doxa Lefkadas;;1.15;21.0;6.0;;;;;;
 16:00;Araz Naxcivan;Differdange;;1.25;6.75;7.0;;;;;;
 16:00;Mnk Buba Mara;Futsal Minerva;;2.3;4.2;2.4;;;;;;
 16:00;Al Gharraf;Zakho;;3.5;2.8;2.15;1.33;2.95;6.5;2.37;;
 16:00;Baghdad;Al Najaf;;3.4;2.9;2.13;1.47;2.45;4.95;2.1;;
-16:15;Damac;Al-Fateh;795;3.1;3.55;2.07;2.2;1.6;2.55;1.52;4.0;1.87
+16:15;Damac;Al-Fateh;795;3.2;3.6;2.0;2.2;1.57;2.5;1.5;3.95;1.87
 16:30;Sputnik Al. U20;Tyumenskiy Leg. U20;;1.88;4.2;3.0;;;;;;
 16:30;Etoile Lavalloise;Semey;;3.85;5.25;1.57;;;;;;
 16:30;CSM Bucuresti W;Corona Brasov W;;1.38;9.5;3.6;;;;;;
 16:30;Al Rustaq;Saham;386;3.3;2.95;2.13;1.55;2.27;4.4;1.97;5.6;2.75
 16:45;Ajman;Al Ain SCC;765;6.2;4.7;1.4;2.45;1.47;2.23;1.65;4.2;1.95
-16:45;Shabab Al-Ahli Dubai;Al Sharjah;765;1.72;3.7;4.25;2.05;1.67;2.72;1.63;4.4;2.03
+16:45;Shabab Al-Ahli Dubai;Al Sharjah;765;1.63;3.9;4.5;2.1;1.65;2.68;1.65;4.45;2.05
 17:00;Inter Turku;SJK;798;1.48;4.75;5.75;2.6;1.47;2.2;1.6;4.05;1.87
-17:00;KuPS;Gnistan;795;1.27;6.3;9.25;3.5;1.3;1.75;1.6;3.65;1.77
+17:00;KuPS;Gnistan;795;1.27;6.3;9.25;3.55;1.28;1.72;1.57;3.55;1.75
 17:00;Bahrain SC;Ali CSC;388;3.4;3.5;1.9;1.9;1.77;3.0;1.65;4.55;2.1
 17:00;Malkiya;Al-Ahli Manama;390;2.52;3.15;2.55;1.7;2.0;3.6;1.75;4.9;2.37
 17:00;Wigry Suwalki;Wasilkow;;1.38;4.6;6.0;2.55;1.45;2.12;1.63;;
@@ -48,11 +48,11 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 17:45;Midtjylland;Silkeborg;770;1.47;4.65;5.1;2.7;1.4;2.03;1.48;3.7;1.73
 18:00;Vojvodina;Crvena zvezda;786;5.6;4.35;1.47;2.25;1.57;2.47;1.67;4.45;2.05
 18:00;Vozdovac;Jedinstvo Ub;756;1.8;3.2;3.85;1.63;2.07;3.85;1.93;5.4;2.57
-18:00;Ilves;HJK;805;1.88;4.3;3.4;3.5;1.3;1.73;1.28;2.85;1.45
+18:00;Ilves;HJK;803;1.8;4.33;3.65;3.5;1.28;1.73;1.3;2.85;1.47
 18:00;Arka Gdynia;Gornik Z.;760;3.75;3.35;1.92;1.77;1.92;3.4;1.77;4.9;2.32
 18:00;National Bank;Zamalek;753;3.45;2.95;2.18;1.47;2.45;5.0;2.1;6.25;3.05
 18:00;H. Migdal HaEmek;Tzeirey Tamra;;2.03;3.3;2.85;1.95;1.7;2.85;1.6;;
-18:00;MS Tira;Beit Shean;;1.6;3.6;4.05;2.05;1.65;2.7;1.67;;
+18:00;MS Tira;Beit Shean;;1.6;3.6;4.0;2.07;1.63;2.65;1.65;;
 18:00;Botosani;F. Constanta;755;2.13;3.0;3.45;1.55;2.27;4.4;1.97;5.7;2.78
 18:00;Zalaegerszegi;Budafoki;383;1.22;5.75;10.0;2.65;1.42;2.07;1.88;4.7;2.18
 18:00;SCM Craiova;Municipal Galati;;1.05;29.0;11.0;;;;;;
@@ -83,11 +83,11 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 18:30;Al Quwa Al Jawiya;Diyala;;1.62;3.35;5.1;1.65;2.1;3.85;2.07;;
 18:30;Duhok;Al Naft;;2.42;2.85;2.9;1.47;2.45;5.0;2.07;;
 18:45;Rijnsburgse Boys;Nijmegen;763;9.25;5.7;1.23;2.9;1.35;1.9;1.72;4.25;1.97
-19:00;Zalgiris;ASVEL;;1.28;19.0;4.6;;;;;;
+19:00;Zalgiris;ASVEL;;1.33;19.0;4.2;;;;;;
 19:00;Orihuela;Levante;790;5.8;4.65;1.35;2.5;1.47;2.18;1.67;4.15;1.93
 19:00;Kalsdorf;Wolfsberger AC (Am);392;1.95;3.8;3.0;2.5;1.45;2.15;1.4;3.5;1.67
 19:00;Benfica B;Pacos Ferreira;763;1.85;3.45;4.0;1.8;1.93;3.45;1.8;5.0;2.35
-19:00;Portimonense;Torreense;769;2.85;3.35;2.33;1.97;1.75;2.95;1.62;4.4;2.07
+19:00;Portimonense;Torreense;771;2.85;3.35;2.35;2.0;1.75;2.9;1.6;4.33;2.05
 19:00;Boca Juniors Res.;Tigre Res.;;1.5;3.8;6.25;1.65;2.07;3.8;2.2;;
 19:00;Defensa y Justicia Res.;Ind. Rivadavia Res.;;3.15;3.2;2.15;1.82;1.87;3.25;1.7;;
 19:00;Estudiantes Res.;Argentinos Jrs Res.;;2.15;3.05;3.4;1.57;2.23;4.25;1.93;;
@@ -108,7 +108,7 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 19:00;Mimel Luc.;Hjoerring FC;;1.57;5.25;3.85;;;;;;
 19:00;St Andrews;Loznica Grad;;2.2;4.3;2.5;;;;;;
 19:00;Vargas Torres;Cumbaya;759;1.97;3.15;3.5;1.67;2.03;3.7;1.83;5.1;2.47
-19:00;KFUM Blackeberg;Eskilstuna Basket;;5.25;18.0;1.15;;;;;;
+19:00;KFUM Blackeberg;Eskilstuna Basket;;4.8;19.0;1.18;;;;;;
 19:15;Switzerland;Croatia;;2.7;8.25;1.62;;;;;;
 19:30;Valle Egues;Andorra CF;381;14.0;6.3;1.11;2.45;1.45;2.18;2.52;6.0;2.85
 19:30;Bremerhaven;Iserlohn;;1.55;4.8;4.6;;;;;;
@@ -128,7 +128,7 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 20:00;Spakenburg;VV DOVO;772;1.28;5.6;7.75;3.4;1.27;1.72;1.52;3.45;1.7
 20:00;Sparta R.;Groningen;770;2.4;3.5;2.57;2.2;1.6;2.55;1.5;3.95;1.85
 20:00;Sportlust;Barendrecht;776;2.45;4.0;2.32;3.45;1.25;1.7;1.25;2.7;1.4
-20:00;Willem II;Dordrecht;770;2.18;3.5;2.9;2.15;1.6;2.57;1.52;4.0;1.88
+20:00;Willem II;Dordrecht;772;2.17;3.6;2.85;2.3;1.55;2.4;1.45;3.75;1.77
 20:00;CSC Dumbravita;Rapid Bucuresti;761;11.0;6.3;1.19;2.95;1.35;1.9;1.82;4.45;2.07
 20:00;Debreceni;Honved;390;1.75;3.9;3.85;2.5;1.45;2.17;1.45;3.65;1.72
 20:00;FC Vrhnika;FC Forca;;1.1;10.0;12.0;;;;;;
@@ -146,11 +146,11 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 20:30;Valencia;BC Dubai;;1.43;17.0;3.5;;;;;;
 20:30;Grasshoppers;Young Boys;801;3.45;3.6;2.05;2.15;1.73;2.8;1.63;4.25;2.03
 20:30;Lugano;Luzern;805;1.87;4.05;3.65;2.55;1.53;2.3;1.5;3.7;1.75
-20:30;Beerschot;Westerlo;770;4.0;3.95;1.7;2.55;1.45;2.15;1.45;3.65;1.72
-20:30;Cercle Brugge;Kortrijk;762;1.63;3.9;4.45;2.03;1.7;2.78;1.7;4.55;2.1
-20:30;Gent;Patro Eisden;764;1.25;6.2;11.0;2.95;1.38;1.95;1.8;4.45;2.07
+20:30;Beerschot;Westerlo;770;3.95;3.9;1.72;2.5;1.45;2.17;1.45;3.65;1.72
+20:30;Cercle Brugge;Kortrijk;761;1.65;3.85;4.45;2.0;1.72;2.85;1.72;4.65;2.15
+20:30;Gent;Patro Eisden;763;1.28;5.8;9.5;2.95;1.38;1.95;1.72;4.25;1.97
 20:30;Knokke;St. Truiden;758;13.0;6.5;1.2;2.75;1.42;2.05;2.03;4.95;2.32
-20:30;Seraing;Leuven;761;6.4;4.4;1.48;2.2;1.65;2.63;1.8;4.75;2.18
+20:30;Seraing;Leuven;762;6.4;4.45;1.48;2.23;1.63;2.6;1.77;4.75;2.17
 20:30;Perla Lublin W;Kobierzyce W;;1.38;12.0;3.4;;;;;;
 20:30;Latina;Perugia;763;2.4;3.05;2.9;1.65;2.07;3.8;1.82;5.1;2.5
 20:30;Ospitaletto;Inter U23;770;2.6;3.25;2.52;1.87;1.82;3.15;1.65;4.55;2.15
@@ -161,5 +161,5 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 20:30;Bloemendaal;Amsterdam Ah And BC;;2.25;5.25;2.2;;;;;;
 20:30;Terrassa;Solaris;;1.37;8.75;3.65;;;;;;
 20:30;Ravenna;San Severo;;2.07;13.0;1.93;;;;;;
-20:45;Pisa;Lazio;900;3.75;3.25;2.18;1.65;2.3;4.33;2.0;5.7;2.78
+20:45;Pisa;Lazio;887;3.75;3.25;2.18;1.65;2.3;4.33;2.0;5.7;2.78
 20:45;Nordsjaelland;Brondby;770;2.45;3.55;2.47;2.2;1.6;2.52;1.48;3.9;1.85
