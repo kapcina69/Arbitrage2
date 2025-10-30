@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 01.11.
-12:00
+13:00
 23:59
-12:00 - 23:59
+13:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
@@ -30,156 +30,12 @@ AMERIČKI FUDBAL
 MMA
 FUTSAL
 ESPORT
-FUDBAL VIRTUAL
+BOKS
 POBEDNICI
 GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-BELARUS, Vysshaya Liga
-865
-12:00
-Smorgon
-Vitebsk
-823
-1
-2.70
-X
-2.95
-2
-2.65
-0-2
-1.55
-2+
-1.40
-3+
-2.28
-PORTUGAL, Liga Portugal 2
-1113
-12:00
-Sporting CP B
-Feirense
-827
-1
-2.20
-X
-3.05
-2
-3.25
-0-2
-1.65
-2+
-1.34
-3+
-2.10
-RUSSIA, FNL
-786
-12:00
-Ural
-Saratov
-820
-1
-1.47
-X
-3.75
-2
-6.90
-0-2
-1.70
-2+
-1.32
-3+
-2.02
-THAILAND, Thai League 1
-856
-12:00
-Ratchaburi
-Chiangrai Utd
-829
-1
-1.60
-X
-3.60
-2
-4.80
-0-2
-1.95
-2+
-1.22
-3+
-1.77
-UKRAINE, Premier League
-673
-12:00
-Kryvbas
-SC Poltava
-826
-1
-1.29
-X
-4.75
-2
-9.75
-0-2
-1.98
-2+
-1.22
-3+
-1.75
-ITALY, Serie B
-749
-12:30
-Avellino
-Reggiana
-924
-1
-1.91
-X
-3.25
-2
-4.15
-0-2
-1.65
-2+
-1.36
-3+
-2.15
-THAILAND, Thai League 1
-857
-12:30
-Kanchanaburi City
-Ayutthaya Utd
-833
-1
-1.91
-X
-3.45
-2
-3.35
-0-2
-2.02
-2+
-1.20
-3+
-1.69
-CHINA, Super League
-549
-12:35
-Meizhou Hakka
-Dalian Yingbo
-847
-1
-1.96
-X
-3.65
-2
-3.30
-0-2
-2.35
-2+
-1.15
-3+
-1.53
 ENGLAND, FA Cup
 416
 13:00
@@ -326,7 +182,7 @@ X
 13:00
 Karlsruher
 Schalke
-982
+941
 1
 2.70
 X
@@ -343,7 +199,7 @@ X
 13:00
 Nurnberg
 Braunschweig
-984
+940
 1
 1.74
 X
@@ -1816,7 +1672,7 @@ ITALY, Serie A
 15:00
 Udinese
 Atalanta
-1019
+969
 1
 4.20
 X
@@ -2204,19 +2060,19 @@ X
 15:30
 RB Leipzig
 Stuttgart
-1023
+966
 1
-2.00
+2.02
 X
-4.05
+4.00
 2
-3.30
+3.25
 0-2
 2.90
 2+
 1.12
 3+
-1.41
+1.42
 509
 15:30
 St. Pauli
@@ -3062,7 +2918,7 @@ X
 16:00
 Fulham
 Wolves
-980
+952
 1
 1.90
 X
@@ -3079,7 +2935,7 @@ X
 16:00
 Nottingham
 Manchester Utd
-1059
+978
 1
 3.30
 X
@@ -3222,7 +3078,7 @@ X
 16:00
 Charlton
 Swansea
-998
+929
 1
 2.15
 X
@@ -3256,7 +3112,7 @@ X
 16:00
 QPR
 Ipswich
-1007
+1005
 1
 3.45
 X
@@ -4923,7 +4779,7 @@ SPAIN, LaLiga
 16:15
 Atl. Madrid
 Sevilla
-1005
+952
 1
 1.35
 X
@@ -5613,21 +5469,876 @@ X
 1.23
 3+
 1.77
+CYPRUS, Cyprus League
+761
+18:00
+APOEL
+Achnas
+828
+1
+1.30
+X
+4.80
+2
+9.00
+0-2
+2.15
+2+
+1.18
+3+
+1.63
+762
+18:00
+Paralimni
+Omonia
+824
+1
+9.50
+X
+5.20
+2
+1.27
+0-2
+2.22
+2+
+1.17
+3+
+1.59
+CZECH REPUBLIC, Chance Liga
+1169
+18:00
+Slavia Prague
+Ostrava
+828
+1
+1.22
+X
+6.20
+2
+11.3
+0-2
+2.80
+2+
+1.10
+3+
+1.39
+DENMARK, Superliga
+453
+18:00
+FC Copenhagen
+Fredericia
+828
+1
+1.20
+X
+6.30
+2
+13.0
+0-2
+2.90
+2+
+1.09
+3+
+1.37
+GERMANY, Regionalliga North
+31253
+18:00
+Emden
+Altona
+837
+1
+1.62
+X
+3.95
+2
+4.15
+0-2
+2.55
+2+
+1.11
+3+
+1.43
+31254
+18:00
+Lohne
+Hamburger SV II
+840
+1
+2.38
+X
+3.65
+2
+2.40
+0-2
+2.65
+2+
+1.10
+3+
+1.41
+GERMANY, Regionalliga West
+34264
+18:00
+B. Monchengladbach II
+Bochum II
+840
+1
+1.64
+X
+3.70
+2
+4.35
+0-2
+2.12
+2+
+1.18
+3+
+1.63
+NORWAY, Eliteserien
+809
+18:00
+Molde
+Rosenborg
+846
+1
+2.05
+X
+3.60
+2
+3.30
+0-2
+2.30
+2+
+1.16
+3+
+1.56
+SLOVAKIA, Nike liga
+7461
+18:00
+Dun. Streda
+Kosice
+840
+1
+1.49
+X
+4.25
+2
+5.40
+0-2
+2.45
+2+
+1.13
+3+
+1.49
+SPAIN, Primera RFEF - Group 1
+31300
+18:00
+Osasuna B
+Celta Vigo B
+665
+1
+2.70
+X
+2.95
+2
+2.50
+0-2
+1.60
+2+
+1.36
+3+
+2.18
+SPAIN, Primera RFEF - Group 2
+35896
+18:00
+FC Cartagena SAD
+Villarreal B
+660
+1
+1.66
+X
+3.30
+2
+4.90
+0-2
+1.65
+2+
+1.33
+3+
+2.07
+SPAIN, Segunda RFEF - Group 2
+34396
+18:00
+Amorebieta
+Alfaro
+654
+1
+1.63
+X
+3.30
+2
+5.10
+0-2
+1.58
+2+
+1.35
+3+
+2.15
+34397
+18:00
+Tudelano
+SD Logrones
+657
+1
+2.30
+X
+2.95
+2
+3.00
+0-2
+1.55
+2+
+1.37
+3+
+2.22
+SWITZERLAND, Super League
+721
+18:00
+Thun
+Sion
+846
+1
+1.99
+X
+3.60
+2
+3.25
+0-2
+2.15
+2+
+1.17
+3+
+1.60
+722
+18:00
+Winterthur
+Servette
+845
+1
+3.60
+X
+3.85
+2
+1.81
+0-2
+2.40
+2+
+1.13
+3+
+1.50
+SWITZERLAND, Challenge League
+729
+18:00
+Aarau
+Rapperswil
+836
+1
+1.55
+X
+3.95
+2
+5.20
+0-2
+2.10
+2+
+1.19
+3+
+1.66
+730
+18:00
+Lausanne Ouchy
+Stade Nyonnais
+833
+1
+1.31
+X
+4.95
+2
+7.90
+0-2
+2.50
+2+
+1.12
+3+
+1.46
+TURKEY, Super Lig
+714
+18:00
+Galatasaray
+Trabzonspor
+992
+1
+1.42
+X
+4.85
+2
+6.20
+0-2
+2.95
+2+
+1.09
+3+
+1.36
+BELGIUM, Jupiler Pro League
+1000
+18:15
+Club Brugge KV
+Dender
+927
+1
+1.25
+X
+5.80
+2
+10.0
+0-2
+2.70
+2+
+1.11
+3+
+1.42
+RUSSIA, Premier League
+633
+18:15
+FK Rostov
+Akron Togliatti
+835
+1
+1.69
+X
+3.65
+2
+5.10
+0-2
+1.90
+2+
+1.26
+3+
+1.84
+634
+18:15
+Zenit
+Lokomotiv Moscow
+838
+1
+1.52
+X
+4.30
+2
+5.90
+0-2
+2.30
+2+
+1.17
+3+
+1.56
+WALES, Cymru Premier
+7490
+18:15
+Colwyn Bay
+Barry
+838
+1
+2.12
+X
+3.25
+2
+3.05
+0-2
+2.00
+2+
+1.21
+3+
+1.72
+ENGLAND, FA Cup
+447
+18:30
+Brackley Town
+Notts Co
+841
+1
+4.50
+X
+3.80
+2
+1.72
+0-2
+2.03
+2+
+1.22
+3+
+1.72
+ENGLAND, Premier League
+484
+18:30
+Tottenham
+Chelsea
+1043
+1
+2.70
+X
+3.50
+2
+2.55
+0-2
+2.15
+2+
+1.23
+3+
+1.72
+GERMANY, Bundesliga
+511
+18:30
+Bayern Munich
+Bayer Leverkusen
+956
+1
+1.23
+X
+6.90
+2
+11.0
+0-2
+4.00
+2+
+1.07
+3+
+1.25
+SPAIN, LaLiga
+924
+18:30
+Real Sociedad
+Athletic Bilbao
+941
+1
+2.75
+X
+2.95
+2
+2.85
+0-2
+1.57
+2+
+1.47
+3+
+2.40
+BOSNIA AND HERZEGOVINA, Premijer Liga BiH
+35926
+18:30
+Siroki Brijeg
+Zrinjski
+820
+1
+5.50
+X
+3.40
+2
+1.58
+0-2
+1.62
+2+
+1.35
+3+
+2.12
+GREECE, Super League
+699
+18:30
+Atromitos
+Kifisia
+826
+1
+2.38
+X
+3.00
+2
+3.00
+0-2
+1.65
+2+
+1.35
+3+
+2.12
+ISRAEL, Ligat ha'Al
+6149
+18:30
+Maccabi Bnei Raina
+Maccabi Tel Aviv
+829
+1
+9.00
+X
+5.20
+2
+1.28
+0-2
+2.55
+2+
+1.12
+3+
+1.46
+NORTHERN IRELAND, NIFL Premiership
+775
+18:30
+Ballymena
+Larne
+826
+1
+3.55
+X
+3.20
+2
+2.03
+0-2
+1.70
+2+
+1.32
+3+
+2.02
+SAUDI ARABIA, Professional League
+855
+18:30
+Al-Nassr Riyadh
+Al Feiha
+817
+1
+1.13
+X
+6.75
+2
+13.0
+0-2
+3.20
+2+
+1.06
+3+
+1.29
+SCOTLAND, League Cup - Play Offs
+1087
+18:30
+Motherwell
+St. Mirren
+839
+1
+2.45
+X
+3.30
+2
+2.65
+0-2
+1.95
+2+
+1.23
+3+
+1.77
+SPAIN, LaLiga2
+892
+18:30
+Albacete
+Huesca
+966
+1
+2.10
+X
+3.15
+2
+3.60
+0-2
+1.60
+2+
+1.39
+3+
+2.22
+893
+18:30
+Leganes
+Burgos CF
+956
+1
+2.15
+X
+2.90
+2
+3.75
+0-2
+1.42
+2+
+1.53
+3+
+2.70
+SPAIN, Primera RFEF - Group 1
+31301
+18:30
+Ferrol
+Tenerife
+654
+1
+2.55
+X
+2.80
+2
+2.80
+0-2
+1.45
+2+
+1.48
+3+
+2.50
+SPAIN, Segunda RFEF - Group 5
+31305
+18:30
+CD Coria
+Real Madrid C
+654
+1
+1.89
+X
+3.15
+2
+3.80
+0-2
+1.62
+2+
+1.32
+3+
+2.07
+NETHERLANDS, Eredivisie
+682
+18:45
+NAC Breda
+G.A. Eagles
+992
+1
+2.30
+X
+3.55
+2
+2.90
+0-2
+2.20
+2+
+1.18
+3+
+1.61
+ARGENTINA, Torneo Betano - Clausura
+1256
+18:45
+Aldosivi
+Ind. Rivadavia
+819
+1
+2.45
+X
+2.85
+2
+3.25
+0-2
+1.39
+2+
+1.55
+3+
+2.75
+CROATIA, HNL
+553
+18:45
+Istra 1961
+Vukovar 1991
+828
+1
+1.50
+X
+3.80
+2
+6.25
+0-2
+1.85
+2+
+1.26
+3+
+1.87
+FRANCE, Ligue 1
+407
+19:00
+Monaco
+Paris FC
+956
+1
+1.74
+X
+4.05
+2
+4.40
+0-2
+2.60
+2+
+1.15
+3+
+1.49
+EGYPT, Premier League
+876
+19:00
+El Gouna
+Pharco
+642
+1
+2.18
+X
+2.60
+2
+3.75
+0-2
+1.23
+2+
+1.80
+3+
+3.60
+877
+19:00
+El Ismaily
+Kahraba Ismailia
+647
+1
+2.65
+X
+2.60
+2
+2.85
+0-2
+1.28
+2+
+1.70
+3+
+3.30
+GREECE, Super League
+700
+19:00
+Olympiacos Piraeus
+Aris
+821
+1
+1.30
+X
+4.55
+2
+9.75
+0-2
+1.92
+2+
+1.24
+3+
+1.79
+PERU, Liga 1 - Clausura
+1071
+19:00
+Los Chankas
+Ayacucho
+834
+1
+2.12
+X
+3.20
+2
+3.30
+0-2
+1.82
+2+
+1.27
+3+
+1.89
+PORTUGAL, Liga Portugal
+525
+19:00
+Casa Pia
+Estrela
+982
+1
+2.20
+X
+3.10
+2
+3.40
+0-2
+1.57
+2+
+1.40
+3+
+2.28
+526
+19:00
+Rio Ave
+Estoril
+938
+1
+2.40
+X
+3.20
+2
+2.90
+0-2
+1.80
+2+
+1.28
+3+
+1.92
+SOUTH AFRICA, Premiership
+1248
+19:15
+Chippa Utd.
+AmaZulu
+809
+1
+3.05
+X
+2.60
+2
+2.65
+0-2
+1.25
+2+
+1.77
+3+
+3.50
+ARGENTINA, Primera B - Clausura
+31290
+19:30
+Argentino de Quilmes
+Argentino de Merlo
+812
+1
+2.65
+X
+2.80
+2
+2.70
+0-2
+1.42
+2+
+1.50
+3+
+2.55
 Odigrani tiketi
-856
-Ratchaburi - Chiangrai Utd
-01.11. 12:00
+34428
+Holbaek - Horsholm-Usserod IK
+01.11. 13:00
 KONAČAN ISHOD 
 1
-  1.60  
+  2.05  
 Običan
 Sistem
 Kvota:
-1.60
+2.05
 Uplata:
 20.00 RSD
 Dobitak:
-32.00 RSD
+41.00 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express
