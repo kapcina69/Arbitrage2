@@ -48,6 +48,8 @@ SCROLL_PAUSE_SEC = 0.25   # pauza između skrolova
 # regex da prepoznamo liniju sa datumom i vremenom, npr "26.10 03:00"
 RE_DATETIME = re.compile(r'^\d{2}\.\d{2}\s+\d{2}:\d{2}$')
 
+# odmah ispod RE_DATETIME = re.compile(...)
+MARKER_SKIP = "Max Bonus Tip Fudbal"
 
 # -------------------------------------------------
 # POMOĆNE FUNKCIJE ZA PLAYWRIGHT
@@ -266,28 +268,24 @@ def is_league_line(s: str) -> bool:
 def parse_matches_from_lines(lines):
     """
     lines: lista stringova iz RAW fajla
-    Vrati listu dict mečeva:
-        {
-          "league": ...,
-          "date": "26.10",
-          "time": "03:00",
-          "home": "Herediano",
-          "away": "Cartagines",
-          "odds": {
-             "1": "2.12",
-             "X": "3.15",
-             "2": "3.30",
-             ...
-          }
-        }
+    Vrati listu dict mečeva.
+    Ako se naiđe na liniju "Max Bonus Tip Fudbal", sledeći meč se preskače.
     """
     matches = []
     current_league = None
     i = 0
     n = len(lines)
 
+    skip_next_match = False
+
     while i < n:
         line = lines[i].strip()
+
+        # Ako naiđemo na marker, preskačemo sledeći meč
+        if line == MARKER_SKIP:
+            skip_next_match = True
+            i += 1
+            continue
 
         # ažuriraj ligu kad naiđemo na novu
         if is_league_line(line):
@@ -307,7 +305,6 @@ def parse_matches_from_lines(lines):
 
             # opcioni kod meča "+806"
             if j < n and lines[j].strip().startswith("+"):
-                # match_code = lines[j].strip().lstrip("+").strip()  # trenutno ga ne koristimo
                 j += 1
 
             # opet preskoči prazno
@@ -316,43 +313,41 @@ def parse_matches_from_lines(lines):
             if j >= n:
                 break
 
-            # home team
-            home_team = lines[j].strip()
-            j += 1
-            if j >= n:
-                break
+            # home / away (ako nema, prekid)
+            if j >= n: break
+            home_team = lines[j].strip(); j += 1
+            if j >= n: break
+            away_team = lines[j].strip(); j += 1
 
-            # away team
-            away_team = lines[j].strip()
-            j += 1
+            # Skupljanje kvota (dok ne naiđe sledeći meč/liga/+kod/prazno)
+            def consume_odds(idx):
+                odds_local = {}
+                while idx < n:
+                    tok = lines[idx].strip()
+                    if tok == "":
+                        idx += 1
+                        continue
+                    if is_datetime_line(tok) or is_league_line(tok) or tok.startswith("+"):
+                        break
+                    if idx + 1 >= n:
+                        break
+                    val = lines[idx + 1].strip()
+                    if re.fullmatch(r'\d+(\.\d+)?', val):
+                        odds_local[tok] = val
+                        idx += 2
+                    else:
+                        break
+                return odds_local, idx
 
-            # sad skupljamo kvote u formatu:
-            #   oznaka (1/X/2/0-2/3+...)
-            #   vrednost (2.12 itd.)
-            odds = {}
+            if skip_next_match:
+                # Preskoči ovaj meč: samo “pojedi” kvote bez dodavanja u listu
+                _, j = consume_odds(j)
+                # resetuj flag, pomeri i na kraj ovog meča
+                skip_next_match = False
+                i = j  # i će se na kraju petlje uvećati za 1
+                continue
 
-            while j < n:
-                tok = lines[j].strip()
-
-                # ako smo naleteli na novi meč (datum/vreme), novu ligu ili "+kod",
-                # prestajemo sa skupljanjem kvota za ovaj meč
-                if tok == "":
-                    j += 1
-                    continue
-                if is_datetime_line(tok) or is_league_line(tok) or tok.startswith("+"):
-                    break
-
-                if j + 1 >= n:
-                    break
-
-                val = lines[j + 1].strip()
-                # kvota je broj, npr "2.12"
-                if re.fullmatch(r'\d+(\.\d+)?', val):
-                    odds[tok] = val
-                    j += 2
-                else:
-                    # ne liči na kvotu => kraj liste kvota
-                    break
+            odds, j = consume_odds(j)
 
             matches.append({
                 "league": current_league,
@@ -364,11 +359,13 @@ def parse_matches_from_lines(lines):
             })
 
             # skoči tamo gde smo stali
-            i = j - 1
+            i = j
+            continue
 
         i += 1
 
     return matches
+
 
 def format_match_block(m):
     """
