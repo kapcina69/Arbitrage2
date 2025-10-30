@@ -1,30 +1,30 @@
 20:30   30.10.   [Switzerland, Super League]
 Grasshoppers  vs  Young Boys
 
-- BetOle     1=3.05  |  X=3.5  |  2=2.1  |  0-2=2.15  |  3+=1.61
-- Brazil_d   1=3.05  |  X=3.55  |  2=2.1  |  0-2=2.18  |  2+=1.17  |  3+=1.6
+- BetOle     1=2.95  |  X=3.5  |  2=2.15  |  0-2=2.2  |  3+=1.61
+- Brazil_d   -
 - MaxBet     1=3.35  |  X=3.90  |  2=2.25
-- Merkur     1=3.2  |  X=3.6  |  2=2.13  |  0-2=2.23  |  3+=1.67  |  GG=1.6  |  IGG=4.1  |  GG&3+=1.95
+- Merkur     1=3.2  |  X=3.6  |  2=2.13  |  0-2=2.25  |  3+=1.67  |  GG=1.57  |  IGG=4.05  |  GG&3+=1.93
 - OktagonBet 1=3.05  |  X=3.55  |  2=2.1  |  0-2=2.18  |  3+=1.61  |  GG=1.54  |  GG&3+=1.89  |  4+=2.6
 - Soccer     1=3.1  |  X=3.8  |  2=2.1  |  0-2=2.17  |  2+=1.18  |  3+=1.62  |  GG=1.55  |  IGG=3.7  |  GG&3+=1.87
 
 Najveća 1  : 3.35  [MaxBet]
 Najveća X  : 3.90  [MaxBet]
 Najveća 2  : 2.25  [MaxBet]
-Najveća 0-2: 2.23  [Merkur]
+Najveća 0-2: 2.25  [Merkur]
 Najveća 3+ : 1.67  [Merkur]
 
 Arbitraža (1-X-2): DA   inv_sum=0.9994   profit≈0.06%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0472   profit≈-4.72%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0432   profit≈-4.32%
 
 20:30   30.10.   [Belgija Kup]
 Beerschot  vs  Westerlo
 
 - BalkanBet  1=3.85  |  X=4  |  2=1.8  |  0-2=2.5  |  2+=1.17  |  3+=1.52  |  GG=1.55  |  IGG=3.85  |  GG&3+=1.8  |  GG&4+=2.7  |  4+=2.3
 - BetOle     1=3.85  |  X=3.9  |  2=1.75  |  0-2=2.5  |  3+=1.47
-- Brazil_d   1=3.85  |  X=3.85  |  2=1.76  |  0-2=2.5  |  2+=1.13  |  3+=1.46
+- Brazil_d   -
 - MaxBet     1=4.25  |  X=4.50  |  2=1.83
-- Merkur     1=3.85  |  X=3.9  |  2=1.75  |  0-2=2.5  |  3+=1.45  |  GG=1.45  |  IGG=3.65  |  GG&3+=1.72
+- Merkur     1=3.8  |  X=3.85  |  2=1.77  |  0-2=2.5  |  3+=1.47  |  GG=1.45  |  IGG=3.65  |  GG&3+=1.72
 - Mozzart    1=4.6  |  X=3.6  |  2=1.8  |  0-2=2.29  |  2+=1.18  |  3+=1.55
 - OktagonBet 1=3.85  |  X=3.9  |  2=1.75  |  0-2=2.5  |  3+=1.46  |  GG=1.47  |  GG&3+=1.73  |  4+=2.22
 - Soccer     1=3.9  |  X=4.0  |  2=1.73  |  0-2=2.45  |  2+=1.13  |  3+=1.48  |  GG=1.5  |  IGG=3.45  |  GG&3+=1.72
@@ -33,49 +33,54 @@ Beerschot  vs  Westerlo
 Najveća 1  : 4.60  [Mozzart]
 Najveća X  : 4.50  [MaxBet]
 Najveća 2  : 1.83  [MaxBet]
-Najveća 0-2: 2.50  [BalkanBet, BetOle, Brazil_d, Merkur, OktagonBet]
+Najveća 0-2: 2.50  [BalkanBet, BetOle, Merkur, OktagonBet]
 Najveća 3+ : 1.55  [Mozzart]
 
 Arbitraža (1-X-2): DA   inv_sum=0.9861   profit≈1.39%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0452   profit≈-4.52%
+
+20:30   30.10.   [Italija Kup Serija C]
+Latina  vs  Perugia
+
+- BalkanBet  1=2.65  |  X=3.1  |  2=2.45  |  0-2=1.7  |  2+=1.35  |  3+=2.05  |  GG=1.75  |  IGG=4.55  |  GG&3+=2.35  |  GG&4+=4.1  |  4+=3.7
+- BetOle     1=2.37  |  X=3.03  |  2=2.8  |  0-2=1.65  |  3+=2.07
+- Brazil_d   -
+- MaxBet     1=3.25  |  X=2.95  |  2=2.15
+- Merkur     1=2.47  |  X=3.05  |  2=2.8  |  0-2=1.65  |  3+=2.1  |  GG=1.83  |  IGG=5.1  |  GG&3+=2.52
+- OktagonBet 1=2.38  |  X=3  |  2=2.8  |  0-2=1.66  |  3+=2.07  |  GG=1.85  |  GG&3+=2.5  |  4+=3.9
+- Soccer     1=2.4  |  X=3.15  |  2=2.8  |  0-2=1.67  |  2+=1.35  |  3+=2.07  |  GG=1.83  |  IGG=4.85  |  GG&3+=2.3
+- Topbet     1=2.7  |  X=3.05  |  2=2.5
+
+Najveća 1  : 3.25  [MaxBet]
+Najveća X  : 3.15  [Soccer]
+Najveća 2  : 2.80  [BetOle, Merkur, OktagonBet, Soccer]
+Najveća 0-2: 1.70  [BalkanBet]
+Najveća 3+ : 2.10  [Merkur]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9823   profit≈1.77%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0644   profit≈-6.44%
 
 20:45   30.10.   [Italija 1]
 Pisa  vs  Lazio
 
 - BalkanBet  1=3.75  |  X=3.15  |  2=2.2  |  0-2=1.65  |  2+=1.45  |  3+=2.3  |  GG=1.95  |  IGG=5.35  |  GG&3+=2.6  |  GG&4+=4.75  |  4+=4.35
 - BetOle     1=3.6  |  X=3.2  |  2=2.2  |  0-2=1.63  |  3+=2.27
-- Brazil_d   1=3.6  |  X=3.15  |  2=2.2  |  0-2=1.63  |  2+=1.42  |  3+=2.3
+- Brazil_d   -
 - MaxBet     1=3.80  |  X=3.25  |  2=2.30
-- Merkur     1=3.8  |  X=3.25  |  2=2.18  |  0-2=1.65  |  3+=2.3  |  GG=2  |  IGG=5.75  |  GG&3+=2.78
+- Merkur     1=3.75  |  X=3.25  |  2=2.18  |  0-2=1.63  |  3+=2.32  |  GG=2  |  IGG=5.75  |  GG&3+=2.8
 - Mozzart    1=3.6  |  X=3.35  |  2=2.2  |  0-2=1.67  |  2+=1.4  |  3+=2.24
 - OktagonBet 1=3.6  |  X=3.2  |  2=2.18  |  0-2=1.64  |  3+=2.28  |  GG=2.03  |  GG&3+=2.8  |  4+=4.4
 - Soccer     1=3.65  |  X=3.2  |  2=2.2  |  0-2=1.65  |  2+=1.43  |  3+=2.25  |  GG=1.95  |  IGG=5.55  |  GG&3+=2.6
 - Topbet     1=3.55  |  X=3.2  |  2=2.2
 
-Najveća 1  : 3.80  [MaxBet, Merkur]
+Najveća 1  : 3.80  [MaxBet]
 Najveća X  : 3.35  [Mozzart]
 Najveća 2  : 2.30  [MaxBet]
 Najveća 0-2: 1.67  [Mozzart]
-Najveća 3+ : 2.30  [BalkanBet, Brazil_d, Merkur]
+Najveća 3+ : 2.32  [Merkur]
 
 Arbitraža (1-X-2): DA   inv_sum=0.9964   profit≈0.36%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0336   profit≈-3.36%
-
-18:15   01.11.   [Vels 1]
-Colwyn Bay  vs  Barry Town
-
-- BalkanBet  1=2.2  |  X=3.25  |  2=3  |  0-2=1.83  |  2+=1.28  |  3+=1.87  |  GG=1.65  |  IGG=4.4  |  GG&3+=2.15  |  GG&4+=3.55  |  4+=3.2
-- Merkur     1=2.28  |  X=2.95  |  2=3  |  0-2=1.65  |  3+=2.05  |  GG=1.8  |  IGG=5  |  GG&3+=2.47
-- OktagonBet 1=2.12  |  X=3.3  |  2=3  |  0-2=2  |  3+=1.71  |  GG=1.6  |  GG&3+=2.03  |  4+=2.88
-
-Najveća 1  : 2.28  [Merkur]
-Najveća X  : 3.30  [OktagonBet]
-Najveća 2  : 3.00  [BalkanBet, Merkur, OktagonBet]
-Najveća 0-2: 2.00  [OktagonBet]
-Najveća 3+ : 2.05  [Merkur]
-
-Arbitraža (1-X-2): NE   inv_sum=1.0750   profit≈-7.50%
-Arbitraža (0-2 / 3+): DA   inv_sum=0.9878   profit≈1.22%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0298   profit≈-2.98%
 
 21:00   05.11.   [Liga Šampiona]
 Club Brugge  vs  Barcelona
@@ -97,27 +102,27 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0392   profit≈-3.92%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1455
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1025
-Grupa sa veličinom ≥3: 739
-Grupa sa veličinom ≥4: 476
-Grupa sa veličinom ≥5: 287
-Grupa sa veličinom ≥6: 109
-Grupa sa veličinom ≥7: 41
+Ukupno mečeva (grupa): 1469
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 966
+Grupa sa veličinom ≥3: 636
+Grupa sa veličinom ≥4: 336
+Grupa sa veličinom ≥5: 91
+Grupa sa veličinom ≥6: 28
+Grupa sa veličinom ≥7: 21
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  971   spojeno (u grupama >1):  846
-  - BetOle     ukupno zapisa:   29   spojeno (u grupama >1):   29
-  - Brazil_d   ukupno zapisa:   40   spojeno (u grupama >1):   39
-  - Brazil_s   ukupno zapisa:   83   spojeno (u grupama >1):   83
-  - MaxBet     ukupno zapisa:   43   spojeno (u grupama >1):   43
-  - Merkur     ukupno zapisa:  564   spojeno (u grupama >1):  551
+  - BalkanBet  ukupno zapisa:  957   spojeno (u grupama >1):  833
+  - BetOle     ukupno zapisa:   24   spojeno (u grupama >1):   24
+  - Brazil_d   ukupno zapisa:   17   spojeno (u grupama >1):   16
+  - Brazil_s   ukupno zapisa:   27   spojeno (u grupama >1):   27
+  - MaxBet     ukupno zapisa:   32   spojeno (u grupama >1):   32
+  - Merkur     ukupno zapisa:   74   spojeno (u grupama >1):   29
   - Mozzart    ukupno zapisa:  396   spojeno (u grupama >1):  364
-  - OktagonBet ukupno zapisa: 1042   spojeno (u grupama >1):  832
-  - Soccer     ukupno zapisa:  348   spojeno (u grupama >1):  329
+  - OktagonBet ukupno zapisa: 1040   spojeno (u grupama >1):  793
+  - Soccer     ukupno zapisa:  348   spojeno (u grupama >1):  324
   - Topbet     ukupno zapisa:  660   spojeno (u grupama >1):  630
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 4
-  - 0-2 / 3+: 1
+  - 1-X-2: 5
+  - 0-2 / 3+: 0
   - Barem jedna arbitraža: 5
