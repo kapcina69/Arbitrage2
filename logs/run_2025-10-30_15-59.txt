@@ -1,7 +1,7 @@
-=== [Thu Oct 30 15:52:44 CET 2025] Starting run_all.py ===
+=== [Thu Oct 30 15:59:37 CET 2025] Starting run_all.py ===
 
 ============================================================
-NOVI CIKLUS: 2025-10-30 15:52:44
+NOVI CIKLUS: 2025-10-30 15:59:37
 ============================================================
 
 [*] Pokrećem 11 skripti sa pauzom 30s između STARTOVA...
@@ -34,67 +34,67 @@ NOVI CIKLUS: 2025-10-30 15:52:44
  - TXT: /home/runner/work/Arbitrage2/Arbitrage2/soccer/soccer_mecevi_pregled.txt
 
 [OK] soccer.py završen uspešno.
-[OK] Fajl soccer/soccer_sledeci_mecevi.txt je stabilan (34939 bytes).
-[OK] Fajl soccer/soccer_mecevi_pregled.txt je stabilan (77256 bytes).
+[OK] Fajl soccer/soccer_sledeci_mecevi.txt je stabilan (34910 bytes).
+[OK] Fajl soccer/soccer_mecevi_pregled.txt je stabilan (77260 bytes).
 [TIME] merkur.py trajanje: 04:34.01
 [STDOUT:merkur.py]
 [OK] Sačuvano:
  - RAW: /home/runner/work/Arbitrage2/Arbitrage2/merkur/merkur_sledeci_mecevi.txt
  - CSV: /home/runner/work/Arbitrage2/Arbitrage2/merkur/merkur_mecevi_format.csv
  - TXT: /home/runner/work/Arbitrage2/Arbitrage2/merkur/merkur_mecevi_pregled.txt
-[TIME] merkur_text_20scrolls_parse.py trajanje: 01:38.22
+[TIME] merkur_text_20scrolls_parse.py trajanje: 01:38.35
 
 [OK] merkur.py završen uspešno.
-[OK] Fajl merkur/merkur_sledeci_mecevi.txt je stabilan (59422 bytes).
-[OK] Fajl merkur/merkur_mecevi_pregled.txt je stabilan (118883 bytes).
+[OK] Fajl merkur/merkur_sledeci_mecevi.txt je stabilan (74157 bytes).
+[OK] Fajl merkur/merkur_mecevi_pregled.txt je stabilan (27836 bytes).
 [TIME] mozzart.py trajanje: 04:08.01
 [STDOUT:mozzart.py]
 [OK] Sačuvano: /home/runner/work/Arbitrage2/Arbitrage2/mozzart/mozzart_mecevi_pregled.txt
 
 [OK] mozzart.py završen uspešno.
 [OK] Fajl mozzart/mozzart_sledeci_mecevi.txt je stabilan (39614 bytes).
-[OK] Fajl mozzart/mozzart_mecevi_pregled.txt je stabilan (74541 bytes).
+[OK] Fajl mozzart/mozzart_mecevi_pregled.txt je stabilan (74539 bytes).
 [TIME] betole.py trajanje: 03:42.01
 [STDOUT:betole.py]
 [OK] Tekst sačuvan u: /home/runner/work/Arbitrage2/Arbitrage2/betole/betole_sledeci_mecevi.txt
 [OK] Formatirano: /home/runner/work/Arbitrage2/Arbitrage2/betole/betole_mecevi_pregled.txt  (ukupno mečeva: 29)
 
 [OK] betole.py završen uspešno.
-[OK] Fajl betole/betole_sledeci_mecevi.txt je stabilan (5885 bytes).
-[OK] Fajl betole/betole_mecevi_pregled.txt je stabilan (6713 bytes).
+[OK] Fajl betole/betole_sledeci_mecevi.txt je stabilan (5830 bytes).
+[OK] Fajl betole/betole_mecevi_pregled.txt je stabilan (6669 bytes).
 [TIME] balkanbet.py trajanje: 03:16.01
 [STDOUT:balkanbet.py]
 [i] Down koraka (wheel): 120
 [OK] RAW (clipboard) sačuvan u: /home/runner/work/Arbitrage2/Arbitrage2/balkanbet/balkanbet_sledeci_mecevi.txt
-[OK] Pretty: /home/runner/work/Arbitrage2/Arbitrage2/balkanbet/balkanbet_mecevi_pregled.txt  (mečeva: 1027)
+[OK] Pretty: /home/runner/work/Arbitrage2/Arbitrage2/balkanbet/balkanbet_mecevi_pregled.txt  (mečeva: 1020)
 
 [OK] balkanbet.py završen uspešno.
-[OK] Fajl balkanbet/balkanbet_sledeci_mecevi.txt je stabilan (110491 bytes).
-[OK] Fajl balkanbet/balkanbet_mecevi_pregled.txt je stabilan (246738 bytes).
+[OK] Fajl balkanbet/balkanbet_sledeci_mecevi.txt je stabilan (109643 bytes).
+[OK] Fajl balkanbet/balkanbet_mecevi_pregled.txt je stabilan (245109 bytes).
 [TIME] brazil.py trajanje: 02:50.01
 [STDOUT:brazil.py]
 [OK] RAW snimljen: /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_sledeci_mecevi.txt
-[OK] Pretty: /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_mecevi_pregled.txt (mečeva: 86)
+[OK] Pretty: /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_mecevi_pregled.txt (mečeva: 90)
 
 [OK] brazil.py završen uspešno.
-[OK] Fajl brazil/brazil_sledeci_mecevi.txt je stabilan (5884 bytes).
-[OK] Fajl brazil/brazil_mecevi_pregled.txt je stabilan (18427 bytes).
+[OK] Fajl brazil/brazil_sledeci_mecevi.txt je stabilan (9923 bytes).
+[OK] Fajl brazil/brazil_mecevi_pregled.txt je stabilan (20353 bytes).
 [TIME] brazil_sutra.py trajanje: 02:24.01
 [STDOUT:brazil_sutra.py]
 [OK] RAW (SUTRA) snimljen: /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_sutra_sledeci_mecevi.txt
-[OK] Pretty (SUTRA): /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_sutra_mecevi_pregled.txt  (mečeva: 161)
+[OK] Pretty (SUTRA): /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_sutra_mecevi_pregled.txt  (mečeva: 133)
 
 [OK] brazil_sutra.py završen uspešno.
-[OK] Fajl brazil/brazil_sutra_sledeci_mecevi.txt je stabilan (16933 bytes).
-[OK] Fajl brazil/brazil_sutra_mecevi_pregled.txt je stabilan (34395 bytes).
+[OK] Fajl brazil/brazil_sutra_sledeci_mecevi.txt je stabilan (14315 bytes).
+[OK] Fajl brazil/brazil_sutra_mecevi_pregled.txt je stabilan (29014 bytes).
 [TIME] brazil_prekosutra.py trajanje: 01:58.01
 [STDOUT:brazil_prekosutra.py]
 [OK] RAW (PREKOSUTRA) snimljen: /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_prekosutra_sledeci_mecevi.txt
-[OK] Pretty (PREKOSUTRA): /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_prekosutra_mecevi_pregled.txt  (mečeva: 259)
+[OK] Pretty (PREKOSUTRA): /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_prekosutra_mecevi_pregled.txt  (mečeva: 221)
 
 [OK] brazil_prekosutra.py završen uspešno.
-[OK] Fajl brazil/brazil_prekosutra_sledeci_mecevi.txt je stabilan (24799 bytes).
-[OK] Fajl brazil/brazil_prekosutra_mecevi_pregled.txt je stabilan (60896 bytes).
+[OK] Fajl brazil/brazil_prekosutra_sledeci_mecevi.txt je stabilan (21199 bytes).
+[OK] Fajl brazil/brazil_prekosutra_mecevi_pregled.txt je stabilan (44231 bytes).
 [TIME] topbet.py trajanje: 01:32.01
 [STDOUT:topbet.py]
 [WARN] Nije nađen tab/dugme 'SVE' — nastavljam bez toga.
@@ -111,60 +111,59 @@ NOVI CIKLUS: 2025-10-30 15:52:44
 [scroll] step 11/30  advanced=False
 [OK] RAW sačuvan: /home/runner/work/Arbitrage2/Arbitrage2/topbet/topbet_sledeci_mecevi.txt
 [OK] Pretty sačuvan: /home/runner/work/Arbitrage2/Arbitrage2/topbet/topbet_mecevi_pregled.txt
-[OK] Isparsiranih mečeva: 675
+[OK] Isparsiranih mečeva: 672
 
 [OK] topbet.py završen uspešno.
-[OK] Fajl topbet/topbet_sledeci_mecevi.txt je stabilan (43716 bytes).
-[OK] Fajl topbet/topbet_mecevi_pregled.txt je stabilan (140360 bytes).
+[OK] Fajl topbet/topbet_sledeci_mecevi.txt je stabilan (43561 bytes).
+[OK] Fajl topbet/topbet_mecevi_pregled.txt je stabilan (139735 bytes).
 [TIME] oktagon.py trajanje: 01:06.01
 [STDOUT:oktagon.py]
-[OK] RAW sačuvan: /home/runner/work/Arbitrage2/Arbitrage2/oktagonbet/oktagonbet_sledeci_mecevi.txt  (dužina: 83370)
+[OK] RAW sačuvan: /home/runner/work/Arbitrage2/Arbitrage2/oktagonbet/oktagonbet_sledeci_mecevi.txt  (dužina: 83314)
 [OK] Pretty sačuvan: /home/runner/work/Arbitrage2/Arbitrage2/oktagonbet/oktagonbet_mecevi_pregled.txt (mečeva: 1042)
 
 [OK] oktagon.py završen uspešno.
-[OK] Fajl oktagonbet/oktagonbet_sledeci_mecevi.txt je stabilan (83418 bytes).
-[OK] Fajl oktagonbet/oktagonbet_mecevi_pregled.txt je stabilan (211720 bytes).
+[OK] Fajl oktagonbet/oktagonbet_sledeci_mecevi.txt je stabilan (83362 bytes).
+[OK] Fajl oktagonbet/oktagonbet_mecevi_pregled.txt je stabilan (211670 bytes).
 [TIME] maxbet.py trajanje: 00:40.01
 [STDOUT:maxbet.py]
 [*] Otvaram https://www.maxbet.rs/sr/sportsko-kladjenje/vremenska-ponuda ...
 [*] Pokušavam klik na sport/tab ikonici ...
-[TRY] Klik sport ikonica iz reda: x=422.0, y=237.6, w=56.0, h=44.8, txt=''
+[TRY] Klik sport ikonica iz reda: x=1337.0, y=29.0, w=38.0, h=44.0, txt=''
 [CLICK] .click(force=True)
 [INFO] Klik uspeo? True
 [*] Skrolujem 60 puta ...
 [*] Čitam document.body.innerText ...
-[OK] Sačuvan RAW: maxbet/maxbet_sledeci_mecevi.txt (dužina: 9283 bajtova)
-[OK] Prepoznato mečeva: 96
+[OK] Sačuvan RAW: maxbet/maxbet_sledeci_mecevi.txt (dužina: 3294 bajtova)
+[OK] Prepoznato mečeva: 20
 [OK] Sačuvan pregled: maxbet/maxbet_mecevi_pregled.txt
 === PREVIEW ===
 ======================================================================
-16:00  30.10.  [VREMENSKA PONUDA]
-Pyramids  vs  Ethiopian Insurance
-1=1.05   X=8.50   2=24.0
+16:05  30.10.  [VREMENSKA PONUDA]
+Fritz T.  vs  Bublik A.
+1=1.75   X=-   2=2.05
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 
 [OK] maxbet.py završen uspešno.
-[OK] Fajl maxbet/maxbet_sledeci_mecevi.txt je stabilan (9731 bytes).
-[OK] Fajl maxbet/maxbet_mecevi_pregled.txt je stabilan (25213 bytes).
+[OK] Fajl maxbet/maxbet_sledeci_mecevi.txt je stabilan (3510 bytes).
+[OK] Fajl maxbet/maxbet_mecevi_pregled.txt je stabilan (5408 bytes).
 
 [*] Pokrećem proba.py...
-[TIME] proba.py trajanje: 00:04.48
+[TIME] proba.py trajanje: 00:04.38
 [OK] proba.py završen uspešno.
 
 [*] Pokrećem procenti.py...
-[TIME] procenti.py trajanje: 00:00.15
+[TIME] procenti.py trajanje: 00:00.14
 [OK] procenti.py završen uspešno.
 
 [*] Provera stabilnosti ALL_MATCHES_AND_ARBS/kvote_arbitraza_FULL.txt pre push-a...
-[OK] Fajl ALL_MATCHES_AND_ARBS/kvote_arbitraza_FULL.txt je stabilan (1082434 bytes).
-[git] Commit ok: auto: update kvote_arbitraza_FULL.txt, tiketi.txt @ 2025-10-30 15:58
+[OK] Fajl ALL_MATCHES_AND_ARBS/kvote_arbitraza_FULL.txt je stabilan (1054324 bytes).
+[git] Commit ok: auto: update kvote_arbitraza_FULL.txt, tiketi.txt @ 2025-10-30 16:05
 [git] Push uspešan.
 
 [*] Generisanje izveštaja...
-[OK] Sačuvan izveštaj: izvestaji/izvestaj_2025-10-30_15-58.txt
+[OK] Sačuvan izveštaj: izvestaji/izvestaj_2025-10-30_16-05.txt
 
-[OK] Ciklus završen za 05:51.46.
-=== [Thu Oct 30 15:58:35 CET 2025] Finished run_all.py, syncing and pushing... ===
-=== [Thu Oct 30 15:58:37 CET 2025] Sleeping 1 minute before next cycle... ===
+[OK] Ciklus završen za 05:51.41.
+=== [Thu Oct 30 16:05:28 CET 2025] Finished run_all.py, syncing and pushing... ===
