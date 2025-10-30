@@ -16,7 +16,7 @@ Top Mečevi
 Top Lige
  
 Fudbal (223)
-227
+Sve
 Fudbal Strelci
 12
 Oktagon Duel
@@ -24,9 +24,9 @@ Oktagon Duel
 Golovi Po Ligama
 1
 Tenis
-29
+30
 Košarka
-25
+44
 Košarka Specijal
 6
 MMA
@@ -34,9 +34,9 @@ MMA
 Esport
 10
 Hokej
-35
+37
 Rukomet
-6
+10
 Americki Fudbal
 2
 Rukomet Specijal
@@ -83,14 +83,14 @@ Rijnsburgse Boys - Nijmegen
 1.74
 30.10. 19:00
 Salzburg - Tirol
-1.29
-5.25
-7.95
-2.60
-1.44
-2.18
-1.77
-2.05
+1.31
+5.10
+7.85
+2.45
+1.49
+2.30
+1.82
+2.15
 30.10. 19:00
 Benfica B - Pacos Ferreira
 1.71
@@ -103,24 +103,24 @@ Benfica B - Pacos Ferreira
 2.38
 30.10. 19:00
 Portimonense - Torreense
-2.65
+2.88
 3.35
-2.40
-1.99
-1.72
-2.90
+2.25
+2.02
+1.71
+2.88
 1.60
-2.03
+2.02
 30.10. 19:00
 Orihuela - Levante
-7.05
-5.40
-1.34
-2.88
-1.37
-1.98
-1.60
-1.82
+6.55
+5.20
+1.38
+2.85
+1.38
+2.00
+1.58
+1.80
 30.10. 19:00
 Barracas Central Res. - Huracan Res.
 3.85
@@ -193,12 +193,12 @@ Kalsdorf - Wolfsberger AC (Am)
 1.64
 30.10. 19:00
 Puerto de Vega - Celta Vigo
-55.0
-25.0
+60.0
+28.0
 -
-11.9
--
-1.11
+10.6
+1.01
+1.13
 -
 -
 30.10. 19:30
@@ -233,11 +233,11 @@ Baleares - Gimnastic
 2.60
 30.10. 20:00
 Real Avila - Real Aviles
-3.15
+3.25
 3.30
-2.22
-1.80
-1.92
+2.18
+1.81
+1.91
 3.45
 1.75
 2.30
@@ -343,23 +343,23 @@ Debrecen - Honved
 1.72
 30.10. 20:30
 Beerschot VA - Westerlo
-4.00
-3.95
-1.70
-2.55
-1.45
-2.20
+3.85
+3.90
+1.75
+2.50
+1.46
+2.22
 1.47
-1.72
+1.73
 30.10. 20:30
 Cercle Brugge KSV - Kortrijk
-1.64
-3.90
-4.55
+1.60
+3.95
+4.75
 2.18
-1.61
+1.60
 2.60
-1.65
+1.66
 2.00
 30.10. 20:30
 Grasshoppers - Young Boys
@@ -368,19 +368,19 @@ Grasshoppers - Young Boys
 2.04
 2.10
 1.65
-2.75
+2.70
 1.58
 1.96
 30.10. 20:30
 Lugano - Luzern
-1.87
+1.85
 3.75
-3.50
+3.55
 2.30
-1.54
+1.55
 2.45
-1.51
-1.81
+1.52
+1.82
 30.10. 20:30
 Gent - Patro Eisden
 1.25
@@ -437,9 +437,9 @@ Pisa - Lazio
 3.20
 2.18
 1.64
-2.25
-4.35
-2.02
+2.28
+4.40
+2.03
 2.80
 30.10. 20:45
 Nordsjaelland - Brondby
@@ -493,11 +493,11 @@ UD Samano - Dep. La Coruna
 2.75
 30.10. 21:00
 Imbabura - Chacaritas
-1.33
-4.70
-6.85
-2.50
-1.46
+1.28
+4.95
+7.75
+2.55
+1.44
 -
 -
 -
@@ -643,14 +643,14 @@ Chico - America De Cali
 2.75
 31.10. 01:30
 Palmeiras - LDU Quito
-1.16
-6.95
-15.5
+1.17
+6.80
+14.8
+2.60
+1.47
+2.22
+2.30
 2.62
-1.46
-2.20
-2.32
-2.65
 31.10. 01:30
 The Strongest - Petrolero
 1.32
@@ -1786,14 +1786,14 @@ RDF - Kadiogo
 3.00
 31.10. 16:45
 Khorfakkan - Al Wasl
-5.50
+5.45
 4.40
 1.43
 2.60
 1.43
 2.15
 1.58
-1.84
+1.83
 31.10. 17:00
 CSKA Moscow - Nizhny Novgorod
 1.37
@@ -1809,7 +1809,7 @@ Kudrivka - Obolon
 2.75
 3.05
 2.50
-1.67
+1.66
 2.08
 3.90
 1.86
@@ -1996,14 +1996,14 @@ Chelmianka Chelm - Cracovia Krakow II
 1.68
 31.10. 18:00
 Star Starachowice - Czarni Polaniec
-1.63
-3.85
-3.95
+1.50
+4.05
+4.70
 2.45
 1.44
 2.18
-1.48
-1.74
+1.54
+1.81
 31.10. 18:00
 Jihlava - Sparta Prague B
 1.90
@@ -2114,7 +2114,7 @@ Siwelele - Sekhukhune
 3.45
 8.30
 2.70
-4.35
+4.33
 31.10. 18:30
 Schalke II - Rodinghausen
 1.80
@@ -2727,14 +2727,14 @@ Horn - Parndorf
 2.07
 31.10. 20:00
 Always Ready - Guabira
-1.15
-6.55
-11.5
+1.13
+6.85
+12.8
 3.25
 1.28
 1.77
-1.82
-2.00
+1.92
+2.10
 31.10. 20:00
 Aston Villa U21 - Crystal Palace U21
 2.40
@@ -3217,9 +3217,9 @@ Estudiantes Rio Cuarto - Gimnasia y Tiro
 4.15
 01.11. 01:15
 Instituto - Rosario Central
-3.30
+3.35
 2.75
-2.50
+2.45
 1.32
 3.15
 7.25
@@ -6597,14 +6597,14 @@ Septemvri Sofia - Slavia Sofia
 2.38
 01.11. 16:30
 Ajax - Heerenveen
-1.54
-4.70
-5.05
-2.85
-1.38
-2.00
-1.48
-1.69
+1.57
+4.60
+4.80
+2.80
+1.39
+2.02
+1.47
+1.68
 01.11. 16:30
 Hapoel Tel Aviv - Ironi Tiberias
 1.42
@@ -8979,13 +8979,13 @@ Livorno - Forli
 02.11. 12:30
 Espanyol B - Olot
 2.55
-2.88
-2.70
-1.46
-2.40
-4.95
-2.05
-2.95
+2.80
+2.75
+1.41
+2.55
+5.40
+2.15
+3.10
 02.11. 12:30
 Socuellamos - RSD Alcala
 1.99
