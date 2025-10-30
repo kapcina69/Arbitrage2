@@ -9,7 +9,7 @@ Beerschot  vs  Westerlo
 - Mozzart    1=4.6  |  X=3.6  |  2=1.8  |  0-2=2.29  |  2+=1.18  |  3+=1.55
 - OktagonBet 1=3.85  |  X=3.9  |  2=1.75  |  0-2=2.5  |  3+=1.46  |  GG=1.47  |  GG&3+=1.73  |  4+=2.22
 - Soccer     1=3.9  |  X=4.0  |  2=1.73  |  0-2=2.45  |  2+=1.13  |  3+=1.48  |  GG=1.5  |  IGG=3.45  |  GG&3+=1.72
-- Topbet     1=3.6  |  X=3.8  |  2=1.75
+- Topbet     1=3.5  |  X=3.8  |  2=1.78
 
 Najveća 1  : 4.60  [Mozzart]
 Najveća X  : 4.50  [MaxBet]
@@ -31,7 +31,7 @@ Pisa  vs  Lazio
 - Mozzart    1=3.6  |  X=3.35  |  2=2.2  |  0-2=1.67  |  2+=1.4  |  3+=2.24
 - OktagonBet 1=3.6  |  X=3.2  |  2=2.18  |  0-2=1.65  |  3+=2.25  |  GG=2.02  |  GG&3+=2.8  |  4+=4.35
 - Soccer     1=3.65  |  X=3.2  |  2=2.2  |  0-2=1.65  |  2+=1.43  |  3+=2.25  |  GG=1.95  |  IGG=5.55  |  GG&3+=2.6
-- Topbet     1=3.6  |  X=3.25  |  2=2.15
+- Topbet     1=3.55  |  X=3.2  |  2=2.2
 
 Najveća 1  : 3.85  [MaxBet]
 Najveća X  : 3.35  [Mozzart]
@@ -62,21 +62,21 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0392   profit≈-3.92%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1492
+Ukupno mečeva (grupa): 1491
 Mečeva spojenih sa ≥2 kladionice (grupa size>1): 972
-Grupa sa veličinom ≥3: 637
+Grupa sa veličinom ≥3: 638
 Grupa sa veličinom ≥4: 357
-Grupa sa veličinom ≥5: 125
-Grupa sa veličinom ≥6: 44
+Grupa sa veličinom ≥5: 126
+Grupa sa veličinom ≥6: 45
 Grupa sa veličinom ≥7: 34
 
 Po kladionici:
   - BalkanBet  ukupno zapisa:  971   spojeno (u grupama >1):  842
-  - BetOle     ukupno zapisa:   29   spojeno (u grupama >1):   29
+  - BetOle     ukupno zapisa:   37   spojeno (u grupama >1):   37
   - Brazil_d   ukupno zapisa:   40   spojeno (u grupama >1):   39
   - Brazil_s   ukupno zapisa:   84   spojeno (u grupama >1):   81
   - MaxBet     ukupno zapisa:   44   spojeno (u grupama >1):   44
-  - Merkur     ukupno zapisa:   94   spojeno (u grupama >1):   42
+  - Merkur     ukupno zapisa:   93   spojeno (u grupama >1):   42
   - Mozzart    ukupno zapisa:  396   spojeno (u grupama >1):  365
   - OktagonBet ukupno zapisa: 1040   spojeno (u grupama >1):  788
   - Soccer     ukupno zapisa:  348   spojeno (u grupama >1):  327
