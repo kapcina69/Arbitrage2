@@ -2,6 +2,7 @@
 Beerschot  vs  Westerlo
 
 - BalkanBet  1=4.1  |  X=4  |  2=1.75  |  0-2=2.5  |  2+=1.17  |  3+=1.52  |  GG=1.48  |  IGG=3.75  |  GG&3+=1.75  |  GG&4+=2.65  |  4+=2.3
+- BetOle     1=3.85  |  X=3.9  |  2=1.75  |  0-2=2.5  |  3+=1.47
 - Brazil_d   -
 - MaxBet     1=4.25  |  X=4.50  |  2=1.83
 - Mozzart    1=4.6  |  X=3.6  |  2=1.8  |  0-2=2.29  |  2+=1.18  |  3+=1.55
@@ -12,7 +13,7 @@ Beerschot  vs  Westerlo
 Najveća 1  : 4.60  [Mozzart]
 Najveća X  : 4.50  [MaxBet]
 Najveća 2  : 1.83  [MaxBet]
-Najveća 0-2: 2.50  [BalkanBet, OktagonBet]
+Najveća 0-2: 2.50  [BalkanBet, BetOle, OktagonBet]
 Najveća 3+ : 1.55  [Mozzart]
 
 Arbitraža (1-X-2): DA   inv_sum=0.9861   profit≈1.39%
@@ -22,6 +23,7 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0452   profit≈-4.52%
 Pisa  vs  Lazio
 
 - BalkanBet  1=3.75  |  X=3.15  |  2=2.2  |  0-2=1.65  |  2+=1.45  |  3+=2.3  |  GG=1.95  |  IGG=5.35  |  GG&3+=2.6  |  GG&4+=4.75  |  4+=4.35
+- BetOle     1=3.6  |  X=3.2  |  2=2.2  |  0-2=1.63  |  3+=2.27
 - Brazil_d   -
 - MaxBet     1=3.80  |  X=3.25  |  2=2.30
 - Mozzart    1=3.6  |  X=3.35  |  2=2.2  |  0-2=1.67  |  2+=1.4  |  3+=2.24
@@ -58,24 +60,24 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0392   profit≈-3.92%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1433
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 989
-Grupa sa veličinom ≥3: 642
-Grupa sa veličinom ≥4: 373
-Grupa sa veličinom ≥5: 152
-Grupa sa veličinom ≥6: 47
-Grupa sa veličinom ≥7: 21
+Ukupno mečeva (grupa): 1438
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 969
+Grupa sa veličinom ≥3: 641
+Grupa sa veličinom ≥4: 368
+Grupa sa veličinom ≥5: 126
+Grupa sa veličinom ≥6: 43
+Grupa sa veličinom ≥7: 27
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  985   spojeno (u grupama >1):  853
-  - Brazil_d   ukupno zapisa:   43   spojeno (u grupama >1):   42
-  - Brazil_p   ukupno zapisa:   41   spojeno (u grupama >1):   40
-  - Brazil_s   ukupno zapisa:  109   spojeno (u grupama >1):  106
-  - MaxBet     ukupno zapisa:   56   spojeno (u grupama >1):   55
-  - Mozzart    ukupno zapisa:  396   spojeno (u grupama >1):  365
-  - OktagonBet ukupno zapisa: 1040   spojeno (u grupama >1):  807
-  - Soccer     ukupno zapisa:  348   spojeno (u grupama >1):  337
-  - Topbet     ukupno zapisa:  651   spojeno (u grupama >1):  620
+  - BalkanBet  ukupno zapisa:  973   spojeno (u grupama >1):  843
+  - BetOle     ukupno zapisa:   38   spojeno (u grupama >1):   38
+  - Brazil_d   ukupno zapisa:   31   spojeno (u grupama >1):   30
+  - Brazil_s   ukupno zapisa:   84   spojeno (u grupama >1):   81
+  - MaxBet     ukupno zapisa:   44   spojeno (u grupama >1):   44
+  - Mozzart    ukupno zapisa:  411   spojeno (u grupama >1):  380
+  - OktagonBet ukupno zapisa: 1040   spojeno (u grupama >1):  788
+  - Soccer     ukupno zapisa:  348   spojeno (u grupama >1):  328
+  - Topbet     ukupno zapisa:  661   spojeno (u grupama >1):  629
 
 Arbitraže (broj mečeva/grupa):
   - 1-X-2: 3
