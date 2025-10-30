@@ -37,7 +37,7 @@ Sve
   
   
 FUDBAL
-1538
+1539
   
   
 GOLOVI PO LIGAMA
@@ -45,7 +45,7 @@ GOLOVI PO LIGAMA
   
   
 KOŠARKA
-116
+118
   
   
 SP. KOŠARKA
@@ -53,7 +53,7 @@ SP. KOŠARKA
   
   
 TENIS
-156
+155
   
   
 RUKOMET
@@ -74,6 +74,10 @@ HOKEJ
   
 AM.FUDBAL
 46
+  
+  
+SP. AM. FUDBAL
+20
   
   
 BEJZBOL
@@ -125,7 +129,7 @@ ESPORT
   
   
 SP. FUDBAL
-2803
+2801
   
   
 VIR. FUDBAL
@@ -295,39 +299,39 @@ Aswan SC
 Abu Qir Semad
 30.10. 13:30
 ki 1
-3.95
+4.35
 ki X
-2.45
+2.55
 ki 2
-2.15
+1.97
 manje 2.5
-1.14
+1.15
 više 2.5
-4.45
+4.33
 +40
 Dayrout
 Asyut Petroleum
 30.10. 13:30
 ki 1
-2.83
+3.35
 ki X
-2.60
+2.65
 ki 2
-2.55
+2.20
 manje 2.5
-1.28
+1.29
 više 2.5
-3.10
+3.05
 +40
 El Daklyeh
 Al-Sekka
 30.10. 13:30
 ki 1
-2.37
+2.27
 ki X
-2.57
+2.60
 ki 2
-3.10
+3.30
 manje 2.5
 1.26
 više 2.5
@@ -552,36 +556,36 @@ više 2.5
 2.77
  
 Oman, Professional League
-+798
++807
 Dhofar
 Samail
 30.10. 14:15
 ki 1
-2.02
+1.97
 ki X
-2.93
+2.95
 ki 2
-3.70
+3.75
 manje 2.5
-1.42
+1.43
 više 2.5
-2.60
+2.57
  
 Tunisia, Ligue Professionnelle 1
-+626
++630
 Esperance Tunis
 Bizertin
 30.10. 14:30
 ki 1
-1.18
+1.22
 ki X
-5.20
+4.75
 ki 2
-15.0
+12.5
 manje 2.5
-1.80
+1.72
 više 2.5
-1.88
+1.97
  
 Uzbekistan, Super League
 +811
@@ -630,7 +634,7 @@ više 2.5
 2.77
  
 Jordan, Premier League
-+811
++815
 Shabab Al Ordon
 Al Salt
 30.10. 15:00
@@ -774,20 +778,20 @@ više 2.5
 1.35
  
 International Clubs, CAF Champions League - Qualification
-+781
++775
 Pyramids
 Ethiopian Insurance
 30.10. 16:00
 ki 1
-1.08
+1.04
 ki X
-7.50
+9.25
 ki 2
-20.0
+24.0
 manje 2.5
-2.50
+2.88
 više 2.5
-1.45
+1.35
  
 Iraq, Stars League
 +634
@@ -836,20 +840,20 @@ više 2.5
 2.25
  
 Ukraine, Ukrainian Cup
-+802
++800
 Metalist 1925
 Ahrobiznes Volochysk
 30.10. 16:00
 ki 1
-1.21
+1.20
 ki X
 5.45
 ki 2
-10.0
+10.5
 manje 2.5
-2.30
+2.25
 više 2.5
-1.53
+1.57
  
 Turkey, Turkish Cup - Qualification
 +36
@@ -944,18 +948,18 @@ manje 2.5
 1.93
 više 2.5
 1.75
-+813
++811
 Malkia
 Al-Ahli Manama
 30.10. 17:00
 ki 1
-2.77
+3.20
 ki X
-3.05
+3.10
 ki 2
-2.37
+2.12
 manje 2.5
-1.70
+1.71
 više 2.5
 2.00
  
@@ -990,20 +994,20 @@ više 2.5
 1.37
  
 Finland, Veikkausliiga - Championship Group
-+830
++829
 Inter Turku
 SJK
 30.10. 17:00
 ki 1
-1.63
+1.61
 ki X
-4.20
+4.25
 ki 2
-4.60
+4.65
 manje 2.5
-2.50
+2.60
 više 2.5
-1.47
+1.45
 +820
 KuPS
 Gnistan
@@ -1073,27 +1077,27 @@ Al Ahli Amman
 Al Hussein
 30.10. 17:30
 ki 1
-11.5
+13.0
 ki X
-5.35
+5.45
 ki 2
-1.23
+1.21
 manje 2.5
-2.15
+2.10
 više 2.5
-1.63
+1.65
  
 Qatar, QSL
-+827
++831
 Al-Sadd
 Al Rayyan
 30.10. 17:30
 ki 1
-2.80
+2.65
 ki X
 3.80
 ki 2
-2.03
+2.15
 manje 2.5
 2.93
 više 2.5
@@ -1212,20 +1216,20 @@ više 2.5
 1.18
  
 Finland, Veikkausliiga - Championship Group
-+831
++836
 Ilves
 HJK
 30.10. 18:00
 ki 1
 1.87
 ki X
-4.15
+4.20
 ki 2
-3.35
+3.40
 manje 2.5
-2.97
+3.10
 više 2.5
-1.35
+1.33
  
 Hungary, Hungarian Cup
 +639
@@ -1306,20 +1310,20 @@ više 2.5
 2.30
  
 Italy, Serie A
-+1056
++1060
 Cagliari
 Sassuolo
 30.10. 18:30
 ki 1
-2.60
+2.62
 ki X
 3.10
 ki 2
-2.93
+2.90
 manje 2.5
-1.67
+1.65
 više 2.5
-2.22
+2.25
  
 Saudi Arabia, Saudi Professional League
 +795
@@ -1816,20 +1820,20 @@ više 2.5
 1.35
  
 Switzerland, Super League
-+828
++827
 Grasshoppers
 Young Boys
 30.10. 20:30
 ki 1
 3.35
 ki X
-3.50
+3.45
 ki 2
 2.00
 manje 2.5
-2.05
+2.03
 više 2.5
-1.67
+1.70
 +827
 Lugano
 Luzern
@@ -2176,12 +2180,12 @@ više 2.5
 1.75
  
 Colombia, Primera A - Clausura
-+811
++817
 U. Magdalena
 Deportes Tolima
 30.10. 22:00
 ki 1
-3.80
+3.85
 ki X
 3.15
 ki 2
@@ -2267,7 +2271,7 @@ UPLATI
 DOBITAK DO: 10,000.00 din
 din
 RSD
-1
+5
 0
 0
 .
@@ -2305,14 +2309,14 @@ Danijela D.
 8.000,00
 5.
 Nina T.
-7,480.63
+7,693.63
 5.000,00
 Pravila igre
 Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-12:31:04
+12:39:53
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
