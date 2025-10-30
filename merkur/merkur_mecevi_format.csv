@@ -1,16 +1,15 @@
 TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
-21:30;Gremio U20;Sao Paulo U20;;3.2;3.05;2.12;1.91;1.8;2.85;1.62;;
 22:00;U. Magdalena;Dep. Tolima;757;4.1;3.3;1.9;1.6;2.2;4.15;2.0;5.6;2.7
-23:00;Lanus;U. De Chile;777;1.83;3.25;4.55;1.57;2.32;4.5;2.13;6.1;2.95
+23:00;Lanus;U. De Chile;777;1.83;3.25;4.6;1.57;2.32;4.45;2.13;6.1;2.95
 23:00;Franca;Uniao;;1.1;24.0;7.5;;;;;;
 23:00;Universidad O&M;Cibao;392;3.15;3.5;2.07;1.9;1.8;3.0;1.7;4.55;2.13
 23:00;Monte Roraima U20;Iape U20;;4.2;3.75;1.65;2.17;1.61;2.5;1.62;;
 23:00;Tomayapo;Ind. Petroleros;392;1.95;3.75;3.05;2.4;1.48;2.27;1.43;3.65;1.73
-23:30;Itabom Bauru;Caxias do Sul;;1.53;14.0;2.8;;;;;;
+23:30;Itabom Bauru;Caxias do Sul;;1.57;14.0;2.7;;;;;;
 00:00;Charlotte;Orlando;;2.3;15.0;1.8;;;;;;
 00:00;Boston;Buffalo;;2.55;4.3;2.32;;;;;;
 00:00;Ottawa;Calgary;;1.93;4.5;3.2;;;;;;
-00:00;Philadelphia;Nashville;;2.03;4.4;3.05;;;;;;
+00:00;Philadelphia;Nashville;;2.04;4.4;3.05;;;;;;
 00:00;Tampa Bay;Dallas;;2.05;4.4;3.0;;;;;;
 00:00;Barrie;Sarnia;;1.77;4.4;3.2;;;;;;
 00:00;Erie;Guelph;;2.25;4.2;2.4;;;;;;
@@ -35,7 +34,7 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 01:15;Miami;Baltimore;;3.85;16.0;1.33;;;;;;
 01:15;Malvin;Club Goes;;1.33;16.0;3.8;;;;;;
 01:30;San Antonio;Miami;;1.5;16.0;3.05;;;;;;
-01:30;Palmeiras;LDU Quito;780;1.16;7.5;15.0;2.75;1.43;2.07;2.2;5.2;2.45
+01:30;Palmeiras;LDU Quito;780;1.16;7.5;16.0;2.75;1.45;2.1;2.23;5.25;2.5
 01:30;The Strongest;Oriente Petrolero;388;1.42;4.35;5.7;2.7;1.38;2.0;1.53;3.8;1.77
 01:30;Spencer, Mary;Mayer, Mikaela;;6.75;18.0;1.15;;;;;;
 01:45;Boca Juniors;Ferrocarril Oeste;;1.3;6.75;6.0;;;;;;
@@ -45,7 +44,7 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 02:15;Brujos Izalco;Independiente Bkb;;5.25;19.0;1.15;;;;;;
 02:20;Llaneros;Atl. Nacional;756;4.3;3.35;1.83;1.65;2.1;3.9;1.95;5.5;2.62
 02:30;Coachella V.F.;San Diego;;2.25;4.0;2.6;;;;;;
-03:00;San Jose;New Jersey;;3.8;4.9;1.71;;;;;;
+03:00;San Jose;New Jersey;;3.85;5.0;1.7;;;;;;
 03:00;Olimpia;Alajuelense;759;2.23;2.8;3.25;1.65;2.07;3.8;1.85;5.2;2.55
 03:00;Desamparados;Carmelita;762;1.95;3.4;3.3;1.8;1.87;3.3;1.72;4.75;2.27
 03:15;Astros;Diablos Rojos;;1.23;18.0;4.6;;;;;;
@@ -134,3 +133,6 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 16:30;Fratria;Vihren;386;1.63;3.5;4.55;1.9;1.8;3.05;1.77;4.85;2.27
 16:30;Loko U20;Atlant U20;;1.15;6.75;11.0;;;;;;
 16:30;Reaktor U20;Krasnoy. Rysi U20;;1.5;4.75;4.6;;;;;;
+16:45;Khorfakkan;Al Wasl;761;5.6;4.55;1.45;2.7;1.4;2.03;1.52;3.8;1.77
+17:00;CSKA Moscow;Nizhny Novgorod;784;1.4;4.9;8.0;2.15;1.73;2.8;2.0;5.25;2.42
+17:00;Kudrivka;Obolon;764;2.7;3.05;2.52;1.65;2.07;3.8;1.82;5.1;2.5
