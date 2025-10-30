@@ -1,19 +1,19 @@
 13:30   30.10.   [S.Makedonija 1]
 Shkupi  vs  Struga TL
 
-- BalkanBet  1=10.5  |  X=5.5  |  2=1.2  |  2+=1.42  |  3+=2.65
-- Brazil_d   1=12  |  X=6.25  |  2=1.16  |  0-2=2.8  |  2+=1.08  |  3+=1.36
-- MaxBet     1=12.0  |  X=6.20  |  2=1.13
+- BalkanBet  1=12.25  |  X=6.25  |  2=1.15  |  2+=1.42  |  3+=2.65
+- Brazil_d   -
+- MaxBet     1=13.0  |  X=6.90  |  2=1.10
 - OktagonBet 1=12.3  |  X=6.35  |  2=1.15  |  0-2=2.8  |  3+=1.36  |  GG=2.04  |  GG&3+=2.28  |  4+=1.96
 - Soccer     1=14.7  |  X=5.4  |  2=1.17  |  0-2=2.8  |  2+=None  |  3+=None  |  GG=None  |  IGG=None  |  GG&3+=None
 
 Najveća 1  : 14.70  [Soccer]
-Najveća X  : 6.35  [OktagonBet]
-Najveća 2  : 1.20  [BalkanBet]
-Najveća 0-2: 2.80  [Brazil_d, OktagonBet, Soccer]
+Najveća X  : 6.90  [MaxBet]
+Najveća 2  : 1.17  [Soccer]
+Najveća 0-2: 2.80  [OktagonBet, Soccer]
 Najveća 3+ : 2.65  [BalkanBet]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0588   profit≈-5.88%
+Arbitraža (1-X-2): NE   inv_sum=1.0677   profit≈-6.77%
 Arbitraža (0-2 / 3+): DA   inv_sum=0.7345   profit≈26.55%
 
 15:00   30.10.   [Rusija Kup]
@@ -21,7 +21,7 @@ Ufa  vs  Neftekhimik
 
 - BalkanBet  1=2.65  |  X=2.9  |  2=2.8  |  0-2=1.44  |  2+=1.52  |  3+=2.6  |  GG=2.1  |  IGG=5.75  |  GG&3+=3.25  |  GG&4+=5.55  |  4+=5.15
 - BetOle     1=2.6  |  X=2.73  |  2=2.8  |  0-2=1.45  |  3+=2.55
-- Brazil_d   1=2.6  |  X=2.7  |  2=2.85  |  0-2=1.44  |  2+=1.48  |  3+=2.5
+- Brazil_d   -
 - MaxBet     1=2.40  |  X=3.30  |  2=3.55
 - OktagonBet 1=2.6  |  X=2.75  |  2=2.8  |  0-2=1.45  |  3+=2.55  |  GG=2.15  |  GG&3+=3.1  |  4+=5.25
 - Soccer     1=2.65  |  X=2.9  |  2=2.75  |  0-2=1.45  |  2+=1.55  |  3+=2.6  |  GG=2.13  |  IGG=6.05  |  GG&3+=2.85
@@ -40,26 +40,26 @@ Ilves  vs  HJK Helsinki
 
 - BalkanBet  1=1.85  |  X=3.75  |  2=3.85  |  0-2=3.15  |  2+=1.1  |  3+=1.35  |  GG=1.34  |  IGG=3.15  |  GG&3+=1.55  |  GG&4+=2.2  |  4+=1.9
 - BetOle     1=1.83  |  X=4.3  |  2=3.4  |  0-2=3.3  |  3+=1.29
-- Brazil_d   1=1.84  |  X=4.25  |  2=3.45  |  0-2=3.3  |  2+=1.06  |  3+=1.29
+- Brazil_d   -
 - MaxBet     1=1.93  |  X=4.60  |  2=3.75
-- OktagonBet 1=1.84  |  X=4.3  |  2=3.4  |  0-2=3.25  |  3+=1.3  |  GG=1.32  |  GG&3+=1.47  |  4+=1.8
+- OktagonBet 1=1.84  |  X=4.3  |  2=3.4  |  0-2=3.4  |  3+=1.28  |  GG=1.3  |  GG&3+=1.44  |  4+=1.75
 - Soccer     1=1.87  |  X=4.25  |  2=3.4  |  0-2=3.05  |  2+=1.07  |  3+=1.34  |  GG=1.35  |  IGG=2.9  |  GG&3+=1.52
 
 Najveća 1  : 1.93  [MaxBet]
 Najveća X  : 4.60  [MaxBet]
 Najveća 2  : 3.85  [BalkanBet]
-Najveća 0-2: 3.30  [BetOle, Brazil_d]
+Najveća 0-2: 3.40  [OktagonBet]
 Najveća 3+ : 1.35  [BalkanBet]
 
 Arbitraža (1-X-2): DA   inv_sum=0.9953   profit≈0.47%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0438   profit≈-4.38%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0349   profit≈-3.49%
 
 20:45   30.10.   [Italija 1]
 Pisa  vs  Lazio
 
 - BalkanBet  1=3.6  |  X=3.25  |  2=2.2  |  0-2=1.65  |  2+=1.45  |  3+=2.3  |  GG=1.95  |  IGG=5.4  |  GG&3+=2.6  |  GG&4+=4.75  |  4+=4.35
 - BetOle     1=3.6  |  X=3.2  |  2=2.15  |  0-2=1.65  |  3+=2.25
-- Brazil_d   1=3.6  |  X=3.2  |  2=2.18  |  0-2=1.65  |  2+=1.42  |  3+=2.28
+- Brazil_d   -
 - MaxBet     1=3.85  |  X=3.25  |  2=2.30
 - Mozzart    1=3.6  |  X=3.35  |  2=2.2  |  0-2=1.67  |  2+=1.4  |  3+=2.24
 - OktagonBet 1=3.6  |  X=3.2  |  2=2.15  |  0-2=1.65  |  3+=2.25  |  GG=2.02  |  GG&3+=2.75  |  4+=4.35
@@ -111,25 +111,25 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0500   profit≈-5.00%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1460
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1122
-Grupa sa veličinom ≥3: 776
-Grupa sa veličinom ≥4: 476
-Grupa sa veličinom ≥5: 304
-Grupa sa veličinom ≥6: 142
-Grupa sa veličinom ≥7: 70
+Ukupno mečeva (grupa): 1467
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1114
+Grupa sa veličinom ≥3: 773
+Grupa sa veličinom ≥4: 480
+Grupa sa veličinom ≥5: 303
+Grupa sa veličinom ≥6: 138
+Grupa sa veličinom ≥7: 69
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa: 1055   spojeno (u grupama >1):  908
+  - BalkanBet  ukupno zapisa: 1055   spojeno (u grupama >1):  906
   - BetOle     ukupno zapisa:  119   spojeno (u grupama >1):  118
-  - Brazil_d   ukupno zapisa:  126   spojeno (u grupama >1):  125
-  - Brazil_p   ukupno zapisa:  357   spojeno (u grupama >1):  354
+  - Brazil_d   ukupno zapisa:  117   spojeno (u grupama >1):  116
+  - Brazil_p   ukupno zapisa:  357   spojeno (u grupama >1):  348
   - Brazil_s   ukupno zapisa:  187   spojeno (u grupama >1):  184
-  - MaxBet     ukupno zapisa:  128   spojeno (u grupama >1):  127
-  - Mozzart    ukupno zapisa:  387   spojeno (u grupama >1):  356
-  - OktagonBet ukupno zapisa: 1041   spojeno (u grupama >1):  929
+  - MaxBet     ukupno zapisa:  126   spojeno (u grupama >1):  125
+  - Mozzart    ukupno zapisa:  387   spojeno (u grupama >1):  355
+  - OktagonBet ukupno zapisa: 1041   spojeno (u grupama >1):  922
   - Soccer     ukupno zapisa:  348   spojeno (u grupama >1):  346
-  - Topbet     ukupno zapisa:  656   spojeno (u grupama >1):  619
+  - Topbet     ukupno zapisa:  656   spojeno (u grupama >1):  620
 
 Arbitraže (broj mečeva/grupa):
   - 1-X-2: 5
