@@ -15,7 +15,7 @@ Top Mečevi
  
 Top Lige
  
-Fudbal (240)
+Fudbal (244)
 Sve
 Fudbal Strelci
 12
@@ -99,21 +99,21 @@ Murcia - Antequera
 2.85
 30.10. 21:00
 UD Samano - Dep. La Coruna
-10.3
-4.75
+10.6
+4.65
 1.31
-1.97
-1.76
-3.00
-2.35
-2.90
+1.88
+1.84
+3.25
+2.50
+3.10
 30.10. 21:00
 Imbabura - Chacaritas
-1.13
-6.80
-12.8
-3.15
-1.29
+1.14
+6.70
+12.0
+3.30
+1.27
 -
 -
 -
@@ -129,21 +129,21 @@ Raalte - Twente
 1.99
 30.10. 21:00
 Atletic Lleida - Espanyol
-24.0
-9.25
-1.09
-3.15
-1.31
-1.84
-2.47
-2.70
+23.5
+9.45
+1.08
+3.35
+1.28
+1.76
+2.35
+2.55
 30.10. 21:00
 Atletico Palma del Rio - Betis
 60.0
-24.0
+25.5
 -
-9.10
-1.03
+9.65
+1.02
 -
 -
 -
@@ -179,14 +179,14 @@ Leixoes - Academico Viseu
 2.70
 30.10. 21:15
 Maritimo - Leiria
-2.15
+2.12
 3.15
-3.30
-1.73
-1.99
+3.35
+1.72
+2.00
 3.65
-1.81
-2.40
+1.82
+2.45
 30.10. 21:30
 Gremio U20 - Sao Paulo U20
 3.05
@@ -260,11 +260,11 @@ Chico - America De Cali
 31.10. 01:30
 Palmeiras - LDU Quito
 1.17
-6.95
-14.8
+6.90
+14.5
 2.70
 1.44
-2.12
+2.15
 2.22
 2.50
 31.10. 01:30
@@ -1533,14 +1533,14 @@ RDF - Kadiogo
 3.35
 31.10. 16:30
 ASF Dioulasso - Sporting Cascades
-1.91
-3.00
-3.70
+1.94
+2.95
+3.65
 1.46
 2.40
 4.90
 2.15
-3.00
+3.05
 31.10. 16:30
 CFFEB - Rahimo
 2.65
@@ -2383,6 +2383,16 @@ Seekirchen - Pinzgau Saalfelden
 1.71
 1.93
 31.10. 19:30
+Merten - Frechen
+1.99
+3.95
+2.65
+3.80
+1.18
+1.56
+1.20
+1.32
+31.10. 19:30
 FC Sturm Hauzenberg - Heimstetten
 4.15
 4.20
@@ -2714,14 +2724,14 @@ Luton - Forest Green
 2.25
 31.10. 20:30
 Augsburg - Dortmund
-4.50
-4.25
-1.69
-2.62
-1.50
+4.75
+4.30
+1.65
+2.65
+1.49
 2.25
-1.54
-1.80
+1.55
+1.81
 31.10. 20:30
 Piast Gliwice - Korona Kielce
 2.50
@@ -2794,24 +2804,24 @@ Picerno - Cavese
 2.60
 31.10. 20:30
 Afan Lido - Caerau Ely
-5.00
-3.95
-1.48
-2.22
-1.56
-2.47
-1.68
-2.02
+5.35
+4.25
+1.42
+2.50
+1.44
+2.18
+1.59
+1.86
 31.10. 20:30
 Cwmbran Celtic - Baglan Dragons
-3.65
-3.60
-1.74
-2.20
-1.56
-2.50
-1.55
-1.88
+3.75
+3.40
+1.76
+2.04
+1.66
+2.75
+1.64
+2.02
 31.10. 20:45
 Bangor FC - Carrick Rangers
 2.47
@@ -2824,24 +2834,24 @@ Bangor FC - Carrick Rangers
 1.94
 31.10. 20:45
 Glentoran - Portadown
-1.46
-4.05
-6.40
-1.96
+1.48
+4.00
+6.20
+1.95
 1.75
 3.00
-1.97
-2.45
+1.95
+2.40
 31.10. 20:45
 Ayr - Dunfermline
-1.92
-3.10
+1.90
+3.15
 4.10
-1.48
-2.47
-5.10
-2.22
-3.10
+1.52
+2.38
+4.75
+2.15
+2.95
 31.10. 20:45
 St. Liege - Charleroi
 2.70
@@ -4224,14 +4234,14 @@ Norrby - Husqvarna
 1.84
 01.11. 13:00
 Rosengard - Hässleholms IF
-3.35
-3.35
-1.95
+3.00
+3.25
+2.12
 1.94
 1.75
 3.00
-1.66
-2.10
+1.64
+2.08
 01.11. 13:00
 Orebro Syr. - AFC Eskilstuna
 3.10
@@ -4542,6 +4552,36 @@ Vejgaard - BK Frem
 3.05
 1.64
 2.10
+01.11. 14:00
+Vitkovice - Hodonin
+3.40
+3.55
+1.81
+2.18
+1.55
+2.47
+1.52
+1.84
+01.11. 14:00
+Vrchovina - Zlin B
+2.50
+3.25
+2.38
+2.02
+1.65
+2.75
+1.54
+1.94
+01.11. 14:00
+Vsetin - Hlucin
+2.40
+3.50
+2.35
+2.40
+1.45
+2.22
+1.40
+1.67
 01.11. 14:00
 Opava - Taborsko
 2.28
@@ -5192,6 +5232,16 @@ Vendsyssel FF - Ishoj IF
 2.75
 1.65
 2.02
+01.11. 15:00
+Kirov - Tekstilshtik
+3.15
+3.15
+2.10
+1.80
+1.88
+3.35
+1.74
+2.28
 01.11. 15:30
 Heidenheim - Eintracht Frankfurt
 3.65
@@ -6824,14 +6874,14 @@ FC Arlanda - Karlstad
 1.74
 01.11. 16:00
 Karlbergs - United Nordic
-4.30
-3.85
-1.63
-2.22
-1.57
-2.50
-1.60
-1.93
+4.80
+4.00
+1.54
+2.25
+1.55
+2.47
+1.64
+1.96
 01.11. 16:00
 Oryol - Ryazan
 3.00
@@ -7566,7 +7616,7 @@ Leganes - Burgos CF
 Real Sociedad - Athletic Bilbao
 2.75
 3.00
-2.80
+2.85
 1.58
 2.38
 4.75
@@ -7665,14 +7715,14 @@ Monaco - Paris FC
 1.78
 01.11. 19:00
 Casa Pia - Estrela
-2.15
-3.10
-3.55
+2.10
+3.15
+3.60
 1.56
 2.30
-4.55
-2.04
-2.80
+4.50
+2.05
+2.85
 01.11. 19:00
 Rio Ave - Estoril
 2.40
@@ -8159,9 +8209,9 @@ Mirassol - Botafogo
 3.30
 3.15
 1.79
-1.94
+1.93
 3.50
-1.77
+1.76
 2.32
 01.11. 22:00
 Alianza - Chico
@@ -9656,14 +9706,14 @@ BVSC-Zuglo - Szentlorinc
 2.45
 02.11. 13:00
 Nurnberg II - SpVgg Bayreuth
-1.67
+1.65
 3.75
-4.05
-2.22
-1.56
-2.50
-1.58
-1.90
+4.20
+2.15
+1.60
+2.60
+1.63
+1.97
 02.11. 13:00
 Kauno Zalgiris - FK Panevezys
 1.53
@@ -9896,14 +9946,14 @@ Viborg - Randers FC
 2.02
 02.11. 14:00
 Lugano - St. Gallen
-2.07
-3.55
-3.10
-2.18
-1.61
-2.62
+1.98
+3.65
+3.20
+2.30
 1.55
-1.90
+2.45
+1.51
+1.82
 02.11. 14:00
 Wil - Xamax
 2.60
@@ -10525,59 +10575,9 @@ Etar - Chernomorets 1919
 3.90
 2.04
 2.70
-02.11. 15:00
-Kozarmisleny SE - Csakvari
-2.40
-3.20
-2.65
-1.85
-1.83
-3.25
-1.68
-2.18
-02.11. 15:00
-Szeged - Budafoki
-1.71
-3.35
-4.40
-1.78
-1.90
-3.45
-1.88
-2.40
-02.11. 15:00
-Zamalek - El Gaish
-1.45
-3.60
-7.05
-1.58
-2.20
-4.30
-2.55
-3.40
-02.11. 15:00
-Team TG FF - Sollentuna
-5.85
-4.45
-1.40
-2.50
-1.45
-2.20
-1.64
-1.91
-02.11. 15:15
-Eastleigh - Walsall
-4.30
-3.50
-1.81
-1.92
-1.80
-3.15
-1.76
-2.22
 
 
-Preostalo mečeva 506
+Preostalo mečeva 513
 
 
 Učitaj sledećih  
@@ -10600,24 +10600,24 @@ OPIS IGARA
 UPLATNA MESTA
 PROMOCIJE
 ALPHAPEX DOO priređuje igre na sreću preko sredstava elektronske komunikacije – klađenje i ostale igre preko svog sajta www.oktagonbet.com u skladu sa odobrenjem izdatim od strane Ministarstva finansija Republike Srbije, Uprave za igre na sreću na osnovu Rešenja broj 424-01-00022/2020-02 od 30. aprila 2020. godine. Osobama mlađim od 18 godina, po Zakonu o igrama na sreću, nije dozvoljeno klađenje putem elektronske komunikacije na sajtu www.oktagonbet.com.
-TIKET (7)
-Bochum - Magdeburg
-02.11. 13:30
+TIKET (6)
+Muglaspor - Elazigspor
+02.11. 13:00
 Konačan Ishod
 X
-3.65
+3.30
 X
-Cardiff Metropolitan - Connahs Q.
+Union Berlin - Freiburg
 01.11. 15:30
 Konačan Ishod
 X
-3.45
+3.20
 X
-San Lorenzo - Deportivo Riestra
+Coritiba - CRB
 31.10. 23:00
 Konačan Ishod
 X
-2.90
+3.25
 X
 Mes Rafsanjan - Chadormalu
 31.10. 14:00
@@ -10631,12 +10631,6 @@ Konačan Ishod
 X
 3.35
 X
-Hong Linh Ha Tinh - Hanoi FC
-31.10. 12:00
-Konačan Ishod
-1
-4.50
-X
 Dempo - Chennaiyin
 31.10. 12:00
 Konačan Ishod
@@ -10645,10 +10639,10 @@ X
 X
 OBIČAN
 SISTEM
- Kvota:5.857,45
- Bonus: 10%  11.714,91
+ Kvota:1.223,30
+ Bonus: 7%  1.712,62
 Ukupan dobitak:
-128.864,00 RSD
+26.179,00 RSD
 UPLATI
 OKTAGON TIKET
 
