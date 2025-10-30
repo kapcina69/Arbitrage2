@@ -71,16 +71,6 @@ UG3+
 UG4+
 GG
 GG3+
-30.10. 16:15
-Damac - Al-Fateh
-3.45
-3.65
-1.83
-2.22
-1.57
-2.50
-1.53
-1.85
 30.10. 16:30
 Al Rustaq - Saham
 3.30
@@ -103,14 +93,14 @@ Shabab Al-Ahli Dubai - Al Sharjah
 2.05
 30.10. 16:45
 Ajman - Al Ain SCC
-5.35
-4.30
-1.45
-2.50
-1.46
-2.22
-1.59
-1.87
+4.70
+4.10
+1.54
+2.45
+1.47
+2.25
+1.56
+1.83
 30.10. 17:00
 Bahrain SC - Ali CSC
 3.35
@@ -203,14 +193,14 @@ Azam - Singida Black Stars
 3.45
 30.10. 17:30
 F. Voronezh - Arsenal Tula
-1.80
-3.05
-4.40
-1.47
-2.47
+1.70
+3.10
 5.10
-2.30
-3.25
+1.45
+2.55
+5.25
+2.45
+3.40
 30.10. 17:30
 Al-Sadd - Al Rayyan
 2.85
@@ -303,12 +293,12 @@ Ilves - HJK
 1.45
 30.10. 18:00
 Narva - FC Tallinn
-1.03
-10.2
-23.5
-3.85
-1.18
-1.56
+1.02
+10.8
+25.0
+4.00
+1.17
+1.53
 -
 -
 30.10. 18:00
@@ -743,14 +733,14 @@ Gent - Patro Eisden
 1.95
 30.10. 20:30
 Seraing - Leuven
-6.00
-4.25
+5.90
+4.30
 1.46
-2.15
-1.61
-2.62
-1.79
-2.15
+2.25
+1.57
+2.50
+1.74
+2.08
 30.10. 20:30
 Knokke - St. Truiden
 12.5
@@ -993,13 +983,13 @@ Chico - America De Cali
 2.75
 31.10. 01:30
 Palmeiras - LDU Quito
-1.18
-6.50
-14.0
+1.19
+6.47
+13.8
 2.55
 1.49
-2.25
 2.28
+2.25
 2.60
 31.10. 01:30
 The Strongest - Petrolero
@@ -1071,6 +1061,16 @@ PSIM Yogyakarta - Persik Kediri
 4.20
 1.93
 2.65
+31.10. 09:30
+Persela Lamongan - PSIS Semarang
+1.31
+4.65
+8.80
+1.88
+1.82
+3.20
+2.35
+2.88
 31.10. 09:35
 Brisbane Roar - Melbourne City
 3.95
@@ -1233,14 +1233,14 @@ Zaglebie II - Warta Gorzow
 1.69
 31.10. 12:00
 Gornik Zabrze II - Goczalkowice Zdroj
-2.62
+2.85
 3.40
-2.20
-2.22
-1.53
-2.45
-1.47
-1.78
+2.08
+2.12
+1.58
+2.55
+1.51
+1.86
 31.10. 12:00
 Ramat Hasharon - Shimshon Tel Aviv
 5.90
@@ -1323,14 +1323,14 @@ Nizhny Novgorod U19 - Lokomotiv Moscow U19
 1.71
 31.10. 13:00
 Persija Jakarta - PSBS Biak Numfor
-1.06
-8.50
-21.0
-2.90
-1.34
-1.91
-2.85
-3.15
+1.05
+9.00
+22.5
+3.00
+1.33
+1.88
+3.00
+3.30
 31.10. 13:00
 Kleczew - Podbeskidzie
 3.05
@@ -4727,14 +4727,14 @@ Amiens - Grenoble
 2.47
 01.11. 14:00
 Reims - Dunkerque
-1.99
-3.50
-3.50
+1.96
+3.55
+3.60
 1.88
 1.84
-3.25
+3.20
 1.73
-2.22
+2.20
 01.11. 14:00
 Villarreal - Rayo Vallecano
 1.73
@@ -7347,14 +7347,14 @@ Vevey - Zurich II
 1.84
 01.11. 17:30
 Shamrock Rovers - Sligo Rovers
-1.89
-3.45
-3.70
-1.90
-1.80
-3.15
-1.72
-2.15
+2.02
+3.35
+3.40
+1.88
+1.82
+3.20
+1.71
+2.20
 01.11. 17:45
 Atletico Atlanta - Deportivo Moron
 2.15
@@ -7577,13 +7577,13 @@ FK Rostov - Akron Togliatti
 2.32
 01.11. 18:15
 Zenit - Lokomotiv Moscow
-1.52
-4.35
-5.80
-2.28
-1.56
-2.47
-1.70
+1.55
+4.25
+5.50
+2.25
+1.58
+2.50
+1.69
 2.02
 01.11. 18:15
 Club Brugge KV - Dender
@@ -9959,14 +9959,14 @@ Giannina - Kavala
 2.80
 02.11. 14:00
 PAE Egaleo - PAE Chania
-2.65
-2.85
 2.62
-1.45
-2.50
-5.25
-2.12
-3.05
+2.88
+2.60
+1.50
+2.38
+4.80
+2.04
+2.88
 02.11. 14:00
 CA River Plate - Miramar
 2.70
@@ -10260,14 +10260,14 @@ FC Emmen - Waalwijk
 1.67
 02.11. 14:30
 Cittadella - Pro Vercelli
-1.87
-3.20
-3.85
+1.77
+3.25
+4.20
 1.54
 2.28
-4.50
-2.10
-2.85
+4.55
+2.15
+2.90
 02.11. 14:30
 L.R. Vicenza - Giana Erminio
 1.30
@@ -10623,24 +10623,24 @@ Konačan Ishod
 X
 3.30
 X
-Chico - America De Cali
-31.10. 00:10
+Palmeiras - LDU Quito
+31.10. 01:30
 Konačan Ishod
 X
-3.10
+6.47
 X
-Valle Egues - Andorra CF
-30.10. 19:30
+CSC Dumbravita - FC Rapid Bucuresti
+30.10. 20:00
 Konačan Ishod
 X
-7.30
+6.15
 X
 OBIČAN
 SISTEM
- Kvota:808,59
- Bonus: 3%  485,15
+ Kvota:1.421,74
+ Bonus: 3%  853,05
 Ukupan dobitak:
-16.657,00 RSD
+29.288,00 RSD
 UPLATI
 OKTAGON TIKET
 
