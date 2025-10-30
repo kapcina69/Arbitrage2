@@ -1,39 +1,19 @@
 TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
-20:30;Bayern;Virtus;;1.57;15.0;2.9;;;;;;
-20:30;Olimpia Milano;Paris;;1.7;14.0;2.6;;;;;;
-20:30;Valencia;BC Dubai;;1.37;18.0;3.8;;;;;;
-20:30;Grasshoppers;Young Boys;803;3.05;3.65;2.18;2.3;1.65;2.6;1.57;4.0;1.9
-20:30;Lugano;Luzern;803;1.77;3.95;4.15;2.33;1.63;2.55;1.6;4.05;1.92
-20:30;Beerschot;Westerlo;773;3.55;3.85;1.83;2.5;1.47;2.2;1.43;3.6;1.7
-20:30;Cercle Brugge;Kortrijk;768;1.57;4.33;4.5;2.45;1.47;2.2;1.52;3.85;1.8
-20:30;Gent;Patro Eisden;764;1.28;5.75;9.5;2.85;1.4;2.0;1.75;4.4;2.03
-20:30;Knokke;St. Truiden;766;6.7;4.6;1.45;2.35;1.57;2.45;1.75;4.55;2.12
-20:30;Seraing;Leuven;769;6.75;4.7;1.43;2.45;1.53;2.33;1.7;4.4;2.03
-20:30;Perla Lublin W;Kobierzyce W;;1.4;8.5;3.6;;;;;;
-20:30;Latina;Perugia;758;3.7;3.2;1.97;1.62;2.15;4.0;1.92;5.4;2.65
-20:30;Ospitaletto;Inter U23;767;3.0;3.2;2.25;1.83;1.85;3.25;1.67;4.65;2.2
-20:30;Catania;AEK;;1.2;7.5;8.0;;;;;;
-20:30;Netherlands;Faroe Islands;;2.32;8.0;1.85;;;;;;
-20:30;Kampong;Hdm;;1.85;4.75;2.9;;;;;;
-20:30;Pinoke;Klein Zwitserland;;1.8;4.75;3.05;;;;;;
-20:30;Bloemendaal;Amsterdam Ah And BC;;2.25;5.25;2.2;;;;;;
-20:30;Terrassa;Solaris;;1.37;8.75;3.65;;;;;;
-20:30;Ravenna;San Severo;;1.9;13.0;2.07;;;;;;
-20:45;Pisa;Lazio;906;3.8;3.2;2.18;1.62;2.35;4.45;2.0;5.8;2.8
-20:45;Nordsjaelland;Brondby;770;2.5;3.6;2.45;2.23;1.57;2.47;1.48;3.85;1.82
+20:45;Pisa;Lazio;905;3.8;3.2;2.2;1.6;2.4;4.65;2.05;6.0;2.9
+20:45;Nordsjaelland;Brondby;771;2.57;3.6;2.37;2.23;1.57;2.47;1.48;3.85;1.82
 21:00;Real Madrid;Fenerbahce;;1.6;14.0;2.8;;;;;;
 21:00;Antoniano;Castellon;388;4.65;3.35;1.62;1.75;1.93;3.45;1.93;5.2;2.47
 21:00;Atletic Lleida;Espanyol;;17.0;8.0;1.06;3.3;1.27;1.73;2.4;;
 21:00;CD Estepona;Malaga;386;5.6;2.78;1.67;1.63;2.1;3.9;2.07;5.6;2.75
 21:00;Murcia;Antequera;388;2.15;2.95;3.3;1.52;2.37;4.65;2.03;5.7;2.8
-21:00;UD Samano;La Coruna;384;11.0;3.8;1.3;1.95;1.77;3.0;2.4;6.1;3.0
+21:00;UD Samano;La Coruna;384;8.75;3.45;1.42;1.87;1.83;3.15;2.18;5.7;2.75
 21:00;Legia;Pogon Szczecin;762;1.67;3.65;4.55;2.03;1.7;2.8;1.7;4.55;2.12
 21:00;Raalte;Twente;757;12.0;6.7;1.17;3.25;1.28;1.75;1.77;4.1;2.0
 21:00;Egypt;Portugal;;2.2;8.0;1.93;;;;;;
 21:00;Ad Aserri;Santa Ana;768;2.37;3.35;2.55;1.77;1.9;3.4;1.7;4.75;2.25
 21:00;Soyaux;FC Grenoble Rugby;;1.55;22.0;2.55;;;;;;
-21:00;Imbabura;Chacaritas;;1.18;5.7;12.0;2.2;1.57;2.5;;;
-21:15;Leixoes;Academico Viseu;760;2.65;3.15;2.62;1.6;2.25;4.3;1.93;5.5;2.68
+21:00;Imbabura;Chacaritas;;1.14;6.9;11.0;3.95;1.19;1.55;;;
+21:15;Leixoes;Academico Viseu;761;2.68;3.15;2.6;1.6;2.25;4.25;1.92;5.5;2.7
 21:15;Maritimo;Leiria;763;2.12;3.3;3.3;1.75;2.0;3.6;1.8;4.95;2.42
 21:30;Gremio U20;Sao Paulo U20;;3.2;3.05;2.12;1.87;1.83;2.95;1.65;;
 22:00;U. Magdalena;Dep. Tolima;756;4.1;3.3;1.88;1.6;2.2;4.1;2.0;5.6;2.7
@@ -69,6 +49,20 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 01:15;Miami;Baltimore;;4.1;17.0;1.28;;;;;;
 01:30;San Antonio;Miami;;1.5;16.0;3.05;;;;;;
 01:30;Palmeiras;LDU Quito;780;1.17;7.3;15.0;2.65;1.47;2.15;2.2;5.25;2.5
-01:30;The Strongest;Oriente Petrolero;386;1.35;4.65;6.5;2.85;1.35;1.92;1.55;3.85;1.8
+01:30;The Strongest;Oriente Petrolero;387;1.38;4.5;6.1;2.75;1.37;1.97;1.55;3.85;1.8
 01:30;Spencer, Mary;Mayer, Mikaela;;6.75;18.0;1.15;;;;;;
 02:00;Edmonton;NY Rangers;;1.98;4.4;3.1;;;;;;
+02:00;Spokane W;Carolina Ascent W;387;3.6;3.25;1.9;1.67;2.0;3.65;1.83;5.1;2.42
+02:10;Ferro;Obras;;1.6;14.0;2.65;;;;;;
+02:20;Llaneros;Atl. Nacional;756;4.3;3.35;1.83;1.65;2.1;3.9;1.95;5.5;2.62
+02:30;Coachella V.F.;San Diego;;2.25;4.0;2.6;;;;;;
+02:30;Sabios de Manizales;Motilones Del Norte;;1.67;12.0;2.35;;;;;;
+03:00;San Jose;New Jersey;;3.8;4.9;1.71;;;;;;
+03:00;Olimpia;Alajuelense;759;2.23;2.8;3.25;1.65;2.07;3.8;1.85;5.2;2.55
+03:00;Desamparados;Carmelita;762;1.95;3.4;3.3;1.8;1.87;3.3;1.72;4.75;2.27
+03:15;Astros;Diablos Rojos;;1.23;18.0;4.6;;;;;;
+03:15;Fuerza Regia;Panteras;;1.23;18.0;4.6;;;;;;
+03:30;Los Angeles;Detroit;;2.05;4.4;3.0;;;;;;
+09:00;Southside W;Townsville W;;2.55;13.0;1.65;;;;;;
+09:30;The Hawks;NZ Breakers;;1.55;14.0;2.75;;;;;;
+09:30;PSIM Yogyakarta;Persik;760;2.3;3.15;2.95;1.6;2.2;4.15;1.9;5.4;2.63
