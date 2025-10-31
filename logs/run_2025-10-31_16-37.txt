@@ -1,7 +1,7 @@
-=== [Fri Oct 31 16:28:42 CET 2025] Starting run_all.py ===
+=== [Fri Oct 31 16:37:31 CET 2025] Starting run_all.py ===
 
 ============================================================
-NOVI CIKLUS: 2025-10-31 16:28:42
+NOVI CIKLUS: 2025-10-31 16:37:31
 ============================================================
 
 [*] Pokrećem 11 skripti sa pauzom 30s između STARTOVA...
@@ -34,7 +34,7 @@ NOVI CIKLUS: 2025-10-31 16:28:42
  - TXT: /home/runner/work/Arbitrage2/Arbitrage2/soccer/soccer_mecevi_pregled.txt
 
 [OK] soccer.py završen uspešno.
-[OK] Fajl soccer/soccer_sledeci_mecevi.txt je stabilan (35012 bytes).
+[OK] Fajl soccer/soccer_sledeci_mecevi.txt je stabilan (34991 bytes).
 [OK] Fajl soccer/soccer_mecevi_pregled.txt je stabilan (77781 bytes).
 [TIME] merkur.py trajanje: 04:34.01
 [STDOUT:merkur.py]
@@ -53,15 +53,15 @@ NOVI CIKLUS: 2025-10-31 16:28:42
 
 [OK] mozzart.py završen uspešno.
 [OK] Fajl mozzart/mozzart_sledeci_mecevi.txt je stabilan (39739 bytes).
-[OK] Fajl mozzart/mozzart_mecevi_pregled.txt je stabilan (78115 bytes).
+[OK] Fajl mozzart/mozzart_mecevi_pregled.txt je stabilan (78116 bytes).
 [TIME] betole.py trajanje: 05:38.05
 [STDOUT:betole.py]
 [OK] Tekst sačuvan u: /home/runner/work/Arbitrage2/Arbitrage2/betole/betole_sledeci_mecevi.txt
-[OK] Formatirano: /home/runner/work/Arbitrage2/Arbitrage2/betole/betole_mecevi_pregled.txt  (ukupno mečeva: 23)
+[OK] Formatirano: /home/runner/work/Arbitrage2/Arbitrage2/betole/betole_mecevi_pregled.txt  (ukupno mečeva: 146)
 
 [OK] betole.py završen uspešno.
-[OK] Fajl betole/betole_sledeci_mecevi.txt je stabilan (5853 bytes).
-[OK] Fajl betole/betole_mecevi_pregled.txt je stabilan (5278 bytes).
+[OK] Fajl betole/betole_sledeci_mecevi.txt je stabilan (22635 bytes).
+[OK] Fajl betole/betole_mecevi_pregled.txt je stabilan (33704 bytes).
 [TIME] balkanbet.py trajanje: 05:12.05
 [STDOUT:balkanbet.py]
 [i] Down koraka (wheel): 120
@@ -74,19 +74,19 @@ NOVI CIKLUS: 2025-10-31 16:28:42
 [TIME] brazil.py trajanje: 04:46.05
 [STDOUT:brazil.py]
 [OK] RAW snimljen: /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_sledeci_mecevi.txt
-[OK] Pretty: /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_mecevi_pregled.txt (mečeva: 140)
+[OK] Pretty: /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_mecevi_pregled.txt (mečeva: 139)
 
 [OK] brazil.py završen uspešno.
-[OK] Fajl brazil/brazil_sledeci_mecevi.txt je stabilan (14931 bytes).
-[OK] Fajl brazil/brazil_mecevi_pregled.txt je stabilan (31278 bytes).
+[OK] Fajl brazil/brazil_sledeci_mecevi.txt je stabilan (14851 bytes).
+[OK] Fajl brazil/brazil_mecevi_pregled.txt je stabilan (31046 bytes).
 [TIME] brazil_sutra.py trajanje: 04:20.05
 [STDOUT:brazil_sutra.py]
 [OK] RAW (SUTRA) snimljen: /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_sutra_sledeci_mecevi.txt
-[OK] Pretty (SUTRA): /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_sutra_mecevi_pregled.txt  (mečeva: 131)
+[OK] Pretty (SUTRA): /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_sutra_mecevi_pregled.txt  (mečeva: 147)
 
 [OK] brazil_sutra.py završen uspešno.
-[OK] Fajl brazil/brazil_sutra_sledeci_mecevi.txt je stabilan (12027 bytes).
-[OK] Fajl brazil/brazil_sutra_mecevi_pregled.txt je stabilan (24838 bytes).
+[OK] Fajl brazil/brazil_sutra_sledeci_mecevi.txt je stabilan (13514 bytes).
+[OK] Fajl brazil/brazil_sutra_mecevi_pregled.txt je stabilan (27899 bytes).
 [TIME] brazil_prekosutra.py trajanje: 03:54.05
 [STDOUT:brazil_prekosutra.py]
 [OK] RAW (PREKOSUTRA) snimljen: /home/runner/work/Arbitrage2/Arbitrage2/brazil/brazil_prekosutra_sledeci_mecevi.txt
@@ -115,7 +115,7 @@ NOVI CIKLUS: 2025-10-31 16:28:42
 
 [OK] topbet.py završen uspešno.
 [OK] Fajl topbet/topbet_sledeci_mecevi.txt je stabilan (44446 bytes).
-[OK] Fajl topbet/topbet_mecevi_pregled.txt je stabilan (147157 bytes).
+[OK] Fajl topbet/topbet_mecevi_pregled.txt je stabilan (147167 bytes).
 [TIME] oktagon.py trajanje: 03:02.05
 [STDOUT:oktagon.py]
 [OK] RAW sačuvan: /home/runner/work/Arbitrage2/Arbitrage2/oktagonbet/oktagonbet_sledeci_mecevi.txt  (dužina: 83167)
@@ -123,7 +123,7 @@ NOVI CIKLUS: 2025-10-31 16:28:42
 
 [OK] oktagon.py završen uspešno.
 [OK] Fajl oktagonbet/oktagonbet_sledeci_mecevi.txt je stabilan (83216 bytes).
-[OK] Fajl oktagonbet/oktagonbet_mecevi_pregled.txt je stabilan (210672 bytes).
+[OK] Fajl oktagonbet/oktagonbet_mecevi_pregled.txt je stabilan (210659 bytes).
 [TIME] maxbet.py trajanje: 02:36.05
 [STDOUT:maxbet.py]
 [*] Otvaram https://www.maxbet.rs/sr/sportsko-kladjenje/vremenska-ponuda ...
@@ -140,7 +140,7 @@ NOVI CIKLUS: 2025-10-31 16:28:42
 ======================================================================
 17:00  31.10.  [BAHRAIN 1]
 Al-Hidd  vs  Al-Budaiya
-1=1.83   X=3.30   2=3.65
+1=1.95   X=3.20   2=3.30
 0-2=-   2+=-   3+=-
 GG=-   IGG=-   GG&3+=-
 ======================================================================
@@ -150,7 +150,7 @@ GG=-   IGG=-   GG&3+=-
 [OK] Fajl maxbet/maxbet_mecevi_pregled.txt je stabilan (39606 bytes).
 
 [*] Pokrećem proba.py...
-[TIME] proba.py trajanje: 00:04.36
+[TIME] proba.py trajanje: 00:04.45
 [OK] proba.py završen uspešno.
 
 [*] Pokrećem procenti.py...
@@ -158,13 +158,12 @@ GG=-   IGG=-   GG&3+=-
 [OK] procenti.py završen uspešno.
 
 [*] Provera stabilnosti ALL_MATCHES_AND_ARBS/kvote_arbitraza_FULL.txt pre push-a...
-[OK] Fajl ALL_MATCHES_AND_ARBS/kvote_arbitraza_FULL.txt je stabilan (1029611 bytes).
-[git] Commit ok: auto: update kvote_arbitraza_FULL.txt, tiketi.txt @ 2025-10-31 16:36
+[OK] Fajl ALL_MATCHES_AND_ARBS/kvote_arbitraza_FULL.txt je stabilan (1039929 bytes).
+[git] Commit ok: auto: update kvote_arbitraza_FULL.txt, tiketi.txt @ 2025-10-31 16:45
 [git] Push uspešan.
 
 [*] Generisanje izveštaja...
-[OK] Sačuvan izveštaj: izvestaji/izvestaj_2025-10-31_16-36.txt
+[OK] Sačuvan izveštaj: izvestaji/izvestaj_2025-10-31_16-45.txt
 
-[OK] Ciklus završen za 07:47.46.
-=== [Fri Oct 31 16:36:29 CET 2025] Finished run_all.py, syncing and pushing... ===
-=== [Fri Oct 31 16:36:31 CET 2025] Sleeping 1 minute before next cycle... ===
+[OK] Ciklus završen za 07:47.43.
+=== [Fri Oct 31 16:45:18 CET 2025] Finished run_all.py, syncing and pushing... ===
