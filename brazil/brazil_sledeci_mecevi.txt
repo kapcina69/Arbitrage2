@@ -34,137 +34,12 @@ RAGBI UNIJA
 FUTSAL
 PIKADO
 ESPORT
-BADMINTON
 FUDBAL VIRTUAL
 POBEDNICI
 GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-BELARUS, Vysshaya Liga
-492
-16:30
-Dynamo Brest
-Molodechno
-813
-1
-1.13
-X
-6.80
-2
-17.0
-0-2
-2.50
-2+
-1.12
-3+
-1.46
-BULGARIA, Vtora Liga
-756
-16:30
-Fratria
-Vihren
-665
-1
-1.99
-X
-3.30
-2
-3.30
-0-2
-1.88
-2+
-1.22
-3+
-1.77
-BURKINA FASO, Premier League
-1243
-16:30
-ASF Dioulasso
-Sporting Cascades
-102
-1
-2.10
-X
-2.75
-2
-3.45
-0-2
-1.37
-2+
-1.51
-3+
-2.70
-1244
-16:30
-CFFEB
-Rahimo
-102
-1
-2.75
-X
-2.70
-2
-2.55
-0-2
-1.37
-2+
-1.51
-3+
-2.70
-1245
-16:30
-RDF
-Kadiogo
-101
-1
-2.18
-X
-2.70
-2
-3.35
-0-2
-1.37
-2+
-1.51
-3+
-2.70
-GHANA, Premier League
-588
-16:30
-Bechem United
-Nations FC
-100
-1
-1.64
-X
-3.05
-2
-5.75
-0-2
-1.37
-2+
-1.55
-3+
-2.80
-ROMANIA, Liga 2
-573
-16:30
-Poli Iasi
-FC Bihor
-663
-1
-3.75
-X
-3.30
-2
-1.85
-0-2
-1.83
-2+
-1.26
-3+
-1.87
 UNITED ARAB EMIRATES, UAE League
 1176
 16:45
@@ -172,7 +47,7 @@ Khorfakkan
 Al Wasl
 844
 1
-4.55
+4.60
 X
 4.05
 2
@@ -190,17 +65,17 @@ Al-Hidd
 Al-Budaiya
 835
 1
-1.84
+1.88
 X
 3.30
 2
-3.80
+3.65
 0-2
-1.82
+1.80
 2+
-1.26
+1.27
 3+
-1.87
+1.89
 CROATIA, Prva NL
 1054
 17:00
@@ -243,48 +118,48 @@ Hegelmann Litauen 2
 Neptunas
 659
 1
-8.50
+8.75
 X
-5.40
+5.60
 2
-1.24
+1.23
 0-2
-2.85
+3.05
 2+
-1.06
+1.05
 3+
-1.33
+1.30
 821
 17:00
 Zalgiris 2
 Jonava
 666
 1
-2.22
+2.15
 X
-3.20
+3.45
 2
-2.90
+2.80
 0-2
-1.88
+2.20
 2+
-1.22
+1.15
 3+
-1.77
+1.56
 MACEDONIA, Prva Liga
 876
 17:00
 Vardar
 Sileks
-834
+836
 1
-1.65
+1.68
 X
-3.55
+3.50
 2
-4.50
+4.45
 0-2
-1.78
+1.77
 2+
 1.28
 3+
@@ -366,19 +241,19 @@ WORLD, AFC Challenge League
 17:00
 Al Kuwait SC
 Bashundara Kings
-652
+650
 1
-1.14
+1.13
 X
-6.40
+6.70
 2
-13.0
+14.0
 0-2
-2.80
+2.85
 2+
 1.08
 3+
-1.36
+1.35
 MAURITANIA, Ligue 1
 1253
 17:15
@@ -402,19 +277,19 @@ JORDAN, Premier League
 17:30
 Al Jazeera Amman
 Al-Faisaly Amman
-834
+833
 1
-4.70
+4.65
 X
-3.45
+3.50
 2
 1.65
 0-2
-1.80
+1.85
 2+
-1.26
+1.25
 3+
-1.87
+1.84
 QATAR, QSL
 921
 17:30
@@ -583,17 +458,17 @@ Tersana
 Baladiyat El Mahalla
 60
 1
-2.18
+2.15
 X
 2.55
 2
-3.65
+3.70
 0-2
-1.21
+1.22
 2+
-1.78
+1.77
 3+
-3.60
+3.55
 POLAND, Ekstraklasa
 189
 18:00
@@ -768,11 +643,11 @@ X
 2
 8.50
 0-2
-3.35
+3.45
 2+
 1.03
 3+
-1.25
+1.23
 GERMANY, 2. Bundesliga
 230
 18:30
@@ -815,17 +690,17 @@ Koln Wom.
 1.FC Nurnberg Wom.
 664
 1
-1.47
+1.45
 X
-4.05
+4.25
 2
-5.45
+5.40
 0-2
-2.20
+2.50
 2+
-1.17
+1.12
 3+
-1.59
+1.45
 GERMANY, Oberliga Bayern Sud
 1219
 18:30
@@ -904,17 +779,17 @@ Al Ettifaq
 Al-Hazem
 835
 1
-1.89
+1.83
 X
-3.25
+3.30
 2
-3.65
+3.80
 0-2
 1.80
 2+
 1.27
 3+
-1.92
+1.89
 SOUTH AFRICA, Premiership
 1100
 18:30
@@ -1800,15 +1675,15 @@ NETHERLANDS, Eredivisie
 20:00
 PSV
 Sittard
-917
+953
 1
-1.14
+1.13
 X
 8.50
 2
-15.0
+16.0
 0-2
-3.80
+3.85
 2+
 1.04
 3+
@@ -1871,19 +1746,19 @@ BELGIUM, Pro League U21
 20:00
 K. Lierse S.K. U21
 RFC Liege U21
-669
+666
 1
 2.02
 X
-3.95
+4.00
 2
 2.75
 0-2
-3.55
+3.70
 2+
-1.03
+1.02
 3+
-1.22
+1.21
 1231
 20:00
 Lommel SK U21
@@ -2341,19 +2216,19 @@ ENGLAND, FA Cup
 20:30
 Luton
 Forest Green
-841
+842
 1
-1.43
+1.47
 X
-4.55
+4.45
 2
-6.50
+6.10
 0-2
 2.28
 2+
 1.17
 3+
-1.58
+1.56
 GERMANY, Bundesliga
 132
 20:30
@@ -2568,21 +2443,126 @@ X
 1.36
 3+
 2.15
+ENGLAND, Isthmian Division One North
+1257
+20:45
+Bowers & Pitsea
+Grays Athletic
+666
+1
+1.55
+X
+4.25
+2
+4.40
+0-2
+2.45
+2+
+1.13
+3+
+1.47
+ENGLAND, Northern League Division One
+1258
+20:45
+Ashington
+Newton Aycliffe
+666
+1
+2.18
+X
+3.30
+2
+2.88
+0-2
+1.97
+2+
+1.21
+3+
+1.72
+1259
+20:45
+Atherton Collieries
+Vauxhall Motors
+666
+1
+2.60
+X
+3.25
+2
+2.40
+0-2
+1.98
+2+
+1.21
+3+
+1.72
+1260
+20:45
+Mickleover
+Shepshed
+665
+1
+1.76
+X
+3.45
+2
+3.95
+0-2
+2.05
+2+
+1.20
+3+
+1.68
+NORTHERN IRELAND, NIFL Premiership
+361
+20:45
+Bangor FC
+Carrick Rangers
+844
+1
+2.45
+X
+3.50
+2
+2.55
+0-2
+2.20
+2+
+1.17
+3+
+1.61
+362
+20:45
+Glentoran
+Portadown
+830
+1
+1.44
+X
+4.05
+2
+6.70
+0-2
+1.97
+2+
+1.22
+3+
+1.75
 Odigrani tiketi
-1243
-ASF Dioulasso - Sporting Cascades
-31.10. 16:30
+1054
+Karlovac - Dubrava
+31.10. 17:00
 KONAČAN ISHOD 
 1
-  2.10  
+  1.82  
 Običan
 Sistem
 Kvota:
-2.10
+1.82
 Uplata:
 20.00 RSD
 Dobitak:
-42.00 RSD
+36.40 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express
