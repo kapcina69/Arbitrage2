@@ -1,11 +1,7 @@
 TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
-22:00;Pet;31.10.;KOL2;Huila;Jaguares de Cordoba;503;2.8;2.95;2.55;1.53;1.45;2.35;1.97;5.5;2.55
-22:00;Pet;31.10.;PAN1;Independiente;San Francisco FC;503;2.33;3.1;2.95;1.63;1.38;2.13;1.87;5.0;2.37
-22:00;Pet;31.10.;PAN1;Veraguas;Deportivo Universitario;503;3.15;3.15;2.22;1.7;1.35;2.05;1.82;4.8;2.27
-22:00;Pet;31.10.;PAN1;Herrera;SD Atletico Nacional;502;2.5;3.15;2.7;1.8;1.29;1.9;1.7;4.4;2.08
 22:30;Pet;31.10.;VEN1;Zamora;Puerto Cabello;503;2.55;3.15;2.65;1.75;1.32;1.97;1.75;4.55;2.15
-23:00;Pet;31.10.;ARG1;San Lorenzo;Dep. Riestra;2843;2.1;2.7;4.6;1.22;1.98;4.3;3.15;9.8;5.15
-23:00;Pet;31.10.;BOLLK;Bolivar;SA Bulo Bulo;495;1.13;7.8;13.8;4.45;1.01;1.17;1.7;3.55;1.75
+23:00;Pet;31.10.;ARG1;San Lorenzo;Dep. Riestra;2844;2.1;2.7;4.6;1.22;1.98;4.3;3.15;9.8;5.15
+23:00;Pet;31.10.;BOLLK;Bolivar;SA Bulo Bulo;;1.11;8.5;14.9;4.6;;;;;
 23:00;Pet;31.10.;BRA2;Atletico GO;Paysandu PA;666;1.55;3.65;5.85;1.85;1.27;1.85;1.87;4.85;2.23
 23:00;Pet;31.10.;BRA2;Coritiba;CRB;667;1.65;3.5;5.15;1.62;1.38;2.15;2.1;5.65;2.65
 00:00;Sub;01.11.;ČIL2;San Marcos de Arica;Rangers de Talca;503;2.12;3.3;3.2;1.68;1.35;2.05;1.85;4.85;2.33
@@ -18,10 +14,10 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 01:00;Sub;01.11.;ARUB1;La Fama;Deportivo Nacional;;3.25;3.5;1.95;1.97;1.23;1.75;1.65;;
 01:00;Sub;01.11.;EKV1;Delfin;Dep. Cuenca;528;3.25;3.05;2.2;1.5;1.45;2.37;2.05;5.65;2.65
 01:10;Sub;01.11.;ARG2;Estudiantes Rio Cuarto;Gimnasia y Tiro;496;2.45;2.5;3.6;1.29;1.75;3.25;2.4;7.6;3.55
-01:15;Sub;01.11.;ARG1;Instituto;Rosario Central;2938;3.3;2.85;2.45;1.4;1.6;2.75;2.2;6.45;3.15
-01:15;Sub;01.11.;ARG1;Newells Old Boys;Union de Santa Fe;3192;3.15;2.8;2.6;1.43;1.55;2.65;2.1;6.2;2.95
+01:15;Sub;01.11.;ARG1;Instituto;Rosario Central;2877;3.3;2.85;2.45;1.4;1.6;2.75;2.2;6.45;3.15
+01:15;Sub;01.11.;ARG1;Newells Old Boys;Union de Santa Fe;3193;3.15;2.8;2.6;1.43;1.55;2.65;2.1;6.2;2.95
 01:15;Sub;01.11.;ARGTF;Sportivo Belgrano;Guillermo Brown;500;1.5;3.65;5.8;1.65;1.35;2.1;2.2;5.85;2.85
-01:30;Sub;01.11.;BOLLK;Blooming;Aurora;503;1.92;3.5;3.55;2.1;1.2;1.65;1.6;3.85;1.87
+01:30;Sub;01.11.;BOLLK;Blooming;Aurora;503;1.85;3.65;3.75;2.07;1.2;1.67;1.62;3.95;1.9
 01:30;Sub;01.11.;KOL2;Inter Palmira;Cucuta;503;2.5;3.1;2.75;1.55;1.43;2.3;1.97;5.35;2.55
 01:30;Sub;01.11.;NZL1;Christchurch;Auckland City;504;2.18;3.85;2.7;2.45;1.13;1.48;1.45;3.3;1.65
 01:35;Sub;01.11.;BRA2;Ferroviaria;Criciuma;669;2.9;2.95;2.5;1.58;1.4;2.23;1.9;5.25;2.43
@@ -43,7 +39,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 05:05;Sub;01.11.;JAPLK;Kashiwa Reysol;Sanfrecce Hiroshima;503;2.9;3.05;2.42;1.68;1.35;2.05;1.8;4.8;2.25
 05:15;Sub;01.11.;AUSCH;Sydney Olympic;South Melbourne;503;3.6;3.75;1.85;2.05;1.21;1.68;1.65;3.95;1.95
 06:00;Sub;01.11.;JKOR1;Daejeon;Seoul;529;2.5;3.5;2.6;2.05;1.21;1.68;1.57;3.85;1.9
-06:00;Sub;01.11.;JKOR1;Gangwon;Jeonbuk;530;2.7;3.4;2.5;1.8;1.29;1.9;1.72;4.4;2.15
+06:00;Sub;01.11.;JKOR1;Gangwon;Jeonbuk;530;2.9;3.25;2.42;1.8;1.29;1.9;1.7;4.4;2.13
 06:00;Sub;01.11.;JKOR2;Gyeongnam;Seoul E-Land;502;4.6;3.75;1.65;2.0;1.22;1.72;1.72;4.25;2.03
 06:00;Sub;01.11.;JKOR2;Suwon Bluewings;Cheongju;500;1.33;5.0;7.6;2.5;1.12;1.47;1.75;4.05;1.95
 06:00;Sub;01.11.;JKOR3;Gyeongju KHNP;Yeoju Citizen FC;502;1.57;3.9;5.2;1.82;1.28;1.88;1.95;4.95;2.45
@@ -52,7 +48,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 07:00;Sub;01.11.;AUS1W;Brisbane Roar Wom.;Melbourne Victory Wom.;503;3.4;3.7;1.92;2.13;1.19;1.63;1.6;3.8;1.85
 07:00;Sub;01.11.;AUS1;Newcastle Jets;Sydney FC;672;2.55;3.95;2.42;2.7;1.1;1.42;1.38;3.05;1.6
 07:30;Sub;01.11.;KIN2;Chongqing Tonglianglong;Suzhou Dongwu;497;1.3;4.15;13.3;1.68;1.35;2.05;2.55;7.2;3.15
-07:30;Sub;01.11.;KIN2;Dalian Kuncheng;Shaanxi Union;503;2.25;3.2;3.05;1.72;1.33;2.0;1.8;4.65;2.22
+07:30;Sub;01.11.;KIN2;Dalian Kuncheng;Shaanxi Union;503;2.25;3.3;2.95;1.75;1.32;1.97;1.78;4.6;2.2
 07:30;Sub;01.11.;KIN2;Dingnan Ganlian;Shenzhen Juniors;502;2.3;3.35;2.85;1.83;1.28;1.87;1.7;4.35;2.1
 07:30;Sub;01.11.;KIN2;Foshan Nanshi;Shijiazhuang Gongfu;503;3.1;3.05;2.3;1.62;1.38;2.15;1.87;5.05;2.37
 07:30;Sub;01.11.;KIN2;Guangxi Pingguo Haliao;Shanghai Jiading Huilong;500;1.55;3.6;6.0;1.7;1.34;2.03;2.05;5.5;2.55
@@ -61,7 +57,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 07:30;Sub;01.11.;KIN2;Qingdao Red Lions;Guangdong GZ-Power;499;8.9;4.7;1.31;2.25;1.17;1.58;1.88;4.6;2.12
 08:00;Sub;01.11.;HK1;Tai Po;Hong Kong Rangers;503;1.52;4.15;4.75;2.45;1.13;1.48;1.58;3.65;1.78
 08:00;Sub;01.11.;HK1;Eastern District;Eastern AA;503;4.35;3.85;1.62;2.2;1.17;1.6;1.63;3.9;1.9
-08:30;Sub;01.11.;JKOR1;Gimcheon Sangmu;Pohang;530;2.55;3.5;2.65;1.98;1.23;1.73;1.6;3.95;1.98
+08:30;Sub;01.11.;JKOR1;Gimcheon Sangmu;Pohang;531;2.4;3.45;2.8;2.0;1.22;1.72;1.6;3.95;1.95
 08:30;Sub;01.11.;JKOR1;Anyang;Ulsan Hyundai;530;3.15;3.4;2.22;1.85;1.27;1.85;1.7;4.3;2.1
 08:30;Sub;01.11.;JKOR2;Bucheon FC 1995;Ansan Greeners;502;1.68;3.5;4.85;1.83;1.28;1.87;1.82;4.7;2.2
 08:30;Sub;01.11.;JKOR2;Gimpo FC;Hwaseong;501;2.0;3.3;3.5;1.6;1.4;2.17;1.97;5.2;2.5
@@ -239,10 +235,10 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 15:00;Sub;01.11.;SIR2;Queens Univ.;Dundela;503;1.67;3.75;4.1;2.1;1.19;1.65;1.65;4.0;1.93
 15:00;Sub;01.11.;SLO1;Bravo;Maribor;529;2.75;3.5;2.27;2.07;1.2;1.67;1.58;3.8;1.85
 15:00;Sub;01.11.;ŠVA3;Breitenrain;Bulle;503;2.0;3.35;3.2;2.05;1.21;1.7;1.6;3.9;1.9
-15:00;Sub;01.11.;ŠVE1;Hacken;Malmo FF;3116;2.7;3.7;2.4;2.12;1.19;1.65;1.55;3.7;1.85
+15:00;Sub;01.11.;ŠVE1;Hacken;Malmo FF;3118;2.7;3.7;2.4;2.12;1.19;1.65;1.55;3.7;1.85
 15:00;Sub;01.11.;ŠVE2;Helsingborg;Sundsvall;530;1.85;3.6;3.8;1.95;1.23;1.75;1.7;4.15;2.0
 15:00;Sub;01.11.;ŠVE2;Ostersund;Trelleborg;529;2.25;3.25;2.95;1.85;1.27;1.85;1.68;4.25;2.05
-15:00;Sub;01.11.;ŠVE2;Umea FC;Sandvikens IF;530;2.7;3.5;2.32;2.15;1.18;1.62;1.55;3.65;1.8
+15:00;Sub;01.11.;ŠVE2;Umea FC;Sandvikens IF;529;2.65;3.5;2.38;2.15;1.18;1.62;1.55;3.65;1.8
 15:00;Sub;01.11.;ŠVE2;Varberg;Brage;530;2.1;3.65;2.95;2.13;1.19;1.63;1.57;3.75;1.85
 15:00;Sub;01.11.;TUR3;Bucaspor 1928;Iskenderunspor;490;6.2;3.85;1.45;1.83;1.28;1.87;2.02;5.2;2.4
 15:00;Sub;01.11.;VELS2;Cambrian United;Cardiff Draconians;492;1.55;3.95;4.75;2.12;1.19;1.65;1.72;4.15;2.0
@@ -309,7 +305,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 16:00;Sub;01.11.;ENGK;Tranmere;Stockport County;539;4.7;4.3;1.62;2.3;1.16;1.55;1.6;3.75;1.88
 16:00;Sub;01.11.;ENGK;Wealdstone;Southend;539;4.0;3.8;1.82;2.07;1.2;1.67;1.63;3.95;1.95
 16:00;Sub;01.11.;ENGK;Weston Super Mare;Aldershot;539;2.15;3.6;3.1;2.05;1.21;1.7;1.6;3.9;1.92
-16:00;Sub;01.11.;ENGK;Wigan;Hemel Hempstead;536;1.35;5.15;7.7;2.3;1.15;1.55;1.8;4.25;2.08
+16:00;Sub;01.11.;ENGK;Wigan;Hemel Hempstead;536;1.33;5.35;8.2;2.3;1.15;1.55;1.85;4.4;2.13
 16:00;Sub;01.11.;ENGK;Wycombe;Plymouth;539;1.75;3.75;4.4;1.92;1.25;1.78;1.75;4.35;2.12
 16:00;Sub;01.11.;BEL1;Waregem;Royale Union SG;2915;4.9;3.95;1.65;2.18;1.19;1.68;1.65;4.05;2.0
 16:00;Sub;01.11.;BEL2;Gent U23;Eupen;501;2.65;3.45;2.37;1.95;1.24;1.77;1.65;4.05;1.98
@@ -321,18 +317,18 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 16:00;Sub;01.11.;ENG2;Sheffield Utd;Derby;3300;1.8;3.25;5.0;1.68;1.37;2.18;1.95;5.3;2.5
 16:00;Sub;01.11.;ENG2;Southampton;Preston;3047;1.72;3.85;4.55;1.95;1.26;1.85;1.8;4.5;2.25
 16:00;Sub;01.11.;ENG2;Stoke;Bristol City;2961;2.4;3.2;3.0;1.75;1.34;2.1;1.8;4.75;2.3
-16:00;Sub;01.11.;ENG2;Watford;Middlesbrough;3199;2.6;3.3;2.65;1.82;1.3;1.98;1.75;4.45;2.2
+16:00;Sub;01.11.;ENG2;Watford;Middlesbrough;3200;2.6;3.3;2.65;1.82;1.3;1.98;1.75;4.45;2.2
 16:00;Sub;01.11.;ENG6;Bath;Horsham;503;2.75;3.1;2.5;1.7;1.34;2.03;1.8;4.75;2.25
 16:00;Sub;01.11.;ENG6;Chesham;Chippenham Town;501;1.6;3.65;5.35;1.83;1.28;1.87;1.87;4.85;2.25
 16:00;Sub;01.11.;ENG6;Dag & Red;Farnborough;503;2.1;3.35;3.25;1.8;1.29;1.88;1.75;4.45;2.12
 16:00;Sub;01.11.;ENG6;Enfield Town;Eastbourne Boro;502;3.05;3.3;2.2;1.87;1.26;1.83;1.68;4.25;2.03
 16:00;Sub;01.11.;ENG6;Maidstone;Tonbridge Angels;499;1.45;4.25;6.5;1.9;1.25;1.8;2.02;5.05;2.4
-16:00;Sub;01.11.;ENG6;Salisbury;Dorking;503;3.25;3.35;2.08;1.85;1.27;1.85;1.7;4.3;2.07
+16:00;Sub;01.11.;ENG6;Salisbury;Dorking;503;3.25;3.35;2.08;1.82;1.28;1.88;1.73;4.4;2.1
 16:00;Sub;01.11.;ENG6;Torquay;Hornchurch;503;2.05;3.35;3.35;1.82;1.28;1.88;1.75;4.45;2.1
 16:00;Sub;01.11.;ENG6;Worthing;Hampton & Richmond;503;1.5;4.2;5.35;2.45;1.13;1.48;1.58;3.65;1.78
 16:00;Sub;01.11.;ENG6;Alfreton;Kidderminster;502;4.5;3.65;1.7;1.8;1.29;1.9;1.9;4.8;2.3
 16:00;Sub;01.11.;ENG6;Hereford;Curzon Ashton;503;2.1;3.45;3.15;2.05;1.21;1.7;1.6;3.9;1.88
-16:00;Sub;01.11.;ENG6;Marine;AFC Fylde;503;4.3;3.5;1.75;1.95;1.24;1.75;1.7;4.25;2.02
+16:00;Sub;01.11.;ENG6;Marine;AFC Fylde;504;4.35;3.5;1.75;1.9;1.25;1.8;1.73;4.35;2.05
 16:00;Sub;01.11.;ENG6;Merthyr Town;Darlington;503;2.1;3.55;3.05;2.25;1.17;1.58;1.5;3.6;1.75
 16:00;Sub;01.11.;ENG6;Oxford City;Bedford;503;2.25;3.4;2.85;2.1;1.2;1.65;1.55;3.75;1.83
 16:00;Sub;01.11.;ENG6;Peterborough Sports;Chorley;503;3.2;3.65;2.0;2.0;1.22;1.72;1.65;4.0;1.95
@@ -346,6 +342,35 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 16:00;Sub;01.11.;ENG7;Chichester;Dulwich Hamlet;503;2.03;3.5;3.0;2.05;1.21;1.67;1.6;3.85;1.9
 16:00;Sub;01.11.;ENG7;Cray Valley;Lewes;503;1.78;3.75;3.55;2.2;1.18;1.6;1.6;3.75;1.85
 16:00;Sub;01.11.;ENG7;Dartford;Welling;503;1.55;3.85;4.75;2.35;1.15;1.52;1.58;3.7;1.8
-16:00;Sub;01.11.;ENG7;Folkestone;Billericay;503;1.77;3.8;3.55;2.25;1.17;1.57;1.57;3.7;1.82
+16:00;Sub;01.11.;ENG7;Folkestone;Billericay;503;1.73;3.85;3.7;2.25;1.17;1.58;1.6;3.75;1.85
 16:00;Sub;01.11.;ENG7;Alvechurch;Spalding Utd;503;2.8;3.4;2.17;1.9;1.25;1.8;1.67;4.15;2.0
 16:00;Sub;01.11.;ENG7;Barwell;Redditch;502;2.75;3.15;2.3;1.9;1.25;1.8;1.65;4.1;1.98
+16:00;Sub;01.11.;ENG7;Bishop´s Stortford;Quorn;504;2.23;3.6;2.6;2.3;1.16;1.55;1.5;3.45;1.73
+16:00;Sub;01.11.;ENG7;Bromsgrove;Leiston;503;2.85;3.4;2.15;2.2;1.18;1.6;1.52;3.65;1.78
+16:00;Sub;01.11.;ENG7;Bury Town;Banbury United;502;2.5;3.35;2.45;1.8;1.29;1.9;1.75;4.4;2.13
+16:00;Sub;01.11.;ENG7;Halesowen;Needham Market;501;2.7;3.25;2.33;1.92;1.25;1.78;1.65;4.1;1.98
+16:00;Sub;01.11.;ENG7;Kettering;St. Ives;503;1.75;3.6;3.8;1.92;1.25;1.78;1.75;4.3;2.1
+16:00;Sub;01.11.;ENG7;Royston;Harborough Town;501;5.4;3.6;1.55;1.88;1.26;1.82;1.85;4.75;2.2
+16:00;Sub;01.11.;ENG7;Stourbridge;Stamford;504;1.93;3.45;3.3;1.88;1.26;1.82;1.73;4.3;2.1
+16:00;Sub;01.11.;ENG7;Stratford;Real Bedford;503;2.85;3.55;2.1;2.1;1.19;1.65;1.57;3.75;1.85
+16:00;Sub;01.11.;ENG7;Sudbury;Worcester City;504;3.25;3.5;1.95;1.9;1.25;1.8;1.7;4.25;2.05
+16:00;Sub;01.11.;ENG7;Basingstoke;Farnham Town;505;2.8;3.8;2.05;2.6;1.11;1.45;1.42;3.2;1.6
+16:00;Sub;01.11.;ENG7;Berkhamsted;Havant & W;502;2.55;3.35;2.35;2.18;1.18;1.6;1.52;3.6;1.78
+16:00;Sub;01.11.;ENG7;Bracknell;Dorchester;502;2.35;3.45;2.5;2.12;1.19;1.65;1.55;3.7;1.83
+16:00;Sub;01.11.;ENG7;Hanwell Town;Taunton Town;502;2.25;3.4;2.7;1.95;1.23;1.75;1.65;4.0;1.95
+16:00;Sub;01.11.;ENG7;Plymouth Parkway;Evesham;503;2.1;3.6;2.85;2.1;1.19;1.65;1.58;3.75;1.85
+16:00;Sub;01.11.;ENG7;Poole;Gosport;503;2.15;3.5;2.8;2.07;1.2;1.67;1.6;3.8;1.87
+16:00;Sub;01.11.;ENG7;Sholing;Hungerford;503;1.88;3.65;3.3;2.05;1.21;1.67;1.63;3.9;1.92
+16:00;Sub;01.11.;ENG7;Uxbridge;Gloucester City;503;3.25;3.45;1.95;2.2;1.18;1.6;1.55;3.65;1.8
+16:00;Sub;01.11.;ENG7;Walton & Hersham;Tiverton;501;1.3;4.95;7.1;2.6;1.11;1.45;1.75;4.0;1.95
+16:00;Sub;01.11.;ENG7;Weymouth FC;Yate Town;503;2.08;3.4;2.95;2.13;1.19;1.63;1.55;3.75;1.82
+16:00;Sub;01.11.;ENG7;Wimborne;Chertsey Town;503;2.05;3.5;3.0;1.97;1.23;1.75;1.65;4.05;1.97
+16:00;Sub;01.11.;ENG7;Ashton Utd;Cleethorpes;502;2.2;3.25;2.85;1.83;1.28;1.87;1.7;4.35;2.1
+16:00;Sub;01.11.;ENG7;Bamber Bridge;FC United;502;2.5;3.3;2.43;1.85;1.27;1.85;1.7;4.3;2.07
+16:00;Sub;01.11.;ENG7;Guiseley;Hednesford;503;2.8;3.15;2.28;1.77;1.31;1.95;1.75;4.5;2.15
+16:00;Sub;01.11.;ENG7;Hebburn Town;Warrington Town;502;2.25;3.25;2.8;1.9;1.25;1.8;1.65;4.15;2.0
+16:00;Sub;01.11.;ENG7;Hyde;Morpeth;503;1.95;3.45;3.25;2.2;1.18;1.6;1.55;3.65;1.8
+16:00;Sub;01.11.;ENG7;Lancaster;Whitby;503;1.95;3.3;3.4;1.8;1.29;1.9;1.75;4.5;2.15
+16:00;Sub;01.11.;ENG7;Rushall;Prescot;502;2.6;3.2;2.4;1.8;1.29;1.9;1.72;4.4;2.1
+16:00;Sub;01.11.;ENG7;Stocksbridge;Workington;503;1.85;3.5;3.55;2.0;1.22;1.72;1.65;4.05;1.97
+16:00;Sub;01.11.;ENG7;Stockton Town;Ilkeston;503;1.87;3.65;3.3;2.1;1.19;1.65;1.6;3.85;1.88
