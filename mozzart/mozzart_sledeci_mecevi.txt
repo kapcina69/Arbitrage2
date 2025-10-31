@@ -21,7 +21,7 @@ Pomoć?
 
 A +/-
 
-08:10:49 | 31.10.2025.
+08:18:41 | 31.10.2025.
 Pretraga
 
 Danas
@@ -673,12 +673,12 @@ Girona
 
 +523
 
-2.20
-3.20
-3.80
-1.30
-1.39
-1.74
+2.25
+2.95
+4.05
+1.28
+1.45
+1.71
 1.60
 1.47
 2.70
@@ -690,12 +690,12 @@ Girona
 
 +523
 
-2.20
-3.20
-3.80
-1.30
-1.39
-1.74
+2.25
+2.95
+4.05
+1.28
+1.45
+1.71
 1.60
 1.47
 2.70
@@ -828,6 +828,23 @@ X2
 2+
 0-2
 3+
+Sub 15:00
+
+Udinese
+
+Atalanta
+
++523
+
+4.70
+3.70
+1.85
+2.07
+1.33
+1.23
+1.28
+1.95
+1.85
 Sub 18:00
 
 Napoli
@@ -836,12 +853,12 @@ Como
 
 +523
 
-1.95
-3.50
-4.40
-1.25
-1.35
-1.95
+1.90
+3.60
+4.50
+1.24
+1.34
+2.00
 1.38
 1.70
 2.15
@@ -862,91 +879,6 @@ Juventus
 1.28
 1.90
 1.90
-Ned 12:30
-
-Verona
-
-Inter
-
-+523
-
-7.75
-4.50
-1.42
-2.85
-1.20
-1.08
-1.23
-1.96
-1.75
-Ned 15:00
-
-Fiorentina
-
-Lecce
-
-+523
-
-1.65
-4.00
-5.75
-1.17
-1.28
-2.36
-1.38
-1.70
-2.15
-Ned 15:00
-
-Torino
-
-Pisa
-
-+523
-
-1.97
-3.35
-4.10
-1.24
-1.33
-1.84
-1.45
-1.55
-2.30
-Ned 18:00
-
-Parma
-
-Bologna
-
-+523
-
-4.10
-3.25
-2.10
-1.81
-1.39
-1.28
-1.55
-1.53
-2.50
-Ned 20:45
-
-Milan
-
-Roma
-
-+523
-
-2.10
-3.45
-3.70
-1.31
-1.34
-1.79
-1.40
-1.67
-2.20
 Pon 18:30
 
 Sassuolo
@@ -1144,6 +1076,23 @@ Hoffenheim
 1.17
 2.55
 1.50
+Ned 17:30
+
+Wolfsburg
+
+Hoffenheim
+
++523
+
+2.85
+3.80
+2.40
+1.63
+1.30
+1.47
+1.17
+2.55
+1.50
 Francuska 1
 1
 X
@@ -1154,6 +1103,74 @@ X2
 2+
 0-2
 3+
+Sub 17:00
+
+PSG
+
+Nice
+
++523
+
+1.28
+6.75
+10.5
+1.08
+1.14
+4.10
+1.10
+2.95
+1.40
+Sub 19:00
+
+Monaco
+
+Paris
+
++523
+
+1.70
+4.20
+4.50
+1.21
+1.23
+2.17
+1.17
+2.41
+1.50
+Sub 21:05
+
+Auxerre
+
+Olympique Marseille
+
++523
+
+5.00
+4.20
+1.70
+2.28
+1.27
+1.21
+1.23
+2.15
+1.70
+Ned 15:00
+
+Rennes
+
+Strasbourg
+
++523
+
+2.40
+3.50
+3.05
+1.42
+1.34
+1.63
+1.22
+2.24
+1.65
 Sub 17:00
 
 PSG
@@ -1402,40 +1419,6 @@ IMT
 1.20
 2.19
 1.60
-Pon 17:00
-
-OFK Belgrade Mozzartbet
-
-Radnicki Nis
-
-+523
-
-2.00
-3.50
-3.80
-1.27
-1.31
-1.82
-1.27
-1.90
-1.80
-Pon 19:00
-
-Mladost Lucani
-
-Radnički 1923
-
-+523
-
-3.15
-3.35
-2.30
-1.62
-1.33
-1.36
-1.30
-1.76
-1.95
 Holandija 1
 1
 X
@@ -1446,23 +1429,6 @@ X2
 2+
 0-2
 3+
-Pet 20:00
-
-PSV
-
-Fortuna S.
-
-+523
-
-1.15
-8.00
-16.0
--
-1.07
-5.30
-1.06
-3.55
-1.25
 Sub 16:30
 
 Ajax
@@ -1694,6 +1660,57 @@ Antwerp
 1.23
 2.03
 1.70
+Ned 19:15
+
+RAAL La Louviere
+
+Cercle Brugge
+
++523
+
+2.75
+3.20
+2.65
+1.48
+1.35
+1.45
+1.30
+1.76
+1.95
+Ned 18:30
+
+St.Truiden
+
+Antwerp
+
++523
+
+2.05
+3.45
+3.60
+1.29
+1.31
+1.76
+1.23
+2.03
+1.70
+Ned 19:15
+
+RAAL La Louviere
+
+Cercle Brugge
+
++523
+
+2.75
+3.20
+2.65
+1.48
+1.35
+1.45
+1.30
+1.76
+1.95
 Turska 1
 1
 X
@@ -1704,6 +1721,57 @@ X2
 2+
 0-2
 3+
+Pet 18:00
+
+Basaksehir
+
+Kocaelispor
+
++523
+
+1.90
+3.50
+4.20
+1.23
+1.31
+1.91
+1.30
+1.76
+1.95
+Pet 18:00
+
+Basaksehir
+
+Kocaelispor
+
++523
+
+1.90
+3.50
+4.20
+1.23
+1.31
+1.91
+1.30
+1.76
+1.95
+Sub 15:00
+
+Goztepe
+
+Genclerbirligi
+
++523
+
+1.50
+4.10
+7.00
+1.10
+1.24
+2.55
+1.28
+1.80
+1.90
 Sub 18:00
 
 Galatasaray
@@ -1918,57 +1986,6 @@ Akron Togliatti
 1.28
 1.85
 1.85
-Ned 10:00
-
-Orenburg
-
-Sochi
-
-+523
-
-2.20
-3.40
-3.30
-1.34
-1.32
-1.67
-1.28
-1.85
-1.85
-Ned 15:00
-
-Baltika
-
-Akhmat Grozny
-
-+523
-
-2.50
-3.10
-3.05
-1.38
-1.37
-1.54
-1.50
-1.53
-2.35
-Ned 17:30
-
-Krasnodar
-
-Spartak Moscow
-
-+523
-
-2.05
-3.45
-3.60
-1.29
-1.31
-1.76
-1.27
-1.90
-1.80
 Ned 10:00
 
 Orenburg
@@ -2244,6 +2261,91 @@ X2
 2+
 0-2
 3+
+Pet 18:30
+
+Elversberg
+
+Hannover
+
++523
+
+2.35
+3.50
+2.95
+1.41
+1.31
+1.60
+1.18
+2.29
+1.55
+Pet 18:30
+
+Munster
+
+Holstein Kiel
+
++523
+
+3.15
+3.45
+2.25
+1.65
+1.31
+1.36
+1.23
+2.03
+1.70
+Sub 13:00
+
+Karlsruher
+
+Schalke
+
++523
+
+2.75
+3.35
+2.55
+1.51
+1.32
+1.45
+1.23
+2.03
+1.70
+Sub 13:00
+
+Hertha
+
+Dinamo Dresden
+
++523
+
+1.92
+3.50
+4.00
+1.24
+1.30
+1.87
+1.18
+2.29
+1.55
+Sub 13:00
+
+Nurnberg
+
+Braunschweig
+
++523
+
+1.80
+3.60
+4.60
+1.20
+1.29
+2.02
+1.23
+2.03
+1.70
 Sub 20:30
 
 Darmstadt
@@ -2407,101 +2509,6 @@ Benfica
 1.22
 2.03
 1.70
-Ned 16:30
-
-AVS
-
-Tondela
-
-+523
-
-3.20
-3.30
-2.30
-1.62
-1.34
-1.36
-1.38
-1.62
-2.15
-Pon 21:45
-
-Gil Vicente
-
-Santa Clara
-
-+523
-
-2.40
-3.10
-3.20
-1.35
-1.37
-1.57
-1.60
-1.41
-2.70
-Pon 21:45
-
-Gil Vicente
-
-Santa Clara
-
-+523
-
-2.40
-3.10
-3.20
-1.35
-1.37
-1.57
-1.60
-1.41
-2.70
-Srbija 2 mozzartbet prva liga
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Pet 13:00
-
-Usce N.B.
-
-Kabel
-
-+337
-
-2.05
-3.15
-3.60
-1.24
-1.31
-1.68
-1.50
-1.53
-2.35
-Pet 13:00
-
-Usce N.B.
-
-Kabel
-
-+337
-
-2.05
-3.15
-3.60
-1.24
-1.31
-1.68
-1.50
-1.53
-2.35
 Saudijska arabija 1
 1
 X
@@ -2512,57 +2519,6 @@ X2
 2+
 0-2
 3+
-Pet 14:40
-
-Al Akhdoud
-
-Al Najma Sc
-
-+523
-
-2.15
-3.30
-3.20
-1.30
-1.29
-1.62
-1.29
-1.80
-1.90
-Pet 15:50
-
-Al Hilal
-
-Al Shabab R.
-
-+523
-
-1.25
-5.70
-9.50
-1.03
-1.10
-3.55
-1.10
-2.70
-1.40
-Pet 18:30
-
-Al Ettifaq
-
-Al Hazm
-
-+523
-
-1.95
-3.45
-3.60
-1.25
-1.26
-1.76
-1.23
-2.03
-1.70
 Pet 14:40
 
 Al Akhdoud
@@ -2665,6 +2621,111 @@ Al Faiha
 1.08
 2.90
 1.35
+Afc čelendž liga
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Pet 10:00
+
+Altyn Asyr
+
+Al Shabab Seb
+
++523
+
+3.50
+3.40
+2.00
+1.72
+1.27
+1.26
+1.22
+2.11
+1.65
+Sub 09:00
+
+Tainan City
+
+Phnom Pen
+
++523
+
+8.00
+5.00
+1.32
+3.05
+1.13
+1.04
+1.06
+3.55
+1.25
+Sub 13:00
+
+Manila Digger
+
+Svay Rieng
+
++523
+
+7.25
+4.40
+1.40
+2.70
+1.17
+1.06
+1.17
+2.41
+1.50
+Alžir 1
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Sub 14:30
+
+Olympique Akbou
+
+Rouissat
+
++523
+
+1.75
+3.30
+4.80
+1.14
+1.28
+1.96
+1.55
+1.47
+2.50
+Sub 18:00
+
+Oran
+
+Constantine
+
++523
+
+2.00
+3.25
+3.70
+1.24
+1.30
+1.73
+1.40
+1.60
+2.20
 Alžir 2 istok
 1
 X
@@ -2684,6 +2745,103 @@ Beni Oulbane
 +0
 
 Klikni za kompletnu ponudu
+Pet 15:00
+
+Khemis El Khechna
+
+Beni Oulbane
+
++0
+
+Klikni za kompletnu ponudu
+Argentina 1 - klausura
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Pet 23:00
+
+San Lorenzo
+
+Dep.Riestra
+
++523
+
+1.90
+3.05
+4.85
+1.17
+1.37
+1.87
+1.70
+1.33
+3.05
+Sub 01:15
+
+Instituto
+
+Rosario
+
++523
+
+3.50
+2.60
+2.45
+1.49
+1.44
+1.26
+1.65
+1.34
+3.00
+Sub 18:45
+
+Aldosivi
+
+Ind.Rivadavia
+
++523
+
+2.50
+3.05
+3.10
+1.37
+1.38
+1.54
+1.60
+1.41
+2.70
+Argentina 2 - play off i
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Sub 01:10
+
+Estudiantes R.C.
+
+Gimnasia Tiro
+
++523
+
+2.40
+2.60
+3.50
+1.25
+1.42
+1.49
+1.70
+1.30
+3.20
 Argentina 3 - torneo - play off i
 1
 X
@@ -3050,6 +3208,50 @@ Retz
 1.15
 2.15
 1.55
+Austrija 3 zapad
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Pet 18:00
+
+Schwaz
+
+Bischofshofen
+
++523
+
+2.10
+3.70
+2.90
+1.34
+1.22
+1.63
+1.15
+2.25
+1.50
+Pet 18:30
+
+Kuchl
+
+FC Lauterach
+
++523
+
+1.20
+6.50
+9.50
+-
+1.07
+3.85
+1.05
+2.90
+1.30
 B i h 1
 1
 X
@@ -3183,6 +3385,33 @@ Lommel
 1.23
 2.03
 1.70
+Belgija m21
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Pet 20:00
+
+Lommel M21
+
+Waasland-Beveren M21
+
++337
+
+1.95
+3.70
+3.15
+1.28
+1.20
+1.70
+1.15
+2.25
+1.50
 Belorusija 1
 1
 X
@@ -3400,6 +3629,254 @@ Villa Nova
 1.55
 1.47
 2.50
+Pon 23:00
+
+Volta Redonda
+
+Botafogo SP
+
++523
+
+1.85
+3.50
+4.40
+1.21
+1.30
+1.95
+1.38
+1.62
+2.15
+Pon 23:00
+
+America Mineiro
+
+Novorizontino
+
++523
+
+2.25
+3.20
+3.40
+1.32
+1.35
+1.65
+1.45
+1.55
+2.30
+Pon 23:00
+
+Volta Redonda
+
+Botafogo SP
+
++523
+
+1.85
+3.50
+4.40
+1.21
+1.30
+1.95
+1.38
+1.62
+2.15
+Pon 23:00
+
+America Mineiro
+
+Novorizontino
+
++523
+
+2.25
+3.20
+3.40
+1.32
+1.35
+1.65
+1.45
+1.55
+2.30
+Bugarska 1
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Sub 11:00
+
+Dobrudzha
+
+Spartak Varna
+
++523
+
+2.00
+3.30
+3.60
+1.25
+1.29
+1.72
+1.33
+1.72
+2.00
+Sub 13:45
+
+Lokomotiv Plovdiv
+
+Botev Plovdiv
+
++523
+
+2.00
+3.30
+3.60
+1.25
+1.29
+1.72
+1.35
+1.69
+2.05
+Sub 11:00
+
+Dobrudzha
+
+Spartak Varna
+
++523
+
+2.00
+3.30
+3.60
+1.25
+1.29
+1.72
+1.33
+1.72
+2.00
+Sub 13:45
+
+Lokomotiv Plovdiv
+
+Botev Plovdiv
+
++523
+
+2.00
+3.30
+3.60
+1.25
+1.29
+1.72
+1.35
+1.69
+2.05
+Sub 16:30
+
+Septemvri Sofia
+
+Slavia Sofia
+
++523
+
+3.45
+3.30
+2.05
+1.69
+1.29
+1.26
+1.33
+1.72
+2.00
+Ned 11:45
+
+CSKA Sofia
+
+Montana
+
++523
+
+1.15
+6.75
+16.0
+-
+1.07
+4.70
+1.22
+2.11
+1.65
+Ned 14:15
+
+Arda Kardzhali
+
+Levski Sofia
+
++523
+
+4.90
+3.45
+1.70
+2.02
+1.26
+1.14
+1.40
+1.60
+2.20
+Ned 16:45
+
+Cherno More
+
+Ludogorets
+
++523
+
+4.00
+3.30
+1.90
+1.81
+1.29
+1.21
+1.40
+1.60
+2.20
+Pon 15:00
+
+Beroe
+
+Lokomotiv Sofia
+
++523
+
+3.20
+3.20
+2.20
+1.60
+1.30
+1.30
+1.35
+1.69
+2.05
+Pon 17:15
+
+Botev Vratsa
+
+CSKA 1948
+
++523
+
+4.60
+3.40
+1.75
+1.95
+1.27
+1.16
+1.38
+1.62
+2.15
 Bugarska 2
 1
 X
@@ -3410,6 +3887,24 @@ X2
 2+
 0-2
 3+
+Ned 13:30
+
+Minyor Pernik
+
+Spartak 1919 Pleven
+
++0
+
+Klikni za kompletnu ponudu
+Ned 13:30
+
+Marek D.
+
+OFK Pirin
+
++0
+
+Klikni za kompletnu ponudu
 Ned 13:30
 
 Sevilevo
@@ -3437,6 +3932,112 @@ Hebar
 +0
 
 Klikni za kompletnu ponudu
+Ned 13:30
+
+Minyor Pernik
+
+Spartak 1919 Pleven
+
++0
+
+Klikni za kompletnu ponudu
+Ned 13:30
+
+Marek D.
+
+OFK Pirin
+
++0
+
+Klikni za kompletnu ponudu
+Ned 13:30
+
+Sevilevo
+
+Dunav Ruse
+
++0
+
+Klikni za kompletnu ponudu
+Ned 15:00
+
+Etar
+
+Chernomorets B.
+
++0
+
+Klikni za kompletnu ponudu
+Pon 13:30
+
+Ludogorets II
+
+Hebar
+
++0
+
+Klikni za kompletnu ponudu
+Burkina faso 1
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Pet 16:30
+
+ASF Dioulasso
+
+Cascades
+
++44
+
+1.95
+3.25
+3.80
+1.22
+1.29
+1.75
+-
+1.53
+2.35
+Pet 16:30
+
+CFFEB
+
+Rahimo
+
++44
+
+2.80
+2.95
+2.60
+1.44
+1.35
+1.38
+-
+1.47
+2.50
+Pet 16:30
+
+RDF
+
+Kadiogo
+
++44
+
+2.20
+3.00
+3.40
+1.27
+1.34
+1.59
+-
+1.41
+2.70
 Danska 1
 1
 X
@@ -3549,40 +4150,6 @@ Aarhus
 1.18
 2.29
 1.55
-Sub 18:00
-
-Copenhagen
-
-Fredericia
-
-+523
-
-1.18
-7.25
-15.0
--
-1.09
-4.80
-1.10
-2.70
-1.40
-Ned 14:00
-
-Viborg
-
-Randers
-
-+523
-
-2.30
-3.45
-3.05
-1.38
-1.31
-1.62
-1.22
-2.11
-1.65
 Ned 16:00
 
 Sonderjylland
@@ -3678,91 +4245,6 @@ HB Koge
 1.18
 2.29
 1.55
-Sub 14:00
-
-Hillerod
-
-Kolding IF
-
-+523
-
-2.50
-3.25
-2.70
-1.41
-1.30
-1.47
-1.25
-1.96
-1.75
-Sub 14:00
-
-Middelfart
-
-Aalborg
-
-+523
-
-4.70
-3.50
-1.72
-2.01
-1.26
-1.15
-1.22
-2.11
-1.65
-Sub 14:00
-
-Arhus Fremad
-
-Hvidovre
-
-+523
-
-2.15
-3.35
-3.15
-1.31
-1.28
-1.62
-1.23
-2.03
-1.70
-Ned 15:00
-
-Lyngby
-
-Hobro IK
-
-+523
-
-1.72
-3.50
-4.70
-1.15
-1.26
-2.01
-1.20
-2.19
-1.60
-Ned 17:00
-
-Esbjerg
-
-B93
-
-+523
-
-2.10
-3.45
-3.15
-1.31
-1.26
-1.65
-1.18
-2.29
-1.55
 Pet 19:00
 
 Horsens
@@ -3865,6 +4347,50 @@ B93
 1.18
 2.29
 1.55
+Danska 3
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Pet 19:00
+
+Fremad Amager
+
+AB Kobenhavn
+
++523
+
+4.80
+3.60
+1.68
+2.06
+1.24
+1.15
+1.20
+2.19
+1.60
+Sub 14:00
+
+Brabrand
+
+HIK
+
++523
+
+2.95
+3.35
+2.25
+1.57
+1.28
+1.35
+1.22
+2.11
+1.65
 Danska 4
 1
 X
@@ -3875,29 +4401,248 @@ X2
 2+
 0-2
 3+
-Sub 14:00
+Sub 13:00
 
-Vanlose
+Odder
 
-Bronshoj
+FA 2000
 
-+0
++523
 
-Klikni za kompletnu ponudu
-Sub 14:00
+3.20
+3.30
+2.15
+1.62
+1.29
+1.30
+1.29
+1.80
+1.90
+Sub 13:30
 
-Sundby
+Lyseng
 
-Naesby
+Nykobing
 
-+0
++523
 
-Klikni za kompletnu ponudu
-Sub 14:00
+6.25
+4.30
+1.45
+2.55
+1.18
+1.08
+1.17
+2.41
+1.50
+Egipat 2
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Pet 18:00
 
-Vejgaard
+Tersana
 
-Frem
+Baladeya
+
++523
+
+2.30
+2.35
+4.20
+1.16
+1.49
+1.51
+1.85
+1.25
+3.55
+Ekvador 1 - play off
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Ned 23:55
+
+Universidad Catolica
+
+B.Guayaquil
+
++523
+
+1.80
+3.45
+4.20
+1.18
+1.26
+1.89
+1.27
+1.90
+1.80
+Uto 01:00
+
+CA Libertad
+
+Ind.Del Valle
+
++523
+
+4.20
+3.45
+1.80
+1.89
+1.26
+1.18
+1.27
+1.90
+1.80
+Ekvador 1 - play off i
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Sub 01:00
+
+Delfin
+
+Deportivo Cuenca
+
++523
+
+2.95
+3.00
+2.45
+1.49
+1.34
+1.35
+1.55
+1.47
+2.50
+Sub 22:30
+
+Aucas
+
+El Nacional
+
++523
+
+1.70
+3.50
+4.80
+1.14
+1.26
+2.02
+1.25
+1.96
+1.75
+Ned 21:30
+
+Macara
+
+Emelec
+
++523
+
+2.15
+3.20
+3.30
+1.29
+1.30
+1.62
+1.38
+1.62
+2.15
+Ekvador 1 - play out
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Sub 20:00
+
+Tecnico U.
+
+Mushuc Runa
+
++523
+
+2.25
+3.20
+3.10
+1.32
+1.30
+1.57
+1.35
+1.69
+2.05
+Ned 19:00
+
+Vinotinto
+
+Manta
+
++523
+
+1.75
+3.45
+4.50
+1.16
+1.26
+1.95
+1.35
+1.69
+2.05
+El salvador 1 - apertura
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Sub 22:00
+
+Cacahuatique
+
+Cd Hercules
+
++523
+
+1.85
+3.25
+4.30
+1.18
+1.29
+1.85
+1.55
+1.47
+2.50
+Sub 22:15
+
+Fuerte SF
+
+CD Platense
 
 +0
 
@@ -3912,6 +4657,40 @@ X2
 2+
 0-2
 3+
+Pet 20:30
+
+Luton
+
+Forest Green
+
++523
+
+1.53
+4.20
+6.50
+1.12
+1.24
+2.55
+1.22
+2.11
+1.65
+Sub 13:00
+
+Chelmsford City
+
+Braintree
+
++523
+
+4.00
+3.45
+1.85
+1.85
+1.26
+1.20
+1.25
+1.96
+1.75
 Sub 16:00
 
 Stevenage
@@ -3980,278 +4759,6 @@ Northampton
 1.40
 1.60
 2.20
-Sub 16:00
-
-Blackpool
-
-Scunthorpe
-
-+523
-
-1.68
-3.50
-5.00
-1.14
-1.26
-2.06
-1.25
-1.96
-1.75
-Sub 16:00
-
-Rotherham
-
-Swindon
-
-+523
-
-2.20
-3.30
-3.10
-1.32
-1.29
-1.60
-1.27
-1.90
-1.80
-Sub 16:00
-
-Peterborough
-
-Cardiff
-
-+523
-
-3.20
-3.40
-2.10
-1.65
-1.27
-1.30
-1.20
-2.19
-1.60
-Sub 16:00
-
-Fleetwood
-
-Barnet
-
-+523
-
-2.85
-3.30
-2.35
-1.53
-1.29
-1.37
-1.28
-1.85
-1.85
-Sub 16:00
-
-Macclesfield
-
-Afc Totton
-
-+523
-
-2.15
-3.35
-3.15
-1.31
-1.28
-1.62
-1.25
-1.96
-1.75
-Sub 16:00
-
-Wimbledon
-
-Gateshead
-
-+523
-
-1.37
-4.60
-7.50
-1.06
-1.16
-2.85
-1.17
-2.41
-1.50
-Sub 16:00
-
-Spennymoor
-
-Barrow
-
-+523
-
-5.00
-3.50
-1.68
-2.06
-1.26
-1.14
-1.25
-1.96
-1.75
-Sub 16:00
-
-Grimsby
-
-Ebbsfleet
-
-+523
-
-1.40
-4.40
-7.25
-1.06
-1.17
-2.70
-1.20
-2.19
-1.60
-Sub 16:00
-
-Tranmere
-
-Stockport
-
-+523
-
-4.70
-3.70
-1.67
-2.07
-1.23
-1.15
-1.17
-2.41
-1.50
-Sub 16:00
-
-Cambridge
-
-Chester
-
-+523
-
-1.35
-4.50
-8.50
-1.04
-1.16
-2.90
-1.22
-2.03
-1.70
-Sub 16:00
-
-Barnsley
-
-York
-
-+523
-
-1.85
-3.50
-3.90
-1.21
-1.25
-1.84
-1.17
-2.41
-1.50
-Sub 16:00
-
-Tranmere
-
-Stockport
-
-+523
-
-4.70
-3.70
-1.67
-2.07
-1.23
-1.15
-1.17
-2.41
-1.50
-Sub 16:00
-
-Cambridge
-
-Chester
-
-+523
-
-1.35
-4.50
-8.50
-1.04
-1.16
-2.90
-1.22
-2.03
-1.70
-Sub 16:00
-
-Barnsley
-
-York
-
-+523
-
-1.85
-3.50
-3.90
-1.21
-1.25
-1.84
-1.17
-2.41
-1.50
-Sub 16:00
-
-Bromley
-
-Bristol Rovers
-
-+523
-
-1.85
-3.45
-4.00
-1.20
-1.26
-1.85
-1.27
-1.90
-1.80
-Sub 16:00
-
-Boreham Wood
-
-Crawley Town
-
-+523
-
-2.85
-3.40
-2.30
-1.55
-1.27
-1.37
-1.18
-2.29
-1.55
 Sub 16:00
 
 Burton
@@ -4507,6 +5014,227 @@ Gillingham
 1.30
 1.76
 1.95
+Sub 16:00
+
+Cheltenham
+
+Bradford
+
++523
+
+5.60
+3.70
+1.58
+2.23
+1.23
+1.11
+1.22
+2.11
+1.65
+Sub 16:00
+
+Reading
+
+Carlisle
+
++523
+
+1.80
+3.45
+4.20
+1.18
+1.26
+1.89
+1.23
+2.03
+1.70
+Sub 16:00
+
+Salford City
+
+Lincoln City
+
++523
+
+3.10
+3.30
+2.20
+1.60
+1.29
+1.32
+1.27
+1.90
+1.80
+Sub 16:00
+
+Wigan
+
+Hemel Hempstead
+
++523
+
+1.35
+4.50
+8.50
+1.04
+1.16
+2.90
+1.18
+2.29
+1.55
+Sub 16:00
+
+Buxton
+
+Chatham
+
++523
+
+2.20
+3.35
+3.05
+1.33
+1.28
+1.60
+1.23
+2.03
+1.70
+Sub 16:00
+
+Slough Town
+
+Altrincham
+
++523
+
+4.50
+3.50
+1.75
+1.97
+1.26
+1.17
+1.20
+2.19
+1.60
+Sub 16:00
+
+Mansfield
+
+Harrogate T.
+
++523
+
+1.55
+3.90
+5.60
+1.11
+1.21
+2.30
+1.20
+2.19
+1.60
+Sub 16:00
+
+Weston
+
+Aldershot
+
++523
+
+2.15
+3.35
+3.15
+1.31
+1.28
+1.62
+1.23
+2.03
+1.70
+Sub 16:00
+
+Wycombe
+
+Plymouth
+
++523
+
+1.75
+3.50
+4.50
+1.17
+1.26
+1.97
+1.27
+1.90
+1.80
+Sub 16:00
+
+Bolton
+
+Huddersfield
+
++523
+
+1.77
+3.50
+4.30
+1.18
+1.25
+1.93
+1.23
+2.03
+1.70
+Sub 16:00
+
+Colchester
+
+Milton Keynes Dons
+
++523
+
+2.40
+3.30
+2.75
+1.39
+1.28
+1.50
+1.27
+1.90
+1.80
+Sub 16:00
+
+Sutton United
+
+Telford
+
++523
+
+2.20
+3.40
+3.00
+1.34
+1.27
+1.59
+1.20
+2.19
+1.60
+Sub 16:00
+
+Newport
+
+Gillingham
+
++523
+
+3.90
+3.35
+1.90
+1.80
+1.28
+1.21
+1.30
+1.76
+1.95
 Sub 18:30
 
 Brackley Town
@@ -4541,169 +5269,6 @@ Shrewsbury
 1.29
 1.80
 1.90
-Ned 15:15
-
-Eastleigh
-
-Walsall
-
-+523
-
-4.20
-3.45
-1.80
-1.89
-1.26
-1.18
-1.27
-1.90
-1.80
-Ned 16:00
-
-Port Vale
-
-Maldon & Tiptree
-
-+523
-
-1.17
-6.50
-14.0
--
-1.08
-4.40
-1.15
-2.55
-1.45
-Ned 18:15
-
-Gainsborough
-
-Accrington
-
-+523
-
-5.60
-3.90
-1.55
-2.30
-1.21
-1.11
-1.20
-2.19
-1.60
-Engleska 1 w
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Sub 13:00
-
-Man.City W
-
-West Ham W
-
-+407
-
-1.08
-10.5
-17.0
--
-1.02
-6.40
-1.06
-3.55
-1.25
-Sub 13:00
-
-Chelsea W
-
-London City L. W
-
-+407
-
-1.08
-10.5
-17.0
--
-1.02
-6.40
-1.07
-3.20
-1.30
-Ned 13:00
-
-Brighton W
-
-Man.Utd W
-
-+407
-
-5.60
-3.90
-1.55
-2.30
-1.21
-1.11
-1.20
-2.19
-1.60
-Ned 13:00
-
-Leicester W
-
-Arsenal W
-
-+407
-
-15.0
-7.00
-1.15
-4.70
-1.07
--
-1.15
-2.55
-1.45
-Ned 13:00
-
-Tottenham W
-
-Liverpool W
-
-+407
-
-1.90
-3.35
-3.90
-1.21
-1.28
-1.80
-1.33
-1.72
-2.00
-Ned 13:00
-
-Aston Villa W
-
-Everton W
-
-+407
-
-1.65
-3.60
-5.10
-1.13
-1.25
-2.11
-1.25
-1.96
-1.75
 Engleska 7 central
 1
 X
@@ -4791,6 +5356,109 @@ Royston
 1.22
 1.85
 1.75
+Sub 16:00
+
+Alvechurch
+
+Spalding United
+
++523
+
+3.20
+3.70
+1.93
+1.72
+1.20
+1.27
+1.20
+1.91
+1.70
+Sub 16:00
+
+Bishop's S.
+
+Quorn
+
++523
+
+2.65
+3.70
+2.25
+1.54
+1.22
+1.40
+1.20
+1.98
+1.65
+Sub 16:00
+
+FC Bromsgrove Sporting
+
+Leiston
+
++523
+
+2.80
+3.70
+2.15
+1.59
+1.22
+1.36
+1.20
+1.91
+1.70
+Sub 16:00
+
+Halesowen
+
+Needham
+
++0
+
+Klikni za kompletnu ponudu
+Uto 20:45
+
+Sudbury
+
+Royston
+
++523
+
+2.70
+3.70
+2.20
+1.56
+1.21
+1.38
+1.22
+1.85
+1.75
+Sub 16:00
+
+Halesowen
+
+Needham
+
++0
+
+Klikni za kompletnu ponudu
+Uto 20:45
+
+Sudbury
+
+Royston
+
++523
+
+2.70
+3.70
+2.20
+1.56
+1.21
+1.38
+1.22
+1.85
+1.75
 Engleska 7 istok
 1
 X
@@ -4801,6 +5469,41 @@ X2
 2+
 0-2
 3+
+Sub 16:00
+
+Burgess Hill
+
+Canvey
+
++0
+
+Klikni za kompletnu ponudu
+Uto 20:45
+
+Canvey
+
+Wingate&Finchley
+
++523
+
+2.70
+3.70
+2.20
+1.56
+1.21
+1.38
+1.20
+1.91
+1.70
+Sub 16:00
+
+Burgess Hill
+
+Canvey
+
++0
+
+Klikni za kompletnu ponudu
 Sub 16:00
 
 Burgess Hill
@@ -4873,6 +5576,42 @@ Gosport
 +0
 
 Klikni za kompletnu ponudu
+Sub 16:00
+
+Bracknell Town
+
+Dorchester
+
++0
+
+Klikni za kompletnu ponudu
+Sub 16:00
+
+Hanwell Town
+
+Taunton Town
+
++0
+
+Klikni za kompletnu ponudu
+Sub 16:00
+
+Sholing
+
+Hungerford
+
++0
+
+Klikni za kompletnu ponudu
+Sub 16:00
+
+Poole
+
+Gosport
+
++0
+
+Klikni za kompletnu ponudu
 Engleska 7 sever
 1
 X
@@ -4885,6 +5624,23 @@ X2
 3+
 Sub 16:00
 
+Stockton Town
+
+Ilkeston
+
++523
+
+1.95
+3.70
+3.15
+1.28
+1.20
+1.70
+1.18
+2.06
+1.60
+Sub 16:00
+
 Ashton
 
 Cleethorpes
@@ -4892,6 +5648,75 @@ Cleethorpes
 +0
 
 Klikni za kompletnu ponudu
+Sub 16:00
+
+Hebburn Town
+
+Warrington
+
++523
+
+2.30
+3.60
+2.60
+1.40
+1.22
+1.51
+1.22
+1.85
+1.75
+Sub 16:00
+
+Rushall O.
+
+Prescot
+
++0
+
+Klikni za kompletnu ponudu
+Sub 16:00
+
+Stockton Town
+
+Ilkeston
+
++523
+
+1.95
+3.70
+3.15
+1.28
+1.20
+1.70
+1.18
+2.06
+1.60
+Sub 16:00
+
+Ashton
+
+Cleethorpes
+
++0
+
+Klikni za kompletnu ponudu
+Sub 16:00
+
+Hebburn Town
+
+Warrington
+
++523
+
+2.30
+3.60
+2.60
+1.40
+1.22
+1.51
+1.22
+1.85
+1.75
 Sub 16:00
 
 Rushall O.
@@ -4928,33 +5753,179 @@ Morpeth
 +0
 
 Klikni za kompletnu ponudu
+Engleska 6 jug
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
 Sub 16:00
 
-Stocksbridge Park Steels
+Bath City
 
-Workington
+Horsham Fc
 
-+0
++523
 
-Klikni za kompletnu ponudu
+2.70
+3.25
+2.50
+1.47
+1.30
+1.41
+1.27
+1.90
+1.80
 Sub 16:00
 
-Guiseley
+Enfield Town
 
-Hednesford
+Eastbourne
 
-+0
++523
 
-Klikni za kompletnu ponudu
-Uto 20:45
+3.00
+3.30
+2.25
+1.57
+1.29
+1.34
+1.27
+1.90
+1.80
+Sub 16:00
 
-Bamber Bridge
+Worthing
 
-Warrington
+Hampton&R.
 
-+0
++523
 
-Klikni za kompletnu ponudu
+1.55
+4.00
+5.40
+1.12
+1.20
+2.30
+1.17
+2.41
+1.50
+Engleska 6 sever
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Sub 16:00
+
+Southport
+
+Kings Lynn
+
++523
+
+2.70
+3.25
+2.50
+1.47
+1.30
+1.41
+1.28
+1.85
+1.85
+Sub 16:00
+
+Marine
+
+Fylde
+
++523
+
+4.50
+3.50
+1.75
+1.97
+1.26
+1.17
+1.20
+2.19
+1.60
+Sub 16:00
+
+Hereford
+
+Curzon
+
++523
+
+2.25
+3.35
+2.95
+1.35
+1.28
+1.57
+1.23
+2.03
+1.70
+Sub 16:00
+
+Alfreton
+
+Kidderminster
+
++523
+
+5.00
+3.50
+1.68
+2.06
+1.26
+1.14
+1.29
+1.80
+1.90
+Sub 16:00
+
+Peterborough Sports
+
+Chorley
+
++523
+
+3.50
+3.35
+2.00
+1.71
+1.27
+1.25
+1.23
+2.03
+1.70
+Sub 16:00
+
+Worksop
+
+Scarborough
+
++523
+
+2.70
+3.30
+2.45
+1.49
+1.28
+1.41
+1.22
+2.11
+1.65
 Estonija 1
 1
 X
@@ -4982,6 +5953,145 @@ Kuressaare
 1.05
 2.90
 1.30
+Ned 11:30
+
+Paide
+
+Parnu Vaprus
+
++523
+
+1.42
+4.40
+6.25
+1.07
+1.16
+2.55
+1.15
+2.25
+1.50
+Ned 11:30
+
+Nomme
+
+Tammeka
+
++523
+
+1.23
+6.00
+9.00
+1.02
+1.08
+3.60
+1.08
+2.50
+1.40
+Ned 13:00
+
+Trans Narva
+
+Levadia Tallinn
+
++523
+
+6.25
+4.50
+1.40
+2.60
+1.14
+1.07
+1.13
+2.37
+1.45
+Farska ostrva - kup
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Pet 20:00
+
+Ki Klaksvik
+
+Vikingur Gota
+
++523
+
+1.52
+4.20
+5.00
+1.12
+1.17
+2.28
+1.15
+2.15
+1.55
+Finska 1 - play off
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Ned 15:00
+
+Kups
+
+Inter Turku
+
++523
+
+2.25
+3.35
+2.95
+1.35
+1.28
+1.57
+1.22
+2.11
+1.65
+Pon 17:00
+
+Ilves
+
+SJK
+
++523
+
+1.65
+3.90
+4.60
+1.16
+1.21
+2.11
+1.07
+3.20
+1.30
+Pon 18:00
+
+Gnistan
+
+Helsinki
+
++523
+
+4.20
+3.70
+1.75
+1.97
+1.24
+1.19
+1.08
+2.90
+1.35
 Francuska 2
 1
 X
@@ -5128,6 +6238,23 @@ Saint-Etienne
 1.27
 1.90
 1.80
+Pon 20:45
+
+Pau
+
+Troyes
+
++523
+
+3.00
+3.40
+2.35
+1.59
+1.32
+1.39
+1.27
+1.90
+1.80
 Francuska 3
 1
 X
@@ -5138,23 +6265,6 @@ X2
 2+
 0-2
 3+
-Pet 19:30
-
-Paris 13 Atl.
-
-Bourg Peronnas
-
-+523
-
-1.90
-3.25
-4.00
-1.20
-1.29
-1.79
-1.50
-1.53
-2.35
 Pet 19:30
 
 Paris 13 Atl.
@@ -5386,6 +6496,57 @@ PAOK
 1.18
 2.29
 1.55
+Sub 19:00
+
+Olympiakos
+
+Aris
+
++523
+
+1.32
+5.10
+10.0
+1.05
+1.17
+3.35
+1.25
+1.90
+1.80
+Ned 16:30
+
+Larisa
+
+Levadiakos
+
++523
+
+3.10
+3.30
+2.35
+1.60
+1.34
+1.37
+1.38
+1.62
+2.15
+Ned 18:30
+
+Panserraikos
+
+PAOK
+
++523
+
+10.5
+5.90
+1.27
+3.75
+1.13
+1.05
+1.18
+2.29
+1.55
 Ned 20:00
 
 AEK
@@ -5420,7 +6581,7 @@ OFI
 1.30
 1.76
 1.95
-Grčka 2 b
+Grčka 2 a
 1
 X
 2
@@ -5432,13 +6593,99 @@ X2
 3+
 Sub 14:00
 
+PAOK II
+
+Makedonikos
+
++523
+
+1.95
+3.30
+3.80
+1.23
+1.29
+1.77
+1.38
+1.62
+2.15
+Sub 14:00
+
+Nestos
+
+Niki Volos
+
++523
+
+7.50
+3.90
+1.45
+2.55
+1.22
+1.06
+1.32
+1.69
+2.05
+Grčka 2 b
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Sub 13:00
+
+Kalithea
+
+Marko
+
++523
+
+1.95
+3.30
+3.80
+1.23
+1.29
+1.77
+1.38
+1.62
+2.15
+Sub 14:00
+
 Olympiakos II
 
 Ilioupolis
 
-+0
++523
 
-Klikni za kompletnu ponudu
+1.27
+5.00
+10.5
+-
+1.13
+3.35
+1.22
+2.03
+1.70
+Sub 14:00
+
+Kalamata
+
+Panargiakos
+
++523
+
+1.10
+8.00
+20.0
+-
+1.04
+5.70
+1.22
+2.03
+1.70
 Holandija 2
 1
 X
@@ -5534,23 +6781,40 @@ RKC Waalwijk
 1.17
 2.41
 1.50
-Ned 16:45
+Pon 20:00
 
-MVV
+PSV II
 
-ADO Den Haag
+Willem II
 
 +523
 
-7.50
-4.80
-1.35
-2.90
-1.14
-1.05
-1.10
-2.70
-1.40
+2.45
+3.40
+2.65
+1.42
+1.27
+1.49
+1.15
+2.55
+1.45
+Pon 20:00
+
+Dordrecht
+
+Almere
+
++523
+
+2.30
+3.40
+2.85
+1.37
+1.27
+1.55
+1.18
+2.29
+1.55
 Holandija 3
 1
 X
@@ -5700,6 +6964,23 @@ Dragovoljac
 1.17
 2.41
 1.50
+Pet 14:00
+
+Bjelovar
+
+Trnje
+
++523
+
+1.75
+3.50
+4.50
+1.17
+1.26
+1.97
+1.23
+2.03
+1.70
 Indonezija 1
 1
 X
@@ -5719,578 +7000,74 @@ Persita Tangerang
 +0
 
 Klikni za kompletnu ponudu
-Irak 1
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Pet 18:30
+Sub 13:00
 
-Al Talaba
+Bali Utd
 
-Naft Missan
+Persib
 
 +523
 
-1.95
-3.10
-4.10
-1.20
-1.32
-1.77
-1.60
-1.41
-2.70
-Pet 18:30
-
-Al Mosul
-
-Al Zawra
-
-+523
-
-4.00
-3.25
-1.90
-1.79
-1.29
-1.20
-1.50
-1.53
-2.35
-Pet 20:00
-
-Al Karkh
-
-Al Kahraba
-
-+523
-
-1.95
-3.25
-3.80
-1.22
-1.29
+3.40
+3.35
+2.05
+1.69
+1.28
+1.27
+1.25
+1.96
 1.75
-1.45
-1.55
-2.30
-Italija 2
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Sub 12:30
+Ned 09:30
 
-Avellino
+PSM
 
-Reggiana
+Madura Utd
 
 +523
 
-1.95
+1.85
 3.40
 4.10
-1.24
-1.32
+1.20
+1.27
 1.86
-1.38
-1.62
-2.15
-Sub 15:00
-
-Padova
-
-Sudtirol
-
-+523
-
-2.40
-3.20
-3.10
-1.37
-1.35
-1.57
-1.40
-1.60
-2.20
-Sub 15:00
-
-Carrarese
-
-Frosinone
-
-+523
-
-2.45
-3.30
-2.90
-1.41
-1.33
-1.54
-1.30
-1.76
-1.95
-Sub 17:15
-
-Virtus Entella
-
-Empoli
-
-+523
-
-2.45
-3.10
-3.15
-1.37
-1.38
-1.56
-1.50
-1.53
-2.35
-Sub 19:30
-
-Palermo
-
-Pescara
-
-+523
-
-1.45
-4.40
-7.25
-1.09
-1.21
-2.70
-1.22
-2.03
-1.70
-Ned 15:00
-
-Catanzaro
-
-Venezia
-
-+523
-
-2.95
-3.30
-2.45
-1.56
-1.34
-1.41
 1.33
 1.72
 2.00
-Ned 15:00
+Ned 13:00
 
-Bari
+Persebaya
 
-Cesena
-
-+523
-
-2.90
-3.15
-2.55
-1.51
-1.36
-1.41
-1.38
-1.62
-2.15
-Ned 15:00
-
-Modena
-
-Juve Stabia
+Persis Solo
 
 +523
 
-1.92
-3.35
-4.30
-1.22
-1.33
-1.88
-1.50
-1.53
-2.35
-Ned 17:15
-
-Monza
-
-Spezia
-
-+523
-
-1.98
-3.35
-4.00
-1.24
-1.32
-1.82
-1.40
-1.60
-2.20
-Ned 19:30
-
-Sampdoria
-
-Mantova
-
-+523
-
+1.75
+3.50
+4.50
+1.17
+1.26
 1.97
-3.45
-3.90
-1.25
-1.31
-1.83
-1.30
-1.76
-1.95
-Italija 3 a
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Ned 20:30
-
-Leko
-
-Arzignano
-
-+523
-
-1.97
-3.20
-3.80
-1.22
-1.30
-1.74
-1.50
-1.53
-2.35
-Pon 20:30
-
-Ospitaletto
-
-Dolomiti Bellunesi
-
-+0
-
-Klikni za kompletnu ponudu
-Pon 20:30
-
-Ospitaletto
-
-Dolomiti Bellunesi
-
-+0
-
-Klikni za kompletnu ponudu
-Izrael 1
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Sub 14:00
-
-Maccabi Haifa
-
-Hapoel Jerusalem
-
-+523
-
-1.30
-5.30
-8.00
-1.04
-1.12
-3.15
-1.15
-2.55
-1.45
-Sub 16:30
-
-Hapoel T.A.
-
-Ironi Tiberias
-
-+523
-
-1.42
-4.30
-7.00
-1.07
-1.18
-2.65
-1.20
-2.19
-1.60
-Sub 17:30
-
-Hapoel P.T.
-
-Bnei Sakhnin
-
-+523
-
-1.90
-3.35
-3.90
-1.21
 1.28
-1.80
-1.30
-1.76
-1.95
-Sub 17:30
+1.85
+1.85
+Pon 09:30
 
-MS Ashdod
+Persijap
 
-Hapoel Haifa
+Malut United
 
 +523
 
-2.75
-3.30
-2.40
-1.50
-1.28
-1.39
-1.22
-2.11
-1.65
-Japan 2
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Ned 06:00
-
-Kumamoto
-
-Yamaguchi
-
-+523
-
-2.40
+2.85
 3.25
-2.80
-1.38
-1.29
-1.50
-1.30
-1.76
-1.95
-Ned 06:00
-
-Sangan
-
-Tokushima
-
-+523
-
-2.80
-2.90
-2.65
-1.42
-1.36
-1.38
-1.50
-1.53
 2.35
-Ned 06:00
-
-Omiya Ardija
-
-Blaublitz
-
-+523
-
-1.82
-3.45
-4.10
-1.19
-1.26
-1.87
-1.28
-1.85
-1.85
-Ned 06:00
-
-Jubilo Iwata
-
-V-Varen Nagasaki
-
-+523
-
-3.80
-3.45
+1.52
+1.29
+1.36
+1.29
+1.80
 1.90
-1.81
-1.27
-1.23
-1.22
-2.11
-1.65
-Ned 06:00
-
-Iwaki
-
-Fujieda
-
-+523
-
-1.90
-3.45
-3.80
-1.23
-1.27
-1.81
-1.23
-2.03
-1.70
-Ned 06:00
-
-Kofu
-
-Mito Hollyhock
-
-+523
-
-3.40
-3.20
-2.10
-1.65
-1.30
-1.27
-1.38
-1.62
-2.15
-Ned 06:00
-
-JEF United
-
-Sapporo
-
-+523
-
-1.85
-3.45
-4.00
-1.20
-1.26
-1.85
-1.23
-2.03
-1.70
-Ned 06:00
-
-Imabari
-
-Vegalta Sendai
-
-+523
-
-2.75
-3.10
-2.55
-1.46
-1.32
-1.40
-1.35
-1.69
-2.05
-Ned 06:00
-
-Toyama
-
-Ehime
-
-+523
-
-1.95
-3.35
-3.70
-1.23
-1.28
-1.76
-1.28
-1.85
-1.85
-Ned 06:30
-
-Oita Trinita
-
-Montedio Yamagata
-
-+523
-
-2.80
-3.00
-2.55
-1.45
-1.33
-1.38
-1.45
-1.55
-2.30
-Japan 3
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Ned 06:00
-
-Azul Klaro
-
-Sagamihara
-
-+0
-
-Klikni za kompletnu ponudu
-Ned 08:00
-
-Parceiro N.
-
-Kochi
-
-+0
-
-Klikni za kompletnu ponudu
 Južna koreja 1 - play off
 1
 X
@@ -6542,7 +7319,7 @@ Cheonan City
 1.25
 1.96
 1.75
-Kanada 1 - play off
+Južna koreja 3
 1
 X
 2
@@ -6552,254 +7329,11 @@ X2
 2+
 0-2
 3+
-Ned 22:00
+Sub 06:00
 
-Forge
+Gyeongju
 
-Cavalry
-
-+0
-
-Klikni za kompletnu ponudu
-Katar 1
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Pet 15:30
-
-Al Arabi Doha
-
-Al Shahaniya
-
-+523
-
-1.58
-3.90
-5.20
-1.12
-1.21
-2.23
-1.15
-2.55
-1.45
-Pet 17:30
-
-Al Wakra
-
-Qatar Doha
-
-+523
-
-1.75
-3.60
-4.30
-1.18
-1.24
-1.96
-1.15
-2.55
-1.45
-Sub 15:30
-
-Al Sailiya
-
-Al Ahli Doha
-
-+523
-
-3.25
-3.35
-2.10
-1.65
-1.28
-1.29
-1.23
-2.03
-1.70
-Sub 17:30
-
-Umm Salal
-
-Al Shamal
-
-+523
-
-4.00
-3.60
-1.80
-1.89
-1.24
-1.20
-1.15
-2.55
-1.45
-Kina 1
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Pet 11:00
-
-Shanghai Port
-
-Zhejiang Greentown
-
-+523
-
-1.60
-3.90
-5.00
-1.13
-1.21
-2.19
-1.07
-3.20
-1.30
-Pet 12:35
-
-Chengdu Rongcheng
-
-Henan Songshan
-
-+523
-
-1.40
-4.50
-7.00
-1.07
-1.17
-2.70
-1.08
-2.90
-1.35
-Pet 13:00
-
-Shanghai Shenhua
-
-Shenzhen PC
-
-+523
-
-1.28
-5.30
-9.00
--
-1.12
-3.30
-1.08
-2.90
-1.35
-Sub 08:30
-
-Shandong
-
-Tianjin Jinmen Tiger
-
-+523
-
-1.45
-4.30
-6.25
-1.08
-1.18
-2.55
-1.08
-2.90
-1.35
-Sub 08:30
-
-Changchun
-
-Guoan Beijing
-
-+523
-
-2.65
-3.45
-2.40
-1.50
-1.26
-1.42
-1.10
-2.70
-1.40
-Sub 12:35
-
-Meizhou Hakka
-
-Dalian Yingbo
-
-+523
-
-2.00
-3.45
-3.45
-1.27
-1.27
-1.73
-1.18
-2.29
-1.55
-Ned 08:30
-
-Qingdao Hainiu
-
-Wuhan Three Towns
-
-+523
-
-1.67
-3.60
-4.90
-1.14
-1.25
-2.08
-1.18
-2.29
-1.55
-Ned 12:35
-
-Yunnan Yukun
-
-Qingdao WC
-
-+523
-
-1.95
-3.45
-3.60
-1.25
-1.26
-1.76
-1.17
-2.41
-1.50
-Kina 2
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Sub 07:30
-
-Guangxi Baoyun
-
-Shanghai J.
+Yeoju Citizen
 
 +523
 
@@ -6809,391 +7343,71 @@ Shanghai J.
 1.10
 1.22
 2.30
-1.28
-1.80
-1.90
-Sub 07:30
+1.22
+2.11
+1.65
+Sub 06:00
 
-Dingnan
+Ulsan Citizen
 
-Shenzhen Juniors
-
-+523
-
-2.25
-3.25
-3.05
-1.33
-1.29
-1.57
-1.30
-1.76
-1.95
-Kipar 1
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Pet 18:00
-
-Aris Limmasol
-
-Akritas Chlorakas
+Jeonbuk M. II
 
 +523
 
-1.13
-7.50
-16.0
--
-1.06
-5.10
-1.10
-2.70
-1.40
-Sub 16:00
-
-Omonia Aradippou
-
-Olympiakos N.
-
-+523
-
-2.35
-3.15
-2.95
-1.35
-1.31
-1.52
-1.38
-1.62
-2.15
-Ned 16:00
-
-Ypsonas
-
-Anorthosis
-
-+523
-
-2.40
-3.25
-2.80
-1.38
-1.29
-1.50
-1.28
-1.85
-1.85
-Kolumbija 1 - klausura
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Pon 01:30
-
-Fortaleza
-
-CPD Junior
-
-+0
-
-Klikni za kompletnu ponudu
-Pon 20:00
-
-Santa Fe
-
-Deportivo Cali
-
-+0
-
-Klikni za kompletnu ponudu
-Pon 22:10
-
-Envigado
-
-Millionarios
-
-+0
-
-Klikni za kompletnu ponudu
-Kolumbija 2 - klausura play off
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Sub 01:30
-
-Internacional Palmira
-
-Deportivo Cucuta
-
-+523
-
-2.50
-3.05
-2.85
-1.37
-1.33
-1.47
-1.40
-1.60
 2.20
-Kostarika 1 - apertura
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Sub 03:00
-
-Sporting San Jose
-
-Herediano
-
-+523
-
-2.15
 3.30
-3.20
-1.30
+3.10
+1.32
 1.29
-1.62
-1.30
-1.76
-1.95
-Litvanija 1
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Ned 13:00
-
-Kaunas Zalgiris
-
-Panevezis
-
-+0
-
-Klikni za kompletnu ponudu
-Ned 14:00
-
-Dziugas Telsiai
-
-Riteriai
-
-+0
-
-Klikni za kompletnu ponudu
-Ned 17:25
-
-Suduva
-
-Siauliai FA
-
-+0
-
-Klikni za kompletnu ponudu
-Ned 17:25
-
-Zalgiris
-
-Hegelmann Litauen
-
-+0
-
-Klikni za kompletnu ponudu
-Litvanija 2
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Pet 17:00
-
-Hegelmann Litauen II
-
-Neptunas
-
-+523
-
-7.00
-4.70
-1.35
-2.80
-1.13
-1.05
-1.13
-2.37
-1.45
-Luksemburg 1
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Pet 20:00
-
-Rodange
-
-Progres N.
-
-+523
-
-5.70
-4.30
-1.45
-2.45
-1.16
-1.08
-1.15
-2.15
-1.55
-Mađarska 1
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Pet 20:00
-
-Kisvarda
-
-Nyiregyhaza
-
-+523
-
-2.00
-3.30
-3.60
-1.25
-1.29
-1.72
-1.33
-1.72
-2.00
-Sub 13:15
-
-Kazincbarcikai
-
-Puskas
-
-+523
-
-5.10
-3.70
-1.63
-2.14
-1.24
-1.13
-1.20
-2.19
 1.60
-Sub 15:30
+1.28
+1.85
+1.85
+Italija 2
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Ned 17:15
 
-Gyor
+Monza
 
-Paks
+Spezia
 
 +523
 
 1.98
-3.50
-3.45
-1.26
-1.26
-1.74
-1.10
-2.70
-1.40
-Sub 20:00
-
-Ferencvaros
-
-MTK
-
-+523
-
-1.40
-4.40
-7.25
-1.06
-1.17
-2.70
-1.10
-2.70
-1.40
-Ned 15:30
-
-Diosgyor
-
-Ujpest
-
-+523
-
-3.10
-3.40
-2.15
-1.62
-1.27
+3.35
+4.00
+1.24
 1.32
-1.20
-2.19
-1.60
-Ned 18:00
+1.82
+1.45
+1.55
+2.30
+Ned 19:30
 
-Debrecen
+Sampdoria
 
-Zalaegerszeg
+Mantova
 
 +523
 
-2.05
-3.35
-3.40
-1.27
-1.28
-1.69
-1.23
-2.03
-1.70
-Mađarska 2
+1.97
+3.45
+3.90
+1.25
+1.31
+1.83
+1.30
+1.76
+1.95
+Italija 3 a
 1
 X
 2
@@ -7203,397 +7417,229 @@ X2
 2+
 0-2
 3+
-Ned 13:00
+Sub 14:30
 
-BVSC
+Pergolettese
 
-Szentlorinc
-
-+0
-
-Klikni za kompletnu ponudu
-Ned 13:00
-
-Karcag SE
-
-Bekescsaba
-
-+0
-
-Klikni za kompletnu ponudu
-Ned 15:00
-
-Kozarmisleny
-
-Csakvari TK
-
-+0
-
-Klikni za kompletnu ponudu
-Ned 15:00
-
-Szeged 2011
-
-Budafoki
-
-+0
-
-Klikni za kompletnu ponudu
-Ned 17:00
-
-Soroksar
-
-Honved
-
-+0
-
-Klikni za kompletnu ponudu
-Ned 17:00
-
-Tiszakecske
-
-KTE
-
-+0
-
-Klikni za kompletnu ponudu
-Ned 17:00
-
-Ajka
-
-Mezokovesd
-
-+0
-
-Klikni za kompletnu ponudu
-Pon 20:00
-
-Vasas
-
-Fehervar
-
-+0
-
-Klikni za kompletnu ponudu
-Meksiko 1 - apertura
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Sub 02:00
-
-Necaxa
-
-Santos Laguna
-
-+523
-
-1.60
-3.90
-5.00
-1.13
-1.21
-2.19
-1.15
-2.55
-1.45
-Sub 04:00
-
-Atletico San Luis
-
-Juarez
-
-+523
-
-2.20
-3.35
-3.05
-1.33
-1.28
-1.60
-1.23
-2.03
-1.70
-Sub 04:00
-
-Atletico San Luis
-
-Juarez
-
-+523
-
-2.20
-3.35
-3.05
-1.33
-1.28
-1.60
-1.23
-2.03
-1.70
-Sub 04:05
-
-Puebla
-
-Cruz Azul
-
-+523
-
-4.80
-3.50
-1.70
-2.02
-1.26
-1.14
-1.22
-2.11
-1.65
-Sub 23:55
-
-Atlas
-
-Toluca
-
-+523
-
-5.00
-3.90
-1.60
-2.19
-1.21
-1.13
-1.15
-2.55
-1.45
-Ned 02:05
-
-Monterrey
-
-Tigres Uanl
+Novara
 
 +523
 
 2.35
-3.30
-2.85
-1.37
-1.29
-1.53
-1.23
-2.03
-1.70
-Ned 04:10
-
-America
-
-Leon
-
-+523
-
-1.32
-5.00
-8.00
-1.04
-1.13
-3.05
-1.15
-2.55
-1.45
-Ned 19:00
-
-Pumas Unam
-
-Tijuana
-
-+523
-
-1.90
-3.45
-3.80
-1.23
-1.27
-1.81
-1.22
-2.11
-1.65
-Ned 23:55
-
-Queretaro
-
-Mazatlan
-
-+523
-
-2.20
-3.30
+3.00
 3.10
 1.32
-1.29
-1.60
-1.27
-1.90
-1.80
-Pon 02:00
+1.34
+1.52
+1.50
+1.53
+2.35
+Sub 17:30
 
-Pachuca
+Virtus V.
 
-Guadalajara
+Trento
 
 +523
 
-2.50
-3.25
-2.70
-1.41
-1.30
-1.47
-1.25
-1.96
-1.75
-Meksiko 1 w - apertura
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Sub 04:00
-
-Monterrey W
-
-Atlas W
-
-+407
-
-1.35
-4.80
-6.75
-1.05
-1.13
-2.80
-1.05
 2.90
-1.30
-Sub 04:00
-
-Tijuana W
-
-Pachuca W
-
-+407
-
-6.75
-4.80
-1.35
-2.80
-1.13
-1.05
-1.05
-2.70
-1.35
-Nemačka 3
-1
-X
-2
-1X
-12
-X2
-2+
-0-2
-3+
-Pet 19:00
-
-Victoria Koln
-
-Ingolstadt
-
-+523
-
-2.30
-3.40
-2.85
-1.37
-1.27
-1.55
-1.18
-2.29
-1.55
-Sub 14:00
-
-Erzgebirge Aue
-
-Jahn Regensburg
-
-+523
-
+3.05
+2.45
+1.49
+1.33
+1.36
+1.40
+1.60
 2.20
-3.35
+Ned 12:30
+
+Triestina
+
+Union Brescia
+
++523
+
+4.10
+3.30
+1.87
+1.83
+1.28
+1.19
+1.45
+1.55
+2.30
+Ned 14:30
+
+Vicenza
+
+Giana Erminio
+
++523
+
+1.25
+5.20
+11.0
+-
+1.12
+3.50
+1.27
+1.85
+1.85
+Ned 14:30
+
+Cittadella
+
+Pro Vercelli
+
++523
+
+1.98
+3.20
+3.80
+1.22
+1.30
+1.74
+1.50
+1.53
+2.35
+Ned 20:30
+
+Lumezzane
+
+Renate
+
++523
+
+2.35
+3.05
 3.05
 1.33
-1.28
-1.60
-1.23
-2.03
-1.70
-Sub 14:00
-
-Munchen 1860
-
-Cottbus
-
-+523
-
-2.25
-3.40
-2.90
-1.35
-1.27
-1.57
-1.18
-2.29
+1.33
+1.53
+1.45
 1.55
-Sub 14:00
+2.30
+Ned 20:30
 
-Osnabruck
+Leko
 
-Duisburg
+Arzignano
 
 +523
 
-2.15
-3.30
+1.97
 3.20
+3.80
+1.22
 1.30
-1.29
+1.74
+1.50
+1.53
+2.35
+Pon 20:30
+
+Alcione M.
+
+Pro Patria
+
++523
+
+1.85
+3.30
+4.20
+1.19
+1.28
+1.85
+1.45
+1.55
+2.30
+Pon 20:30
+
+Ospitaletto
+
+Dolomiti Bellunesi
+
++0
+
+Klikni za kompletnu ponudu
+Italija 3 b
+1
+X
+2
+1X
+12
+X2
+2+
+0-2
+3+
+Sub 14:30
+
+Arezzo
+
+Campobasso
+
++523
+
+1.42
+4.00
+8.00
+1.05
+1.21
+2.65
+1.32
+1.69
+2.05
+Sub 14:30
+
+Pineto
+
+Pianese
+
++523
+
+1.70
+3.45
+4.90
+1.14
+1.26
+2.02
+1.38
 1.62
-1.27
-1.90
-1.80
-Sub 14:00
+2.15
+Sub 17:30
 
-Ulm
+Rimini
 
-Stuttgart II
+AC Bra
 
 +523
 
 2.15
-3.40
-3.10
-1.32
-1.27
+3.15
+3.35
+1.28
+1.31
 1.62
-1.20
-2.19
+1.45
+1.55
+2.30
+Ned 12:30
+
+Livorno
+
+Forli
+
++523
+
+2.65
+2.95
+2.75
+1.40
+1.35
+1.42
+1.40
 1.60
+2.20
 
 Dostupno na
 
@@ -7656,7 +7702,7 @@ Mozzart je osnivač i član Evropske organizacije za pravo igara na sreću (Euro
 Metode plaćanja
 
 © Mozzartbet. All rights reserved 2025
-08:10:48 | 31.10.2025.
+08:18:40 | 31.10.2025.
 
 Ekskluzivni beting partneri
 

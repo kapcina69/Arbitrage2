@@ -2,20 +2,20 @@
 Regar  vs  TadAZ - Safa
 
 - BalkanBet  1=2.6  |  X=3.35  |  2=2.35  |  0-2=1.82  |  2+=1.27  |  3+=1.78  |  GG=1.55  |  IGG=3.85  |  GG&3+=1.95  |  GG&4+=3.3  |  4+=2.95
-- BetOle     1=2.7  |  X=3.3  |  2=2.27  |  0-2=1.85  |  3+=1.83
-- Brazil_d   1=2.7  |  X=3.25  |  2=2.3  |  0-2=1.85  |  2+=1.25  |  3+=1.85
+- BetOle     1=2.67  |  X=3.35  |  2=2.3  |  0-2=1.9  |  3+=1.8
+- Brazil_d   1=2.65  |  X=3.3  |  2=2.3  |  0-2=1.9  |  2+=1.24  |  3+=1.82
 - MaxBet     1=2.75  |  X=3.40  |  2=2.30
-- Merkur     1=2.62  |  X=3.5  |  2=2.18  |  0-2=2.23  |  3+=1.55  |  GG=1.47
+- Merkur     1=2.52  |  X=3.45  |  2=2.25  |  0-2=2.23  |  3+=1.55  |  GG=1.45
 - Soccer     1=2.7  |  X=3.4  |  2=2.38  |  0-2=1.87  |  2+=1.26  |  3+=1.83  |  GG=1.7  |  IGG=4.2  |  GG&3+=2.05
 
 Najveća 1  : 2.75  [MaxBet]
-Najveća X  : 3.50  [Merkur]
+Najveća X  : 3.45  [Merkur]
 Najveća 2  : 2.38  [Soccer]
 Najveća 0-2: 2.23  [Merkur]
-Najveća 3+ : 1.85  [Brazil_d]
+Najveća 3+ : 1.83  [Soccer]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0695   profit≈-6.95%
-Arbitraža (0-2 / 3+): DA   inv_sum=0.9890   profit≈1.10%
+Arbitraža (1-X-2): NE   inv_sum=1.0737   profit≈-7.37%
+Arbitraža (0-2 / 3+): DA   inv_sum=0.9949   profit≈0.51%
 
 11:00   31.10.   [Srbija U19]
 U19 Vojvodina  vs  U19 C.Zvezda
@@ -41,11 +41,10 @@ Shanghai Shenh.  vs  Shenzhen P.C.
 - Brazil_d   1=1.21  |  X=6.1  |  2=10  |  0-2=3.2  |  2+=1.06  |  3+=1.3
 - MaxBet     1=1.24  |  X=5.80  |  2=9.00
 - Merkur     1=1.22  |  X=6.4  |  2=9  |  0-2=3.2  |  3+=1.3  |  GG=1.62  |  IGG=3.75  |  GG&3+=1.83
-- Mozzart    1=1.28  |  X=5.3  |  2=9
 - Soccer     1=1.28  |  X=5.5  |  2=8.2  |  0-2=2.85  |  2+=1.09  |  3+=1.37  |  GG=1.7  |  IGG=3.85  |  GG&3+=1.85
 - Topbet     1=1.25  |  X=6.1  |  2=8.1
 
-Najveća 1  : 1.28  [Mozzart, Soccer]
+Najveća 1  : 1.28  [Soccer]
 Najveća X  : 7.50  [BalkanBet]
 Najveća 2  : 12.80  [BalkanBet]
 Najveća 0-2: 3.20  [BalkanBet, Brazil_d, Merkur]
@@ -54,47 +53,33 @@ Najveća 3+ : 1.37  [Soccer]
 Arbitraža (1-X-2): DA   inv_sum=0.9927   profit≈0.73%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0424   profit≈-4.24%
 
-14:00   31.10.   [Uganda 1]
-Buhimba United Saints FC  vs  Villa
+16:30   31.10.   [Bugarska 2]
+Fratria Varna  vs  Vihren Sandanski
 
-- BalkanBet  1=2.35  |  X=2.9  |  2=2.85  |  0-2=1.36  |  2+=1.53  |  3+=2.65  |  4+=5.25
-- Brazil_d   1=2.12  |  X=2.8  |  2=3.3  |  0-2=1.43  |  2+=1.45  |  3+=2.45
-- Merkur     1=2.1  |  X=2.95  |  2=3.35  |  0-2=1.47  |  3+=2.4
-- Soccer     1=2.8  |  X=2.65  |  2=2.65  |  0-2=1.4  |  2+=1.6  |  3+=2.75  |  GG=2.15  |  IGG=None  |  GG&3+=None
+- BalkanBet  1=1.8  |  X=3.35  |  2=3.9  |  0-2=1.87  |  2+=1.28  |  3+=1.83  |  GG=1.65  |  IGG=4.45  |  GG&3+=2.1  |  GG&4+=3.5  |  4+=3.1
+- Brazil_d   1=1.73  |  X=3.35  |  2=4.3  |  0-2=1.8  |  2+=1.25  |  3+=1.85
+- MaxBet     1=1.70  |  X=3.40  |  2=4.45
+- Merkur     1=1.97  |  X=3.3  |  2=3.25  |  0-2=1.9  |  3+=1.8  |  GG=1.65  |  IGG=4.55  |  GG&3+=2.15
+- Soccer     1=1.8  |  X=3.45  |  2=4.1  |  0-2=1.85  |  2+=1.27  |  3+=1.85  |  GG=1.75  |  IGG=4.45  |  GG&3+=2.1
+- Topbet     1=1.58  |  X=3.8  |  2=5.1
 
-Najveća 1  : 2.80  [Soccer]
-Najveća X  : 2.95  [Merkur]
-Najveća 2  : 3.35  [Merkur]
-Najveća 0-2: 1.47  [Merkur]
-Najveća 3+ : 2.75  [Soccer]
+Najveća 1  : 1.97  [Merkur]
+Najveća X  : 3.80  [Topbet]
+Najveća 2  : 5.10  [Topbet]
+Najveća 0-2: 1.90  [Merkur]
+Najveća 3+ : 1.85  [Brazil_d, Soccer]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9946   profit≈0.54%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0439   profit≈-4.39%
-
-22:30   31.10.   [Venecuela 1]
-Zamora  vs  P. Cabello
-
-- BalkanBet  1=2.75  |  X=2.9  |  2=2.5  |  0-2=1.9  |  2+=1.28  |  3+=1.8  |  GG=1.55  |  IGG=3.9  |  GG&3+=2.05  |  GG&4+=3.35  |  4+=3
-- Brazil_d   1=2.5  |  X=3.15  |  2=2.55  |  0-2=1.85  |  2+=1.25  |  3+=1.82
-- Merkur     1=2.65  |  X=3  |  2=2.65  |  0-2=1.57  |  3+=2.25  |  GG=1.92  |  IGG=5.5  |  GG&3+=2.68
-- Soccer     1=2.55  |  X=3.35  |  2=2.55  |  0-2=2.05  |  2+=1.21  |  3+=1.7  |  GG=1.57  |  IGG=3.85  |  GG&3+=1.85
-
-Najveća 1  : 2.75  [BalkanBet]
-Najveća X  : 3.35  [Soccer]
-Najveća 2  : 2.65  [Merkur]
-Najveća 0-2: 2.05  [Soccer]
-Najveća 3+ : 2.25  [Merkur]
-
-Arbitraža (1-X-2): NE   inv_sum=1.0395   profit≈-3.95%
-Arbitraža (0-2 / 3+): DA   inv_sum=0.9322   profit≈6.78%
+Arbitraža (1-X-2): DA   inv_sum=0.9669   profit≈3.31%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0669   profit≈-6.69%
 
 23:00   31.10.   [Argentina 1]
 San Lorenzo  vs  Riestra
 
 - BalkanBet  1=1.8  |  X=3.25  |  2=5.35  |  0-2=1.35  |  2+=1.68  |  3+=3.25  |  GG=2.7  |  IGG=8.55  |  GG&3+=4  |  GG&4+=7.3  |  4+=7
-- Brazil_d   1=1.99  |  X=2.85  |  2=4.6  |  0-2=1.24  |  2+=1.81  |  3+=3.65
+- Brazil_d   1=1.99  |  X=2.85  |  2=4.6  |  0-2=1.24  |  2+=1.8  |  3+=3.6
 - MaxBet     1=2.00  |  X=2.75  |  2=4.65
-- Merkur     1=2.03  |  X=2.8  |  2=4.75  |  0-2=1.27  |  3+=3.7  |  GG=2.95  |  IGG=9  |  GG&3+=4.85
+- Merkur     1=2.03  |  X=2.85  |  2=4.75  |  0-2=1.27  |  3+=3.65  |  GG=2.9  |  IGG=9  |  GG&3+=4.8
+- Mozzart    1=1.9  |  X=3.05  |  2=4.85  |  0-2=1.33  |  2+=1.7  |  3+=3.05
 - Soccer     1=2.0  |  X=2.9  |  2=4.65  |  0-2=1.3  |  2+=1.77  |  3+=3.3  |  GG=2.75  |  IGG=8.2  |  GG&3+=4.2
 - Topbet     1=1.95  |  X=2.8  |  2=4.2
 
@@ -102,10 +87,10 @@ Najveća 1  : 2.03  [Merkur]
 Najveća X  : 3.25  [BalkanBet]
 Najveća 2  : 5.35  [BalkanBet]
 Najveća 0-2: 1.35  [BalkanBet]
-Najveća 3+ : 3.70  [Merkur]
+Najveća 3+ : 3.65  [Merkur]
 
 Arbitraža (1-X-2): DA   inv_sum=0.9872   profit≈1.28%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0110   profit≈-1.10%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0147   profit≈-1.47%
 
 16:30   [POLAND, III Liga - Group II]
 Bechem United  vs  Nations FC
@@ -123,30 +108,13 @@ Najveća 3+ : 3.15  [Brazil_d]
 Arbitraža (1-X-2): DA   inv_sum=0.9905   profit≈0.95%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0867   profit≈-8.67%
 
-16:30   31.10.   [Bugarska 2]
-Fratria Varna  vs  Vihren Sandanski
-
-- BalkanBet  1=1.8  |  X=3.35  |  2=3.9  |  0-2=1.87  |  2+=1.28  |  3+=1.83  |  GG=1.65  |  IGG=4.45  |  GG&3+=2.1  |  GG&4+=3.5  |  4+=3.1
-- Brazil_d   1=1.73  |  X=3.35  |  2=4.3  |  0-2=1.8  |  2+=1.25  |  3+=1.85
-- MaxBet     1=1.70  |  X=3.40  |  2=4.45
-- Merkur     1=1.97  |  X=3.3  |  2=3.25  |  0-2=1.9  |  3+=1.8  |  GG=1.65  |  IGG=4.55  |  GG&3+=2.15
-- Topbet     1=1.58  |  X=3.8  |  2=5.1
-
-Najveća 1  : 1.97  [Merkur]
-Najveća X  : 3.80  [Topbet]
-Najveća 2  : 5.10  [Topbet]
-Najveća 0-2: 1.90  [Merkur]
-Najveća 3+ : 1.85  [Brazil_d]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9669   profit≈3.31%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0669   profit≈-6.69%
-
 15:00   01.11.   [Italija 1]
 Udinese  vs  Atalanta
 
 - BalkanBet  1=4.5  |  X=3.85  |  2=1.8  |  0-2=1.98  |  2+=1.28  |  3+=1.87  |  GG=1.8  |  IGG=4.9  |  GG&3+=2.2  |  GG&4+=3.6  |  4+=3.2
 - Brazil_s   1=4.6  |  X=3.35  |  2=1.89  |  0-2=2  |  2+=1.27  |  3+=1.82
 - Merkur     1=4.75  |  X=3.8  |  2=1.8  |  0-2=2  |  3+=1.83  |  GG=1.75  |  IGG=4.85  |  GG&3+=2.23
+- Mozzart    1=4.7  |  X=3.7  |  2=1.85  |  0-2=1.95  |  2+=1.28  |  3+=1.85
 - Topbet     1=4.3  |  X=3.75  |  2=1.8
 
 Najveća 1  : 4.75  [Merkur]
@@ -179,7 +147,7 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0376   profit≈-3.76%
 14:00   31.10.   [Hrvatska 3]
 Jadran LP  vs  Dragovoljac
 
-- BalkanBet  1=1.27  |  X=5  |  2=7.35  |  2+=1.48  |  3+=2.47
+- BalkanBet  1=1.25  |  X=5.25  |  2=7.5  |  2+=1.48  |  3+=2.47
 - Mozzart    1=1.28  |  X=5.3  |  2=9  |  0-2=2.41  |  2+=1.17  |  3+=1.5
 
 Najveća 1  : 1.28  [Mozzart]
@@ -191,21 +159,20 @@ Najveća 3+ : 2.47  [BalkanBet]
 Arbitraža (1-X-2): NE   inv_sum=1.0810   profit≈-8.10%
 Arbitraža (0-2 / 3+): DA   inv_sum=0.8198   profit≈18.02%
 
-07:30   01.11.   [Kina 2]
-Guangxi P.H.  vs  Shanghai Jiad.H.
+14:00   31.10.   [Hrvatska 3]
+Bjelovar  vs  Trnje
 
-- BalkanBet  1=1.7  |  X=3.35  |  2=4.45  |  0-2=1.53  |  2+=1.46  |  3+=2.35  |  GG=2.15  |  IGG=6.05  |  GG&3+=2.95  |  GG&4+=5  |  4+=4.5
-- Mozzart    1=1.55  |  X=3.8  |  2=5.8  |  0-2=1.8  |  2+=1.28  |  3+=1.9
-- Topbet     1=1.72  |  X=3.4  |  2=4.3
+- BalkanBet  1=1.7  |  X=3.75  |  2=3.7  |  2+=1.73  |  3+=2
+- Mozzart    1=1.75  |  X=3.5  |  2=4.5  |  0-2=2.03  |  2+=1.23  |  3+=1.7
 
-Najveća 1  : 1.72  [Topbet]
-Najveća X  : 3.80  [Mozzart]
-Najveća 2  : 5.80  [Mozzart]
-Najveća 0-2: 1.80  [Mozzart]
-Najveća 3+ : 2.35  [BalkanBet]
+Najveća 1  : 1.75  [Mozzart]
+Najveća X  : 3.75  [BalkanBet]
+Najveća 2  : 4.50  [Mozzart]
+Najveća 0-2: 2.03  [Mozzart]
+Najveća 3+ : 2.00  [BalkanBet]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0170   profit≈-1.70%
-Arbitraža (0-2 / 3+): DA   inv_sum=0.9811   profit≈1.89%
+Arbitraža (1-X-2): NE   inv_sum=1.0603   profit≈-6.03%
+Arbitraža (0-2 / 3+): DA   inv_sum=0.9926   profit≈0.74%
 
 13:00   31.10.   [Belorusija 2]
 Uni Minsk  vs  Lida
@@ -226,27 +193,27 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0197   profit≈-1.97%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1566
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1170
-Grupa sa veličinom ≥3: 827
-Grupa sa veličinom ≥4: 547
-Grupa sa veličinom ≥5: 331
-Grupa sa veličinom ≥6: 143
-Grupa sa veličinom ≥7: 46
+Ukupno mečeva (grupa): 1571
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1176
+Grupa sa veličinom ≥3: 823
+Grupa sa veličinom ≥4: 544
+Grupa sa veličinom ≥5: 311
+Grupa sa veličinom ≥6: 157
+Grupa sa veličinom ≥7: 44
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa: 1114   spojeno (u grupama >1):  966
+  - BalkanBet  ukupno zapisa: 1117   spojeno (u grupama >1):  969
   - BetOle     ukupno zapisa:   24   spojeno (u grupama >1):   24
   - Brazil_d   ukupno zapisa:  286   spojeno (u grupama >1):  275
-  - Brazil_p   ukupno zapisa:  324   spojeno (u grupama >1):  273
-  - Brazil_s   ukupno zapisa:  276   spojeno (u grupama >1):  231
-  - MaxBet     ukupno zapisa:  202   spojeno (u grupama >1):  193
+  - Brazil_p   ukupno zapisa:  304   spojeno (u grupama >1):  255
+  - Brazil_s   ukupno zapisa:  276   spojeno (u grupama >1):  233
+  - MaxBet     ukupno zapisa:  201   spojeno (u grupama >1):  192
   - Merkur     ukupno zapisa: 1017   spojeno (u grupama >1):  950
-  - Mozzart    ukupno zapisa:  375   spojeno (u grupama >1):  347
+  - Mozzart    ukupno zapisa:  382   spojeno (u grupama >1):  351
   - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  347
-  - Topbet     ukupno zapisa:  668   spojeno (u grupama >1):  634
+  - Topbet     ukupno zapisa:  672   spojeno (u grupama >1):  638
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 8
-  - 0-2 / 3+: 5
-  - Barem jedna arbitraža: 13
+  - 1-X-2: 7
+  - 0-2 / 3+: 4
+  - Barem jedna arbitraža: 11
