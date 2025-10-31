@@ -1,3 +1,23 @@
+15:00   31.10.   [Engleska U21 Razvojna Liga]
+U21 Sheffield Wed  vs  U21 Hull
+
+- BalkanBet  1=3.9  |  X=4.75  |  2=1.55  |  0-2=2.7  |  2+=1.1  |  3+=1.35  |  GG=1.4  |  IGG=3.35  |  GG&3+=1.6  |  GG&4+=2.25  |  4+=1.9
+- BetOle     1=4.3  |  X=4.3  |  2=1.55  |  0-2=3.05  |  3+=1.32
+- Brazil_d   1=4.3  |  X=4.25  |  2=1.56  |  0-2=3.05  |  2+=1.07  |  3+=1.32
+- MaxBet     1=4.33  |  X=4.30  |  2=1.55
+- OktagonBet 1=4.3  |  X=4.3  |  2=1.55  |  0-2=3.05  |  3+=1.32  |  GG=1.39  |  GG&3+=1.58  |  4+=1.86
+- Soccer     1=4.1  |  X=4.0  |  2=1.62  |  0-2=2.8  |  2+=1.09  |  3+=1.38  |  GG=1.43  |  IGG=3.2  |  GG&3+=1.6
+- Topbet     1=3.2  |  X=4.05  |  2=1.85
+
+Najveća 1  : 4.33  [MaxBet]
+Najveća X  : 4.75  [BalkanBet]
+Najveća 2  : 1.85  [Topbet]
+Najveća 0-2: 3.05  [BetOle, Brazil_d, OktagonBet]
+Najveća 3+ : 1.38  [Soccer]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9820   profit≈1.80%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0525   profit≈-5.25%
+
 15:00   01.11.   [Italija 1]
 Udinese  vs  Atalanta
 
@@ -20,27 +40,27 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0323   profit≈-3.23%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1510
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1158
-Grupa sa veličinom ≥3: 844
-Grupa sa veličinom ≥4: 526
-Grupa sa veličinom ≥5: 290
-Grupa sa veličinom ≥6: 135
-Grupa sa veličinom ≥7: 92
+Ukupno mečeva (grupa): 1517
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1153
+Grupa sa veličinom ≥3: 845
+Grupa sa veličinom ≥4: 498
+Grupa sa veličinom ≥5: 251
+Grupa sa veličinom ≥6: 105
+Grupa sa veličinom ≥7: 32
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa: 1156   spojeno (u grupama >1): 1004
-  - BetOle     ukupno zapisa:  184   spojeno (u grupama >1):  184
+  - BalkanBet  ukupno zapisa: 1156   spojeno (u grupama >1): 1000
+  - BetOle     ukupno zapisa:   28   spojeno (u grupama >1):   28
   - Brazil_d   ukupno zapisa:  166   spojeno (u grupama >1):  165
-  - Brazil_p   ukupno zapisa:  182   spojeno (u grupama >1):  173
+  - Brazil_p   ukupno zapisa:  182   spojeno (u grupama >1):  177
   - Brazil_s   ukupno zapisa:  232   spojeno (u grupama >1):  229
-  - MaxBet     ukupno zapisa:  189   spojeno (u grupama >1):  178
-  - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  377
-  - OktagonBet ukupno zapisa: 1037   spojeno (u grupama >1):  928
-  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  345
-  - Topbet     ukupno zapisa:  677   spojeno (u grupama >1):  643
+  - MaxBet     ukupno zapisa:  179   spojeno (u grupama >1):  169
+  - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  378
+  - OktagonBet ukupno zapisa: 1038   spojeno (u grupama >1):  924
+  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  337
+  - Topbet     ukupno zapisa:  677   spojeno (u grupama >1):  642
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 1
+  - 1-X-2: 2
   - 0-2 / 3+: 0
-  - Barem jedna arbitraža: 1
+  - Barem jedna arbitraža: 2
