@@ -17,27 +17,6 @@ Najveća 3+ : 2.75  [BalkanBet]
 Arbitraža (1-X-2): NE   inv_sum=1.0778   profit≈-7.78%
 Arbitraža (0-2 / 3+): DA   inv_sum=0.7208   profit≈27.92%
 
-16:30   31.10.   [Bugarska 2]
-Fratria Varna  vs  Vihren Sandanski
-
-- BalkanBet  1=1.9  |  X=3.35  |  2=3.5  |  0-2=1.88  |  2+=1.28  |  3+=1.82  |  GG=1.65  |  IGG=4.35  |  GG&3+=2.05  |  GG&4+=3.45  |  4+=3.05
-- Brazil_d   1=1.84  |  X=3.3  |  2=3.8  |  0-2=1.75  |  2+=1.26  |  3+=1.89
-- MaxBet     1=1.83  |  X=3.35  |  2=3.75
-- Merkur     1=1.97  |  X=3.3  |  2=3.25  |  0-2=1.9  |  3+=1.8  |  GG=1.65  |  IGG=4.55  |  GG&3+=2.15
-- Mozzart    1=1.7  |  X=3.5  |  2=4.8  |  0-2=1.9  |  2+=1.27  |  3+=1.8
-- OktagonBet 1=1.84  |  X=3.35  |  2=3.8  |  0-2=1.77  |  3+=1.87  |  GG=1.78  |  GG&3+=2.28  |  4+=3.35
-- Soccer     1=1.95  |  X=3.45  |  2=3.6  |  0-2=1.9  |  2+=1.25  |  3+=1.8  |  GG=1.7  |  IGG=4.25  |  GG&3+=2.05
-- Topbet     1=1.75  |  X=3.65  |  2=3.8
-
-Najveća 1  : 1.97  [Merkur]
-Najveća X  : 3.65  [Topbet]
-Najveća 2  : 4.80  [Mozzart]
-Najveća 0-2: 1.90  [Merkur, Mozzart, Soccer]
-Najveća 3+ : 1.89  [Brazil_d]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9899   profit≈1.01%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0554   profit≈-5.54%
-
 15:00   01.11.   [Italija 1]
 Udinese  vs  Atalanta
 
@@ -62,16 +41,16 @@ Barcelona  vs  Elche
 
 - BalkanBet  1=1.25  |  X=6.5  |  2=11.6  |  0-2=3.25  |  2+=1.11  |  3+=1.37  |  GG=1.85  |  IGG=4.25  |  GG&3+=2.05  |  GG&4+=2.5  |  4+=1.95
 - Merkur     1=1.27  |  X=5.6  |  2=12  |  0-2=3.2  |  3+=1.37  |  GG=1.77  |  IGG=4.35  |  GG&3+=2
-- Mozzart    1=1.22  |  X=7.75  |  2=13  |  0-2=3.2  |  2+=1.08  |  3+=1.35
+- Mozzart    1=1.23  |  X=7.5  |  2=13  |  0-2=3.2  |  2+=1.08  |  3+=1.35
 - Topbet     1=1.23  |  X=6.9  |  2=11.5
 
 Najveća 1  : 1.27  [Merkur]
-Najveća X  : 7.75  [Mozzart]
+Najveća X  : 7.50  [Mozzart]
 Najveća 2  : 13.00  [Mozzart]
 Najveća 0-2: 3.25  [BalkanBet]
 Najveća 3+ : 1.37  [BalkanBet, Merkur]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9934   profit≈0.66%
+Arbitraža (1-X-2): DA   inv_sum=0.9977   profit≈0.23%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0376   profit≈-3.76%
 
 21:00   05.11.   [Liga Šampiona]
@@ -112,17 +91,17 @@ Arbitraža (0-2 / 3+): DA   inv_sum=0.9942   profit≈0.58%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1611
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1318
-Grupa sa veličinom ≥3: 1031
-Grupa sa veličinom ≥4: 735
-Grupa sa veličinom ≥5: 533
-Grupa sa veličinom ≥6: 321
-Grupa sa veličinom ≥7: 134
+Ukupno mečeva (grupa): 1614
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1317
+Grupa sa veličinom ≥3: 1043
+Grupa sa veličinom ≥4: 750
+Grupa sa veličinom ≥5: 557
+Grupa sa veličinom ≥6: 344
+Grupa sa veličinom ≥7: 183
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa: 1128   spojeno (u grupama >1):  980
-  - BetOle     ukupno zapisa:   23   spojeno (u grupama >1):   23
+  - BalkanBet  ukupno zapisa: 1129   spojeno (u grupama >1):  979
+  - BetOle     ukupno zapisa:  248   spojeno (u grupama >1):  248
   - Brazil_d   ukupno zapisa:  284   spojeno (u grupama >1):  283
   - Brazil_p   ukupno zapisa:  290   spojeno (u grupama >1):  288
   - Brazil_s   ukupno zapisa:  277   spojeno (u grupama >1):  275
@@ -131,9 +110,9 @@ Po kladionici:
   - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  368
   - OktagonBet ukupno zapisa: 1041   spojeno (u grupama >1): 1021
   - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  347
-  - Topbet     ukupno zapisa:  674   spojeno (u grupama >1):  638
+  - Topbet     ukupno zapisa:  671   spojeno (u grupama >1):  633
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 5
+  - 1-X-2: 4
   - 0-2 / 3+: 2
-  - Barem jedna arbitraža: 6
+  - Barem jedna arbitraža: 5
