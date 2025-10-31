@@ -2,11 +2,11 @@
 San Lorenzo  vs  Riestra
 
 - BalkanBet  1=2.05  |  X=2.9  |  2=4.6  |  0-2=1.25  |  2+=1.85  |  3+=4  |  GG=3.1  |  IGG=9.5  |  GG&3+=4.9  |  GG&4+=10.4  |  4+=10
-- BetOle     1=2.02  |  X=2.7  |  2=4.8  |  0-2=1.18  |  3+=4.35
-- Brazil_d   1=2.02  |  X=2.7  |  2=4.8  |  0-2=1.17  |  2+=2  |  3+=4.35
-- MaxBet     1=2.05  |  X=2.60  |  2=4.85
+- BetOle     1=2.02  |  X=2.73  |  2=4.8  |  0-2=1.18  |  3+=4.3
+- Brazil_d   1=2.02  |  X=2.7  |  2=4.8  |  0-2=1.18  |  2+=2  |  3+=4.3
+- MaxBet     1=2.05  |  X=2.65  |  2=4.85
 - Mozzart    1=1.9  |  X=3.05  |  2=4.85  |  0-2=1.33  |  2+=1.7  |  3+=3.05
-- OktagonBet 1=2.02  |  X=2.75  |  2=4.7  |  0-2=1.2  |  3+=4.05  |  GG=3.2  |  GG&3+=5.45  |  4+=10.4
+- OktagonBet 1=2.02  |  X=2.7  |  2=4.8  |  0-2=1.18  |  3+=4.3  |  GG=3.4  |  GG&3+=5.8  |  4+=11.3
 - Soccer     1=2.0  |  X=2.75  |  2=5.0  |  0-2=1.23  |  2+=1.93  |  3+=4.1  |  GG=3.1  |  IGG=9.7  |  GG&3+=5.0
 - Topbet     1=2  |  X=2.65  |  2=4.4
 
@@ -14,32 +14,32 @@ Najveća 1  : 2.05  [BalkanBet, MaxBet]
 Najveća X  : 3.05  [Mozzart]
 Najveća 2  : 5.00  [Soccer]
 Najveća 0-2: 1.33  [Mozzart]
-Najveća 3+ : 4.35  [BetOle, Brazil_d]
+Najveća 3+ : 4.30  [BetOle, Brazil_d, OktagonBet]
 
 Arbitraža (1-X-2): NE   inv_sum=1.0157   profit≈-1.57%
-Arbitraža (0-2 / 3+): DA   inv_sum=0.9818   profit≈1.82%
+Arbitraža (0-2 / 3+): DA   inv_sum=0.9844   profit≈1.56%
 
 
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1549
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 986
-Grupa sa veličinom ≥3: 636
-Grupa sa veličinom ≥4: 327
-Grupa sa veličinom ≥5: 132
-Grupa sa veličinom ≥6: 73
-Grupa sa veličinom ≥7: 47
+Ukupno mečeva (grupa): 1537
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 991
+Grupa sa veličinom ≥3: 648
+Grupa sa veličinom ≥4: 335
+Grupa sa veličinom ≥5: 123
+Grupa sa veličinom ≥6: 60
+Grupa sa veličinom ≥7: 39
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa: 1038   spojeno (u grupama >1):  862
-  - BetOle     ukupno zapisa:   91   spojeno (u grupama >1):   91
-  - Brazil_d   ukupno zapisa:  100   spojeno (u grupama >1):   99
-  - MaxBet     ukupno zapisa:   89   spojeno (u grupama >1):   88
-  - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  376
-  - OktagonBet ukupno zapisa: 1040   spojeno (u grupama >1):  728
-  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  344
-  - Topbet     ukupno zapisa:  650   spojeno (u grupama >1):  612
+  - BalkanBet  ukupno zapisa: 1016   spojeno (u grupama >1):  871
+  - BetOle     ukupno zapisa:   71   spojeno (u grupama >1):   71
+  - Brazil_d   ukupno zapisa:   78   spojeno (u grupama >1):   77
+  - MaxBet     ukupno zapisa:   71   spojeno (u grupama >1):   70
+  - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  375
+  - OktagonBet ukupno zapisa: 1039   spojeno (u grupama >1):  718
+  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  343
+  - Topbet     ukupno zapisa:  713   spojeno (u grupama >1):  672
 
 Arbitraže (broj mečeva/grupa):
   - 1-X-2: 0
