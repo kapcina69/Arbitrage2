@@ -1,21 +1,39 @@
+14:00   31.10.   [Poljska 3]
+Slask 2  vs  Swit Skolwin
+
+- BalkanBet  1=1.7  |  X=3.6  |  2=4.35  |  0-2=2.2  |  2+=1.2  |  3+=1.6  |  GG=1.55  |  IGG=3.9  |  GG&3+=1.85  |  GG&4+=2.85  |  4+=2.5
+- Brazil_d   1=1.83  |  X=3.6  |  2=3.5  |  0-2=2.28  |  2+=1.15  |  3+=1.56
+- MaxBet     1=1.83  |  X=3.70  |  2=3.45
+- OktagonBet 1=1.83  |  X=3.65  |  2=3.45  |  0-2=2.28  |  3+=1.54  |  GG=1.51  |  GG&3+=1.82  |  4+=2.45
+- Soccer     1=2.05  |  X=3.65  |  2=3.1  |  0-2=2.2  |  2+=1.17  |  3+=1.6  |  GG=1.55  |  IGG=3.65  |  GG&3+=1.8
+
+Najveća 1  : 2.05  [Soccer]
+Najveća X  : 3.70  [MaxBet]
+Najveća 2  : 4.35  [BalkanBet]
+Najveća 0-2: 2.28  [Brazil_d, OktagonBet]
+Najveća 3+ : 1.60  [BalkanBet, Soccer]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9880   profit≈1.20%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0636   profit≈-6.36%
+
 16:30   31.10.   [Bugarska 2]
 Fratria Varna  vs  Vihren Sandanski
 
-- BalkanBet  1=2.2  |  X=3.35  |  2=2.8  |  0-2=1.88  |  2+=1.28  |  3+=1.82  |  GG=1.6  |  IGG=4.15  |  GG&3+=2  |  GG&4+=3.4  |  4+=3.05
-- Brazil_d   1=2.08  |  X=3.25  |  2=3.1  |  0-2=1.9  |  2+=1.21  |  3+=1.74
-- MaxBet     1=2.25  |  X=3.25  |  2=2.80
+- BalkanBet  1=1.85  |  X=3.5  |  2=3.5  |  0-2=1.88  |  2+=1.28  |  3+=1.82  |  GG=1.7  |  IGG=4.55  |  GG&3+=2.1  |  GG&4+=3.45  |  4+=3.05
+- Brazil_d   1=1.84  |  X=3.45  |  2=3.65  |  0-2=1.98  |  2+=1.19  |  3+=1.68
+- MaxBet     1=1.83  |  X=3.50  |  2=3.65
 - Mozzart    1=1.9  |  X=3.4  |  2=3.8  |  0-2=1.9  |  2+=1.27  |  3+=1.8
-- OktagonBet 1=2.08  |  X=3.3  |  2=3.05  |  0-2=1.92  |  3+=1.73  |  GG=1.62  |  GG&3+=2.07  |  4+=2.95
+- OktagonBet 1=1.84  |  X=3.5  |  2=3.6  |  0-2=1.98  |  3+=1.68  |  GG=1.62  |  GG&3+=2.02  |  4+=2.85
 - Soccer     1=2.25  |  X=3.55  |  2=2.8  |  0-2=1.9  |  2+=1.25  |  3+=1.8  |  GG=1.68  |  IGG=4.15  |  GG&3+=2.02
 
-Najveća 1  : 2.25  [MaxBet, Soccer]
+Najveća 1  : 2.25  [Soccer]
 Najveća X  : 3.55  [Soccer]
 Najveća 2  : 3.80  [Mozzart]
-Najveća 0-2: 1.92  [OktagonBet]
+Najveća 0-2: 1.98  [Brazil_d, OktagonBet]
 Najveća 3+ : 1.82  [BalkanBet]
 
 Arbitraža (1-X-2): DA   inv_sum=0.9893   profit≈1.07%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0703   profit≈-7.03%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0545   profit≈-5.45%
 
 15:00   01.11.   [Italija 1]
 Udinese  vs  Atalanta
@@ -94,27 +112,27 @@ Arbitraža (0-2 / 3+): DA   inv_sum=0.9942   profit≈0.58%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1583
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1251
-Grupa sa veličinom ≥3: 861
-Grupa sa veličinom ≥4: 540
-Grupa sa veličinom ≥5: 293
+Ukupno mečeva (grupa): 1591
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1243
+Grupa sa veličinom ≥3: 886
+Grupa sa veličinom ≥4: 535
+Grupa sa veličinom ≥5: 295
 Grupa sa veličinom ≥6: 127
 Grupa sa veličinom ≥7: 37
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa: 1212   spojeno (u grupama >1): 1046
+  - BalkanBet  ukupno zapisa: 1216   spojeno (u grupama >1): 1048
   - BetOle     ukupno zapisa:   25   spojeno (u grupama >1):   25
   - Brazil_d   ukupno zapisa:  214   spojeno (u grupama >1):  213
-  - Brazil_p   ukupno zapisa:  266   spojeno (u grupama >1):  254
-  - Brazil_s   ukupno zapisa:  257   spojeno (u grupama >1):  251
+  - Brazil_p   ukupno zapisa:  266   spojeno (u grupama >1):  241
+  - Brazil_s   ukupno zapisa:  257   spojeno (u grupama >1):  253
   - MaxBet     ukupno zapisa:  203   spojeno (u grupama >1):  191
-  - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  372
-  - OktagonBet ukupno zapisa: 1036   spojeno (u grupama >1):  976
+  - Mozzart    ukupno zapisa:  420   spojeno (u grupama >1):  385
+  - OktagonBet ukupno zapisa: 1039   spojeno (u grupama >1):  978
   - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  347
   - Topbet     ukupno zapisa:  724   spojeno (u grupama >1):  685
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 5
+  - 1-X-2: 6
   - 0-2 / 3+: 1
-  - Barem jedna arbitraža: 5
+  - Barem jedna arbitraža: 6
