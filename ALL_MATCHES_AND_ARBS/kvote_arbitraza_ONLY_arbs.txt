@@ -34,42 +34,24 @@ Najveća 3+ : 1.45  [BalkanBet, Mozzart]
 Arbitraža (1-X-2): DA   inv_sum=0.9963   profit≈0.37%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0230   profit≈-2.30%
 
-15:30   01.11.   [Nemačka 1]
-Mainz  vs  Werder
-
-- BalkanBet  1=2.05  |  X=3.85  |  2=3.4  |  0-2=2.45  |  2+=1.2  |  3+=1.58  |  GG=1.55  |  IGG=3.95  |  GG&3+=1.85  |  GG&4+=2.8  |  4+=2.5
-- Brazil_s   1=2.03  |  X=3.75  |  2=3.45  |  0-2=2.5  |  2+=1.17  |  3+=1.54
-- Mozzart    1=2.09  |  X=3.6  |  2=3.8  |  0-2=2.45  |  2+=1.18  |  3+=1.55
-- OktagonBet 1=2.03  |  X=3.8  |  2=3.4  |  0-2=2.5  |  3+=1.53  |  GG=1.51  |  GG&3+=1.79  |  4+=2.35
-- Topbet     1=2  |  X=3.9  |  2=3.45
-
-Najveća 1  : 2.09  [Mozzart]
-Najveća X  : 3.90  [Topbet]
-Najveća 2  : 3.80  [Mozzart]
-Najveća 0-2: 2.50  [Brazil_s, OktagonBet]
-Najveća 3+ : 1.58  [BalkanBet]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9980   profit≈0.20%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0329   profit≈-3.29%
-
 
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1548
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1180
-Grupa sa veličinom ≥3: 847
+Ukupno mečeva (grupa): 1547
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1181
+Grupa sa veličinom ≥3: 846
 Grupa sa veličinom ≥4: 520
 Grupa sa veličinom ≥5: 280
-Grupa sa veličinom ≥6: 115
+Grupa sa veličinom ≥6: 114
 Grupa sa veličinom ≥7: 33
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa: 1190   spojeno (u grupama >1): 1012
+  - BalkanBet  ukupno zapisa: 1189   spojeno (u grupama >1): 1012
   - BetOle     ukupno zapisa:   28   spojeno (u grupama >1):   28
-  - Brazil_d   ukupno zapisa:  193   spojeno (u grupama >1):  192
-  - Brazil_p   ukupno zapisa:  221   spojeno (u grupama >1):  211
-  - Brazil_s   ukupno zapisa:  257   spojeno (u grupama >1):  251
+  - Brazil_d   ukupno zapisa:  191   spojeno (u grupama >1):  190
+  - Brazil_p   ukupno zapisa:  222   spojeno (u grupama >1):  212
+  - Brazil_s   ukupno zapisa:  257   spojeno (u grupama >1):  252
   - MaxBet     ukupno zapisa:  188   spojeno (u grupama >1):  176
   - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  376
   - OktagonBet ukupno zapisa: 1036   spojeno (u grupama >1):  938
@@ -77,6 +59,6 @@ Po kladionici:
   - Topbet     ukupno zapisa:  655   spojeno (u grupama >1):  625
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 3
+  - 1-X-2: 2
   - 0-2 / 3+: 0
-  - Barem jedna arbitraža: 3
+  - Barem jedna arbitraža: 2
