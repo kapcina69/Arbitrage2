@@ -2,21 +2,19 @@
 Fratria Varna  vs  Vihren Sandanski
 
 - BalkanBet  1=2.2  |  X=3.35  |  2=2.8  |  0-2=1.88  |  2+=1.28  |  3+=1.82  |  GG=1.6  |  IGG=4.15  |  GG&3+=2  |  GG&4+=3.4  |  4+=3.05
-- BetOle     1=2.08  |  X=3.3  |  2=3.1  |  0-2=1.91  |  3+=1.73
-- Brazil_d   1=2.08  |  X=3.25  |  2=3.1  |  0-2=1.9  |  2+=1.21  |  3+=1.75
+- Brazil_d   1=2.25  |  X=3.2  |  2=2.8  |  0-2=1.9  |  2+=1.21  |  3+=1.75
 - MaxBet     1=2.25  |  X=3.25  |  2=2.80
 - Mozzart    1=1.9  |  X=3.4  |  2=3.8  |  0-2=1.9  |  2+=1.27  |  3+=1.8
 - OktagonBet 1=2.25  |  X=3.25  |  2=2.8  |  0-2=1.91  |  3+=1.73  |  GG=1.61  |  GG&3+=2.05  |  4+=2.95
-- Soccer     1=1.95  |  X=3.45  |  2=3.6  |  0-2=1.9  |  2+=1.25  |  3+=1.8  |  GG=1.7  |  IGG=4.25  |  GG&3+=2.05
-- Topbet     1=1.95  |  X=3.6  |  2=3.1
+- Soccer     1=2.25  |  X=3.55  |  2=2.8  |  0-2=1.9  |  2+=1.25  |  3+=1.8  |  GG=1.68  |  IGG=4.15  |  GG&3+=2.02
 
-Najveća 1  : 2.25  [MaxBet, OktagonBet]
-Najveća X  : 3.60  [Topbet]
+Najveća 1  : 2.25  [Brazil_d, MaxBet, OktagonBet, Soccer]
+Najveća X  : 3.55  [Soccer]
 Najveća 2  : 3.80  [Mozzart]
-Najveća 0-2: 1.91  [BetOle, OktagonBet]
+Najveća 0-2: 1.91  [OktagonBet]
 Najveća 3+ : 1.82  [BalkanBet]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9854   profit≈1.46%
+Arbitraža (1-X-2): DA   inv_sum=0.9893   profit≈1.07%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0730   profit≈-7.30%
 
 15:00   01.11.   [Italija 1]
@@ -96,25 +94,25 @@ Arbitraža (0-2 / 3+): DA   inv_sum=0.9942   profit≈0.58%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1583
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1242
-Grupa sa veličinom ≥3: 888
-Grupa sa veličinom ≥4: 563
-Grupa sa veličinom ≥5: 325
-Grupa sa veličinom ≥6: 166
-Grupa sa veličinom ≥7: 101
+Ukupno mečeva (grupa): 1585
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1241
+Grupa sa veličinom ≥3: 879
+Grupa sa veličinom ≥4: 536
+Grupa sa veličinom ≥5: 291
+Grupa sa veličinom ≥6: 127
+Grupa sa veličinom ≥7: 37
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa: 1207   spojeno (u grupama >1): 1046
-  - BetOle     ukupno zapisa:  232   spojeno (u grupama >1):  232
-  - Brazil_d   ukupno zapisa:  215   spojeno (u grupama >1):  214
-  - Brazil_p   ukupno zapisa:  267   spojeno (u grupama >1):  237
+  - BalkanBet  ukupno zapisa: 1212   spojeno (u grupama >1): 1049
+  - BetOle     ukupno zapisa:   25   spojeno (u grupama >1):   25
+  - Brazil_d   ukupno zapisa:  214   spojeno (u grupama >1):  213
+  - Brazil_p   ukupno zapisa:  267   spojeno (u grupama >1):  240
   - Brazil_s   ukupno zapisa:  257   spojeno (u grupama >1):  253
-  - MaxBet     ukupno zapisa:  204   spojeno (u grupama >1):  192
+  - MaxBet     ukupno zapisa:  203   spojeno (u grupama >1):  191
   - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  372
-  - OktagonBet ukupno zapisa: 1039   spojeno (u grupama >1):  981
-  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  346
-  - Topbet     ukupno zapisa:  714   spojeno (u grupama >1):  676
+  - OktagonBet ukupno zapisa: 1039   spojeno (u grupama >1):  977
+  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  347
+  - Topbet     ukupno zapisa:  724   spojeno (u grupama >1):  685
 
 Arbitraže (broj mečeva/grupa):
   - 1-X-2: 5
