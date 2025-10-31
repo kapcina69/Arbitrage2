@@ -36,7 +36,7 @@ EUROLEAGUE 2025/26
   
   
 Fudbal
-1292
+1296
   
   
 Fantasy PL
@@ -56,7 +56,7 @@ Mućkalice Fudbal
   
   
 Košarka
-115
+114
   
   
 Specijal košarka
@@ -68,7 +68,7 @@ Mućkalice Košarka
   
   
 Tenis
-80
+75
   
   
 Specijal tenis
@@ -76,7 +76,7 @@ Specijal tenis
   
   
 Hokej
-166
+165
   
   
 Specijal Hokej
@@ -100,7 +100,7 @@ Bejzbol
   
   
 Stoni Tenis
-77
+74
   
   
 Američki Fudbal
@@ -136,7 +136,7 @@ Pikado
   
   
 Futsal
-3
+4
   
   
 Golovi po ligama
@@ -144,7 +144,7 @@ Golovi po ligama
   
   
 Fudbal Virtual
-92
+91
 VREMENSKA PONUDA
 Danas
 Sutra
@@ -160,19 +160,6 @@ Opseg Kvota
 Fudbal
 Konačan ishod
  
-ISRAEL Liga Alef North
-31.10 12:30
-  
-+797
-Araba
-Hapoel Karmiel
-1
-2.85
-X
-3.30
-2
-2.12
- 
 CHINA 1
 31.10 12:35
   
@@ -180,11 +167,11 @@ CHINA 1
 Chengdu Rongcheng
 Henan SL
 1
-1.36
+1.35
 X
 5.20
 2
-6.30
+6.40
  
 ASIA AFC Challenge League
 31.10 13:00
@@ -215,15 +202,15 @@ X
 CHINA 1
 31.10 13:00
   
-+810
++808
 Shan.Shenhua
 Shenzhen Xinp.
 1
-1.23
+1.20
 X
-6.00
+6.25
 2
-9.50
+10.0
  
 INDONESIA 1
 31.10 13:00
@@ -267,15 +254,15 @@ X
 POLAND 3
 31.10 13:00
   
-+817
++814
 Kleczew
 Podbeskidzie
 1
 3.20
 X
-3.75
+3.60
 2
-1.90
+1.93
  
 +3 
 SERBIA 2
@@ -350,11 +337,11 @@ LITHUANIA 2
 FK Panevezys 2
 Babrungas
 1
-7.70
+7.30
 X
-5.25
+5.10
 2
-1.27
+1.29
  
 +3 
 NORTH MACEDONIA 1
@@ -386,15 +373,15 @@ X
 ASIA AFC Challenge League
 31.10 14:00
   
-+811
++813
 Al Seeb
 Al Ansar
 1
-2.05
+2.25
 X
 3.50
 2
-3.15
+2.80
  
 AZERBAIJAN 1
 31.10 14:00
@@ -555,15 +542,15 @@ X
 POLAND 3
 31.10 14:00
   
-+813
++814
 Slask Wroclaw 2
 Swit Szczecin
 1
-2.10
+1.93
 X
-3.50
+3.60
 2
-2.90
+3.20
  
 RWANDA 1
 31.10 14:00
@@ -712,15 +699,15 @@ X
 ALGERIA 2
 31.10 15:00
   
-+786
++790
 Chelghoum
 Annaba
 1
-5.20
+5.70
 X
-3.25
+3.50
 2
-1.63
+1.53
  
 ALGERIA 2
 31.10 15:00
@@ -865,6 +852,19 @@ X
 2
 2.75
  
+BELARUS 2
+31.10 15:00
+  
++793
+Minsk 2
+Belarus U19
+1
+1.88
+X
+3.40
+2
+3.50
+ 
 ENGLAND Development League
 31.10 15:00
   
@@ -963,11 +963,11 @@ SLOVENIA 2
 Rudar
 NK Jesenice
 1
-1.37
+1.32
 X
-4.33
+4.60
 2
-6.70
+7.40
  
 S.ARABIA 1
 31.10 15:50
@@ -1090,15 +1090,15 @@ X
 BULGARIA 2
 31.10 16:30
   
-+810
++811
 Fratria
 Vihren
 1
-2.10
+2.25
 X
-3.30
+3.25
 2
-3.10
+2.80
  
 BURKINA FASO 1
 31.10 16:30
@@ -1168,15 +1168,15 @@ X
 BAHRAIN 1
 31.10 17:00
   
-+797
++796
 Al-Hidd
 Al-Budaiya
 1
-1.95
+1.83
 X
-3.20
-2
 3.30
+2
+3.65
  
 CROATIA 2
 31.10 17:00
@@ -1247,15 +1247,15 @@ X
 NORTH MACEDONIA 1
 31.10 17:00
   
-+801
++800
 Vardar
 Sileks
 1
-1.83
+1.73
 X
-3.25
+3.30
 2
-3.90
+4.40
  
 RUSSIA 1
 31.10 17:00
@@ -1273,15 +1273,15 @@ X
 SLOVAKIA 2
 31.10 17:00
   
-+805
++803
 B.Bystrica
 I. Bratislava
 1
-1.38
+1.42
 X
-4.40
+4.25
 2
-6.10
+5.75
  
 UKRAINE 1
 31.10 17:00
@@ -1295,6 +1295,19 @@ X
 3.05
 2
 2.35
+ 
+MAURITANIA 1
+31.10 17:15
+  
++49
+Inter Nouakchott
+Ksar
+1
+1.98
+X
+2.90
+2
+3.60
  
 JORDAN 1
 31.10 17:30
@@ -1312,15 +1325,15 @@ X
 QATAR 1
 31.10 17:30
   
-+817
++818
 Al-Wakrah
 Qatar SC
 1
-1.88
+1.93
 X
-3.80
+3.75
 2
-3.20
+3.05
  
 POLAND 3
 31.10 17:45
@@ -1338,15 +1351,15 @@ X
 AUSTRIA 2
 31.10 18:00
   
-+810
++812
 Stripfing
 SK Rapid (Am)
 1
-2.12
+2.45
 X
 3.30
 2
-3.15
+2.65
  
 AUSTRIA 3 West
 31.10 18:00
@@ -1459,11 +1472,11 @@ SLOVAKIA 2
 Z. Moravce-Vrable
 Lehota p. V.
 1
-1.29
+1.32
 X
-4.80
+4.60
 2
-8.00
+7.30
  
 TURKEY 1
 31.10 18:00
@@ -1562,7 +1575,7 @@ X
 GERMANY 2
 31.10 18:30
   
-+813
++814
 Pr. Munster
 Kiel
 1
@@ -1696,11 +1709,11 @@ AUSTRIA 3 Central
 St.Anna
 LASK (Am)
 1
-7.20
+7.70
 X
-5.50
+5.60
 2
-1.27
+1.25
  
 AUSTRIA 3 Central
 31.10 19:00
@@ -1767,6 +1780,19 @@ X
 2
 2.20
  
+AUSTRIA 3 West
+31.10 19:00
+  
++812
+TSV St. Johann
+Kitzbuhel
+1
+2.55
+X
+3.30
+2
+2.40
+ 
 CHILE 1
 31.10 19:00
   
@@ -1818,6 +1844,19 @@ X
 3.60
 2
 1.83
+ 
+FRANCE 4 - Group C
+31.10 19:00
+  
++790
+Istres
+GFA74
+1
+2.12
+X
+3.10
+2
+3.20
  
 GERMANY 3
 31.10 19:00
@@ -1909,6 +1948,19 @@ X
 3.35
 2
 2.25
+ 
+LITHUANIA 2
+31.10 19:00
+  
++803
+BFA Vilnius
+Nevezis Ked.
+1
+2.20
+X
+3.50
+2
+2.75
  
 POLAND 3
 31.10 19:00
@@ -2332,15 +2384,15 @@ X
 ENGLAND Premier League II
 31.10 20:00
   
-+810
++820
 Everton U21
 Chelsea U21
 1
-4.33
+4.15
 X
-4.40
+4.35
 2
-1.53
+1.55
  
 ENGLAND Premier League II
 31.10 20:00
@@ -2431,7 +2483,7 @@ Laval
 X
 3.30
 2
-4.15
+4.20
  
 FRANCE 2
 31.10 20:00
@@ -2872,7 +2924,7 @@ Promeni temu  
 VIP KLUB
 REZULTATI
 STATUS TIKETA
-12:22:41
+12:31:28
 NAČIN UPLATE DEPOZITA
 UPLATNA MESTA
 PRAVILA IGRE
