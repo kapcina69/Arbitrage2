@@ -22,11 +22,15 @@ Sutra
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
+TENIS
 HOKEJ
 RUKOMET
 ODBOJKA
+AMERIČKI FUDBAL
+MMA
 FUTSAL
 ESPORT
+BOKS
 POBEDNICI
 GOLOVI PO LIGAMA
 FUDBAL
@@ -37,7 +41,7 @@ ITALY, Serie A
 15:00
 Udinese
 Atalanta
-1039
+958
 1
 4.55
 X
@@ -286,7 +290,7 @@ SWEDEN, Allsvenskan
 15:00
 Hacken
 Malmo FF
-991
+941
 1
 2.65
 X
@@ -461,7 +465,7 @@ X
 15:30
 RB Leipzig
 Stuttgart
-1049
+970
 1
 2.03
 X
@@ -1268,7 +1272,7 @@ ENGLAND, Premier League
 16:00
 Brighton
 Leeds
-1053
+972
 1
 1.89
 X
@@ -1285,7 +1289,7 @@ X
 16:00
 Burnley
 Arsenal
-1035
+951
 1
 13.0
 X
@@ -1336,7 +1340,7 @@ X
 16:00
 Nottingham
 Manchester Utd
-1039
+958
 1
 3.45
 X
@@ -1479,7 +1483,7 @@ X
 16:00
 Charlton
 Swansea
-998
+929
 1
 2.03
 X
@@ -1564,7 +1568,7 @@ X
 16:00
 Stoke
 Bristol City
-1000
+934
 1
 2.45
 X
@@ -1958,19 +1962,19 @@ X
 16:00
 Marine
 AFC Fylde
-843
+840
 1
-3.85
+3.90
 X
-3.80
+3.65
 2
-1.72
+1.73
 0-2
-2.15
+2.05
 2+
-1.18
+1.20
 3+
-1.61
+1.66
 217
 16:00
 Merthyr Town
@@ -3037,6 +3041,465 @@ X
 1.25
 3+
 1.84
+213
+16:00
+Queen of South
+Stenhousemuir
+840
+1
+2.62
+X
+3.05
+2
+2.50
+0-2
+1.70
+2+
+1.31
+3+
+2.02
+SCOTLAND, League Two
+385
+16:00
+Clyde
+Dumbarton
+847
+1
+2.08
+X
+3.50
+2
+2.95
+0-2
+2.28
+2+
+1.15
+3+
+1.54
+386
+16:00
+Elgin City
+Annan
+842
+1
+2.15
+X
+3.35
+2
+2.90
+0-2
+2.08
+2+
+1.19
+3+
+1.66
+387
+16:00
+Spartans
+East Kilbride
+844
+1
+2.55
+X
+3.40
+2
+2.38
+0-2
+2.15
+2+
+1.17
+3+
+1.61
+388
+16:00
+Stirling
+Edinburgh City
+846
+1
+3.15
+X
+3.60
+2
+1.96
+0-2
+2.28
+2+
+1.15
+3+
+1.56
+389
+16:00
+Stranraer
+Forfar Athletic
+835
+1
+2.65
+X
+3.05
+2
+2.45
+0-2
+1.75
+2+
+1.29
+3+
+1.97
+SPAIN, Primera RFEF - Group 1
+947
+16:00
+Ath Bilbao B
+Unionistas
+663
+1
+2.18
+X
+2.90
+2
+3.20
+0-2
+1.55
+2+
+1.40
+3+
+2.30
+948
+16:00
+Guadalajara
+Merida AD
+663
+1
+2.20
+X
+2.95
+2
+3.15
+0-2
+1.58
+2+
+1.37
+3+
+2.20
+SPAIN, Primera RFEF - Group 2
+956
+16:00
+Torremolinos
+Sabadell
+661
+1
+3.15
+X
+2.85
+2
+2.28
+0-2
+1.46
+2+
+1.46
+3+
+2.45
+SWEDEN, Division 1 - Norra
+1321
+16:00
+FC Arlanda
+Karlstad
+668
+1
+2.88
+X
+3.50
+2
+2.10
+0-2
+2.30
+2+
+1.14
+3+
+1.53
+1322
+16:00
+Karlbergs
+United Nordic
+663
+1
+5.30
+X
+4.10
+2
+1.48
+0-2
+2.30
+2+
+1.15
+3+
+1.54
+SWEDEN, Division 1 - Sodra
+1315
+16:00
+Angelholm
+Oskarshamn
+666
+1
+2.70
+X
+3.30
+2
+2.28
+0-2
+2.08
+2+
+1.19
+3+
+1.66
+1316
+16:00
+IFK Skovde
+Eskilsminne
+668
+1
+3.95
+X
+3.90
+2
+1.67
+0-2
+2.55
+2+
+1.12
+3+
+1.44
+1317
+16:00
+Jonkopings
+Ariana FC
+660
+1
+1.51
+X
+3.75
+2
+5.60
+0-2
+1.90
+2+
+1.24
+3+
+1.80
+SPAIN, LaLiga
+591
+16:15
+Atl. Madrid
+Sevilla
+1031
+1
+1.36
+X
+5.00
+2
+8.75
+0-2
+2.35
+2+
+1.20
+3+
+1.61
+BELARUS, Vysshaya Liga
+495
+16:15
+ML Vitebsk
+Isloch
+831
+1
+1.90
+X
+3.10
+2
+4.15
+0-2
+1.58
+2+
+1.39
+3+
+2.25
+SPAIN, LaLiga2
+537
+16:15
+Cultural Leonesa
+Mirandes
+929
+1
+2.07
+X
+3.25
+2
+3.60
+0-2
+1.62
+2+
+1.37
+3+
+2.18
+SPAIN, Primera RFEF - Group 2
+957
+16:15
+Eldense
+Algeciras
+663
+1
+1.83
+X
+3.20
+2
+4.00
+0-2
+1.62
+2+
+1.35
+3+
+2.15
+NETHERLANDS, Eredivisie
+268
+16:30
+Ajax
+Heerenveen
+944
+1
+1.59
+X
+4.50
+2
+4.80
+0-2
+2.75
+2+
+1.10
+3+
+1.41
+BULGARIA, Parva Liga
+253
+16:30
+Septemvri Sofia
+Slavia Sofia
+837
+1
+3.45
+X
+3.20
+2
+2.05
+0-2
+1.75
+2+
+1.30
+3+
+1.97
+GERMANY, 3. Liga
+175
+16:30
+Hansa Rostock
+Verl
+846
+1
+2.10
+X
+3.60
+2
+3.15
+0-2
+2.25
+2+
+1.17
+3+
+1.58
+ISRAEL, Ligat ha'Al
+322
+16:30
+Hapoel Tel Aviv
+Ironi Tiberias
+837
+1
+1.42
+X
+4.30
+2
+6.60
+0-2
+2.15
+2+
+1.18
+3+
+1.61
+MONTENEGRO, Prva Liga
+507
+16:30
+Mornar Bar
+Jedinstvo
+663
+1
+1.89
+X
+3.15
+2
+3.80
+0-2
+1.63
+2+
+1.34
+3+
+2.12
+NETHERLANDS, Eerste League
+182
+16:30
+Roda
+Jong Utrecht
+840
+1
+1.55
+X
+4.10
+2
+5.00
+0-2
+2.45
+2+
+1.13
+3+
+1.47
+PORTUGAL, Liga 3
+968
+16:30
+Braga B
+AD Fafe
+661
+1
+2.65
+X
+2.95
+2
+2.55
+0-2
+1.57
+2+
+1.38
+3+
+2.22
+PORTUGAL, Liga Portugal
+142
+16:30
+Nacional
+Famalicao
+934
+1
+3.15
+X
+3.20
+2
+2.28
+0-2
+1.75
+2+
+1.31
+3+
+2.02
 Odigrani tiketi
 1060
 Slovacko - Liberec

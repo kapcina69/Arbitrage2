@@ -21,7 +21,6 @@ Sutra
 15:00 - 23:59
 FUDBAL
 KOŠARKA
-STRELCI FUDBAL
 KOŠARKA IGRAČI
 TENIS
 HOKEJ
@@ -41,24 +40,6 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-SAUDI ARABIA, Professional League
-477
-15:50
-Al Hilal Riyadh
-Al Shabab
-839
-1
-1.22
-X
-5.60
-2
-8.75
-0-2
-3.00
-2+
-1.07
-3+
-1.33
 GEORGIA, Georgia Cup
 764
 16:00
@@ -154,15 +135,15 @@ Puebla U21
 Cruz Azul U21
 667
 1
-2.65
+2.35
 X
 3.05
 2
-2.45
+2.80
 0-2
 1.67
 2+
-1.33
+1.32
 3+
 2.07
 MOROCCO, Botola
@@ -295,31 +276,31 @@ Bechem United
 Nations FC
 100
 1
-1.67
+1.64
 X
-2.95
-2
-5.80
-0-2
-1.32
-2+
-1.63
-3+
 3.05
+2
+5.75
+0-2
+1.37
+2+
+1.55
+3+
+2.80
 ROMANIA, Liga 2
 573
 16:30
 Poli Iasi
 FC Bihor
-665
+663
 1
-3.40
+3.75
 X
-3.25
+3.30
 2
-1.97
+1.85
 0-2
-1.80
+1.83
 2+
 1.26
 3+
@@ -329,19 +310,19 @@ UNITED ARAB EMIRATES, UAE League
 16:45
 Khorfakkan
 Al Wasl
-843
+844
 1
 4.60
 X
-3.95
+4.05
 2
-1.57
+1.55
 0-2
-2.35
+2.50
 2+
-1.14
+1.12
 3+
-1.51
+1.45
 BAHRAIN, Premier League
 561
 17:00
@@ -742,11 +723,11 @@ Tersana
 Baladiyat El Mahalla
 60
 1
-2.35
+2.60
 X
-2.50
+2.45
 2
-3.30
+2.95
 0-2
 1.20
 2+
@@ -954,7 +935,7 @@ X
 18:30
 Preussen Munster
 Holstein Kiel
-979
+941
 1
 3.25
 X
@@ -1628,17 +1609,17 @@ SV Oberwart
 Wiener Sport-Club
 662
 1
-1.66
+1.65
 X
-3.55
+3.65
 2
-4.40
+4.35
 0-2
-2.00
+2.07
 2+
-1.19
+1.17
 3+
-1.66
+1.61
 566
 19:30
 TWL Elektra
@@ -1959,7 +1940,7 @@ NETHERLANDS, Eredivisie
 20:00
 PSV
 Sittard
-955
+917
 1
 1.14
 X
@@ -2451,15 +2432,15 @@ Beti Kozkor
 1
 1.82
 X
-3.30
+3.25
 2
-3.60
+3.70
 0-2
-1.87
+1.75
 2+
-1.22
+1.26
 3+
-1.77
+1.87
 SWITZERLAND, Challenge League
 298
 20:15
@@ -2518,7 +2499,7 @@ GERMANY, Bundesliga
 20:30
 Augsburg
 Dortmund
-1093
+1015
 1
 5.30
 X
@@ -2538,11 +2519,11 @@ Kapfenberg
 A. Salzburg
 844
 1
-2.62
+2.75
 X
-3.40
+3.35
 2
-2.45
+2.35
 0-2
 2.10
 2+
@@ -2674,21 +2655,268 @@ X
 1.15
 3+
 1.51
+WALES, Cymru South
+1249
+20:30
+Afan Lido
+Caerau Ely
+663
+1
+5.35
+X
+4.20
+2
+1.43
+0-2
+2.50
+2+
+1.11
+3+
+1.44
+1250
+20:30
+Cwmbran Celtic
+Baglan Dragons
+663
+1
+3.75
+X
+3.40
+2
+1.78
+0-2
+2.03
+2+
+1.19
+3+
+1.66
+BELGIUM, Jupiler Pro League
+664
+20:45
+St. Liege
+Charleroi
+934
+1
+2.80
+X
+3.00
+2
+2.60
+0-2
+1.65
+2+
+1.36
+3+
+2.15
+ENGLAND, Isthmian Division One North
+1257
+20:45
+Bowers & Pitsea
+Grays Athletic
+666
+1
+1.55
+X
+4.25
+2
+4.40
+0-2
+2.45
+2+
+1.13
+3+
+1.47
+ENGLAND, Northern League Division One
+1258
+20:45
+Ashington
+Newton Aycliffe
+666
+1
+2.18
+X
+3.30
+2
+2.88
+0-2
+1.97
+2+
+1.21
+3+
+1.72
+1259
+20:45
+Atherton Collieries
+Vauxhall Motors
+666
+1
+2.60
+X
+3.25
+2
+2.40
+0-2
+1.98
+2+
+1.21
+3+
+1.72
+1260
+20:45
+Mickleover
+Shepshed
+665
+1
+1.76
+X
+3.45
+2
+3.95
+0-2
+2.05
+2+
+1.20
+3+
+1.68
+NORTHERN IRELAND, NIFL Premiership
+361
+20:45
+Bangor FC
+Carrick Rangers
+844
+1
+2.45
+X
+3.50
+2
+2.55
+0-2
+2.20
+2+
+1.17
+3+
+1.61
+362
+20:45
+Glentoran
+Portadown
+831
+1
+1.44
+X
+4.05
+2
+6.70
+0-2
+1.97
+2+
+1.22
+3+
+1.75
+SCOTLAND, Championship
+422
+20:45
+Ayr
+Dunfermline
+836
+1
+1.87
+X
+3.15
+2
+4.20
+0-2
+1.55
+2+
+1.40
+3+
+2.28
+WALES, Cymru North
+1246
+20:45
+Llandudno
+Airbus
+666
+1
+2.50
+X
+3.20
+2
+2.40
+0-2
+2.02
+2+
+1.19
+3+
+1.66
+1247
+20:45
+Ruthin
+Mold Alexandra
+667
+1
+2.88
+X
+3.40
+2
+2.07
+0-2
+2.20
+2+
+1.15
+3+
+1.56
+WALES, Cymru Premier
+658
+20:45
+Bala
+Llanelli
+833
+1
+1.55
+X
+3.65
+2
+5.20
+0-2
+1.90
+2+
+1.23
+3+
+1.77
+SPAIN, LaLiga
+589
+21:00
+Getafe
+Girona
+983
+1
+2.20
+X
+2.95
+2
+3.90
+0-2
+1.48
+2+
+1.55
+3+
+2.70
 Odigrani tiketi
-1266
-Al Minaa - Al-Qassim
+818
+Minija - Transinvest
 31.10. 16:00
 KONAČAN ISHOD 
 1
-  1.96  
+  6.20  
 Običan
 Sistem
 Kvota:
-1.96
+6.20
 Uplata:
 20.00 RSD
 Dobitak:
-39.20 RSD
+124.00 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express
