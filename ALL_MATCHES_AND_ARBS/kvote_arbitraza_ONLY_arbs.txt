@@ -1,64 +1,27 @@
-21:00   31.10.   [Vels 2 Sever]
-Gresford  vs  Newtown
-
-- BalkanBet  1=3.9  |  X=4  |  2=1.62  |  0-2=2.2  |  2+=1.17  |  3+=1.52  |  GG=1.6  |  IGG=3.95  |  GG&3+=1.85  |  GG&4+=2.7  |  4+=2.3
-- MaxBet     1=5.50  |  X=4.30  |  2=1.45
-- OktagonBet 1=4.85  |  X=4  |  2=1.49  |  0-2=2.35  |  3+=1.5  |  GG=1.62  |  GG&3+=1.91  |  4+=2.35
-- Soccer     1=3.5  |  X=3.55  |  2=1.83  |  0-2=2.3  |  2+=1.16  |  3+=1.55  |  GG=1.52  |  IGG=3.6  |  GG&3+=1.75
-
-Najveća 1  : 5.50  [MaxBet]
-Najveća X  : 4.30  [MaxBet]
-Najveća 2  : 1.83  [Soccer]
-Najveća 0-2: 2.35  [OktagonBet]
-Najveća 3+ : 1.55  [Soccer]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9608   profit≈3.92%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0707   profit≈-7.07%
-
-15:00   01.11.   [Italija 1]
-Udinese  vs  Atalanta
-
-- BalkanBet  1=4.15  |  X=3.85  |  2=1.85  |  0-2=1.98  |  2+=1.28  |  3+=1.87  |  GG=1.8  |  IGG=5  |  GG&3+=2.25  |  GG&4+=3.65  |  4+=3.2
-- Brazil_s   1=4.55  |  X=3.3  |  2=1.9  |  0-2=2  |  2+=1.27  |  3+=1.84
-- Mozzart    1=4.7  |  X=3.7  |  2=1.85  |  0-2=2.01  |  2+=1.27  |  3+=1.84
-- OktagonBet 1=4.55  |  X=3.35  |  2=1.89  |  0-2=1.99  |  3+=1.82  |  GG=1.78  |  GG&3+=2.25  |  4+=3.15
-- Soccer     1=4.45  |  X=3.7  |  2=1.83  |  0-2=1.97  |  2+=1.28  |  3+=1.85  |  GG=1.72  |  IGG=4.6  |  GG&3+=2.17
-- Topbet     1=4.3  |  X=3.75  |  2=1.8
-
-Najveća 1  : 4.70  [Mozzart]
-Najveća X  : 3.85  [BalkanBet]
-Najveća 2  : 1.90  [Brazil_s]
-Najveća 0-2: 2.01  [Mozzart]
-Najveća 3+ : 1.87  [BalkanBet]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9988   profit≈0.12%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0323   profit≈-3.23%
-
-
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1501
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1159
-Grupa sa veličinom ≥3: 857
-Grupa sa veličinom ≥4: 512
-Grupa sa veličinom ≥5: 260
-Grupa sa veličinom ≥6: 95
-Grupa sa veličinom ≥7: 30
+Ukupno mečeva (grupa): 1478
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1113
+Grupa sa veličinom ≥3: 780
+Grupa sa veličinom ≥4: 466
+Grupa sa veličinom ≥5: 230
+Grupa sa veličinom ≥6: 88
+Grupa sa veličinom ≥7: 29
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa: 1127   spojeno (u grupama >1): 1003
-  - BetOle     ukupno zapisa:   25   spojeno (u grupama >1):   25
-  - Brazil_d   ukupno zapisa:  160   spojeno (u grupama >1):  159
-  - Brazil_p   ukupno zapisa:  206   spojeno (u grupama >1):  193
-  - Brazil_s   ukupno zapisa:  197   spojeno (u grupama >1):  195
-  - MaxBet     ukupno zapisa:  164   spojeno (u grupama >1):  156
-  - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  374
-  - OktagonBet ukupno zapisa: 1039   spojeno (u grupama >1):  924
-  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  335
-  - Topbet     ukupno zapisa:  742   spojeno (u grupama >1):  709
+  - BalkanBet  ukupno zapisa: 1118   spojeno (u grupama >1):  977
+  - BetOle     ukupno zapisa:   24   spojeno (u grupama >1):   24
+  - Brazil_d   ukupno zapisa:  141   spojeno (u grupama >1):  140
+  - Brazil_p   ukupno zapisa:  115   spojeno (u grupama >1):  113
+  - Brazil_s   ukupno zapisa:  133   spojeno (u grupama >1):  132
+  - MaxBet     ukupno zapisa:  157   spojeno (u grupama >1):  149
+  - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  373
+  - OktagonBet ukupno zapisa: 1039   spojeno (u grupama >1):  908
+  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  336
+  - Topbet     ukupno zapisa:  703   spojeno (u grupama >1):  668
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 2
+  - 1-X-2: 0
   - 0-2 / 3+: 0
-  - Barem jedna arbitraža: 2
+  - Barem jedna arbitraža: 0
