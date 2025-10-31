@@ -41,95 +41,6 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-IRAN, Persian Gulf Pro League
-466
-15:30
-Esteghlal Khuzestan
-Foolad
-652
-1
-3.80
-X
-2.85
-2
-2.02
-0-2
-1.33
-2+
-1.57
-3+
-2.88
-467
-15:30
-Shams Azar Qazvin
-Sepahan
-652
-1
-5.00
-X
-3.10
-2
-1.71
-0-2
-1.46
-2+
-1.43
-3+
-2.40
-KUWAIT, Premier League
-1193
-15:30
-Al Qadsia SC
-Al Tadamon
-659
-1
-1.43
-X
-3.95
-2
-6.40
-0-2
-2.00
-2+
-1.21
-3+
-1.72
-QATAR, QSL
-920
-15:30
-Al Arabi Doha
-Al-Shahaniya
-847
-1
-1.67
-X
-3.90
-2
-3.90
-0-2
-2.60
-2+
-1.11
-3+
-1.42
-SLOVENIA, 2. SNL
-737
-15:30
-Rudar Velenje
-NK Jesenice
-657
-1
-1.31
-X
-4.45
-2
-7.10
-0-2
-2.25
-2+
-1.14
-3+
-1.53
 SAUDI ARABIA, Professional League
 477
 15:50
@@ -137,11 +48,11 @@ Al Hilal Riyadh
 Al Shabab
 840
 1
-1.26
+1.24
 X
-5.40
+5.50
 2
-7.75
+8.00
 0-2
 3.10
 2+
@@ -153,19 +64,19 @@ GEORGIA, Georgia Cup
 16:00
 Iberia 1999
 Dinamo Batumi
-658
+657
 1
-1.65
+1.53
 X
-3.25
+3.55
 2
-5.00
+5.70
 0-2
-1.58
+1.70
 2+
-1.34
+1.28
 3+
-2.15
+1.95
 IRAQ, Stars League
 1266
 16:00
@@ -189,19 +100,19 @@ LITHUANIA, 1 Lyga
 16:00
 Minija
 Transinvest
-663
+661
 1
-4.95
+6.10
 X
-4.15
+4.45
 2
-1.51
+1.39
 0-2
 2.45
 2+
-1.11
+1.10
 3+
-1.44
+1.43
 MEXICO, Liga MX U21 - Apertura
 1271
 16:00
@@ -384,53 +295,53 @@ Bechem United
 Nations FC
 100
 1
-1.73
+1.67
 X
-2.88
+2.95
 2
-5.35
+5.80
 0-2
-1.31
+1.32
 2+
-1.65
+1.63
 3+
-3.10
+3.05
 ROMANIA, Liga 2
 573
 16:30
 Poli Iasi
 FC Bihor
-667
+665
 1
-2.85
+3.40
 X
-3.10
+3.25
 2
-2.28
+1.97
 0-2
 1.80
 2+
-1.27
+1.26
 3+
-1.92
+1.87
 UNITED ARAB EMIRATES, UAE League
 1176
 16:45
 Khorfakkan
 Al Wasl
-842
+843
 1
-4.90
+4.60
 X
-4.05
+3.95
 2
-1.52
+1.57
 0-2
-2.38
+2.35
 2+
 1.14
 3+
-1.50
+1.51
 BAHRAIN, Premier League
 561
 17:00
@@ -474,17 +385,17 @@ BE1 NFA
 Siauliai 2
 668
 1
-1.75
+1.98
 X
-3.90
+3.75
 2
-3.55
+2.95
 0-2
-2.75
+2.65
 2+
-1.07
+1.08
 3+
-1.36
+1.38
 820
 17:00
 Hegelmann Litauen 2
@@ -537,6 +448,24 @@ X
 1.30
 3+
 1.97
+POLAND, III Liga - Group III
+808
+17:00
+Kluczbork
+Polkowice
+59
+1
+2.55
+X
+3.30
+2
+2.30
+0-2
+2.12
+2+
+1.16
+3+
+1.58
 RUSSIA, Premier League
 222
 17:00
@@ -833,15 +762,15 @@ GKS Katowice
 1
 2.45
 X
-3.50
+3.55
 2
 2.65
 0-2
-2.15
+2.20
 2+
-1.19
+1.18
 3+
-1.64
+1.61
 POLAND, Division 1
 453
 18:00
@@ -884,17 +813,17 @@ Star Starachowice
 Czarni Polaniec
 59
 1
-1.50
+1.56
 X
-4.00
+3.80
 2
-4.80
+4.45
 0-2
-2.40
+2.25
 2+
-1.11
+1.13
 3+
-1.45
+1.51
 SLOVAKIA, 2. Liga
 616
 18:00
@@ -918,13 +847,13 @@ TURKEY, Super Lig
 18:00
 Basaksehir
 Kocaelispor
-1020
+967
 1
-1.76
+1.72
 X
-3.40
+3.45
 2
-4.75
+4.95
 0-2
 1.80
 2+
@@ -936,15 +865,15 @@ TURKEY, TFF 1. Lig
 18:00
 Hatayspor
 Erzurumspor
-834
+833
 1
-4.75
+5.00
 X
-3.65
+3.70
 2
-1.66
+1.61
 0-2
-1.95
+1.97
 2+
 1.23
 3+
@@ -1029,15 +958,15 @@ Holstein Kiel
 1
 3.25
 X
-3.45
+3.50
 2
-2.18
+2.15
 0-2
-2.05
+2.10
 2+
-1.21
+1.20
 3+
-1.69
+1.66
 GERMANY, Women Bundesliga
 1208
 18:30
@@ -1346,15 +1275,15 @@ Koflach
 1
 2.50
 X
-3.35
+3.20
 2
-2.35
+2.38
 0-2
-2.18
+2.03
 2+
-1.15
+1.18
 3+
-1.56
+1.64
 1265
 19:00
 TUS Bad Waltersdorf
@@ -1656,6 +1585,24 @@ X
 1.15
 3+
 1.58
+POLAND, III Liga - Group III
+809
+19:00
+Nysa
+Jelenia Gora
+59
+1
+2.25
+X
+3.15
+2
+2.70
+0-2
+1.93
+2+
+1.20
+3+
+1.72
 SPAIN, Primera RFEF - Group 1
 945
 19:00
@@ -1681,17 +1628,17 @@ SV Oberwart
 Wiener Sport-Club
 662
 1
-1.64
+1.66
 X
-3.75
+3.55
 2
-4.30
+4.40
 0-2
-2.15
+2.00
 2+
-1.16
+1.19
 3+
-1.58
+1.66
 566
 19:30
 TWL Elektra
@@ -2012,13 +1959,13 @@ NETHERLANDS, Eredivisie
 20:00
 PSV
 Sittard
-917
+955
 1
 1.14
 X
 8.50
 2
-16.0
+15.0
 0-2
 3.80
 2+
@@ -2348,13 +2295,13 @@ Laval
 X
 3.15
 2
-4.65
+4.60
 0-2
-1.50
+1.55
 2+
-1.45
+1.43
 3+
-2.40
+2.35
 348
 20:00
 Le Mans
@@ -2553,31 +2500,31 @@ ENGLAND, FA Cup
 20:30
 Luton
 Forest Green
-838
+835
 1
-1.42
+1.35
 X
-4.55
+4.90
 2
-6.70
+7.90
 0-2
-2.20
+2.30
 2+
-1.18
+1.16
 3+
-1.61
+1.56
 GERMANY, Bundesliga
 132
 20:30
 Augsburg
 Dortmund
-1014
+1093
 1
-5.25
+5.30
 X
-4.35
+4.40
 2
-1.60
+1.58
 0-2
 2.60
 2+
@@ -2620,8 +2567,132 @@ X
 1.08
 3+
 1.36
+ITALY, Serie C - Group C
+707
+20:30
+Casertana
+Catania
+825
+1
+3.35
+X
+2.90
+2
+2.15
+0-2
+1.41
+2+
+1.51
+3+
+2.62
+708
+20:30
+Picerno
+Cavese
+834
+1
+2.22
+X
+3.00
+2
+3.10
+0-2
+1.63
+2+
+1.35
+3+
+2.12
+POLAND, Ekstraklasa
+190
+20:30
+Piast Gliwice
+Korona Kielce
+838
+1
+2.55
+X
+3.10
+2
+2.80
+0-2
+1.67
+2+
+1.34
+3+
+2.10
+POLAND, Division 1
+454
+20:30
+Ruch Chorzow
+Tychy
+840
+1
+2.05
+X
+3.35
+2
+3.30
+0-2
+1.95
+2+
+1.23
+3+
+1.77
+POLAND, Division 2
+644
+20:30
+Zaglebie Sosnowiec SA
+Chojniczanka
+843
+1
+1.76
+X
+3.60
+2
+3.80
+0-2
+2.18
+2+
+1.17
+3+
+1.61
+SPAIN, LaLiga2
+536
+20:30
+Racing Santander
+R. Sociedad B
+946
+1
+1.42
+X
+4.65
+2
+6.50
+0-2
+2.40
+2+
+1.15
+3+
+1.51
 Odigrani tiketi
-Klikni na kvotu i pokreni
+1266
+Al Minaa - Al-Qassim
+31.10. 16:00
+KONAČAN ISHOD 
+1
+  1.96  
+Običan
+Sistem
+Kvota:
+1.96
+Uplata:
+20.00 RSD
+Dobitak:
+39.20 RSD
+Prihvatam sve promene kvota.
+FREEBET
+Express
+Prijavi se
 Srpski
 O nama
 Odgovorno klađenje
