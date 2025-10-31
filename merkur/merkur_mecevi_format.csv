@@ -2,14 +2,20 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 11:00;Shanghai Port;Zhejiang Prof.;776;1.47;4.95;4.85;3.55;1.25;1.67;1.33;2.95;1.48
 11:00;Gia Lai;Nam Dinh;760;3.8;3.35;1.9;1.75;1.95;3.5;1.8;4.95;2.35
 11:00;Nordia Jerusalem;H. Azor;;2.95;2.85;2.17;1.57;2.18;4.1;1.92;;
-11:00;Regar-TadAZ;Safa;;2.68;2.9;2.42;1.5;2.35;4.65;1.97;;
+11:00;Regar-TadAZ;Safa;;2.68;2.95;2.42;1.5;2.3;4.5;1.95;;
+11:00;Seoul Knights;KoGAS;;2.5;15.0;1.65;;;;;;
 11:00;Vojvodina U19;Crvena zvezda U19;;4.5;4.15;1.5;2.8;1.35;1.93;1.43;;
 11:00;Plzen U19;Pardubice U19;;1.88;3.95;2.95;2.85;1.35;1.9;;;
+11:05;Yokohama Excellence;Yamagata;;1.7;13.0;2.4;;;;;;
 11:30;H. Herzliya;Beitar Yavne;;1.47;3.8;4.95;2.15;1.57;2.52;1.7;;
 11:30;M. Yavne;Kfar Saba 1928;;2.55;2.95;2.37;1.75;1.92;3.45;1.73;;
+11:30;Elitzur Shomron Hlp;Elitzur Yavne;;2.05;13.0;1.85;;;;;;
+11:30;Ironi Naharia;Ramat Hasharon;;1.6;13.0;2.45;;;;;;
 11:35;M. Ironi Kiryat Malachi;Holon Yermiyahu;;2.15;3.05;2.85;1.82;1.85;3.2;1.7;;
+11:35;Fukuoka;Kobe;;4.75;18.0;1.23;;;;;;
 11:40;Ironi Baka;Ironi Nesher;;2.07;3.0;3.05;1.7;1.95;3.5;1.77;;
-11:45;Perth Glory;Melbourne Victory;804;2.95;3.65;2.2;2.23;1.65;2.62;1.55;4.0;1.9
+11:45;Perth Glory;Melbourne Victory;798;2.95;3.65;2.2;2.23;1.65;2.62;1.55;4.0;1.9
+11:45;M. Haifa;Hapoel Safed;;1.62;12.0;2.4;;;;;;
 12:00;Dempo;Chennaiyin;765;3.65;3.45;1.83;1.95;1.73;2.9;1.63;4.45;2.07
 12:00;Hong Linh HT;Hanoi FC;759;3.7;3.3;1.95;1.7;2.05;3.7;1.85;5.1;2.5
 12:00;Ramat Hasharon;Shimshon T.A.;;4.25;3.45;1.6;1.97;1.7;2.85;1.72;;
@@ -17,6 +23,9 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 12:00;Wisla II Krakow;Siarka;;2.85;3.65;2.05;2.31;1.55;2.33;1.48;;
 12:00;Zaglebie 2;Warta Gorzow;;1.78;3.75;3.55;2.41;1.5;2.22;1.48;;
 12:00;Dukla U19;Slavia P. U19;;2.28;3.8;2.4;2.75;1.37;1.97;;;
+12:15;Nes Ziona;H. Holon;;3.25;15.0;1.43;;;;;;
+12:30;Sib. Snaipery U20;JHC Molot U20;;1.55;4.6;4.2;;;;;;
+12:30;Phoenix Fuelmasters;Magnolia Hotshots;;4.1;16.0;1.3;;;;;;
 12:35;Chengdu Ron.;Henan SL;770;1.32;5.3;6.8;3.45;1.27;1.7;1.45;3.3;1.63
 13:00;Shanghai Shenhua;Shenzhen Xinpengcheng;769;1.2;6.6;9.25;3.25;1.28;1.75;1.63;3.75;1.83
 13:00;Persija Jakarta;PSBS Biak;757;1.22;6.0;10.0;2.55;1.45;2.15;1.93;4.85;2.25
@@ -31,6 +40,7 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 13:00;Zabkovia Zabki;Biala Piska;;1.05;9.2;22.0;;;;;;
 13:00;Gzs Tluchovia Tluchowo;WDA Swiecie;;2.18;3.5;2.75;2.25;1.57;2.38;1.5;;
 13:00;Paro;Abdish-Ata;;2.85;3.5;2.03;2.35;1.5;2.3;1.43;;
+13:00;Sibiryak;Fakel-GTS Surgut;;3.15;4.75;1.77;;;;;;
 13:15;Cong An Ha Noi;PVF-CAND;751;1.22;5.6;11.0;2.33;1.53;2.37;2.15;5.4;2.55
 13:30;Proxy;Tanta;378;1.85;2.85;4.6;1.28;3.25;7.4;2.75;8.25;4.25
 13:30;WE SC;El Mansoura;384;2.7;2.37;2.95;1.37;2.75;5.9;2.23;6.7;3.45
@@ -56,19 +66,24 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 14:00;Pniowek;Legnica 2;;2.38;3.35;2.55;1.91;1.8;2.95;1.65;;
 14:00;Sokol Kolbuszowa Dolna;Ostrowiec;;5.8;4.1;1.45;2.0;1.72;2.8;1.86;;
 14:00;Sparta Kazimierza Wielka;Lubaczow;;7.4;5.6;1.26;2.65;1.42;;;;
-14:00;Swidniczanka Swidnik;KS Naprzod Jedrzejow;;2.33;3.45;2.55;2.21;1.6;2.43;1.5;;
+14:00;Swidniczanka Swidnik;KS Naprzod Jedrzejow;;2.35;3.5;2.5;2.21;1.6;2.45;1.51;;
 14:00;Slowianin Woliborz;Sleza Wroclaw;;1.7;3.8;3.9;2.31;1.55;2.33;1.55;;
 14:00;Jena;Magdeburg II;763;1.53;4.15;5.2;2.3;1.55;2.4;1.62;4.25;1.95
 14:00;Drochtersen/Assel;Jeddeloh;773;1.8;4.0;3.25;2.6;1.42;2.07;1.38;3.45;1.63
+14:00;Omskie Kryliya;Khimik;;1.77;4.3;3.6;;;;;;
 14:00;Bilje;Ilirija;762;2.27;3.15;3.05;1.67;2.05;3.7;1.8;5.0;2.45
-14:00;Al Seeb;Al Ansar Beirut;;1.92;3.55;3.1;2.07;1.63;2.65;1.55;;
+14:00;Fenerbahce 2 W;Mersin Genclerbirligi W;;2.55;13.0;1.57;;;;;;
+14:00;Al Seeb;Al Ansar Beirut;;2.0;3.45;2.95;2.05;1.65;2.68;1.55;;
+14:00;Krivbas;Staryi Lutsk;;1.3;17.0;3.9;;;;;;
 14:00;Gorilla;Bugesera;;2.4;2.63;3.05;1.3;3.1;7.0;2.42;;
 14:00;Qarabag;Imisli;750;1.13;7.1;16.0;2.7;1.4;2.0;2.28;5.5;2.62
 14:25;Al Najma;Al Shabab Manama;390;2.52;3.0;2.65;1.62;2.12;3.95;1.83;5.2;2.55
 14:30;Charlton U21;QPR U21;387;1.42;4.9;4.95;4.25;1.17;1.5;1.27;2.7;1.38
 14:30;Kheybar K.;Gol Gohar;379;2.65;2.65;3.0;1.27;3.4;8.0;2.57;7.9;4.2
 14:30;Rewal;Sroda;;11.0;5.4;1.2;2.33;1.53;2.32;2.1;;
+14:30;Kurhan;Torpedo Gorkii;;2.5;4.0;2.35;;;;;;
 14:30;Shortan Guzor;OKMK;386;4.75;3.7;1.65;1.95;1.75;2.9;1.73;4.7;2.2
+14:30;Yugra;Tyumen;;1.88;4.75;2.85;;;;;;
 14:40;Al Akhdood;Al Najma;790;2.18;3.5;2.9;1.8;1.9;3.35;1.7;4.75;2.25
 15:00;Mohun Bagan;East Bengal;765;1.92;3.5;3.3;1.95;1.73;2.9;1.62;4.4;2.07
 15:00;ASM Oran;Tixeraine;;1.4;3.85;7.5;1.6;2.15;4.05;2.5;;
@@ -85,6 +100,9 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 15:00;WA Mostaganem;Arba;;1.38;3.9;7.8;1.63;2.1;3.9;2.5;;
 15:00;Sheffield Wed U21;Hull U21;391;3.05;3.9;1.9;2.9;1.35;1.9;1.32;3.2;1.53
 15:00;AL Sarhan;Al Baqaa;;3.0;3.45;2.06;1.92;1.78;2.9;1.66;;
+15:00;Salavat Ufa;Admiral;;2.05;4.1;3.0;;;;;;
+15:00;Tractor Chelyabinsk;Barys;;1.5;5.0;5.0;;;;;;
+15:00;Yekaterinburg;Sibir;;1.57;4.2;5.25;;;;;;
 15:00;NK Krka;Krsko;;1.25;5.9;8.5;3.65;1.23;1.67;1.53;;
 15:00;Al Arabi SC;Muras United;;2.0;3.4;3.0;2.1;1.6;2.6;1.52;;
 15:30;Esteghal K;Foolad;380;3.8;2.55;2.3;1.28;3.25;7.5;2.55;7.75;4.15
@@ -96,46 +114,113 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 16:00;Dcheira;COD Meknes;746;2.72;2.85;2.55;1.45;2.5;5.1;2.07;6.25;3.05
 16:00;Kawkab M.;Union Touarga;748;2.1;2.8;3.6;1.42;2.55;5.3;2.18;6.6;3.25
 16:00;Minija;Transinvest;384;8.25;4.9;1.25;2.4;1.5;2.28;1.88;4.8;2.23
+16:00;Bodrum Basketbol 2023 W;Kirklareli Fen Bilimleri W;;6.5;21.0;1.1;;;;;;
 16:00;Iberia 1999;Dinamo Batumi;;1.67;3.1;4.65;1.5;2.23;4.2;2.18;;
 16:00;Al Minaa;Al-Qassim;;1.92;3.2;3.4;1.6;2.15;4.0;1.92;;
-16:30;Dynamo Brest;Molodechno;748;1.1;7.8;19.0;2.8;1.37;1.95;2.37;5.5;2.68
+16:30;Dynamo Brest;Molodechno;750;1.11;7.4;18.0;2.7;1.4;2.0;2.37;5.6;2.7
 16:30;Bechem United;Nations FC;;1.65;2.85;6.6;1.3;3.1;7.0;3.0;;
 16:30;Poli Iasi;Bihor Oradea;768;2.52;3.2;2.62;1.8;1.88;3.3;1.67;4.65;2.23
 16:30;Fratria;Vihren;388;1.97;3.3;3.25;1.9;1.8;3.05;1.65;4.55;2.15
+16:30;Loko U20;Atlant U20;;1.17;6.75;11.0;;;;;;
+16:30;Reaktor U20;Krasnoy. Rysi U20;;1.5;4.75;4.6;;;;;;
+16:30;Sputnik Al. U20;Tyumenskiy Leg. U20;;2.0;4.2;2.8;;;;;;
 16:30;ASF Dioulasso;Sporting Cascades;;1.92;3.05;3.85;1.47;2.4;4.9;2.13;;
 16:30;CFFEB;Rahimo;;2.72;2.8;2.57;1.42;2.55;5.3;2.12;;
 16:30;RDF;RC Kadiogo;;2.07;2.9;3.55;1.47;2.4;4.9;2.1;;
 16:45;Khorfakkan;Al Wasl;764;5.1;4.15;1.53;2.33;1.53;2.37;1.6;4.15;1.93
-17:00;CSKA Moscow;Nizhny Novgorod;790;1.43;4.9;7.1;2.28;1.65;2.62;1.83;4.9;2.2
-17:00;Kudrivka;Obolon;764;2.68;3.05;2.57;1.65;2.07;3.85;1.82;5.1;2.5
+17:00;CSKA Moscow;Nizhny Novgorod;791;1.43;4.9;7.2;2.3;1.65;2.62;1.83;4.9;2.2
+17:00;Kudrivka;Obolon;764;2.7;3.05;2.57;1.65;2.1;3.9;1.83;5.2;2.52
 17:00;Al-Hidd;Budaiya;390;2.2;3.1;3.0;1.75;1.92;3.4;1.72;4.8;2.3
+17:00;Esenler Erokspor;Tofas;;1.75;14.0;2.3;;;;;;
 17:00;Karlovac;Dubrava;751;1.67;3.25;4.95;1.62;2.12;3.95;2.05;5.75;2.75
 17:00;BE1 NFA;Siauliai 2;390;1.65;3.9;3.9;2.55;1.43;2.12;1.45;3.65;1.7
 17:00;Hegelmann Litauen 2;Neptunas;386;6.25;4.65;1.35;2.7;1.4;2.0;1.57;3.95;1.85
 17:00;Kauno Zalgiris 2;Tauras Taurage;386;5.8;4.65;1.37;2.85;1.35;1.92;1.5;3.7;1.73
 17:00;Zalgiris 2;Jonava;389;2.3;3.2;2.68;1.93;1.75;2.95;1.6;4.35;2.07
+17:00;HK Chelny;CSK VVS;;4.2;4.6;1.6;;;;;;
+17:00;Rostov;Gornyak;;3.5;4.3;1.77;;;;;;
+17:00;Voronezh;Chelmet;;2.3;3.9;2.55;;;;;;
+17:00;Kapitan U20;Mikhaylov Ac. U20;;4.5;4.75;1.5;;;;;;
+17:00;AKM U20;Spartak Mah U20;;1.88;4.2;3.0;;;;;;
+17:00;Martin;Dubnica;;1.72;4.2;3.3;;;;;;
 17:00;Vardar;Sileks;771;2.25;3.45;2.65;2.2;1.57;2.5;1.48;3.9;1.83
 17:00;Banska Bystrica;I. Bratislava;763;1.35;4.95;6.9;2.4;1.5;2.27;1.72;4.45;2.03
-17:00;Al Kuwait;Bashundara Kings;;1.09;7.1;15.0;2.85;1.33;1.9;2.35;;
+17:00;Al Kuwait;Bashundara Kings;;1.11;6.6;13.0;2.9;1.32;1.87;2.12;;
+17:00;Brest;Novopolotsk;;2.05;4.0;2.8;;;;;;
+17:00;Dinamo Mol.;Lida;;1.88;4.0;3.1;;;;;;
+17:00;Vitebsk;Baranovichi;;1.22;6.0;8.5;;;;;;
+17:00;Cherkaski Mavpy;Kharkivski Sokoly;;2.45;14.0;1.67;;;;;;
+17:00;Mykolaiv;BC Goverla;;2.45;14.0;1.67;;;;;;
+17:00;HC Zaglebie;Katowice;;2.15;4.0;2.55;;;;;;
 17:30;Al Jazeera Amman;Al-Faisaly Amman;;5.8;3.7;1.5;1.7;2.03;3.55;2.11;;
 17:30;Al Wakra;Qatar SC;775;1.92;4.05;3.3;2.6;1.45;2.13;1.4;3.5;1.65
+17:30;Helsinki Seagulls;Pyrinto Tampere;;1.2;20.0;5.0;;;;;;
+17:30;KTP Kotka;Karhu Basket;;1.33;17.0;3.7;;;;;;
+17:30;Kobrat;Lahti;;2.05;13.0;1.95;;;;;;
+17:30;Kouvot Kouvola;Salon Vilpas;;4.5;19.0;1.25;;;;;;
+17:30;Lokomotiv Y.;SKA St. Petersburg;;1.7;4.3;4.0;;;;;;
+17:30;Budejovice;Karlovy Vary;;2.28;4.14;2.71;;;;;;
+17:30;Mlada Boleslav;Litvinov;;1.76;4.39;3.92;;;;;;
+17:30;Plzen;Kometa Brno;;2.4;4.0;2.6;;;;;;
+17:30;Ban. Bystrica;Dukla Trencin;;1.9;4.2;3.15;;;;;;
+17:30;Spisska Nova Ves;Kosice;;2.9;4.2;2.0;;;;;;
+17:30;Skalica;Ziar Nad Hronom;;1.9;4.0;2.9;;;;;;
+17:30;Ujpest;Corona Brasov;;2.3;4.1;2.35;;;;;;
+17:30;Montenegro;Belgium;;1.15;12.0;6.25;;;;;;
+17:30;Assat;KooKoo;;1.83;4.2;3.5;;;;;;
+17:30;JYP;Karpat;;1.67;4.6;4.0;;;;;;
+17:30;Kiekko-Espoo;Jukurit;;1.9;4.0;3.4;;;;;;
+17:30;Lukko;Vaasan Sport;;1.65;4.5;4.2;;;;;;
+17:30;Pelicans;Hameenlinna;;2.35;3.8;2.6;;;;;;
+17:30;Tappara;IFK Helsinki;;1.28;6.0;8.5;;;;;;
+17:30;Iisalmen;Kettera;;1.85;4.3;3.25;;;;;;
+17:30;Kiekko-Pojat;RoKi;;2.0;4.2;2.95;;;;;;
+17:30;Jokerit Helsinki;Hermes;;1.13;7.5;15.0;;;;;;
+17:30;TuTo Hockey;Pyry;;1.47;4.8;5.25;;;;;;
+17:30;Kristall;Torpedo NN;;2.7;4.75;1.93;;;;;;
 17:45;S. Wola;R. Rzeszow;771;1.9;3.7;3.45;2.23;1.57;2.47;1.52;4.0;1.85
+18:00;Mega;Ilirija;;1.47;15.0;3.0;;;;;;
 18:00;Basaksehir;Kocaelispor;787;1.85;3.6;4.3;1.83;1.95;3.45;1.82;5.1;2.35
+18:00;Kk Hercegovac;OKK Beograd;;2.25;13.0;1.77;;;;;;
 18:00;Termalica B-B.;GKS Katowice;796;2.62;3.4;2.6;1.97;1.83;3.1;1.67;4.45;2.12
 18:00;Stripfing;Rapid Vienna II;793;2.12;3.4;3.3;1.97;1.8;3.05;1.65;4.55;2.13
 18:00;Aris;Chloraka;752;1.13;7.8;16.0;2.9;1.37;1.95;2.17;5.2;2.45
 18:00;Kampala City;Calvary;;1.27;4.4;9.75;1.8;1.88;3.3;;;
 18:00;Schwaz;Bischofshofen;390;2.3;3.6;2.5;2.33;1.5;2.33;1.43;3.65;1.75
 18:00;Tersana;Baladiyyat Mehalla;379;2.62;2.55;3.0;1.22;3.7;9.0;2.72;8.5;4.6
+18:00;Ankara Kolejliler;Ankaragucu Belediyesi;;1.8;13.0;2.25;;;;;;
 18:00;Hatayspor;Erzurum BB;761;4.75;3.7;1.7;1.87;1.83;3.15;1.8;4.9;2.3
 18:00;Leczna;Polonia Warszawa;772;3.2;3.65;2.03;2.23;1.57;2.5;1.5;3.95;1.87
 18:00;Jihlava;Sparta Prague B;763;1.95;3.4;3.5;1.9;1.77;3.05;1.65;4.55;2.15
 18:00;Prostejov;Pribram;760;1.92;3.3;3.8;1.73;1.97;3.55;1.82;5.0;2.4
 18:00;Chelmianka;Cracovia II;;1.63;4.0;4.0;2.6;1.45;2.08;1.48;;
 18:00;Star Starachowice;Czarni Polaniec;;1.61;3.9;4.3;2.33;1.53;2.3;1.57;;
+18:00;Ogre;Ventspils;;2.3;13.0;1.77;;;;;;
+18:00;Liberec;Vitkovice;;2.17;4.22;2.84;;;;;;
+18:00;Mountfield HK;Trinec;;2.31;4.1;2.67;;;;;;
+18:00;Olomouc;Sparta Prague;;3.61;4.44;1.82;;;;;;
+18:00;Pardubice;Kladno;;1.6;4.89;4.52;;;;;;
+18:00;Nitra;Dukla Michalovce;;1.47;5.0;5.0;;;;;;
+18:00;Poprad;HK Vlci Zilina;;2.75;4.2;2.07;;;;;;
+18:00;Zvolen;Liptovsky Mikulas;;1.8;4.4;3.3;;;;;;
+18:00;HC Topolcany;Hk Trnava;;1.2;6.0;8.5;;;;;;
+18:00;HK Detva;Humenne;;3.3;4.2;1.72;;;;;;
+18:00;Povazska Bystrica;HC TEBS Bratislava;;2.0;4.0;2.7;;;;;;
+18:00;Nove Zamky;Levice;;5.0;4.8;1.4;;;;;;
+18:00;Budaors W;Neka W;;1.55;8.25;2.9;;;;;;
+18:00;Piotrcovia W;Koszalin W;;1.22;13.0;4.75;;;;;;
 18:00;Z. Moravce;Lehota p. V.;752;1.22;5.7;10.0;2.25;1.55;2.45;2.12;5.35;2.52
+18:00;Paralimni;Apollon;;1.7;14.0;2.4;;;;;;
+18:00;Stjernen;Sparta Sarpsborg;;2.45;4.1;2.25;;;;;;
 18:00;Hacken B W;Elfsborg W;387;3.65;3.8;1.7;2.25;1.5;2.32;1.48;3.8;1.77
+18:00;IK Sirius BK;Edsbyns IF;;1.62;6.5;3.1;;;;;;
+18:00;Kormend;Szedeak;;1.3;20.0;3.85;;;;;;
+18:00;Zalakeramia;Kaposvari;;2.15;13.0;1.85;;;;;;
+18:00;Sanok;Tychy;;23.0;13.0;1.01;;;;;;
 18:00;Radnik Bijeljina;Rudar Prijedor;756;1.67;3.4;4.5;1.65;2.05;3.75;1.97;5.45;2.62
+18:00;Brynas W;Djurgarden W;;1.45;4.6;5.0;;;;;;
+18:00;Lulea HF W;Skelleftea W;;1.3;5.25;7.0;;;;;;
+18:10;Zhlobin;Slavutych Smolensk;;1.97;4.0;2.9;;;;;;
 18:30;Elversberg;Hannover;803;2.3;3.6;2.95;2.25;1.65;2.62;1.55;3.95;1.88
 18:30;Preussen Munster;Holstein Kiel;795;3.35;3.5;2.15;2.07;1.77;2.9;1.65;4.3;2.05
 18:30;Durban City;Kaizer Chiefs;739;3.0;2.63;2.68;1.32;3.1;7.0;2.42;7.4;3.85
@@ -144,9 +229,20 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 18:30;Kuchl;Lauterach;384;1.19;6.1;9.25;3.2;1.28;1.77;1.65;3.85;1.87
 18:30;Schalke II;Rodinghausen;769;1.85;3.6;3.7;2.1;1.65;2.65;1.57;4.25;1.95
 18:30;Koln W;Nurnberg W;766;1.57;3.8;4.65;2.13;1.6;2.6;1.65;4.45;2.03
+18:30;Keila Basket;Latvijas Univ.;;1.25;17.0;4.5;;;;;;
+18:30;Slovan Bratislava;Presov;;1.3;5.75;7.25;;;;;;
+18:30;DAB Docler;DVTK;;4.75;4.8;1.47;;;;;;
+18:30;Feha19;Csikszereda;;2.7;3.75;2.15;;;;;;
+18:30;FTC-Telekom;Graz 99Ers;;3.25;4.4;1.83;;;;;;
+18:30;SaiPa;Ilves;;2.3;3.9;2.65;;;;;;
 18:30;Erlbach;Pipinsried;;2.17;3.6;2.7;2.33;1.53;2.3;1.47;;
+18:30;Tkh Torun;Oswiecim;;2.25;4.1;2.4;;;;;;
 18:30;Al Mosul;Al Zawraa;;4.0;3.1;1.87;1.5;2.35;4.65;2.1;;
 18:30;Al Talaba;Naft Missan;;1.7;3.25;4.65;1.52;2.3;4.5;2.17;;
+18:30;Mullsjo AIS;Pixbo Wallenstam;;2.07;5.0;2.45;;;;;;
+18:30;Trutnov W;DSK Basketball W;;1.65;12.0;2.35;;;;;;
+18:40;Ujbuda;Progym;;4.5;4.75;1.5;;;;;;
+19:00;Monaco;Panathinaikos;;1.85;13.0;2.3;;;;;;
 19:00;Viktoria Koln;Ingolstadt;794;2.57;3.65;2.5;2.27;1.57;2.45;1.48;3.8;1.82
 19:00;Lugo;Barakaldo;754;2.15;2.95;3.3;1.53;2.3;4.45;1.97;5.7;2.78
 19:00;Atus Velden;Deutschlandsberger;392;2.28;3.75;2.47;2.6;1.42;2.07;1.37;3.35;1.62
@@ -169,10 +265,46 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 19:00;Vilzing;Memmingen;769;1.93;3.65;3.4;2.1;1.65;2.65;1.55;4.15;1.93
 19:00;Babelsberg;BFC Preussen;768;2.28;3.25;2.95;1.85;1.82;3.15;1.65;4.55;2.17
 19:00;Hertha Zehlendorf;Chemie Leipzig;769;2.55;3.35;2.52;2.0;1.7;2.85;1.57;4.25;2.0
+19:00;UU-Korihait;Honka Espoo;;1.22;20.0;4.9;;;;;;
+19:00;AIK;Vimmerby HC;;1.57;4.6;4.5;;;;;;
+19:00;Almtuna IS;Ostersunds;;2.45;4.0;2.4;;;;;;
+19:00;BIK Karlskoga;Nybro Vikings IF;;1.47;4.8;5.25;;;;;;
+19:00;IF Bjorkloven;IF Troja-Ljungby;;1.25;6.0;8.75;;;;;;
+19:00;IK Oskarshamn;Sodertalje;;2.15;4.1;2.7;;;;;;
+19:00;Modo;Vasteraas;;1.47;4.8;5.25;;;;;;
+19:00;Mora IK;Kalmar HC;;2.7;4.1;2.15;;;;;;
+19:00;Bodens;Hudiksvalls;;2.9;3.9;1.93;;;;;;
+19:00;Grastorps IK;Morrum Gois;;2.3;3.85;2.35;;;;;;
+19:00;Tingsryds Aif;Dalen;;1.8;4.0;3.2;;;;;;
+19:00;Vasterviks IK;Halmstad Ham.;;3.4;4.1;1.72;;;;;;
+19:00;Visby;Huddinge;;1.33;5.0;6.25;;;;;;
+19:00;GKS Tychy;Polonia W.;;1.53;14.0;2.85;;;;;;
+19:00;Starogard Gdanski;Notec;;1.18;18.0;5.5;;;;;;
 19:00;Holstebro;ASA Aarhus;;1.83;4.1;3.1;3.45;1.25;1.67;;;
+19:00;Lorenskog;Storhamar;;8.0;5.75;1.25;;;;;;
+19:00;Narvik;Nidaros Hockey;;2.05;4.2;2.7;;;;;;
+19:00;Stavanger;Lillehammer IK;;1.2;6.25;9.5;;;;;;
+19:00;Broberg/Soderhamn BS;BS Boltic/Gota;;1.18;9.0;7.5;;;;;;
+19:00;Frillesaas BK;Sandvikens AIK;;4.0;8.0;1.4;;;;;;
+19:00;Gripen/Trollhattan;Villa-Lidkoping BK;;6.0;8.5;1.25;;;;;;
+19:00;IFK Vanersborg;Vasteraas SK/BK;;8.25;9.5;1.15;;;;;;
 19:00;SpVgg SV Weiden;Fortuna Regensburg;;2.55;4.1;2.1;3.8;1.22;1.58;1.23;;
 19:00;Kirchanschoring;FC Sportfreunde Schwaig 1913;;2.05;3.95;2.7;3.0;1.35;1.85;1.35;;
 19:00;Hertha Wiesbach;SV Auersmacher;;2.13;4.1;2.5;3.8;1.22;1.57;1.23;;
+19:00;Jastrzebie;Krakow;;1.35;5.0;5.75;;;;;;
+19:00;Split;Kvarner;;1.08;25.0;8.75;;;;;;
+19:00;AS Beziers Herault;Colomiers Rugby;;1.77;23.0;2.1;;;;;;
+19:00;Frolunda W;Linkopings W;;1.5;4.6;4.8;;;;;;
+19:00;Aros;Ockelbo;;2.85;14.0;1.45;;;;;;
+19:00;Esbjerg;Frederikshavn;;1.67;4.5;3.85;;;;;;
+19:00;Graz;Wels;;2.15;13.0;1.85;;;;;;
+19:00;Swans Gmunden;Kapfenberg Bulls;;1.43;15.0;3.2;;;;;;
+19:00;Traiskirchen;St. Polten;;1.2;20.0;5.25;;;;;;
+19:00;IBK Dalen W;Endre IF W;;2.95;5.5;1.75;;;;;;
+19:04;Jamtland;Koping Stars;;1.23;18.0;4.6;;;;;;
+19:15;Klagenfurt;Innsbruck;;1.25;6.0;8.25;;;;;;
+19:15;Salzburg;Olimpija Ljubljana;;1.75;4.5;3.5;;;;;;
+19:15;Steinbach BW;Capitals;;2.1;4.2;2.7;;;;;;
 19:30;Din. Bucuresti;CFR Cluj;783;2.37;3.05;3.1;1.6;2.32;4.4;2.0;5.5;2.72
 19:30;Chateauroux;Aubagne;760;2.5;2.95;2.85;1.6;2.2;4.15;1.88;5.35;2.63
 19:30;Dijon;Fleury-Merogis;758;1.83;3.35;4.05;1.7;2.03;3.65;1.88;5.2;2.47
@@ -188,10 +320,39 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 19:30;Seekirchen;Saalfelden;385;1.2;6.1;9.0;3.3;1.27;1.73;1.62;3.75;1.82
 19:30;Lotte;Gutersloh;772;2.8;3.7;2.15;2.23;1.57;2.5;1.48;3.9;1.83
 19:30;Wuppertal;Oberhausen;775;2.72;3.9;2.15;2.37;1.5;2.3;1.43;3.65;1.73
+19:30;Dresdner Eislowen;Frankfurt;;2.5;4.1;2.3;;;;;;
+19:30;Ingolstadt;Cologne;;2.1;4.1;2.8;;;;;;
+19:30;Nuremberg;Straubing T.;;3.1;4.3;1.93;;;;;;
+19:30;RB Munchen;Mannheim;;2.0;4.2;3.0;;;;;;
+19:30;Schwenninger;Eisbaren;;2.9;4.1;2.1;;;;;;
+19:30;Bad Nauheim;ESV;;2.3;4.0;2.5;;;;;;
+19:30;Bietigheim;Krefeld;;2.85;4.3;2.05;;;;;;
+19:30;Crimmitschau;Freiburg;;2.3;4.2;2.5;;;;;;
+19:30;Dusseldorfer EG;Lausitzer;;2.0;4.3;2.85;;;;;;
+19:30;Landshut;Kassel;;2.3;4.3;2.45;;;;;;
+19:30;Cortina;Bregenzerwald;;2.15;4.1;2.6;;;;;;
 19:30;FC Sturm Hauzenberg;SV Heimstetten;;4.2;4.2;1.58;2.95;1.35;1.85;1.41;;
 19:30;Duren;Teutonia Weiden;;1.57;4.6;3.95;3.85;1.22;1.57;1.28;;
 19:30;SSV Merten;Frechen;;1.97;4.2;2.75;3.75;1.23;1.6;1.25;;
+19:30;Sbb Baskets Wolmirstedt;Phoenix Hagen;;6.0;21.0;1.15;;;;;;
+19:30;Stade Aurillacois;US Oyonnax;;1.53;21.0;2.65;;;;;;
+19:30;Stade Montois;Uson Nevers;;1.35;22.0;3.4;;;;;;
+19:30;US Carcassonne;Biarritz Olympique;;1.67;24.0;2.25;;;;;;
+19:30;Regio Basel;BBC Lausanne;;7.25;23.0;1.12;;;;;;
+19:30;Posillipo;CC Napoli;;1.25;8.25;5.5;;;;;;
+19:30;Herlev;Aalborg;;2.3;4.1;2.5;;;;;;
+19:30;Herning;Sonderjyske;;1.38;5.25;6.0;;;;;;
+19:30;Rungsted;Odense;;3.1;4.2;1.93;;;;;;
+19:30;Furstenfeld;Klosterneuburg;;10.0;28.0;1.07;;;;;;
 19:45;Skierniewice;LKS Lodz II;759;1.42;4.4;6.5;2.2;1.6;2.52;1.77;4.7;2.17
+19:45;Ajoie;Ambri-Piotta;;2.25;4.1;2.55;;;;;;
+19:45;Biel;Bern;;1.95;4.2;3.05;;;;;;
+19:45;Rapperswil;Fribourg;;2.2;4.1;2.6;;;;;;
+19:45;Zurich;Langnau;;1.67;4.4;3.85;;;;;;
+19:45;Chaux de Fonds;GCK Lions;;1.9;4.2;2.85;;;;;;
+19:45;EHC Basel;EHC Olten;;2.9;4.1;1.9;;;;;;
+19:45;EHC Visp;EHC Arosa;;1.37;5.0;5.5;;;;;;
+19:45;Bolzano;Pustertal Wolfe;;1.72;4.5;3.6;;;;;;
 20:00;PSV;Fortuna Sittard;787;1.16;8.5;15.0;3.85;1.27;1.67;1.77;3.85;1.92
 20:00;Annecy;Boulogne;777;2.15;3.0;3.8;1.45;2.7;5.6;2.28;6.7;3.3
 20:00;Bastia;Clermont;783;1.85;3.4;4.45;1.65;2.25;4.2;2.07;5.7;2.75
@@ -212,806 +373,36 @@ TIME;HOME;AWAY;MATCH_ID;1;X;2;UG_0_2;UG_3_PLUS;UG_4_PLUS;GG;I_GG;GG_3_PLUS
 20:00;Ipswich U21;Newcastle U21;393;2.05;4.05;2.8;3.45;1.27;1.7;1.25;2.72;1.42
 20:00;Manchester City U21;Leicester U21;389;1.48;4.65;4.9;3.4;1.27;1.72;1.35;3.05;1.52
 20:00;Manchester Utd U21;Blackburn U21;385;1.25;6.0;8.0;4.15;1.18;1.52;1.42;3.1;1.55
+20:00;EV Blue Devils Weiden;Starbulls Rosenheim;;2.55;4.2;2.2;;;;;;
+20:00;Regensburg;Ravensburg;;2.1;4.1;2.75;;;;;;
+20:00;EHC Chur;Thurgau;;3.4;4.0;1.77;;;;;;
+20:00;Winterthur;HC Sierre;;8.5;6.0;1.22;;;;;;
+20:00;Gniezno W;Ruch Szczypiorno Kalisz W;;1.08;12.0;10.0;;;;;;
 20:00;Rodange;Niedercorn;386;5.8;4.2;1.43;2.23;1.55;2.45;1.72;4.5;2.07
+20:00;Wurzburg;Jena;;1.28;18.0;4.1;;;;;;
+20:00;Heroes Den Bosch;Kortrijk Spurs;;1.75;14.0;2.3;;;;;;
 20:00;Klaksvik;Vikingur Gota;387;1.5;4.05;5.1;2.25;1.52;2.37;1.6;4.2;1.95
+20:00;Nottingham;Belfast;;2.0;4.3;2.75;;;;;;
+20:00;Vetlanda BK;Aby/Tjureda IF;;1.15;10.0;8.75;;;;;;
+20:00;Caen;Pau Orthez;;2.3;13.0;1.75;;;;;;
+20:00;Hyeres Toulon;Aix Maurienne;;1.72;13.0;2.4;;;;;;
+20:00;Nantes;Gries Souffel;;2.07;13.0;1.9;;;;;;
+20:00;Roanne Chorale;Vichy;;1.35;16.0;3.7;;;;;;
+20:00;Rouen;Orleans;;2.9;14.0;1.52;;;;;;
+20:00;Gap;Chamonix;;2.1;4.1;2.75;;;;;;
+20:00;Briancon;Rouen;;5.0;4.9;1.47;;;;;;
 20:00;Zelzate;Ninove;;2.25;3.25;2.78;1.97;1.7;2.85;1.57;;
+20:00;Dinamo Zagreb;Zabok;;1.7;14.0;2.4;;;;;;
 20:00;Al Karkh;Al Kahraba;;2.07;3.1;3.25;1.57;2.18;4.15;1.92;;
+20:00;UHC Waldkirch-St. Gallen;Grasshopper;;3.25;5.25;1.7;;;;;;
+20:00;IR;Armann;;1.15;22.0;6.25;;;;;;
+20:15;Olympiacos;Hapoel Tel Aviv;;1.53;15.0;3.05;;;;;;
 20:15;Etoile-Carouge;Bellinzona;763;1.88;3.5;4.0;1.85;1.85;3.2;1.73;4.8;2.23
 20:15;Yverdon;Vaduz;773;1.92;3.8;3.5;2.25;1.57;2.5;1.52;3.95;1.85
 20:15;Huarte;Beti Kozkor KE;;1.71;3.6;4.0;1.95;1.77;2.9;1.73;;
+20:15;Krosno;Gornik W.;;3.1;15.0;1.45;;;;;;
+20:15;Marseille;Angers;;3.4;4.3;1.8;;;;;;
 20:30;Augsburg;Dortmund;907;5.1;4.4;1.62;2.6;1.52;2.27;1.55;3.95;1.82
+20:30;Baskonia;Anadolu Efes;;2.45;14.0;1.75;;;;;;
+20:30;Partizan;Barcelona;;1.97;13.0;2.1;;;;;;
 20:30;Luton;Forest Green;767;1.47;4.55;6.9;2.15;1.7;2.75;1.9;5.0;2.32
-20:30;Racing Santander;Real Sociedad B;791;1.55;4.4;5.45;2.3;1.6;2.5;1.67;4.4;2.03
-20:30;Piast Gliwice;Korona Kielce;787;2.65;3.1;2.78;1.67;2.18;4.05;1.9;5.2;2.57
-20:30;Kapfenberg;Austria Salzburg;794;2.47;3.65;2.55;2.18;1.65;2.65;1.53;4.05;1.92
-20:30;Ruch Chorzow;Tychy;770;1.88;3.7;3.65;2.15;1.62;2.6;1.55;4.15;1.9
-20:30;Zaglebie Sosnowiec;Chojniczanka;768;1.7;3.75;4.25;2.23;1.57;2.47;1.57;4.1;1.9
-20:30;Casertana;Catania;748;3.4;2.9;2.13;1.45;2.5;5.1;2.12;6.3;3.05
-20:30;Picerno;Cavese;763;2.6;3.0;2.57;1.6;2.13;4.0;1.85;5.25;2.55
-20:30;Afan Lido;Caerau Ely;386;5.5;4.35;1.43;2.55;1.43;2.13;1.57;4.0;1.85
-20:30;Cwmbran Celtic;Baglan Dragons;385;3.85;3.5;1.77;2.05;1.65;2.72;1.62;4.33;2.0
-20:30;Dessel Sport;Leuven U21;;1.7;3.85;3.8;2.55;1.43;2.13;1.43;;
-20:45;Standard;Charleroi;790;2.8;3.2;2.62;1.73;2.13;3.9;1.87;5.1;2.5
-20:45;Bala;Llanelli;758;1.6;3.85;4.55;1.88;1.8;3.05;1.8;4.85;2.27
-20:45;Bangor;Carrick Rangers;771;2.42;3.6;2.5;2.27;1.55;2.42;1.47;3.8;1.8
-20:45;Glentoran;Portadown;755;1.45;4.25;6.1;1.95;1.75;2.95;1.9;5.1;2.37
-20:45;Ayr;Dunfermline;756;1.87;3.3;4.4;1.6;2.3;4.4;2.1;6.0;2.85
-20:45;Llandudno;Airbus;390;2.5;3.65;2.32;2.2;1.57;2.5;1.48;3.9;1.83
-20:45;Ruthin Town;Mold Alexandra;389;2.95;3.5;2.05;2.23;1.55;2.47;1.48;3.85;1.83
-20:45;Bowers & Pitsea;Grays Athletic;394;1.73;3.75;3.75;2.4;1.5;2.23;1.53;3.8;1.77
-20:45;Ashington;Newton Aycliffe;391;2.15;3.4;2.85;1.97;1.7;2.8;1.63;4.33;2.0
-20:45;Atherton;Vauxhall Motors;391;2.57;3.25;2.4;1.97;1.7;2.8;1.62;4.3;2.0
-20:45;Mickleover;Shepshed Dynamo;392;1.75;3.5;3.9;2.05;1.67;2.68;1.67;4.4;2.03
-21:00;Getafe;Girona;890;2.2;3.0;3.95;1.47;2.75;5.7;2.27;6.9;3.35
-21:00;Wrexham;Coventry;792;3.9;3.4;2.0;1.77;2.03;3.65;1.85;5.0;2.45
-21:00;Gresford;Newtown;386;5.5;4.25;1.45;2.4;1.5;2.27;1.62;4.15;1.92
-21:00;Ballinamallard;Ards;769;2.3;3.5;2.57;2.05;1.65;2.72;1.53;4.1;1.93
-21:00;Marseille W;Strasbourg W;768;2.2;3.5;2.85;2.0;1.7;2.85;1.57;4.25;2.0
-21:15;Sporting;Alverca;778;1.13;8.75;20.0;3.0;1.4;1.97;2.33;5.3;2.57
-21:15;Alcorcon;Sevilla B;745;1.95;2.95;3.9;1.42;2.6;5.45;2.25;6.8;3.3
-21:30;Iquique;La Serena;768;2.13;3.3;3.15;1.87;1.82;3.15;1.65;4.6;2.17
-21:30;Gen. Caballero;Recoleta Asuncion;761;2.03;3.25;3.5;1.73;1.97;3.55;1.8;4.95;2.4
-21:30;Dep. Concepcion;San Felipe;759;1.65;3.7;4.7;1.77;1.9;3.4;1.9;5.2;2.45
-22:00;Real Union de Tenerife Santa Cruz;CD Tenerife C;;2.38;3.2;2.65;1.95;1.76;2.8;1.6;;
-22:00;Huila;Jaguares;750;2.52;3.0;2.78;1.55;2.25;4.35;1.93;5.6;2.7
-22:00;Independiente;San Francisco;759;2.05;3.1;3.35;1.65;2.05;3.8;1.85;5.2;2.52
-22:00;Veraguas;CD Universitario;755;3.15;3.05;2.15;1.7;2.0;3.65;1.77;4.95;2.42
-22:30;Zamora;Puerto Cabello;769;2.55;3.35;2.55;1.97;1.73;2.9;1.57;4.3;2.03
-23:00;San Lorenzo;Dep. Riestra;758;2.03;2.85;4.7;1.27;3.6;8.5;2.9;8.75;4.75
-23:00;Atletico GO;Paysandu;755;1.65;3.6;5.45;1.65;2.15;4.0;2.15;6.0;2.85
-23:00;Coritiba;CRB;757;1.73;3.55;4.7;1.65;2.2;4.1;2.07;5.8;2.78
-23:00;Herrera;SD Atletico Nacional;767;2.52;3.35;2.4;1.75;1.93;3.45;1.72;4.8;2.28
-23:00;Lexington W;Sporting Jax W;387;1.77;3.7;3.6;2.3;1.53;2.37;1.5;3.85;1.82
-00:00;2 de Mayo;Atl. Tembetary;758;1.65;3.6;4.9;1.7;2.0;3.65;2.0;5.45;2.6
-00:00;Wanderers;Boston River;760;3.4;3.0;2.27;1.57;2.25;4.33;1.95;5.6;2.72
-00:00;San Marcos;Rangers;763;2.15;3.1;3.3;1.7;2.03;3.7;1.82;5.0;2.47
-00:00;Toluca W;Puebla W;382;1.08;8.0;17.0;3.3;1.27;1.7;2.27;4.85;2.42
-00:30;La Guaira;Monagas;759;1.67;3.45;4.9;1.75;1.95;3.5;1.9;5.25;2.5
-00:30;Wellington Olympic;Western Suburbs;389;1.7;4.8;3.25;3.95;1.19;1.55;1.22;2.6;1.35
-01:00;Delfin;Dep. Cuenca;750;2.8;2.9;2.57;1.47;2.45;5.0;2.07;6.2;3.0
-01:10;Estudiantes Rio Cuarto;Gimnasia Tiro;735;2.47;2.62;3.3;1.27;3.35;7.75;2.57;7.8;4.15
-01:15;Instituto;Rosario;769;3.3;2.85;2.47;1.42;2.85;6.0;2.3;6.8;3.45
-01:15;Newells;Union Santa Fe;778;3.0;3.0;2.57;1.5;2.5;5.1;2.1;6.3;3.05
-01:15;Sp. Belgrano;Guillermo Brown;;1.4;3.95;7.0;1.72;2.01;3.5;2.25;;
-01:30;Inter Palmira;Cucuta;750;2.52;3.0;2.78;1.55;2.27;4.35;1.93;5.6;2.7
-01:30;Christchurch United;Auckland City;392;2.15;3.65;2.7;2.55;1.42;2.12;1.38;3.4;1.63
-01:35;Ferroviaria;Criciuma;760;2.8;3.05;2.57;1.62;2.23;4.2;1.92;5.45;2.68
-02:00;Alianza Lima;FBC Melgar;756;1.83;3.25;4.25;1.63;2.12;3.95;1.97;5.5;2.65
-02:00;Necaxa;Santos Laguna;797;1.6;4.45;4.45;2.55;1.5;2.23;1.53;3.75;1.77
-02:00;Correcaminos;Mineros Z.;388;3.55;3.7;1.8;2.1;1.63;2.65;1.57;4.2;1.95
-02:00;Irapuato;CD Tapatio;388;1.67;3.7;4.1;2.07;1.65;2.68;1.62;4.33;2.0
-02:00;Juarez W;Queretaro W;388;1.23;5.4;9.25;2.4;1.48;2.2;2.0;4.95;2.27
-03:00;San Jose FC;CS Herediano;763;2.2;3.15;3.3;1.67;2.05;3.75;1.82;5.1;2.5
-03:00;Auckland United;Coastal Spirit;389;1.52;4.45;4.4;3.0;1.32;1.83;1.38;3.35;1.57
-03:00;Canberra Croatia;Avondale FC;764;6.9;5.1;1.33;3.0;1.33;1.87;1.53;3.8;1.77
-04:00;Atl. San Luis;Juarez;796;2.23;3.4;3.05;2.05;1.77;2.9;1.62;4.25;2.03
-04:00;Club Tijuana W;Pachuca W;390;6.2;5.0;1.33;3.3;1.27;1.7;1.5;3.35;1.63
-04:00;Monterrey W;Atlas W;389;1.32;5.1;6.4;3.35;1.27;1.67;1.5;3.35;1.63
-04:05;Puebla;Cruz Azul;795;4.7;3.95;1.65;2.18;1.67;2.7;1.7;4.4;2.05
-05:00;Auckland FC;Adelaide Utd;800;1.77;4.05;3.85;2.18;1.67;2.7;1.63;4.2;1.97
-05:00;Criacao Shinjuku;Reilac Shiga;385;4.75;3.25;1.75;1.65;2.1;3.9;2.0;5.6;2.7
-05:00;Grulla Morioka;Briobecca Urayasu SC;390;3.05;3.2;2.2;1.83;1.85;3.25;1.67;4.65;2.23
-05:00;Honda FC;Okinawa SV;386;1.8;3.3;4.35;1.73;1.97;3.55;1.88;5.2;2.47
-05:00;Maruyasu Okazaki;Yokogawa Musashino FC;390;2.27;3.15;3.0;1.77;1.93;3.45;1.72;4.8;2.3
-05:00;Yokohama SCC;Veertien Mie;390;3.2;3.05;2.23;1.62;2.13;4.0;1.87;5.25;2.57
-05:05;Kashiwa;Hiroshima;767;2.78;3.15;2.5;1.7;2.1;3.8;1.83;4.95;2.45
-05:15;Sydney Olympic;South Melbourne;766;3.4;3.45;1.97;2.03;1.7;2.8;1.6;4.33;2.03
-06:00;Daejeon;Seoul;796;2.57;3.55;2.57;2.15;1.7;2.78;1.6;4.1;1.95
-06:00;Gangwon;Jeonbuk;793;2.7;3.3;2.6;1.85;1.95;3.45;1.75;4.7;2.27
-06:00;Gyeongnam;Seoul E.;762;4.4;3.9;1.7;1.97;1.75;2.95;1.72;4.65;2.17
-06:00;Suwon Bluewings;Cheongju;760;1.3;5.6;8.0;2.55;1.45;2.17;1.75;4.5;2.05
-06:00;Verspah Oita;Tiamo Hirakata;390;2.3;3.25;2.9;1.9;1.8;3.1;1.63;4.5;2.13
-06:00;Yangpyeong;Daejeon Korail;757;2.62;2.85;2.78;1.53;2.33;4.55;1.97;5.7;2.8
-07:00;Newcastle Jets;Sydney FC;808;2.55;3.9;2.37;2.95;1.4;2.0;1.37;3.2;1.57
-07:30;CQ Tongliangloong;Suzhou Dongwu;;1.35;3.95;9.0;1.77;1.95;3.25;2.32;;
-07:30;Dalian Kun City;Shaanxi Union FC;;2.32;3.25;2.7;1.76;1.95;3.3;1.75;;
-07:30;Foshan Nanshi;Shijiazhuang Gongfu;;3.0;3.0;2.25;1.62;2.16;3.8;1.88;;
-07:30;Guangxi PH;Shanghai Jiading;;1.75;3.65;3.85;1.65;2.12;3.85;2.02;;
-07:30;Heilongjiang Lava;Shenzhen Juniors FC;;1.97;3.25;3.35;1.77;1.95;3.3;1.77;;
-07:30;Nanjing City;Liaoning Tieren;;3.75;2.9;2.0;1.85;1.85;2.95;1.66;;
-07:30;Nantong Zhiyun;Yanbian L.;;1.7;3.35;4.4;1.68;2.06;3.6;1.96;;
-07:30;Qingdao Red Lions;Guandong GZ-Power FC;;6.0;4.1;1.43;2.16;1.62;2.5;1.77;;
-08:00;Eastern District;Eastern AA;390;4.2;3.75;1.65;2.05;1.62;2.57;1.67;4.4;2.0
-08:00;Tai Po;HK Rangers;391;1.48;4.3;5.0;2.4;1.45;2.15;1.6;4.0;1.82
-08:30;Anyang;Ulsan HD;792;3.2;3.35;2.23;1.9;1.92;3.35;1.73;4.65;2.23
-08:30;Sangju;Pohang;796;2.4;3.4;2.9;2.03;1.77;3.0;1.65;4.33;2.07
-08:30;Changchun Yatai;Beijing Guoan;775;2.33;4.05;2.42;2.65;1.42;2.07;1.37;3.35;1.6
-08:30;Shandong Taishan;Tianjin Tigers;768;1.43;4.85;5.5;2.9;1.35;1.9;1.47;3.6;1.7
-08:30;Persipal BU;Deltras Sidoarjo;388;2.85;3.2;2.25;1.85;1.83;3.2;1.65;4.55;2.17
-08:30;Bucheon 1995;Ansan Greeners;759;1.7;3.7;4.8;1.77;1.93;3.45;1.9;5.2;2.45
-08:30;Gimpo FC;Hwaseong;758;2.0;3.25;3.8;1.6;2.18;4.1;1.95;5.5;2.7
-09:30;FC Bhayangkara;Persita;757;2.15;3.05;3.35;1.6;2.15;4.05;1.9;5.4;2.63
-09:35;Macarthur FC;WS Wanderers;805;2.57;3.65;2.47;2.35;1.57;2.45;1.5;3.75;1.8
-10:00;Bacau;Selimbar;767;2.23;3.35;2.95;1.8;1.88;3.3;1.7;4.7;2.23
-10:00;CSM Slatina;Chindia;767;2.65;3.3;2.45;1.75;1.95;3.5;1.72;4.8;2.3
-10:00;Ceahlaul;CSM Satu Mare;765;1.83;3.65;3.75;1.95;1.75;2.9;1.65;4.5;2.07
-10:00;Gloria Bistrita;Corvinul;753;6.8;4.0;1.45;1.85;1.85;3.2;2.07;5.6;2.63
-10:00;Metalul Buzau;Campulung;751;1.2;5.35;10.0;2.37;1.5;2.28;2.07;5.2;2.45
-10:00;Tunari;CSM Resita;758;5.1;3.7;1.6;1.85;1.85;3.2;1.87;5.1;2.4
-11:00;Dobrudzha;Spartak Varna;762;2.03;3.3;3.65;1.75;1.95;3.5;1.77;4.95;2.4
-11:00;Karvan;Zira;748;9.25;4.9;1.28;1.83;1.85;3.25;2.4;6.4;3.0
-11:30;Beasain;Basconia;767;2.45;3.15;2.75;1.75;1.95;3.5;1.73;4.85;2.33
-11:30;Keciorengucu;Sariyer;768;2.28;3.3;3.05;1.9;1.8;3.1;1.65;4.5;2.15
-11:30;Afumati;FC ASA Tg. Mures;769;2.78;3.35;2.32;2.05;1.7;2.78;1.55;4.2;1.97
-12:00;Kryvbas;Poltava;749;1.27;4.85;10.0;2.05;1.67;2.75;2.27;5.9;2.78
-12:00;Smorgon;Vitebsk;757;2.6;2.85;2.8;1.53;2.32;4.5;1.97;5.7;2.78
-12:00;Ural;Sokol Saratov;750;1.45;4.05;7.0;1.72;2.03;3.65;2.25;6.1;2.9
-12:00;Ratchaburi;Chiangrai Utd;759;1.6;4.05;5.1;1.95;1.75;2.95;1.77;4.85;2.25
-12:00;Sporting B;Feirense;762;2.2;3.25;3.15;1.67;2.1;3.85;1.85;5.2;2.52
-12:30;Avellino;Reggiana;784;1.92;3.4;4.25;1.67;2.23;4.15;2.03;5.5;2.68
-12:30;Kanchanaburi City;Ayutthaya Utd;765;1.97;3.55;3.55;1.93;1.77;3.0;1.65;4.55;2.13
-12:35;Meizhou Hakka;Dalian Yingbo;772;1.97;3.7;3.2;2.3;1.55;2.4;1.48;3.8;1.82
-13:00;Chelmsford;Braintree Town;769;4.05;3.9;1.83;2.0;1.8;3.05;1.72;4.65;2.17
-13:00;Hertha;Dynamo Dresden;800;1.97;3.45;3.7;2.45;1.55;2.35;1.5;3.7;1.77
-13:00;Karlsruher;Schalke;796;2.75;3.15;2.7;2.03;1.77;3.0;1.63;4.3;2.07
-13:00;Nurnberg;Braunschweig;793;1.77;3.7;4.6;2.1;1.73;2.85;1.7;4.4;2.07
-13:00;Bali United;Persib Bandung;766;3.3;3.4;2.05;1.95;1.75;2.95;1.62;4.4;2.07
-13:00;Buriram;Nakhon Ratchasima;750;1.15;7.5;15.0;2.6;1.42;2.1;2.23;5.45;2.55
-13:00;Hrvace;Orijent;758;3.9;3.25;1.85;1.67;2.03;3.7;1.88;5.2;2.5
-13:00;Falkenberg;Vasteras;769;4.2;4.25;1.72;2.15;1.67;2.72;1.67;4.45;2.05
-13:00;Orgryte;Kalmar;773;2.68;3.75;2.37;2.28;1.6;2.52;1.5;3.9;1.85
-13:00;Chelsea W;London City W;747;1.08;8.25;16.0;3.35;1.27;1.7;2.1;4.65;2.32
-13:00;Man City W;West Ham W;747;1.08;8.25;15.0;3.55;1.23;1.65;1.97;4.35;2.17
-13:00;L. Mikulas;Petrzalka;763;1.7;4.1;3.95;2.03;1.7;2.8;1.67;4.5;2.07
-13:00;Povazska Bystrica;Puchov;767;1.73;3.8;4.0;2.17;1.6;2.57;1.57;4.2;1.93
-13:00;Zvolen;Samorin;766;1.82;3.8;3.65;2.05;1.67;2.75;1.6;4.3;1.97
-13:00;Orebro Syr.;AFC Eskilstuna;392;3.35;4.0;1.85;2.5;1.45;2.17;1.42;3.55;1.67
-13:00;Ljungskile;Skovde AIK;383;1.28;5.35;8.0;2.85;1.37;1.93;1.65;4.1;1.9
-13:00;Norrby;Husqvarna;390;1.6;4.5;4.2;2.35;1.5;2.33;1.53;3.95;1.83
-13:00;Rosengard;Haessleholm;389;3.15;3.55;2.05;1.93;1.77;3.0;1.63;4.45;2.1
-13:15;Kazincbarcikai;Puskas Ac.;783;5.1;3.5;1.7;2.03;1.7;2.8;1.7;4.6;2.15
-13:30;Leicester;Blackburn;794;1.85;3.6;4.25;1.82;2.0;3.5;1.85;5.0;2.37
-13:30;Norwich;Hull;796;2.12;3.7;3.25;2.1;1.73;2.8;1.62;4.2;2.0
-13:30;WBA;Sheffield Wed;786;1.53;4.25;6.2;1.9;1.92;3.3;2.03;5.35;2.52
-13:30;Rayong;Sukhothai;768;1.82;3.8;3.9;2.1;1.65;2.68;1.6;4.3;1.97
-13:30;Flora;Kuressaare;756;1.17;6.5;12.0;3.5;1.25;1.67;1.75;4.0;1.95
-13:45;Lok. Plovdiv;Botev Plovdiv;760;2.03;3.25;3.7;1.7;2.05;3.7;1.85;5.1;2.5
-14:00;Villarreal;Rayo Vallecano;904;1.73;3.8;4.9;2.13;1.73;2.85;1.7;4.65;2.12
-14:00;Aue;Regensburg;791;2.12;3.55;3.25;2.03;1.7;2.8;1.6;4.3;2.03
-14:00;Munich 1860;Cottbus;797;2.17;3.85;2.95;2.4;1.5;2.28;1.43;3.65;1.73
-14:00;Osnabruck;Duisburg;791;2.23;3.4;3.15;1.93;1.77;3.05;1.63;4.5;2.12
-14:00;TSV Havelse;Wehen;798;3.55;4.05;1.88;2.5;1.47;2.2;1.43;3.6;1.7
-14:00;Ulm;Stuttgart II;795;2.32;3.5;2.9;2.32;1.55;2.4;1.47;3.75;1.8
-14:00;Amiens;Grenoble;790;2.85;3.15;2.57;1.72;2.13;3.9;1.85;5.0;2.5
-14:00;Reims;Dunkerque;789;2.0;3.6;3.6;1.85;1.95;3.45;1.8;4.8;2.32
-14:00;Pontevedra;Zamora CF;753;2.15;2.9;3.35;1.5;2.4;4.75;2.05;6.0;2.9
-14:00;M. Haifa;H. Jerusalem;762;1.27;5.7;7.8;2.7;1.4;2.0;1.67;4.2;1.93
-14:00;Mbarara City;NEC FC;;5.8;3.55;1.5;1.52;2.32;4.55;;;
-14:00;Progreso;Montevideo City;764;3.35;3.4;2.1;1.8;1.9;3.35;1.72;4.8;2.28
-14:00;Al Dhafra;Ittihad Kalba;759;3.15;3.35;2.1;2.03;1.7;2.8;1.57;4.25;2.0
-14:00;Umraniyespor;Sivasspor;759;5.1;3.55;1.7;1.77;1.93;3.45;1.9;5.2;2.47
-14:00;Aarhus Fremad;Hvidovre;768;2.12;3.6;3.1;2.05;1.7;2.8;1.57;4.25;2.0
-14:00;Hillerod;Kolding IF;770;2.52;3.35;2.68;1.9;1.8;3.1;1.63;4.5;2.13
-14:00;Middelfart;Aalborg;767;4.2;3.95;1.72;2.15;1.63;2.62;1.6;4.3;1.97
-14:00;Opava;Taborsko;765;2.3;3.1;3.0;1.7;2.0;3.6;1.77;4.9;2.4
-14:00;Bijelo Brdo;Sesvete;753;2.65;2.9;2.6;1.5;2.33;4.55;1.97;5.7;2.78
-14:00;Brabrand;Hellerup;389;2.8;3.45;2.15;2.1;1.63;2.63;1.52;4.05;1.9
-14:00;Roskilde;Thisted FC;386;1.57;3.85;4.7;2.0;1.7;2.8;1.72;4.65;2.15
-14:00;Skive IK;VSK Aarhus;390;2.05;3.3;3.15;1.77;1.9;3.4;1.72;4.8;2.28
-14:00;Neftci Baku;Kapaz;754;1.35;4.6;7.8;2.03;1.7;2.78;2.03;5.3;2.47
-14:00;Brighton;Villarreal;;2.65;3.9;2.25;2.9;1.37;;;;
-14:15;Slavia Mozyr;Naftan;753;1.4;4.0;7.8;2.03;1.7;2.8;2.03;5.3;2.5
-14:30;First Vienna;Amstetten;793;2.63;3.4;2.52;1.9;1.85;3.2;1.67;4.6;2.18
-14:30;Hertha Wels;Bregenz;795;1.85;3.75;3.8;2.2;1.65;2.62;1.57;4.2;1.93
-14:30;St. Polten;Floridsdorfer AC;788;2.0;3.45;3.6;1.88;1.87;3.25;1.73;4.75;2.27
-14:30;Kolos Kovalivka;Olexandriya;739;2.03;2.9;3.95;1.35;2.85;6.25;2.4;7.2;3.65
-14:30;Mamelodi;Orlando Pirates;744;2.12;2.95;3.9;1.38;2.8;6.0;2.33;6.9;3.5
-14:30;Orbit College;Magesi;736;3.3;2.6;2.62;1.28;3.35;7.75;2.55;7.8;4.15
-14:30;Al-Taawon Buraidah;Al Quadisiya;792;3.35;3.6;1.95;2.1;1.65;2.68;1.57;4.2;1.95
-14:30;Pergolettese;Novara;755;2.5;2.9;2.75;1.5;2.33;4.55;1.97;5.7;2.8
-14:30;Arezzo;Campobasso;748;1.47;3.7;6.25;1.6;2.15;4.05;2.32;6.5;3.1
-14:30;Pineto Calcio;Pianese;753;1.8;3.15;4.2;1.57;2.2;4.15;2.03;5.75;2.75
-14:30;Altamura;Cosenza;755;4.55;3.25;1.72;1.7;2.0;3.65;1.93;5.35;2.55
-14:30;Audace Cerignola;Atalanta U23;764;1.75;3.5;3.95;2.0;1.7;2.78;1.63;4.4;2.05
-14:30;Casarano;Monopoli;756;1.83;3.2;3.95;1.63;2.1;3.9;1.93;5.45;2.6
-15:00;Udinese;Atalanta;896;4.75;3.8;1.8;2.0;1.85;3.15;1.77;4.85;2.23
-15:00;Carrarese;Frosinone;791;2.57;3.2;2.85;1.85;2.0;3.5;1.77;4.8;2.33
-15:00;Padova;Sudtirol;783;2.4;3.05;3.3;1.65;2.3;4.35;2.0;5.5;2.75
-15:00;Goztepe;Genclerbirligi;780;1.48;4.3;6.8;1.85;1.93;3.4;2.07;5.75;2.65
-15:00;Hacken;Malmo FF;797;2.72;3.55;2.45;2.15;1.7;2.78;1.6;4.1;1.97
-15:00;Jablonec;Zlin;785;1.7;3.75;5.1;1.83;1.97;3.45;1.92;5.3;2.47
-15:00;Pardubice;Dukla Prague;786;2.07;3.3;3.7;1.75;2.05;3.7;1.82;5.1;2.45
-15:00;Slovacko;Liberec;786;3.5;3.25;2.18;1.77;2.03;3.6;1.8;5.1;2.42
-15:00;Rouen;Villefranche;756;1.57;3.85;5.35;1.75;1.95;3.45;1.97;5.45;2.57
-15:00;Shinnik;Chelyabinsk;744;2.4;2.85;3.25;1.4;2.75;5.9;2.25;6.7;3.4
-15:00;Bravo;Maribor;771;2.85;3.55;2.27;2.18;1.63;2.6;1.53;4.05;1.9
-15:00;Brno;Kromeriz;763;1.22;6.1;9.5;2.9;1.35;1.9;1.72;4.25;1.97
-15:00;Helsingborg;Sundsvall;768;1.85;3.75;3.95;2.03;1.77;2.95;1.67;4.55;2.12
-15:00;Ostersund;Trelleborgs;770;2.3;3.05;3.4;1.95;1.83;3.1;1.67;4.6;2.18
-15:00;Umea FC;Sandviken;773;3.0;3.65;2.23;2.25;1.62;2.57;1.53;4.0;1.88
-15:00;Varberg;Brage;773;2.1;3.75;3.15;2.33;1.57;2.47;1.5;3.85;1.85
-15:00;Vendsyssel;Ishoj;388;1.72;3.8;3.8;2.0;1.7;2.8;1.65;4.45;2.05
-15:00;Queens Univ.;Dundela;758;1.63;3.75;4.33;2.15;1.6;2.57;1.62;4.3;1.97
-15:00;Crystal Palace;Atalanta;;2.45;3.8;2.47;2.65;1.42;;;;
-15:30;Heidenheim;Frankfurt;906;3.7;4.15;1.92;2.65;1.5;2.23;1.45;3.65;1.72
-15:30;Mainz;Werder;905;2.03;3.95;3.55;2.5;1.55;2.37;1.48;3.8;1.77
-15:30;RB Leipzig;Stuttgart;912;2.0;3.9;3.6;3.0;1.42;2.0;1.37;3.35;1.6
-15:30;St. Pauli;M'Gladbach;896;2.18;3.5;3.45;1.93;1.88;3.25;1.7;4.75;2.23
-15:30;Union Berlin;Freiburg;892;2.65;3.3;2.85;1.73;2.13;3.9;1.83;5.2;2.5
-15:30;Gyor;Paks;800;1.97;4.05;3.15;2.75;1.4;2.0;1.37;3.3;1.6
-15:30;Caernarfon;Briton Ferry;763;1.3;5.1;6.9;2.85;1.35;1.93;1.6;3.95;1.83
-15:30;Cardiff Metropolitan;Connahs Q.;764;3.7;3.5;1.8;1.95;1.73;2.9;1.65;4.5;2.07
-15:30;Flint;Penybont;767;3.25;3.45;1.97;2.05;1.67;2.72;1.57;4.2;1.97
-15:30;Haverfordwest;TNS;751;13.0;6.9;1.13;2.9;1.35;1.9;1.97;4.8;2.23
-15:30;Podbrezova;Slovan Bratislava;775;3.3;3.9;1.95;2.55;1.45;2.15;1.4;3.5;1.67
-15:30;Presov;Zilina;772;2.8;3.65;2.27;2.33;1.55;2.37;1.45;3.75;1.77
-15:30;Skalica;Ruzomberok;766;2.47;3.3;2.75;1.73;2.0;3.55;1.75;4.9;2.37
-15:30;Al Sailiya;Al Ahli;768;3.2;3.4;2.15;2.05;1.7;2.8;1.57;4.25;2.0
-15:35;Al Khaleej;Al Ittihad Jeddah;798;3.05;4.25;1.9;2.55;1.45;2.15;1.4;3.5;1.67
-15:45;Dynamo Makhachkala;Krylya Sovetov;777;2.28;2.95;3.75;1.47;2.75;5.75;2.25;6.9;3.35
-15:45;Rubin;Dynamo Moscow;793;3.35;3.4;2.23;1.95;1.88;3.25;1.7;4.75;2.23
-16:00;Brighton;Leeds;892;1.9;3.8;4.15;1.95;1.88;3.2;1.73;4.8;2.2
-16:00;Burnley;Arsenal;886;11.0;6.1;1.28;2.07;1.77;2.95;2.32;6.2;2.8
-16:00;Crystal Palace;Brentford;887;1.9;3.75;4.15;2.13;1.73;2.85;1.65;4.45;2.05
-16:00;Fulham;Wolves;882;1.87;3.55;4.65;1.65;2.25;4.25;2.05;5.8;2.75
-16:00;Nottingham;Manchester Utd;900;3.5;3.8;2.07;2.15;1.73;2.8;1.6;4.33;2.0
-16:00;Javor;Spartak S.;786;2.18;3.15;3.2;1.73;2.0;3.55;1.73;4.9;2.35
-16:00;AFC Wimbledon;Gateshead;770;1.4;5.2;7.25;2.6;1.5;2.23;1.7;4.33;2.0
-16:00;Barnsley;York City;775;1.85;4.2;3.7;2.6;1.5;2.23;1.47;3.7;1.73
-16:00;Blackpool;Scunthorpe;766;1.75;3.9;4.5;2.0;1.8;3.05;1.75;4.75;2.2
-16:00;Bolton;Huddersfield;768;1.77;3.75;4.55;2.05;1.77;2.95;1.72;4.65;2.17
-16:00;Boreham Wood;Crawley;774;2.9;3.7;2.3;2.37;1.6;2.47;1.5;3.85;1.85
-16:00;Bromley;Bristol Rovers;766;1.87;3.6;4.2;1.92;1.88;3.25;1.77;4.9;2.28
-16:00;Burton;St Albans;762;1.3;5.7;9.25;2.5;1.52;2.28;1.9;4.8;2.23
-16:00;Buxton;Chatham;771;2.23;3.45;3.2;2.07;1.75;2.9;1.62;4.4;2.07
-16:00;Cambridge United;Chester;759;1.37;4.9;8.5;2.1;1.73;2.85;2.07;5.4;2.55
-16:00;Cheltenham Town;Bradford City;769;5.4;4.1;1.6;2.2;1.67;2.7;1.73;4.65;2.13
-16:00;Colchester;MK Dons;771;2.35;3.4;3.0;2.03;1.8;3.0;1.65;4.45;2.12
-16:00;Crewe;Doncaster;777;3.05;4.2;2.05;2.65;1.47;2.17;1.43;3.5;1.7
-16:00;FC Halifax;Exeter;767;3.75;3.55;2.0;2.0;1.8;3.05;1.7;4.6;2.15
-16:00;Fleetwood;Barnet;770;3.15;3.3;2.32;1.9;1.9;3.3;1.72;4.7;2.25
-16:00;Grimsby;Ebbsfleet;760;1.37;5.0;8.5;2.35;1.6;2.5;1.92;5.0;2.3
-16:00;Macclesfield;AFC Totton;770;2.15;3.55;3.25;2.0;1.8;3.05;1.67;4.55;2.13
-16:00;Mansfield;Harrogate;768;1.53;4.35;5.9;2.32;1.6;2.52;1.7;4.5;2.07
-16:00;Newport;Gillingham;764;4.3;3.55;1.87;1.83;1.97;3.5;1.85;5.1;2.4
-16:00;Oldham;Northampton;764;2.65;3.15;2.78;1.7;2.17;4.0;1.88;5.3;2.6
-16:00;Peterborough;Cardiff;776;3.35;4.2;1.95;2.5;1.53;2.32;1.48;3.75;1.77
-16:00;Reading;Carlisle;768;1.75;3.7;4.75;2.1;1.73;2.85;1.7;4.55;2.12
-16:00;Rotherham;Swindon;771;2.27;3.4;3.15;2.03;1.8;3.0;1.65;4.45;2.12
-16:00;Salford;Lincoln;770;3.2;3.6;2.18;2.03;1.8;3.0;1.65;4.5;2.12
-16:00;Slough;Altrincham;770;4.55;4.05;1.72;2.35;1.6;2.47;1.6;4.15;1.93
-16:00;Spennymoor;Barrow;767;4.33;3.95;1.77;2.03;1.8;3.0;1.73;4.7;2.17
-16:00;Stevenage;Chesterfield;770;1.6;4.7;4.7;2.6;1.5;2.23;1.53;3.9;1.82
-16:00;Sutton;Telford;774;2.25;3.8;2.9;2.3;1.62;2.55;1.53;3.95;1.88
-16:00;Tranmere;Stockport;772;4.75;4.3;1.65;2.6;1.48;2.2;1.53;3.85;1.8
-16:00;Wealdstone;Southend;769;4.2;3.95;1.8;2.15;1.7;2.75;1.65;4.4;2.03
-16:00;Weston-super-Mare;Aldershot;771;2.15;3.6;3.25;2.2;1.67;2.7;1.57;4.2;1.97
-16:00;Wigan;Hemel Hempstead;761;1.37;4.8;8.75;2.4;1.55;2.42;1.9;4.9;2.27
-16:00;Wycombe;Plymouth;766;1.72;3.95;4.65;2.0;1.8;3.05;1.77;4.8;2.23
-16:00;Falkirk;Kilmarnock;795;2.13;3.5;3.3;2.05;1.77;2.95;1.65;4.33;2.07
-16:00;Hearts;Dundee FC;783;1.28;5.6;10.0;2.35;1.6;2.5;2.1;5.1;2.45
-16:00;Livingston;Hibernian;792;3.75;3.55;1.95;2.0;1.83;3.05;1.7;4.5;2.12
-16:00;Birmingham;Portsmouth;786;1.83;3.5;4.55;1.7;2.13;3.9;2.0;5.4;2.62
-16:00;Charlton;Swansea;783;2.13;3.25;3.65;1.62;2.3;4.35;2.03;5.6;2.78
-16:00;Oxford Utd;Millwall;787;2.8;3.15;2.65;1.65;2.25;4.15;1.93;5.3;2.62
-16:00;QPR;Ipswich;794;3.4;3.6;2.1;1.92;1.88;3.2;1.72;4.6;2.2
-16:00;Sheffield Utd;Derby;784;1.85;3.4;4.6;1.65;2.25;4.2;2.07;5.7;2.75
-16:00;Southampton;Preston;791;1.72;4.0;4.6;1.95;1.83;3.1;1.8;4.75;2.25
-16:00;Stoke;Bristol City;788;2.47;3.2;3.0;1.75;2.1;3.75;1.83;4.95;2.45
-16:00;Watford;Middlesbrough;792;2.72;3.25;2.65;1.8;2.03;3.65;1.8;4.85;2.37
-16:00;Waregem;Union SG;794;4.55;4.0;1.72;2.2;1.7;2.75;1.7;4.4;2.05
-16:00;Alvechurch;Spalding United;386;3.6;3.5;1.9;2.0;1.7;2.85;1.62;4.35;2.03
-16:00;Barwell;Redditch;386;3.05;3.3;2.17;1.95;1.75;2.95;1.6;4.4;2.07
-16:00;Bishop's Stortford;Quorn;386;3.0;3.35;2.18;2.03;1.7;2.78;1.57;4.2;2.0
-16:00;Bromsgrove;Leiston;386;3.15;3.35;2.1;2.0;1.7;2.85;1.6;4.3;2.03
-16:00;Bury Town;Banbury;386;2.55;3.3;2.55;1.95;1.75;2.95;1.6;4.35;2.05
-16:00;Halesowen;Needham Market;386;2.1;3.35;3.2;1.95;1.75;2.95;1.62;4.4;2.07
-16:00;Kettering Town;St Ives;386;1.73;3.5;4.45;1.9;1.8;3.05;1.73;4.75;2.23
-16:00;Royston;Harborough;380;6.4;4.0;1.47;1.95;1.75;2.95;1.93;5.2;2.42
-16:00;Stourbridge;Stamford;386;1.75;3.45;4.35;1.75;1.95;3.45;1.85;5.1;2.42
-16:00;Stratford;Real Bedford;388;2.42;3.3;2.68;1.9;1.8;3.05;1.63;4.5;2.12
-16:00;Sudbury;Worcester City;387;3.55;3.4;1.95;1.9;1.8;3.05;1.67;4.6;2.13
-16:00;Basingstoke;Farnham Town;388;3.25;3.7;1.88;2.35;1.5;2.32;1.45;3.75;1.75
-16:00;Berkhamsted;Havant & W;388;2.35;3.5;2.5;2.3;1.53;2.37;1.45;3.7;1.77
-16:00;Bracknell;Dorchester;388;2.33;3.45;2.55;2.2;1.57;2.5;1.48;3.9;1.83
-16:00;Hanwell Town;Taunton Town;387;2.15;3.4;2.85;2.1;1.63;2.63;1.52;4.05;1.92
-16:00;Plymouth Parkway;Evesham United;388;2.75;3.45;2.18;2.2;1.57;2.5;1.48;3.9;1.83
-16:00;Poole;Gosport Borough;388;2.07;3.45;3.0;2.15;1.6;2.57;1.52;4.0;1.88
-16:00;Sholing;Hungerford;387;2.07;3.4;3.0;2.1;1.63;2.63;1.53;4.1;1.92
-16:00;Uxbridge;Gloucester City;387;3.25;3.65;1.9;2.3;1.53;2.37;1.47;3.8;1.77
-16:00;Walton & Hersham;Tiverton Town;382;1.23;5.3;9.5;2.4;1.47;2.23;1.95;4.9;2.3
-16:00;Weymouth;Yate Town;387;2.15;3.4;2.85;2.1;1.63;2.63;1.52;4.05;1.92
-16:00;Wimborne;Chertsey Town;386;2.0;3.4;3.2;2.03;1.67;2.78;1.57;4.25;2.0
-16:00;Valerenga;Bodo/Glimt;798;5.3;5.1;1.48;3.5;1.3;1.75;1.38;3.1;1.55
-16:00;Ath Bilbao B;Unionistas;754;2.15;2.95;3.3;1.55;2.27;4.4;1.97;5.7;2.75
-16:00;Guadalajara;Merida;757;2.2;3.0;3.15;1.57;2.18;4.1;1.9;5.4;2.65
-16:00;Torremolinos;Sabadell;753;3.15;2.85;2.27;1.47;2.45;4.95;2.07;6.2;3.0
-16:00;Ashton Utd;Cleethorpes;385;2.0;3.35;3.25;1.95;1.75;2.95;1.62;4.45;2.07
-16:00;Bamber Bridge;United of Manchester;386;2.25;3.25;2.8;1.95;1.75;2.95;1.6;4.35;2.05
-16:00;Guiseley;Hednesford;388;2.95;3.25;2.17;1.85;1.83;3.2;1.65;4.6;2.17
-16:00;Hebburn Town;Warrington;388;2.25;3.4;2.68;2.15;1.6;2.57;1.5;4.0;1.87
-16:00;Hyde;Morpeth;387;1.8;3.6;3.6;2.15;1.6;2.57;1.55;4.15;1.9
-16:00;Lancaster;Whitby;386;2.0;3.4;3.2;2.03;1.67;2.78;1.57;4.25;2.0
-16:00;Rushall;Prescot Cables;386;2.13;3.25;3.0;1.95;1.75;2.95;1.6;4.35;2.07
-16:00;Stocksbridge;Workington;388;1.9;3.55;3.35;2.15;1.6;2.57;1.53;4.1;1.88
-16:00;Stockton Town;Ilkeston;387;1.9;3.65;3.25;2.3;1.53;2.37;1.47;3.8;1.77
-16:00;Warrington;Leek Town;387;1.9;3.65;3.25;2.3;1.53;2.37;1.47;3.8;1.77
-16:00;Dinamo Zagreb;Rijeka;777;1.48;4.15;6.4;1.9;1.8;3.1;1.97;5.3;2.47
-16:00;Omonia Aradippou;Olympiakos Nic.;763;2.27;3.2;3.1;1.7;2.05;3.75;1.8;5.1;2.47
-16:00;Coleraine;Glenavon;752;1.15;7.0;13.0;2.55;1.43;2.13;2.13;5.25;2.45
-16:00;Dungannon;Crusaders;764;2.1;3.25;3.25;1.82;1.87;3.3;1.7;4.7;2.25
-16:00;Ghazl Al-Mehalla;Future FC;737;3.5;2.55;2.42;1.33;3.0;6.6;2.37;7.2;3.75
-16:00;Arbroath;Ross County;768;3.3;3.45;2.12;1.9;1.85;3.2;1.7;4.65;2.2
-16:00;Partick Thistle;Queens Park;754;1.45;4.3;6.9;1.85;1.9;3.3;2.1;5.7;2.68
-16:00;Raith;Morton;761;1.85;3.4;4.3;1.7;2.07;3.8;1.93;5.35;2.57
-16:00;St Johnstone;Airdrieonians;755;1.28;5.3;9.75;2.1;1.7;2.78;2.2;5.75;2.68
-16:00;Aalesund;Asane;764;1.32;5.4;8.0;2.7;1.42;2.07;1.67;4.25;1.97
-16:00;Egersund;Hodd;763;1.5;4.35;5.7;2.2;1.6;2.52;1.7;4.55;2.07
-16:00;Kongsvinger;Lillestrom;775;3.45;4.15;1.85;2.95;1.35;1.9;1.33;3.2;1.55
-16:00;Odd;Sogndal;775;2.5;3.85;2.45;2.65;1.42;2.07;1.37;3.35;1.62
-16:00;Ranheim;Skeid;763;1.22;6.4;10.0;3.1;1.32;1.83;1.7;4.15;1.93
-16:00;Start;Moss;766;1.4;5.0;6.4;2.65;1.42;2.1;1.6;4.0;1.85
-16:00;Gent U23;Eupen;768;2.9;3.3;2.27;1.95;1.75;2.95;1.6;4.4;2.07
-16:00;Academica;Caldas;388;1.92;3.3;3.8;1.7;2.0;3.6;1.83;5.1;2.42
-16:00;Lusitano;1. Dezembro;386;1.73;3.4;4.65;1.7;2.03;3.65;1.93;5.35;2.57
-16:00;Varzim;AD Marco 09;385;1.8;3.35;4.25;1.6;2.18;4.1;2.0;5.7;2.72
-16:00;Alloa;Kelty Hearts;756;1.48;4.1;6.2;2.03;1.7;2.8;1.85;4.95;2.3
-16:00;Cove Rangers;Peterhead;769;2.72;3.3;2.45;1.87;1.83;3.15;1.65;4.55;2.15
-16:00;East Fife;Hamilton;770;2.63;3.55;2.4;2.05;1.67;2.75;1.55;4.15;1.95
-16:00;Inverness;Montrose;753;1.37;4.7;7.3;1.87;1.83;3.15;2.1;5.7;2.63
-16:00;Queen of South;Stenhousemuir;767;2.63;3.25;2.57;1.7;2.0;3.65;1.77;4.9;2.4
-16:00;Clyde;Dumbarton;773;2.1;3.6;3.0;2.3;1.55;2.4;1.47;3.75;1.8
-16:00;Elgin City;Annan;769;2.1;3.5;3.05;2.1;1.65;2.68;1.55;4.15;1.95
-16:00;Spartans;East Kilbride;770;2.6;3.6;2.35;2.15;1.6;2.57;1.5;4.0;1.88
-16:00;Stirling;FC Edinburgh;772;2.85;3.55;2.2;2.25;1.55;2.45;1.48;3.8;1.82
-16:00;Stranraer;Forfar Athletic;767;2.6;3.25;2.52;1.75;1.95;3.5;1.72;4.8;2.3
-16:00;Alfreton Town;Kidderminster;759;4.6;3.6;1.7;1.77;1.9;3.4;1.87;5.1;2.42
-16:00;Hereford;Curzon Ashton;767;2.17;3.3;3.05;1.95;1.75;2.9;1.6;4.35;2.05
-16:00;Marine;AFC Fylde;767;4.1;3.7;1.73;2.15;1.6;2.57;1.57;4.2;1.95
-16:00;Merthyr Town;Darlington;771;2.25;3.55;2.75;2.25;1.55;2.45;1.48;3.8;1.82
-16:00;Oxford City;Bedford;771;2.18;3.5;2.9;2.18;1.6;2.55;1.5;3.95;1.87
-16:00;Peterborough S.;Chorley;768;3.15;3.4;2.07;2.05;1.67;2.72;1.57;4.2;1.97
-16:00;Southport;Kings Lynn;770;2.52;3.25;2.6;1.87;1.82;3.1;1.63;4.5;2.15
-16:00;Worksop;Scarborough;769;2.47;3.4;2.55;2.07;1.65;2.72;1.53;4.1;1.95
-16:00;Bath;Horsham;766;2.68;3.15;2.52;1.73;1.97;3.55;1.73;4.85;2.35
-16:00;Chesham;Chippenham;758;1.53;3.95;5.45;1.85;1.85;3.2;1.92;5.2;2.42
-16:00;Dag & Red;Farnborough;768;2.12;3.3;3.2;1.9;1.8;3.05;1.65;4.5;2.13
-16:00;Enfield Town;Eastbourne Boro;767;3.1;3.25;2.18;1.85;1.85;3.25;1.67;4.65;2.2
-16:00;Maidstone;Tonbridge;753;1.42;4.3;6.6;1.88;1.8;3.1;2.0;5.45;2.52
-16:00;Salisbury;Dorking;766;3.3;3.35;2.05;1.93;1.77;3.0;1.63;4.5;2.12
-16:00;Torquay;Hornchurch;766;2.13;3.25;3.2;1.83;1.85;3.25;1.7;4.7;2.23
-16:00;Aveley;Ramsgate;391;1.92;3.7;3.15;2.25;1.55;2.45;1.5;3.85;1.83
-16:00;Brentwood;Wingate & Finchley;387;1.67;3.75;4.15;2.2;1.57;2.5;1.57;4.15;1.92
-16:00;Burgess Hill;Canvey;387;1.67;3.7;4.15;2.15;1.6;2.57;1.6;4.25;1.95
-16:00;Carshalton;Potters Bar;390;1.73;3.95;3.55;2.4;1.47;2.23;1.45;3.7;1.73
-16:00;Cheshunt;Cray;387;2.05;3.4;3.05;2.1;1.63;2.63;1.53;4.1;1.93
-16:00;Chichester;Dulwich Hamlet;385;1.88;3.45;3.45;2.03;1.67;2.78;1.6;4.3;2.0
-16:00;Cray Valley;Lewes;389;1.73;3.85;3.7;2.15;1.6;2.57;1.57;4.15;1.92
-16:00;Dartford;Welling;388;1.55;4.15;4.55;2.55;1.42;2.1;1.48;3.75;1.75
-16:00;Folkestone;Billericay Town;386;2.1;3.3;3.0;2.03;1.67;2.78;1.57;4.2;1.97
-16:00;FC Arlanda;Karlstad;389;3.45;3.8;1.85;2.4;1.5;2.27;1.45;3.7;1.73
-16:00;Karlbergs;United Nordic;389;4.55;4.65;1.53;2.27;1.55;2.42;1.6;4.15;1.92
-16:00;Angelholm;Oskarshamn;391;2.05;3.65;3.05;2.15;1.62;2.6;1.53;4.05;1.9
-16:00;IFK Skovde FK;Eskilsminne;390;3.65;4.0;1.77;2.5;1.45;2.17;1.43;3.6;1.7
-16:00;Jonkopings;Ariana;386;1.57;3.95;4.95;1.93;1.77;3.0;1.8;4.85;2.27
-16:00;Institute;Armagh;763;1.73;3.7;3.8;2.3;1.53;2.37;1.5;3.9;1.82
-16:00;Limavady;Warrenpoint;757;1.53;3.85;5.1;1.95;1.75;2.95;1.82;4.9;2.27
-16:00;Loughgall;Annagh;763;3.3;3.35;1.97;1.85;1.83;3.2;1.67;4.65;2.2
-16:00;Newington;H&W Welders;767;2.57;3.6;2.27;2.4;1.47;2.23;1.4;3.55;1.7
-16:00;Atl. Madrid;Arsenal;;2.28;4.35;2.45;4.8;1.14;;;;
-16:00;Napoli;Manchester Utd;;2.7;3.6;2.33;2.27;1.55;;;;
-16:15;Atl. Madrid;Sevilla;895;1.35;5.7;8.25;2.32;1.63;2.57;1.92;5.0;2.28
-16:15;Cultural Leonesa;Mirandes;784;2.03;3.25;3.85;1.65;2.2;4.1;1.97;5.6;2.72
-16:15;ML Vitebsk;Isloch;756;1.92;3.05;4.25;1.57;2.2;4.2;2.03;5.75;2.78
-16:15;Eldense;Algeciras;756;1.83;3.2;4.0;1.62;2.12;3.95;1.95;5.5;2.62
-16:30;Hansa Rostock;Verl;795;2.18;3.65;3.05;2.25;1.57;2.47;1.5;3.85;1.85
-16:30;Ajax;Heerenveen;799;1.55;4.95;5.0;2.85;1.45;2.07;1.52;3.65;1.73
-16:30;Nacional;Famalicao;786;3.3;3.2;2.28;1.77;2.1;3.7;1.83;4.95;2.45
-16:30;Unirea Slobozia;Arges;780;3.6;3.05;2.15;1.5;2.5;5.1;2.15;6.1;3.05
-16:30;Septemvri Sofia;Slavia Sofia;762;3.6;3.3;2.03;1.75;1.95;3.5;1.77;4.95;2.37
-16:30;Roda;Jong Utrecht;794;1.48;4.85;5.2;2.5;1.5;2.25;1.57;3.95;1.83
-16:30;UD Ourense;Dep. Fabril;751;3.5;2.95;2.15;1.45;2.5;5.1;2.13;6.4;3.1
-16:30;H. Tel Aviv;Ironi Tiberias;758;1.4;4.55;6.4;2.15;1.6;2.57;1.82;4.8;2.2
-16:30;Braga B;AD Fafe;390;2.72;3.0;2.57;1.57;2.2;4.2;1.9;5.4;2.65
-16:45;Al Jazira Abu Dhabi;Al Bataeh;759;1.37;4.75;6.9;2.25;1.57;2.47;1.82;4.7;2.17
-17:00;PSG;Nice;901;1.27;6.7;10.0;3.1;1.4;1.95;1.72;4.25;1.95
-17:00;BW Linz;LASK;792;3.1;3.35;2.27;1.87;1.93;3.35;1.73;4.7;2.25
-17:00;Grazer AK;Altach;785;3.35;3.2;2.25;1.6;2.32;4.45;2.0;5.6;2.75
-17:00;Hartberg;Austria Vienna;790;3.45;3.5;2.07;1.9;1.92;3.3;1.75;4.7;2.25
-17:00;Epitsentr;Veres;761;2.3;3.15;2.95;1.63;2.13;3.95;1.85;5.25;2.55
-17:00;Polokwane;Richards Bay;734;2.42;2.52;3.85;1.27;3.45;8.0;2.63;8.0;4.35
-17:00;Volos;Panathinaikos;787;5.45;4.25;1.57;1.9;1.88;3.25;1.95;5.1;2.42
-17:15;Entella;Empoli;784;2.63;3.0;2.95;1.6;2.37;4.55;2.03;5.6;2.8
-17:30;Norrkoping;Sirius;799;2.45;3.7;2.62;2.37;1.57;2.45;1.5;3.75;1.8
-17:30;Cork City;Derry City;753;9.75;4.75;1.32;1.93;1.82;3.1;2.33;6.1;2.9
-17:30;Drogheda;Bohemians;766;3.3;3.4;2.1;1.8;1.93;3.45;1.75;4.75;2.3
-17:30;Shamrock;Sligo Rovers;766;1.97;3.55;3.6;1.9;1.83;3.15;1.7;4.55;2.15
-17:30;Shelbourne;St. Patricks;766;2.65;3.15;2.65;1.67;2.1;3.85;1.83;5.0;2.47
-17:30;Waterford;Galway;771;2.95;3.45;2.25;1.95;1.77;3.0;1.63;4.35;2.07
-17:30;H. Petach Tikva;Sakhnin;762;1.95;3.55;3.4;1.75;1.95;3.5;1.77;4.9;2.37
-17:30;SC Ashdod;H. Haifa;769;2.8;3.35;2.32;2.0;1.7;2.85;1.57;4.25;2.0
-17:30;Celje;Aluminij;765;1.17;7.3;12.0;3.8;1.23;1.62;1.63;3.7;1.8
-17:30;Umm-Salal;Shamal;773;3.8;4.0;1.8;2.65;1.42;2.1;1.42;3.5;1.65
-17:30;Virtus Verona;Trento;746;2.75;2.85;2.52;1.45;2.5;5.1;2.07;6.25;3.05
-17:30;Rimini;Bra;752;2.52;2.85;2.75;1.48;2.4;4.85;2.03;5.9;2.9
-17:45;Atletico Atlanta;Dep. Moron;732;2.25;2.62;3.8;1.25;3.5;8.25;2.7;8.25;4.45
-18:00;Napoli;Como;895;1.93;3.35;4.45;1.67;2.23;4.15;2.0;5.7;2.7
-18:00;Cukaricki;Partizan;785;4.35;3.6;1.72;1.95;1.77;3.0;1.7;4.7;2.15
-18:00;Galatasaray;Trabzonspor;793;1.43;5.1;6.3;2.85;1.42;2.03;1.55;3.9;1.8
-18:00;FC Copenhagen;Fredericia;787;1.16;7.8;14.0;3.0;1.4;2.0;2.05;4.85;2.27
-18:00;Thun;Sion;798;2.03;3.65;3.4;2.23;1.67;2.7;1.6;4.15;1.95
-18:00;Winterthur;Servette;800;4.0;3.9;1.82;2.5;1.55;2.37;1.53;3.8;1.8
-18:00;Aarau;Rapperswil;761;1.55;4.15;5.4;2.12;1.65;2.68;1.72;4.65;2.12
-18:00;Lausanne Ouchy;Stade Nyonnais;760;1.3;5.7;8.25;2.55;1.45;2.17;1.75;4.5;2.07
-18:00;Molde;Rosenborg;796;2.0;3.85;3.35;2.35;1.57;2.45;1.52;3.9;1.85
-18:00;Slavia Prague;Ostrava;786;1.25;6.3;11.0;2.8;1.43;2.07;1.9;4.75;2.17
-18:00;Osasuna B;Celta Vigo B;764;2.65;2.95;2.52;1.6;2.15;4.05;1.87;5.3;2.6
-18:00;Cartagena;Villarreal B;754;1.67;3.3;4.85;1.65;2.05;3.8;2.0;5.5;2.68
-18:00;Amorebieta;Alfaro;747;1.67;3.4;4.95;1.55;2.25;4.33;2.17;6.1;2.95
-18:00;Tudelano;SD Logrones;756;2.7;2.95;2.62;1.55;2.3;4.5;1.95;5.7;2.75
-18:00;APOEL;Achnas;756;1.3;5.1;9.0;2.1;1.67;2.72;2.07;5.5;2.55
-18:00;Paralimni;Omonia;753;10.0;5.7;1.25;2.25;1.6;2.52;2.13;5.5;2.55
-18:00;Dun. Streda;Kosice;767;1.47;4.6;5.7;2.45;1.48;2.23;1.6;4.1;1.88
-18:15;Club Brugge;Dender;787;1.25;6.4;11.0;2.7;1.48;2.17;1.93;4.7;2.18
-18:15;Rostov;Akron Togliatti;788;1.67;3.9;5.3;1.92;1.92;3.3;1.9;5.2;2.4
-18:15;Zenit;Lokomotiv M.;793;1.55;4.4;6.1;2.3;1.63;2.57;1.73;4.6;2.1
-18:15;Colwyn Bay;Barry;767;2.18;3.1;3.05;1.85;1.83;3.2;1.65;4.6;2.18
-18:30;Tottenham;Chelsea;904;2.75;3.6;2.55;2.15;1.73;2.8;1.57;4.25;1.97
-18:30;Bayern;Leverkusen;906;1.23;7.3;11.0;3.85;1.28;1.67;1.6;3.6;1.75
-18:30;Real Sociedad;Ath Bilbao;880;2.8;3.0;2.95;1.57;2.45;4.8;2.03;5.9;2.9
-18:30;Brackley Town;Notts County;768;4.45;4.05;1.73;2.1;1.75;2.85;1.7;4.6;2.13
-18:30;Albacete;Huesca;782;2.03;3.25;3.9;1.62;2.25;4.25;2.0;5.7;2.78
-18:30;Leganes;Burgos;773;2.1;3.05;3.95;1.45;2.7;5.6;2.28;6.9;3.35
-18:30;Racing Club Ferrol;Tenerife;749;2.47;2.85;2.8;1.45;2.5;5.1;2.07;6.2;3.0
-18:30;CD Coria;Real Madrid C;753;1.82;3.25;4.33;1.55;2.25;4.35;2.07;5.9;2.85
-18:30;M. Bnei Reina;M. Tel Aviv;758;8.75;6.0;1.23;2.55;1.45;2.15;1.83;4.65;2.13
-18:30;Ballymena;Larne;760;3.55;3.25;2.0;1.7;2.0;3.65;1.82;5.0;2.45
-18:30;Al-Nassr Riyadh;Al Feiha;779;1.15;7.0;13.0;3.1;1.3;1.8;1.9;4.4;2.13
-18:30;Atromitos;Kifisia;783;2.2;3.15;3.45;1.67;2.18;4.05;1.93;5.25;2.6
-18:30;Motherwell;St. Mirren;770;2.47;3.35;2.68;1.97;1.77;3.0;1.62;4.4;2.07
-18:30;Chelsea;Ath Bilbao;;2.12;3.2;3.4;1.75;1.95;;;;
-18:30;Real Sociedad;Tottenham;;1.7;4.3;3.95;3.1;1.32;;;;
-18:45;Breda;G.A. Eagles;799;2.4;3.65;2.8;2.28;1.65;2.62;1.55;3.95;1.9
-18:45;Aldosivi;Ind. Rivadavia;770;2.6;2.9;3.05;1.42;2.8;5.9;2.27;6.7;3.4
-18:45;Istra 1961;Vukovar 1991;780;1.57;3.9;5.75;1.82;1.9;3.3;1.97;5.35;2.52
-19:00;Monaco;Paris FC;889;1.67;4.5;4.5;2.8;1.45;2.1;1.47;3.65;1.7
-19:00;Casa Pia;Estrela;782;2.1;3.2;3.85;1.6;2.4;4.6;2.1;5.8;2.9
-19:00;Rio Ave;Estoril;793;2.52;3.3;2.85;1.85;2.0;3.5;1.77;4.8;2.32
-19:00;Los Chankas;Ayacucho;766;2.12;3.25;3.25;1.82;1.87;3.25;1.7;4.7;2.25
-19:00;El Gouna;Pharco;730;2.23;2.63;3.85;1.25;3.6;8.5;2.75;8.5;4.55
-19:00;Ismaily SC;Kahraba Ismailia;740;2.72;2.68;2.9;1.28;3.25;7.4;2.5;7.6;4.0
-19:00;Olympiacos;Aris;777;1.28;5.35;10.0;1.95;1.83;3.15;2.42;6.25;2.95
-19:15;Chippa Utd;Amazulu;743;3.05;2.72;2.65;1.37;2.85;6.1;2.28;6.8;3.5
-19:30;Palermo;Pescara;785;1.4;4.85;7.5;2.05;1.8;3.0;2.07;5.3;2.5
-19:30;U. Cluj;FCSB;788;3.15;3.15;2.3;1.72;2.1;3.8;1.85;5.0;2.47
-20:00;Feyenoord;Volendam;783;1.12;9.75;19.0;4.1;1.25;1.62;1.92;4.05;2.05
-20:00;Red Star;St Etienne;796;2.8;3.3;2.5;1.92;1.88;3.25;1.7;4.55;2.18
-20:00;Austria Vienna II;Liefering;794;2.63;3.55;2.45;2.07;1.72;2.85;1.57;4.25;2.0
-20:00;Sturm Graz II;Admira;787;5.0;4.2;1.57;2.05;1.75;2.9;1.77;4.75;2.2
-20:00;Ferencvaros;MTK Budapest;792;1.43;4.9;5.9;2.8;1.38;2.0;1.52;3.75;1.75
-20:00;Cambuur;Jong Ajax;797;1.28;6.1;7.75;3.55;1.27;1.7;1.5;3.3;1.65
-20:00;Barracas Cent.;Argentinos Jrs;776;3.8;2.95;2.18;1.45;2.7;5.6;2.27;6.8;3.35
-20:00;Real Oruro;GV San Jose;768;2.25;3.35;2.9;2.05;1.67;2.75;1.55;4.2;1.97
-20:00;Tecnico U.;Mushuc Runa;761;2.28;3.15;2.95;1.65;2.1;3.85;1.83;5.1;2.52
-20:00;Cruzeiro;Vitoria BA;784;1.47;4.3;7.0;1.88;1.88;3.25;2.1;5.7;2.65
-20:00;Santos;Fortaleza;795;1.75;3.75;4.5;1.92;1.85;3.2;1.77;4.85;2.28
-20:00;Copiapo;U. De Concepcion;757;1.85;3.25;4.1;1.65;2.1;3.85;1.93;5.4;2.6
-20:00;Goias;Atletico PR;759;2.47;3.0;3.0;1.55;2.4;4.65;2.03;5.9;2.85
-20:00;Beveren;Club Brugge U23;763;1.32;5.25;7.2;2.5;1.45;2.17;1.7;4.35;2.0
-20:00;OC Charleroi;Liege;767;3.85;3.8;1.77;2.1;1.65;2.68;1.6;4.3;1.97
-20:00;RWDM 47;Genk U23;764;1.32;5.3;7.1;2.65;1.42;2.07;1.65;4.2;1.93
-20:30;Darmstadt;Bielefeld;798;1.88;4.05;3.65;2.35;1.6;2.5;1.55;3.9;1.83
-20:30;Zurich;Lausanne;799;2.25;3.65;2.95;2.4;1.6;2.47;1.52;3.75;1.82
-20:30;New York City;Charlotte;801;1.75;3.9;4.4;2.33;1.63;2.55;1.62;4.1;1.93
-20:30;Liverpool M.;Juventud;763;2.1;3.25;3.45;1.72;2.0;3.6;1.8;5.0;2.45
-20:45;Cremonese;Juventus;897;7.1;4.35;1.5;1.9;1.93;3.35;2.1;5.75;2.65
-20:45;Anderlecht;Mechelen;795;1.62;4.15;5.1;2.2;1.7;2.75;1.75;4.55;2.12
-20:45;Juventus;Marseille;;2.4;4.0;2.42;3.15;1.32;;;;
-21:00;Liverpool;Aston Villa;905;1.67;4.2;4.85;2.45;1.57;2.37;1.57;4.05;1.88
-21:00;Real Madrid;Valencia;889;1.18;7.7;14.0;3.15;1.35;1.87;1.9;4.65;2.12
-21:00;Telstar;Excelsior;798;2.2;3.65;3.1;2.3;1.63;2.6;1.55;3.9;1.88
-21:00;Almeria;Eibar;787;1.73;3.8;4.5;1.85;1.92;3.35;1.85;5.1;2.37
-21:00;CE Europa;Sanluqueno;741;1.75;3.15;4.55;1.57;2.2;4.15;2.05;5.8;2.8
-21:00;Velez;Talleres;777;2.1;3.15;3.75;1.45;2.65;5.5;2.25;6.8;3.3
-21:05;Auxerre;Marseille;887;4.9;4.2;1.67;2.25;1.67;2.65;1.65;4.45;2.03
-21:15;Comerciantes Unidos;Sporting Cristal;761;3.8;3.4;1.88;1.85;1.85;3.2;1.72;4.75;2.23
-21:30;Guimaraes;Benfica;789;6.8;4.45;1.48;2.1;1.77;2.9;1.95;5.0;2.35
-21:30;Nacional As.;Sportivo Trinidense;763;2.15;3.1;3.35;1.65;2.07;3.8;1.83;5.1;2.52
-22:00;Alianza;Chico;753;1.47;4.1;6.6;1.8;1.9;3.35;2.07;5.7;2.65
-22:00;Nublense;Colo Colo;763;3.25;3.25;2.1;1.7;2.0;3.6;1.77;4.95;2.42
-22:00;Mirassol;Botafogo;792;2.2;3.3;3.3;1.8;1.95;3.5;1.77;4.9;2.35
-22:30;Chicago;Philadelphia;807;2.12;3.8;3.1;2.55;1.53;2.3;1.48;3.6;1.75
-22:30;Aucas;El Nacional;760;1.67;3.65;4.6;1.9;1.8;3.1;1.77;4.85;2.27
-22:30;Avai;Athletic Club;761;1.85;3.45;4.15;1.7;2.1;3.8;1.93;5.35;2.55
-22:45;Cruz Azul W;Tigres UANL W;393;4.1;3.95;1.63;2.5;1.45;2.12;1.52;3.75;1.73
-23:00;CA Cerro;Nacional;749;7.6;3.95;1.45;1.72;2.0;3.6;2.27;6.2;2.95
-23:00;S. Wanderers;Magallanes;767;1.92;3.5;3.55;2.03;1.7;2.8;1.6;4.33;2.0
-23:30;Pittsburgh;Hartford Athletic;759;1.82;3.45;4.0;1.82;1.87;3.25;1.77;4.85;2.28
-00:00;Louisville City;Detroit City;759;1.57;3.95;4.95;1.9;1.8;3.05;1.82;4.9;2.28
-00:00;Independiente;Atl. Tucuman;777;1.8;3.4;4.8;1.57;2.32;4.45;2.15;6.1;2.95
-00:00;Dep. Garcilaso;ADT Tarma;766;2.95;3.1;2.35;1.7;2.0;3.6;1.77;4.9;2.4
-00:00;Atlas;Toluca;797;4.45;4.3;1.63;2.6;1.5;2.23;1.53;3.75;1.77
-00:00;Libertad As.;Olimpia As.;767;2.47;3.2;2.7;1.77;1.92;3.4;1.7;4.75;2.27
-00:00;Tepatitlan;Atl. La Paz;390;1.67;3.85;3.9;2.45;1.45;2.18;1.45;3.7;1.73
-00:00;Atl. San Luis W;Santos Laguna W;391;2.1;3.3;3.05;2.0;1.7;2.75;1.63;4.3;2.0
-00:00;Leon W;UNAM Pumas W;394;2.85;3.8;2.03;2.6;1.42;2.05;1.42;3.4;1.62
-00:30;Nashville;Inter Miami;809;2.6;3.75;2.47;3.0;1.4;2.0;1.38;3.2;1.57
-00:30;North Carolina;Loudoun;769;2.3;3.4;2.75;2.03;1.7;2.8;1.57;4.2;1.97
-01:00;FC Tulsa;Colorado Springs;759;1.82;3.55;3.9;1.85;1.85;3.2;1.73;4.75;2.23
-01:00;Puntarenas;Zeledon;760;1.9;3.4;3.9;1.75;1.95;3.5;1.82;5.0;2.37
-01:00;Flamengo RJ;Sport Recife;780;1.17;7.0;16.0;2.28;1.6;2.52;2.57;6.4;3.05
-02:00;New Mexico;San Antonio;768;2.15;3.45;3.0;2.0;1.7;2.85;1.57;4.3;2.0
-02:00;Tampico Madero;Oaxaca;383;1.3;5.0;7.3;2.2;1.57;2.5;1.9;4.9;2.27
-02:00;Tlaxcala;Atl. Morelia;389;2.85;3.25;2.2;1.97;1.72;2.85;1.57;4.3;2.03
-02:00;Auckland FC II;Birkenhead Utd;387;4.8;4.45;1.48;3.05;1.32;1.82;1.4;3.4;1.6
-02:05;CF Monterrey;Tigres;796;2.42;3.45;2.72;2.07;1.73;2.85;1.6;4.2;2.0
-02:20;Once Caldas;Dep. Pasto;762;1.7;3.8;4.45;1.88;1.8;3.1;1.77;4.85;2.27
-02:30;Dallas;Vancouver;806;3.5;3.95;1.92;2.6;1.52;2.25;1.48;3.6;1.72
-02:30;Portland;San Diego FC;800;2.52;3.85;2.5;2.7;1.48;2.2;1.43;3.45;1.67
-02:30;EL Paso;Phoenix Rising;772;1.97;3.65;3.25;2.2;1.6;2.52;1.52;4.0;1.88
-03:00;Guadalupe;Deportivo Saprissa;760;5.4;4.25;1.52;2.07;1.67;2.72;1.75;4.7;2.15
-03:00;APIA Tigers;NE Metrostars;761;1.37;4.75;6.8;2.35;1.52;2.35;1.75;4.5;2.07
-03:00;Moreton City Excelsior;Broadmeadow;772;1.7;4.1;3.9;2.8;1.37;1.95;1.38;3.35;1.6
-03:00;Wollongong;South Hobart;761;1.16;7.2;12.0;3.55;1.25;1.65;1.7;3.85;1.87
-04:10;Club America;Leon;791;1.3;5.75;7.9;2.7;1.45;2.13;1.73;4.25;1.97
-05:00;Kanazawa;Kusatsu;761;1.67;3.6;4.3;1.93;1.75;2.95;1.72;4.65;2.18
-05:00;Vanraure;Kitakyushu;756;1.67;3.45;4.55;1.65;2.05;3.75;1.97;5.5;2.62
-06:00;Gwangju FC;Jeju Utd;789;1.97;3.4;3.85;1.8;2.0;3.55;1.82;4.9;2.35
-06:00;Chiba;Sapporo;765;1.8;3.7;3.8;2.0;1.72;2.85;1.65;4.45;2.07
-06:00;Imabari;Sendai;764;2.62;3.2;2.55;1.67;2.05;3.75;1.77;5.0;2.45
-06:00;Iwaki;Fujieda MYFC;765;1.87;3.65;3.55;1.97;1.73;2.9;1.63;4.45;2.05
-06:00;Iwata;Nagasaki;770;3.45;3.75;1.87;2.1;1.65;2.65;1.57;4.2;1.93
-06:00;Kofu;Mito;758;3.4;3.25;2.07;1.62;2.15;4.0;1.9;5.35;2.6
-06:00;Kumamoto;Yamaguchi;767;2.45;3.15;2.75;1.75;1.95;3.5;1.73;4.8;2.33
-06:00;Omiya Ardija;Blaublitz;759;1.82;3.55;3.9;1.85;1.85;3.2;1.73;4.8;2.25
-06:00;Sagan Tosu;Tokushima;753;2.68;2.85;2.75;1.52;2.35;4.55;1.97;5.7;2.8
-06:00;Toyama;Ehime;762;1.92;3.4;3.65;1.8;1.9;3.3;1.73;4.8;2.27
-06:00;Incheon;Busan;759;2.52;3.05;2.9;1.57;2.27;4.35;1.93;5.6;2.72
-06:00;Jeonnam;Seongnam;770;2.55;3.3;2.65;1.85;1.85;3.2;1.67;4.6;2.18
-06:00;Fukushima Utd;Osaka;758;3.7;3.2;1.9;1.67;2.03;3.65;1.85;5.1;2.45
-06:00;Kagoshima Utd;Yamaga;758;1.62;3.75;4.45;1.87;1.8;3.1;1.8;4.9;2.28
-06:00;Kamatamare;Gainare Tottori;767;2.07;3.25;3.1;1.9;1.77;3.0;1.63;4.45;2.12
-06:00;Miyazaki;Nara Club;762;1.88;3.4;3.55;1.9;1.77;3.0;1.65;4.55;2.1
-06:00;Tochigi;Gifu;764;2.35;3.05;2.8;1.65;2.05;3.75;1.8;5.0;2.45
-06:30;Oita;Yamagata;757;2.75;3.0;2.55;1.55;2.28;4.4;1.95;5.6;2.72
-06:30;Bayswater;Sydney Utd;770;2.42;3.4;2.6;2.1;1.65;2.68;1.53;4.1;1.93
-06:30;NWS Spirit;Preston Lions;774;2.07;3.7;3.0;2.45;1.48;2.23;1.43;3.6;1.72
-07:00;C.C. Mariners;Wellington Phoenix;802;2.47;3.35;2.72;1.95;1.83;3.1;1.67;4.45;2.12
-08:00;Nagano;Kochi United;767;2.75;3.1;2.37;1.85;1.8;3.1;1.63;4.5;2.15
-08:30;Suwon City;Daegu;800;1.95;4.0;3.35;2.6;1.5;2.23;1.45;3.55;1.7
-08:30;Qingdao Hainiu;Wuhan TT;769;1.67;4.05;4.15;2.4;1.5;2.3;1.52;3.9;1.82
-08:30;Asan;Cheonan City;760;1.63;3.9;4.9;1.9;1.8;3.1;1.82;4.9;2.3
-09:30;PSM Makassar;Madura Utd;758;1.85;3.3;4.1;1.7;2.03;3.7;1.9;5.25;2.5
-10:00;Orenburg;Sochi;792;2.28;3.3;3.3;1.85;2.0;3.5;1.75;4.9;2.32
-10:00;Concordia;CS Din. Bucuresti;760;1.67;3.45;4.55;1.85;1.83;3.2;1.8;4.9;2.32
-10:00;Steaua Bucuresti;CSC Dumbravita;749;1.2;5.1;11.0;2.1;1.63;2.63;2.33;6.0;2.85
-10:15;Zizkov;Artis Brno;769;2.65;3.3;2.42;1.95;1.75;2.95;1.6;4.35;2.05
-10:30;A. Lustenau;A. Klagenfurt;784;2.0;3.35;3.75;1.72;2.07;3.75;1.88;5.2;2.52
-10:30;Malzenice;Lubovna;767;1.97;3.55;3.35;2.0;1.7;2.85;1.6;4.33;2.03
-10:30;Slovan Bratislava B;Pohronie;768;2.95;3.3;2.23;1.97;1.73;2.9;1.6;4.33;2.05
-11:00;Ilicitano;Orihuela;740;2.85;2.75;2.65;1.35;2.95;6.4;2.33;7.0;3.6
-11:00;Slavia Kosice;Zilina B;775;2.1;3.65;2.9;2.45;1.47;2.23;1.42;3.55;1.7
-11:30;Getafe B;Rayo Vallecano B;753;1.42;4.15;7.1;1.82;1.85;3.25;2.12;5.75;2.7
-11:30;Kalju;Tammeka;759;1.25;5.8;8.75;2.7;1.4;2.05;1.75;4.45;2.05
-11:30;Paide;Parnu JK Vaprus;767;1.43;4.7;5.5;2.55;1.45;2.15;1.57;4.0;1.83
-11:30;Istanbulspor AS;Pendikspor;770;2.9;3.55;2.25;2.18;1.6;2.57;1.52;4.0;1.88
-11:30;Manisa FK;Amedspor;761;5.75;4.45;1.48;2.15;1.63;2.62;1.73;4.65;2.13
-11:45;CSKA Sofia;Montana;745;1.17;6.3;17.0;2.2;1.6;2.57;2.7;6.75;3.25
-12:00;Arsenal Dzyarzhynsk;Gomel;754;2.6;2.62;2.78;1.53;2.25;4.35;1.93;5.6;2.75
-12:00;Betis B;Murcia;754;3.1;2.9;2.28;1.5;2.4;4.7;2.0;5.9;2.9
-12:00;Tarazona;Ibiza;752;3.35;2.9;2.15;1.47;2.45;4.95;2.07;6.2;3.0
-12:00;Teruel;Marbella;754;2.18;2.95;3.2;1.53;2.3;4.4;1.97;5.7;2.75
-12:00;Lealtad;Atl. Astorga;754;2.23;2.95;3.35;1.5;2.37;4.7;2.03;5.9;2.9
-12:00;Ejea;Alaves B;747;2.45;2.9;3.0;1.45;2.5;5.2;2.1;6.3;3.05
-12:00;Girona B;Barcelona B;755;3.3;3.15;2.15;1.7;2.0;3.65;1.8;5.0;2.42
-12:00;Poblense;Barbastro;739;1.73;3.1;5.4;1.4;2.7;5.7;2.5;7.4;3.65
-12:00;Porreres;Sant Andreu;739;5.0;3.25;1.72;1.6;2.2;4.15;2.1;5.9;2.85
-12:00;Reus FCR;Baleares;753;2.62;2.95;2.75;1.5;2.4;4.75;2.0;5.9;2.9
-12:00;SD Ibiza;Alcoyano;758;2.8;2.95;2.52;1.53;2.33;4.55;1.97;5.7;2.8
-12:00;Terrassa;Andratx;756;1.8;3.3;4.3;1.63;2.12;3.95;1.97;5.6;2.65
-12:00;Torrent;Valencia B;751;2.5;3.0;2.8;1.48;2.45;4.9;2.05;6.0;2.95
-12:00;Almeria B;La Union;755;3.15;2.95;2.32;1.5;2.4;4.75;2.03;5.9;2.9
-12:00;Deportiva Minera;Jaen;763;2.2;3.1;3.2;1.7;2.03;3.7;1.8;5.0;2.45
-12:00;Linares;Xerez;746;2.68;2.8;2.78;1.42;2.6;5.4;2.13;6.5;3.15
-12:00;Melilla;CD Extremadura;755;2.57;2.95;2.78;1.5;2.37;4.7;2.0;5.8;2.85
-12:00;UCAM Murcia;Yeclano;751;2.1;3.05;3.5;1.47;2.5;5.1;2.13;6.4;3.1
-12:00;CF Intercity;Navalcarnero;754;1.9;3.25;3.95;1.55;2.25;4.33;2.03;5.8;2.78
-12:00;Tenerife B;Fuenlabrada;759;2.23;3.05;3.25;1.6;2.2;4.1;1.9;5.4;2.65
-12:00;Muang Thong Utd;Prachuap;766;1.9;3.6;3.75;1.95;1.75;2.95;1.65;4.55;2.1
-12:00;S. Rzeszow;Pogon Siedlce;773;2.15;3.6;3.0;2.28;1.55;2.42;1.48;3.8;1.82
-12:00;Vizela;Penafiel;759;1.55;3.8;5.8;1.85;1.85;3.25;1.95;5.3;2.5
-12:15;Heracles;Zwolle;797;2.42;3.45;2.9;2.07;1.77;2.95;1.65;4.3;2.07
-12:15;Gornik Z.;Arka Gdynia;787;1.52;4.25;6.0;2.03;1.8;3.0;1.92;5.0;2.35
-12:30;Verona;Inter;886;7.7;5.1;1.4;2.03;1.83;3.05;2.07;5.5;2.55
-12:30;Konyaspor;Samsunspor;790;2.33;3.25;3.15;1.8;2.0;3.5;1.75;4.9;2.33
-12:30;Espanyol B;Olot;747;2.62;2.85;2.8;1.43;2.6;5.35;2.13;6.4;3.15
-12:30;Socuellamos;RSD Alcala;755;2.03;3.1;3.65;1.55;2.3;4.4;2.0;5.75;2.8
-12:30;Bangkok Utd;Uthai Thani;761;1.57;3.55;5.6;2.1;1.65;2.68;1.73;4.65;2.15
-12:30;Lampun Warrior;Port MTI FC;767;3.3;3.4;2.12;2.0;1.73;2.9;1.6;4.35;2.07
-12:30;Triestina;Brescia;749;4.1;3.15;1.83;1.53;2.3;4.4;2.07;5.9;2.85
-12:30;Livorno;Forli;757;2.65;2.95;2.55;1.55;2.25;4.3;1.92;5.5;2.68
-12:30;Inter;Newcastle;;2.2;4.1;2.65;3.5;1.25;;;;
-12:35;Yunnan Yukun;Qingdao West Coast;775;1.9;3.9;3.3;2.55;1.45;2.15;1.4;3.5;1.67
-13:00;South Shields;Shrewsbury;770;2.72;3.55;2.47;1.9;1.9;3.3;1.7;4.75;2.23
-13:00;Mlada Boleslav;Sigma Olomouc;794;2.85;3.35;2.45;2.07;1.73;2.9;1.57;4.3;2.0
-13:00;Las Palmas B;Colonia M.;755;1.93;3.2;3.8;1.55;2.3;4.4;2.03;5.8;2.8
-13:00;Persebaya;Persis Solo;761;1.7;3.7;4.35;1.85;1.85;3.2;1.8;4.9;2.3
-13:00;Chonburi;Pathum United;768;3.05;3.4;2.23;2.03;1.7;2.85;1.57;4.25;2.0
-13:00;Narva;Levadia;765;6.75;4.95;1.35;2.55;1.45;2.13;1.65;4.15;1.93
-13:00;Kauno Zalgiris;Panevezys;755;1.45;4.05;5.8;1.95;1.75;2.95;1.9;5.1;2.37
-13:00;Bvsc-Zuglo;Szentlorinc;761;2.45;3.0;2.72;1.6;2.15;4.0;1.85;5.25;2.57
-13:00;Karcagi;Bekescsaba;760;1.95;3.25;3.4;1.75;1.93;3.45;1.75;4.9;2.35
-13:00;Naestved;Helsingor;387;1.67;3.55;4.4;1.97;1.7;2.85;1.7;4.6;2.13
-13:00;Podhale Nowy Targ;Hutnik Krakow;767;1.8;3.65;3.9;2.13;1.63;2.62;1.57;4.25;1.95
-13:00;Aston Villa W;Everton W;761;1.67;3.65;4.3;1.95;1.72;2.9;1.7;4.6;2.13
-13:00;Brighton W;Manchester Utd W;754;4.95;4.0;1.53;2.2;1.57;2.47;1.63;4.35;2.0
-13:00;Leicester City W;Arsenal W;748;14.0;6.75;1.13;2.37;1.5;2.27;2.4;5.9;2.78
-13:00;Tottenham W;Liverpool W;758;1.9;3.25;3.6;1.67;2.03;3.65;1.85;5.1;2.45
-13:00;Beltinci;Nafta;767;2.2;3.35;3.0;1.85;1.85;3.2;1.67;4.6;2.18
-13:30;Bochum;Magdeburg;799;2.33;3.7;2.85;2.4;1.55;2.4;1.48;3.65;1.77
-13:30;Dusseldorf;Kaiserslautern;798;2.5;3.55;2.72;2.27;1.63;2.57;1.53;3.9;1.87
-13:30;Paderborn;Greuther Furth;794;1.4;5.25;6.9;2.75;1.45;2.1;1.63;3.95;1.87
-13:30;Hoffenheim II;Mannheim;795;2.18;3.65;3.05;2.25;1.57;2.47;1.48;3.85;1.83
-13:30;Westerlo;Genk;802;3.05;3.85;2.15;2.65;1.5;2.2;1.45;3.5;1.7
-13:30;Ostrava B;Vlasim;763;1.9;3.45;3.65;1.9;1.77;3.05;1.67;4.55;2.13
-13:45;Rudes;Cibalia;743;1.83;3.0;4.3;1.42;2.55;5.3;2.3;6.9;3.3
-14:00;Levante;Celta Vigo;899;2.9;3.5;2.5;2.03;1.83;3.05;1.63;4.5;2.1
-14:00;Viborg;Randers;797;2.33;3.4;2.95;2.07;1.77;2.95;1.65;4.3;2.07
-14:00;Andorra CF;Cadiz CF;784;2.27;3.15;3.35;1.67;2.15;4.0;1.9;5.3;2.6
-14:00;Lugano;St. Gallen;798;2.05;3.8;3.25;2.35;1.63;2.52;1.55;3.85;1.85
-14:00;Wil;Xamax;770;2.7;3.45;2.45;2.07;1.67;2.75;1.55;4.15;1.97
-14:00;Elfsborg;AIK;791;2.2;3.3;3.35;1.87;1.93;3.4;1.75;4.7;2.28
-14:00;Halmstad;Brommapojkarna;793;2.85;3.35;2.47;1.9;1.92;3.35;1.72;4.65;2.23
-14:00;Dinamo Minsk;Slutsk;749;1.25;4.75;12.0;2.1;1.65;2.68;2.37;6.1;2.95
-14:00;Ulyanovsk;Rodina Moscow;760;3.4;3.2;2.13;1.63;2.17;4.05;1.92;5.4;2.65
-14:00;River Plate M;Miramar;764;2.75;3.1;2.62;1.63;2.15;4.05;1.87;5.3;2.57
-14:00;Boluspor;Bodrumspor;764;3.85;3.6;1.87;1.9;1.82;3.15;1.7;4.7;2.18
-14:00;Dziugas;Riteriai;761;1.48;4.05;5.3;2.15;1.6;2.57;1.7;4.55;2.1
-14:00;Dravinja;ND Gorica;767;2.8;3.3;2.33;1.83;1.85;3.25;1.67;4.65;2.2
-14:00;Torslanda;Lunds;390;2.9;3.6;2.15;2.15;1.6;2.57;1.52;4.0;1.88
-14:15;Arda;Levski;750;5.4;3.4;1.7;1.57;2.23;4.25;2.15;6.1;2.95
-14:30;Groningen;Twente;796;2.78;3.5;2.47;1.93;1.88;3.25;1.72;4.6;2.2
-14:30;Sparta R.;AZ Alkmaar;799;4.2;4.15;1.75;2.6;1.5;2.25;1.52;3.7;1.75
-14:30;Salzburg;Ried;795;1.62;4.15;4.95;2.2;1.67;2.7;1.72;4.45;2.07
-14:30;Wolfsberger AC;Tirol;787;1.67;3.95;4.85;1.88;1.92;3.35;1.9;5.0;2.4
-14:30;UTA Arad;Metaloglobus;786;1.67;3.75;4.8;1.83;1.97;3.45;1.95;5.1;2.45
-14:30;Stromsgodset;Viking;796;5.75;5.1;1.45;3.2;1.33;1.85;1.45;3.35;1.65
-14:30;Zorya;Rukh Lviv;754;1.92;3.15;3.95;1.55;2.25;4.3;2.03;5.75;2.78
-14:30;FC Emmen;Waalwijk;800;2.25;3.75;2.78;2.55;1.48;2.2;1.42;3.45;1.67
-14:30;TS Galaxy;Stellenbosch;747;2.85;2.9;2.7;1.42;2.7;5.7;2.18;6.7;3.25
-14:30;Chrobry Glogow;Wisla;768;4.65;4.15;1.6;2.23;1.57;2.5;1.6;4.25;1.95
-14:30;Cittadella;Pro Vercelli;752;2.2;2.9;3.25;1.47;2.45;4.95;2.07;6.2;3.0
-14:30;Vicenza;Giana Erminio;743;1.23;4.7;11.0;1.85;1.83;3.15;2.65;7.0;3.4
-14:30;Gubbio;Ternana;766;2.68;3.05;2.42;1.7;1.97;3.55;1.75;4.85;2.35
-14:30;Torres;Carpi;751;2.0;3.0;3.65;1.5;2.37;4.7;2.07;6.0;2.95
-14:30;Crotone;Trapani;757;1.72;3.3;4.5;1.7;1.97;3.55;1.9;5.2;2.5
-14:30;Potenza;Foggia;759;1.67;3.4;4.65;1.77;1.9;3.35;1.87;5.1;2.42
-14:45;Lech Poznan;Motor Lublin;795;1.6;4.4;4.85;2.5;1.53;2.3;1.57;3.9;1.83
-15:00;West Ham;Newcastle;894;5.2;4.4;1.63;2.05;1.77;3.0;1.77;4.85;2.23
-15:00;Rennes;Strasbourg;886;2.37;3.65;2.95;2.2;1.7;2.72;1.55;4.15;1.95
-15:00;Fiorentina;Lecce;892;1.7;3.85;5.5;1.7;2.18;4.05;2.13;6.0;2.8
-15:00;Torino;Pisa;879;2.0;3.3;4.25;1.6;2.37;4.55;2.07;6.0;2.85
-15:00;Bari;Cesena;783;3.1;3.05;2.52;1.65;2.3;4.3;1.97;5.45;2.7
-15:00;Catanzaro;Venezia;788;3.35;3.15;2.3;1.75;2.1;3.8;1.85;5.0;2.5
-15:00;Modena;Juve Stabia;780;1.93;3.25;4.45;1.55;2.45;4.85;2.2;6.2;3.05
-15:00;Kayserispor;Kasimpasa;794;2.5;3.45;2.75;2.05;1.77;2.95;1.6;4.35;2.03
-15:00;Baltika;Akhmat Grozny;778;2.75;3.05;2.85;1.55;2.45;4.85;2.03;6.0;2.9
-15:00;KuPS;Inter Turku;793;2.12;3.55;3.25;2.1;1.7;2.8;1.6;4.3;2.03
-15:00;S. Kostroma;Chernomorets N.;752;2.15;3.0;3.6;1.45;2.6;5.4;2.2;6.7;3.25
-15:00;Zamalek;EL Gaish;748;1.5;3.75;6.4;1.57;2.23;4.2;2.35;6.6;3.15
-15:00;Koper;O. Ljubljana;771;2.68;3.45;2.42;2.07;1.7;2.75;1.55;4.15;1.97
-15:00;Lyngby;Hobro;767;1.75;3.8;4.3;2.1;1.65;2.68;1.62;4.35;2.0
-15:00;Kozarmisleny;Csakvari;765;2.3;3.15;2.78;1.7;2.0;3.6;1.75;4.9;2.37
-15:00;Szeged;Budafoki;759;1.72;3.35;4.35;1.75;1.93;3.45;1.85;5.1;2.42
-15:00;Orebro;Utsiktens;771;1.75;4.05;4.15;2.4;1.55;2.4;1.55;3.95;1.85
-15:00;Team TG FF;Sollentuna;387;5.35;4.2;1.5;2.32;1.53;2.37;1.62;4.25;1.95
-15:00;Celtic;Rangers;775;1.83;4.0;3.6;2.5;1.48;2.23;1.45;3.65;1.72
-15:00;Fiorentina;Lens;;3.0;4.05;2.0;3.2;1.3;;;;
-15:15;Eastleigh;Walsall;766;4.75;3.6;1.8;1.95;1.85;3.15;1.77;4.85;2.28
-15:30;Koln;Hamburger;895;2.2;3.65;3.3;2.35;1.63;2.52;1.52;3.95;1.87
-15:30;Bohemians 1905;Hradec Kralove;790;2.27;3.3;3.25;1.85;1.95;3.45;1.72;4.85;2.28
-15:30;Karvina;Sparta Prague;787;6.0;4.3;1.53;2.12;1.7;2.78;1.8;4.85;2.2
-15:30;DVTK;Ujpest;795;2.85;3.6;2.25;2.25;1.57;2.47;1.48;3.85;1.83
-15:30;Komarno;Michalovce;770;2.15;3.55;3.1;2.15;1.63;2.62;1.53;4.05;1.9
-16:00;Novi Pazar;Zeleznicar;785;2.13;3.15;3.3;1.67;2.07;3.75;1.82;5.1;2.45
-16:00;TSC;Napredak;786;1.73;3.55;4.33;1.97;1.73;2.9;1.67;4.6;2.1
-16:00;Port Vale;Maldon & Tiptree;754;1.16;7.4;18.0;2.7;1.45;2.12;2.3;5.6;2.63
-16:00;Leuven;Gent;795;2.47;3.4;2.85;1.95;1.88;3.25;1.72;4.6;2.2
-16:00;Sonderjyske;Vejle;795;1.93;3.7;3.7;2.13;1.73;2.85;1.65;4.33;2.03
-16:00;Neman;BATE;757;1.9;2.95;4.45;1.72;2.0;3.55;1.88;5.2;2.5
-16:00;Ourense;Arenas Getxo;753;2.2;2.9;3.2;1.5;2.35;4.65;2.0;5.8;2.85
-16:00;Antequera;Hercules;758;2.4;2.95;2.85;1.55;2.23;4.3;1.92;5.5;2.68
-16:00;Oviedo B;Rayo Cantabria;761;1.7;3.7;4.4;1.8;1.9;3.35;1.85;5.1;2.37
-16:00;Ebro;Eibar B;750;2.33;2.85;3.2;1.43;2.6;5.35;2.15;6.5;3.15
-16:00;Huelva;Malagueno;756;1.62;3.6;5.1;1.7;2.03;3.65;2.03;5.6;2.65
-16:00;Conquense;SS Reyes;754;3.1;2.85;2.4;1.47;2.45;5.0;2.07;6.2;3.0
-16:00;Slaven Belupo;Hajduk Split;783;4.9;3.5;1.73;1.8;1.9;3.35;1.85;5.1;2.4
-16:00;Ypsonas;Anorthosis;767;2.33;3.25;2.9;1.8;1.93;3.4;1.72;4.8;2.28
-16:00;Harju JK;Tallinna Kalev;771;1.65;4.0;3.9;2.7;1.4;2.03;1.42;3.5;1.65
-16:00;Cliftonville;Linfield;759;4.05;3.45;1.82;1.8;1.88;3.3;1.77;4.9;2.3
-16:00;Pyramids;Al Ittihad;746;1.37;4.1;9.0;1.57;2.23;4.25;2.75;7.5;3.7
-16:00;Beerschot;Kortrijk;769;2.6;3.3;2.5;1.92;1.77;3.0;1.62;4.4;2.1
-16:00;Patro Eisden;Anderlecht U23;764;1.57;4.15;4.65;2.1;1.65;2.68;1.67;4.5;2.05
-16:00;Covilha;Amora;389;2.35;3.0;3.05;1.55;2.3;4.4;1.95;5.6;2.75
-16:00;Guimaraes B;Sanjoanense;390;2.35;3.1;2.95;1.65;2.07;3.8;1.82;5.1;2.47
-16:00;OS Belenenses;UD Santarem;384;1.42;4.3;6.75;1.8;1.9;3.35;2.12;5.75;2.68
-16:00;Paredes;Sao Jose;386;1.73;3.35;4.6;1.7;2.03;3.65;1.93;5.3;2.55
-16:00;Trofense;Amarante;384;1.85;3.2;4.25;1.55;2.27;4.35;2.07;5.9;2.85
-16:00;Assyriska FF;Gefle;387;2.18;3.4;3.0;2.05;1.67;2.72;1.55;4.15;1.97
-16:00;Enkopings SK;Stockholm Int.;387;5.5;4.5;1.45;2.2;1.6;2.52;1.7;4.55;2.07
-16:00;Vasalund;Haninge;389;1.45;5.0;4.95;3.3;1.28;1.75;1.37;3.1;1.55
-16:00;Olympic;Trollhattan;390;2.75;3.7;2.2;2.6;1.43;2.12;1.38;3.4;1.63
-16:15;Alaves;Espanyol;880;2.45;2.95;3.45;1.53;2.55;5.1;2.1;6.25;3.05
-16:15;Cordoba;Ceuta;786;1.93;3.45;4.0;1.85;1.93;3.4;1.77;4.95;2.33
-16:15;Gijon;Las Palmas;783;2.32;3.1;3.25;1.65;2.2;4.1;1.92;5.4;2.65
-16:30;RW Essen;Schweinfurt;788;1.37;5.2;7.1;2.65;1.42;2.07;1.63;4.1;1.9
-16:30;AFS;Tondela;785;3.25;3.15;2.35;1.7;2.17;4.0;1.92;5.2;2.57
-16:30;Luzern;Grasshoppers;798;1.9;3.9;3.65;2.32;1.63;2.57;1.57;4.0;1.88
-16:30;Young Boys;Basel;803;2.57;3.5;2.57;3.0;1.4;2.0;1.38;3.2;1.57
-16:30;Djurgarden;Goteborg;795;1.75;4.0;4.25;2.35;1.6;2.5;1.6;4.0;1.9
-16:30;GAIS;Oster;789;1.45;4.5;6.7;2.27;1.63;2.6;1.82;4.65;2.17
-16:30;Mutilvera;Sestao;750;4.95;3.3;1.7;1.6;2.18;4.1;2.07;5.9;2.8
-16:30;Huachipato;U. De Chile;766;4.45;3.75;1.67;2.1;1.65;2.68;1.63;4.4;2.03
-16:30;AEL Larissa;Levadiakos;785;3.25;3.15;2.3;1.7;2.13;3.95;1.9;5.1;2.55
-16:30;Farense;Benfica B;763;2.1;3.35;3.35;1.72;2.05;3.7;1.82;5.1;2.45
-16:45;Utrecht;Nijmegen;798;2.18;3.45;3.2;2.35;1.63;2.52;1.55;3.85;1.87
-16:45;Hermannstadt;Otelul;790;2.32;3.15;3.1;1.75;2.1;3.75;1.83;4.95;2.45
-16:45;Cherno More;Ludogorets;756;4.35;3.25;1.87;1.57;2.25;4.3;2.05;5.8;2.8
-16:45;Maastricht;Den Haag;792;7.2;5.6;1.33;3.0;1.35;1.9;1.57;3.8;1.77
-17:00;Vojvodina;IMT;782;1.4;4.25;7.0;2.25;1.57;2.47;1.8;4.7;2.18
-17:00;Rapid Vienna;Sturm;797;2.37;3.55;2.8;2.2;1.67;2.7;1.57;4.05;1.92
-17:00;Bryne;Brann;791;4.35;3.65;1.8;2.05;1.73;2.85;1.67;4.55;2.1
-17:00;Fredrikstad;Kristiansund;792;1.8;3.9;4.0;2.2;1.65;2.63;1.6;4.25;1.97
-17:00;Ham-Kam;Sandefjord;795;2.55;3.6;2.57;2.2;1.65;2.65;1.55;4.1;1.92
-17:00;KFUM Oslo;Haugesund;777;1.22;6.4;13.0;2.3;1.6;2.5;2.27;5.7;2.7
-17:00;Shakhtar D.;Dyn. Kyiv;767;1.73;3.75;4.1;2.1;1.65;2.68;1.62;4.33;2.0
-17:00;Golden Arrows;Marumo Gallants;739;2.85;2.63;2.95;1.3;3.2;7.3;2.47;7.5;3.95
-17:00;Bergantinos;Langreo;753;2.07;3.0;3.65;1.48;2.4;4.85;2.1;6.1;3.0
-17:00;Gimnastica;Burgos CF B;749;1.4;4.05;7.5;1.72;1.97;3.55;2.28;6.2;2.95
-17:00;Numancia;Valladolid B;760;1.67;3.65;4.55;1.87;1.82;3.15;1.77;4.85;2.28
-17:00;Salamanca;Coruxo FC;755;1.7;3.35;4.95;1.63;2.12;3.95;2.05;5.7;2.75
-17:00;Sarriana;Real Avila;754;3.15;2.9;2.33;1.47;2.45;4.95;2.07;6.2;3.0
-17:00;UD Samano;Marino de Luanco;756;3.15;3.0;2.28;1.55;2.3;4.4;1.95;5.6;2.75
-17:00;Naxara;Zaragoza B;767;2.5;3.1;2.72;1.75;1.95;3.5;1.73;4.85;2.33
-17:00;R. Union;Gernika;756;1.67;3.6;4.65;1.7;2.03;3.7;1.97;5.45;2.6
-17:00;UD Logrones;Utebo;752;1.83;3.25;4.25;1.55;2.27;4.35;2.07;5.9;2.85
-17:00;Atletic Lleida;Castellon B;775;1.85;3.9;3.4;2.55;1.43;2.12;1.4;3.5;1.65
-17:00;Puente Genil;Aguilas FC;737;3.4;2.72;2.35;1.35;2.95;6.5;2.35;7.1;3.65
-17:00;Xerez;Antoniano;729;2.0;2.95;4.0;1.38;2.75;5.8;2.33;6.9;3.5
-17:00;Quintanar del Rey;Rayo Majadahonda;740;2.57;2.75;3.0;1.32;3.0;6.7;2.37;7.2;3.7
-17:00;FK Vanspor;Sakaryaspor;768;2.17;3.4;3.2;1.9;1.82;3.15;1.65;4.55;2.17
-17:00;Esbjerg;B.93;772;2.05;3.85;3.1;2.3;1.55;2.42;1.48;3.8;1.8
-17:00;Polonia Bytom;Pruszkow;766;1.65;4.0;4.55;2.15;1.63;2.62;1.63;4.4;2.0
-17:00;Ajka;Mezokovesd;763;3.0;3.1;2.2;1.7;2.0;3.6;1.75;4.9;2.37
-17:00;Soroksar;Honved;766;3.65;3.6;1.8;2.1;1.63;2.63;1.57;4.2;1.95
-17:00;Tiszakecske;Kecskemeti;760;3.35;3.45;1.9;1.75;1.93;3.45;1.75;4.9;2.35
-17:00;Raufoss;Mjondalen;768;1.6;4.5;4.6;2.3;1.55;2.42;1.57;4.1;1.9
-17:00;Stabaek;Lyn;775;2.35;4.0;2.52;2.5;1.47;2.18;1.4;3.5;1.67
-17:00;Grosuplje;Bistrica;759;1.55;3.95;5.2;2.03;1.7;2.8;1.75;4.7;2.18
-17:00;Triglav;Tabor Sezana;762;1.65;4.05;4.3;2.03;1.7;2.8;1.7;4.55;2.1
-17:15;Lens;Lorient;880;1.48;4.55;7.1;2.15;1.73;2.8;1.9;5.1;2.32
-17:15;Lille;Angers;872;1.28;6.1;11.0;2.23;1.67;2.68;2.18;5.7;2.62
-17:15;Nantes;Metz;881;1.93;3.75;4.1;1.9;1.93;3.35;1.77;4.95;2.28
-17:15;Toulouse;Le Havre;882;1.8;3.75;4.75;1.83;2.0;3.55;1.9;5.25;2.45
-17:15;Monza;Spezia;780;2.0;3.15;4.35;1.52;2.55;5.2;2.27;6.4;3.15
-17:25;Suduva;FA Siauliai;758;1.67;3.35;4.8;1.92;1.75;3.0;1.77;4.8;2.27
-17:25;Zalgiris;Hegelmann;760;1.87;3.35;3.65;1.88;1.8;3.05;1.67;4.6;2.15
-17:30;Manchester City;Bournemouth;907;1.52;4.7;6.0;2.5;1.55;2.35;1.63;4.25;1.95
-17:30;Wolfsburg;Hoffenheim;891;2.68;3.75;2.42;2.5;1.53;2.3;1.43;3.65;1.73
-17:30;Jagiellonia;Rakow;796;2.3;3.4;3.05;2.0;1.83;3.05;1.67;4.4;2.1
-17:30;Krasnodar;Spartak Moscow;790;2.07;3.5;3.65;1.95;1.88;3.2;1.7;4.75;2.2
-17:30;Primorje;Radomlje;771;2.42;3.4;2.7;2.05;1.7;2.8;1.57;4.2;2.0
-17:30;Pontedera;Perugia;765;2.95;3.05;2.27;1.7;2.0;3.65;1.77;4.95;2.4
-17:30;Ravenna;Ascoli;764;2.5;3.0;2.65;1.62;2.12;3.95;1.83;5.2;2.55
-17:30;Sambenedettese;Guidonia;760;2.03;3.1;3.35;1.67;2.03;3.7;1.82;5.1;2.47
-17:30;Calcio Giugliano;Siracusa;769;2.55;3.2;2.45;1.9;1.77;3.0;1.6;4.4;2.07
-17:30;Latina;Salernitana;757;3.25;3.05;2.13;1.63;2.1;3.9;1.85;5.25;2.55
-17:30;Manchester City;Betis;;2.05;4.15;2.85;3.7;1.23;;;;
-18:00;Parma;Bologna;892;4.2;3.05;2.13;1.57;2.42;4.75;2.1;6.1;2.95
-18:00;Besiktas;Fenerbahce;795;2.65;3.65;2.5;2.3;1.6;2.52;1.5;3.9;1.83
-18:00;Nordsjaelland;Odense;798;1.82;4.0;3.85;2.37;1.6;2.5;1.57;3.95;1.87
-18:00;Debreceni;Zalaegerszegi;794;2.0;3.75;3.3;2.15;1.63;2.63;1.55;4.15;1.93
-18:00;Zhodino;FC Minsk;759;1.7;3.4;4.8;1.75;1.95;3.5;1.9;5.2;2.47
-18:00;Apollon;AEK Larnaca;763;3.25;3.3;2.15;1.72;2.05;3.7;1.8;5.0;2.45
-18:00;Pafos;AEL Limassol;756;1.33;4.95;8.25;2.12;1.65;2.7;2.0;5.25;2.42
-18:00;Trnava;Trencin;765;1.4;4.85;6.6;2.45;1.47;2.23;1.65;4.25;1.95
-18:00;Cartagines;San Carlos;759;1.62;3.85;5.0;1.85;1.85;3.15;1.85;5.0;2.35
-18:00;Bologna;Brest;;2.52;3.25;2.7;1.8;1.9;;;;
-18:15;Gainsborough;Accrington;769;5.2;4.8;1.55;2.28;1.63;2.57;1.7;4.5;2.05
-18:15;Ponferradina;Cacereno;752;1.87;3.15;3.95;1.55;2.25;4.33;2.03;5.8;2.78
-18:15;Real Aviles;Arenteiro;755;2.2;2.6;3.35;1.55;2.25;4.35;1.95;5.6;2.75
-18:15;Real Madrid B;Talavera;755;1.88;3.15;3.85;1.6;2.17;4.1;1.97;5.6;2.65
-18:15;Osijek;Varazdin;785;1.95;3.35;3.85;1.75;1.97;3.5;1.8;4.95;2.37
-18:30;Barcelona;Elche;901;1.27;5.6;12.0;3.2;1.37;1.9;1.77;4.35;2.0
-18:30;St. Truiden;Antwerp;794;2.07;3.55;3.5;2.0;1.85;3.15;1.72;4.55;2.17
-18:30;Castellon;Malaga;791;1.7;4.05;4.5;2.1;1.7;2.8;1.7;4.6;2.12
