@@ -15,8 +15,8 @@ Top Mečevi
  
 Top Lige
  
-Fudbal (235)
-241
+Fudbal (236)
+Sve
 Fudbal Strelci
 10
 Oktagon Duel
@@ -24,21 +24,21 @@ Oktagon Duel
 Golovi Po Ligama
 1
 Tenis
-42
-Košarka
 43
+Košarka
+45
 MMA
 11
 Esport
-8
+11
 Hokej
-37
+38
 Rukomet
-10
+11
 Americki Fudbal
 2
 Odbojka
-14
+16
 Vaterpolo
 1
 Stoni Tenis
@@ -48,7 +48,7 @@ Formula 1
 Bejzbol
 1
 Futsal
-1
+2
 Ragbi Unija
 1
 Pikado
@@ -57,6 +57,8 @@ Boks
 9
 Pobednici
 25
+Tenis Virtual
+1
 Fudbal
 IGRE
 1
@@ -380,12 +382,12 @@ Kleczew - Podbeskidzie
 31.10. 13:00
 +3
 Usce Novi Beograd - Kabel Novi Sad
-2.00
-2.95
-3.40
-1.51
-2.22
-4.40
+2.10
+2.90
+3.25
+1.50
+2.25
+4.50
 2.00
 2.80
 31.10. 13:00
@@ -951,14 +953,14 @@ MSP Batna - US Chaouia
 2.90
 31.10. 15:00
 RC Kouba - El Biar
-1.82
-3.15
-4.10
-1.57
-2.18
-4.20
-2.04
-2.75
+1.81
+3.10
+4.25
+1.52
+2.28
+4.50
+2.12
+2.90
 31.10. 15:00
 Saida - Hussein Dey
 2.18
@@ -1083,14 +1085,14 @@ Shams Azar Qazvin - Sepahan
 31.10. 15:30
 +2
 Rudar Velenje - NK Jesenice
-1.48
-4.05
-4.80
+1.37
+4.33
+5.95
 2.40
-1.45
-2.22
-1.56
-1.84
+1.46
+2.25
+1.68
+1.97
 31.10. 15:30
 Al Arabi Doha - Al-Shahaniya
 1.62
@@ -1373,12 +1375,12 @@ Karlovac - Dubrava
 2.75
 31.10. 17:00
 Al Kuwait SC - Bashundara Kings
-1.03
-10.2
-25.5
-3.40
-1.26
-1.72
+1.02
+10.5
+26.5
+3.50
+1.25
+1.69
 3.00
 3.20
 31.10. 17:15
@@ -1982,6 +1984,26 @@ Wuppertaler - Oberhausen
 2.70
 1.54
 1.91
+31.10. 19:30
+Chateauroux - Aubagne
+2.38
+3.05
+2.95
+1.62
+2.15
+4.15
+1.92
+2.62
+31.10. 19:30
+Dijon - Fleury-Merogis
+1.85
+3.35
+4.05
+1.73
+1.98
+3.60
+1.89
+2.45
 31.10. 19:30
 Le Puy-en-Velay - Concarneau
 1.96
@@ -2774,10 +2796,10 @@ Atletico GO - Paysandu PA
 2.85
 31.10. 23:00
 Coritiba - CRB
-1.86
+1.85
 3.25
-4.40
-1.60
+4.45
+1.61
 2.20
 4.25
 2.07
@@ -3864,14 +3886,14 @@ Thimphu City - BFF Academy U19
 1.55
 01.11. 13:00
 Ljungskile - Skovde AIK
-1.29
-5.05
-7.45
-2.75
-1.38
-2.00
-1.68
-1.93
+1.27
+5.20
+7.70
+2.85
+1.36
+1.95
+1.67
+1.90
 01.11. 13:00
 Norrby - Husqvarna
 1.66
@@ -4092,6 +4114,16 @@ VfL Osnabrück - Duisburg
 3.10
 1.67
 2.12
+01.11. 14:00
+Maccabi Haifa - Hapoel Jerusalem
+1.30
+5.20
+7.90
+2.75
+1.40
+2.05
+1.71
+1.96
 01.11. 14:00
 FSV Frankfurt - Alzenau
 1.32
@@ -4495,13 +4527,13 @@ Casarano - Monopoli
 01.11. 14:30
 Mamelodi Sundowns - Orlando Pirates
 2.15
+2.85
+3.70
+1.38
 2.80
-3.75
-1.34
-2.95
-6.70
-2.47
-3.80
+6.10
+2.38
+3.55
 01.11. 14:30
 Orbit College - Magesi
 3.40
@@ -5134,14 +5166,14 @@ Stevenage - Chesterfield
 1.79
 01.11. 16:00
 Sutton - AFC Telford
-2.15
+2.22
 3.60
-3.05
+2.90
 2.25
 1.58
 2.55
-1.52
-1.85
+1.51
+1.84
 01.11. 16:00
 Tranmere - Stockport
 4.40
@@ -5314,33 +5346,33 @@ Cove Rangers - Peterhead
 2.15
 01.11. 16:00
 East Fife - Hamilton
-2.60
-3.30
-2.40
-2.00
-1.70
-2.85
-1.59
-2.00
+2.55
+3.35
+2.38
+2.05
+1.66
+2.75
+1.56
+1.95
 01.11. 16:00
 Inverness - Montrose
-1.39
-4.10
-7.00
-1.92
-1.76
-3.05
-2.08
-2.60
+1.38
+4.05
+7.10
+1.89
+1.80
+3.10
+2.12
+2.65
 01.11. 16:00
 Queen of South - Stenhousemuir
-2.65
+2.62
 3.05
-2.45
+2.50
 1.70
 2.00
 3.70
-1.80
+1.79
 2.40
 01.11. 16:00
 Alfreton - Kidderminster
@@ -5424,14 +5456,24 @@ Worksop - Scarborough
 1.96
 01.11. 16:00
 Omonia Aradippou - Ol. Nicosia
-2.35
+2.25
 3.10
-2.95
+3.10
 1.69
 2.04
 3.80
 1.83
 2.47
+01.11. 16:00
+Coleraine - Glenavon FC
+1.18
+6.20
+13.0
+2.60
+1.44
+2.18
+2.18
+2.50
 01.11. 16:00
 Clyde - Dumbarton
 1.96
@@ -5443,35 +5485,45 @@ Clyde - Dumbarton
 1.50
 1.82
 01.11. 16:00
+Stranraer - Forfar Athletic
+2.55
+3.10
+2.50
+1.75
+1.94
+3.55
+1.75
+2.32
+01.11. 16:00
 Aveley - Ramsgate
-2.00
-3.70
+2.02
+3.65
 2.95
 2.22
-1.57
+1.56
 2.50
-1.52
-1.85
+1.51
+1.83
 01.11. 16:00
 Brentwood - Wingate & Finchley
-1.61
-3.90
-4.30
-2.12
-1.62
-2.65
-1.66
-2.02
+1.68
+3.85
+3.95
+2.20
+1.58
+2.55
+1.59
+1.92
 01.11. 16:00
 Burgess Hill Town - Canvey
-1.67
+1.69
 3.80
-4.05
-2.12
-1.62
-2.65
-1.64
-1.99
+3.90
+2.15
+1.60
+2.60
+1.60
+1.95
 01.11. 16:00
 Carshalton Ath - Potters Bar
 1.75
@@ -5584,14 +5636,14 @@ Gent U23 - Eupen
 2.08
 01.11. 16:00
 Basingstoke - Farnham
-3.35
-3.75
-1.84
-2.40
-1.49
-2.30
+3.10
+3.70
+1.93
+2.47
 1.47
-1.74
+2.22
+1.44
+1.71
 01.11. 16:00
 Berkhamsted - Havant & W
 2.40
@@ -5644,14 +5696,14 @@ Poole - Gosport
 1.88
 01.11. 16:00
 Sholing - Hungerford
-2.18
-3.35
-2.80
 2.10
-1.64
-2.70
-1.55
-1.93
+3.45
+2.90
+2.15
+1.61
+2.62
+1.54
+1.90
 01.11. 16:00
 Uxbridge - Gloucester
 3.10
@@ -5824,14 +5876,14 @@ Rushall - Prescot Cables
 2.10
 01.11. 16:00
 Rylands - Leek Town
-1.90
-3.70
-3.20
-2.25
-1.56
-2.50
+1.91
+3.75
+3.15
+2.38
 1.51
-1.82
+2.35
+1.47
+1.75
 01.11. 16:00
 Stocksbridge - Workington
 1.92
@@ -6104,14 +6156,14 @@ Atl. Madrid - Sevilla
 2.35
 01.11. 16:15
 Eldense - Algeciras
-1.85
+1.83
 3.25
-3.85
-1.63
+3.95
+1.62
 2.12
-4.00
-1.98
-2.62
+4.05
+2.00
+2.65
 01.11. 16:30
 Nacional - Famalicao
 3.15
@@ -6303,6 +6355,16 @@ Entella - Empoli
 2.02
 2.80
 01.11. 17:30
+SC Ashdod - Hapoel Haifa
+2.80
+3.35
+2.32
+2.00
+1.72
+2.90
+1.60
+2.03
+01.11. 17:30
 Cork City - Derry City
 9.40
 4.60
@@ -6354,14 +6416,14 @@ Virtus Verona - Trento
 3.15
 01.11. 17:30
 Rimini - Bra
-2.20
-3.00
-3.15
-1.50
 2.38
-4.80
-2.07
-2.90
+2.95
+2.85
+1.48
+2.40
+4.95
+2.08
+2.95
 01.11. 17:30
 Vevey - Zurich II
 1.90
@@ -6404,14 +6466,14 @@ Napoli - Como
 2.65
 01.11. 18:00
 FC Copenhagen - Fredericia
-1.19
-6.35
-12.0
-2.90
-1.36
-1.96
+1.17
+6.80
+13.5
+2.95
+1.35
 1.93
-2.18
+2.00
+2.22
 01.11. 18:00
 Cukaricki - Partizan
 4.33
@@ -6574,13 +6636,13 @@ Atromitos - Kifisias
 2.55
 01.11. 18:30
 Al-Nassr Riyadh - Al Feiha
-1.13
-6.85
-12.8
-3.20
-1.29
-1.78
-1.93
+1.14
+6.70
+12.5
+3.10
+1.30
+1.83
+1.94
 2.12
 01.11. 18:30
 Albacete - Huesca
@@ -8675,6 +8737,16 @@ Dziugas Telsiai - Riteriai
 1.75
 2.10
 02.11. 14:00
+Andorra CF - Cadiz CF
+2.25
+3.10
+3.30
+1.65
+2.12
+4.00
+1.90
+2.60
+02.11. 14:00
 Levante - Celta Vigo
 2.80
 3.45
@@ -8808,13 +8880,13 @@ L.R. Vicenza - Giana Erminio
 02.11. 14:30
 Gubbio - Ternana
 2.70
-3.00
-2.47
-1.63
-2.12
-4.05
-1.88
-2.55
+3.05
+2.45
+1.69
+2.02
+3.70
+1.80
+2.40
 02.11. 14:30
 Torres - Carpi
 1.97
@@ -9860,9 +9932,9 @@ Pontedera - Perugia
 2.45
 02.11. 17:30
 Ravenna - Ascoli
-2.70
+2.55
 3.00
-2.47
+2.60
 1.63
 2.12
 4.00
@@ -9961,12 +10033,12 @@ Apollon - AEK Larnaca
 2.45
 02.11. 18:00
 Pafos - AEL Limassol
-1.32
-4.75
-8.30
-2.15
-1.62
-2.62
+1.34
+4.55
+7.95
+2.10
+1.65
+2.70
 2.03
 2.45
 02.11. 18:00
@@ -10510,85 +10582,15 @@ Sp. Luqueno - Ameliano
 3.85
 1.83
 2.47
-02.11. 21:30
-Macara - Emelec
-2.12
-3.00
-3.20
-1.63
-2.12
-4.05
-1.91
-2.60
-02.11. 22:00
-CA Estudiantes - Tristan Suarez
-1.84
-2.95
-4.40
-1.37
-2.80
-6.20
-2.55
-3.70
-02.11. 22:00
-Forge - Cavalry
-1.86
-3.35
-3.65
-1.89
-1.79
-3.10
-1.71
-2.15
-02.11. 22:15
-Tomayapo - Wilstermann
-1.83
-3.35
-3.80
-1.81
-1.87
-3.35
-1.79
-2.28
-02.11. 22:30
-Internacional - Atletico-MG
-2.15
-3.05
-3.60
-1.56
-2.30
-4.55
-2.05
-2.85
-02.11. 22:30
-Juventude - Palmeiras
-6.60
-3.95
-1.50
-1.88
-1.84
-3.25
-2.05
-2.55
-02.11. 22:30
-Remo - Chapecoense-SC
-2.07
-3.20
-3.60
-1.66
-2.10
-3.95
-1.92
-2.60
 
 
-Preostalo mečeva 316
+Preostalo mečeva 323
 
 
 Učitaj sledećih  
 50
 100
-316
+323
 PODRŠKA
 POMOĆ
 ČESTA PITANJA
@@ -10606,23 +10608,23 @@ UPLATNA MESTA
 PROMOCIJE
 ALPHAPEX DOO priređuje igre na sreću preko sredstava elektronske komunikacije – klađenje i ostale igre preko svog sajta www.oktagonbet.com u skladu sa odobrenjem izdatim od strane Ministarstva finansija Republike Srbije, Uprave za igre na sreću na osnovu Rešenja broj 424-01-00022/2020-02 od 30. aprila 2020. godine. Osobama mlađim od 18 godina, po Zakonu o igrama na sreću, nije dozvoljeno klađenje putem elektronske komunikacije na sajtu www.oktagonbet.com.
 TIKET (5)
-Pontedera - Perugia
-02.11. 17:30
+Nantes - Metz
+02.11. 17:15
+Konačan Ishod
+X
+3.55
+X
+Queen of South - Stenhousemuir
+01.11. 16:00
 Konačan Ishod
 X
 3.05
 X
-Marine - AFC Fylde
-01.11. 16:00
-Konačan Ishod
-X
-3.80
-X
-YSCC - Veertien Mie
+Honda FC - Okinawa SV
 01.11. 05:00
 Konačan Ishod
 X
-3.00
+3.25
 X
 WA Mostaganem - Arba
 31.10. 15:00
@@ -10638,10 +10640,10 @@ X
 X
 OBIČAN
 SISTEM
- Kvota:487,56
- Bonus: 3%  292,54
+ Kvota:493,44
+ Bonus: 3%  296,07
 Ukupan dobitak:
-10.044,00 RSD
+10.165,00 RSD
 UPLATI
 
 
