@@ -37,7 +37,7 @@ Sve
   
   
 FUDBAL
-1552
+1550
   
   
 DNEVNI SPECIJAL
@@ -45,11 +45,11 @@ DNEVNI SPECIJAL
   
   
 GOLOVI PO LIGAMA
-174
+172
   
   
 KOŠARKA
-151
+171
   
   
 SP. KOŠARKA
@@ -57,19 +57,19 @@ SP. KOŠARKA
   
   
 TENIS
-114
+109
   
   
 RUKOMET
-48
+53
   
   
 ODBOJKA
-64
+68
   
   
 HOKEJ
-247
+253
   
   
 AM.FUDBAL
@@ -85,15 +85,15 @@ RAGBI UNIJA
   
   
 STONI TENIS
-174
+172
   
   
 VATERPOLO
-2
+3
   
   
 FUTSAL
-11
+18
   
   
 BADMINTON
@@ -106,6 +106,10 @@ MMA
   
 BOKS
 15
+  
+  
+SNUKER
+25
   
   
 PIKADO
@@ -125,15 +129,15 @@ ESPORT
   
   
 SP. FUDBAL
-3343
+3342
   
   
 VIR. FUDBAL
-95
+94
   
   
 VIR. TENIS
-3
+2
   
   
 OUTRIGHT
@@ -150,119 +154,6 @@ Vremenska
 Top
 Specijali
 KONAČAN ISHOD
- 
-China, Super League
-+833
-Shanghai Port
-Zhejiang Professional
-31.10. 11:00
-ki 1
-1.62
-ki X
-4.40
-ki 2
-4.05
-manje 2.5
-3.45
-više 2.5
-1.27
- 
-Czech Republic, U19 League
-+82
-Plzen U19
-FK Pardubice U19
-31.10. 11:00
-ki 1
-1.77
-ki X
-3.85
-ki 2
-3.30
-manje 2.5
-2.88
-više 2.5
-1.32
- 
-Israel, Liga Alef South
-+642
-Nordia Jerusalem
-Hapoel Azor
-31.10. 11:00
-ki 1
-3.05
-ki X
-2.97
-ki 2
-2.25
-manje 2.5
-1.60
-više 2.5
-2.20
- 
-Russia,Youth League
-+81
-Akhmat Grozny U19
-Dinamo Moscow U19
-31.10. 11:00
-ki 1
-5.90
-ki X
-4.50
-ki 2
-1.40
-manje 2.5
-2.50
-više 2.5
-1.42
- 
-Vietnam, V.League 1
-+816
-Gia Lai
-Nam Dinh
-31.10. 11:00
-ki 1
-4.45
-ki X
-3.35
-ki 2
-1.70
-manje 2.5
-1.80
-više 2.5
-1.88
- 
-International Clubs, AFC Challenge League
-+642
-Regar-TadAZ
-Safa
-31.10. 11:00
-ki 1
-2.35
-ki X
-3.05
-ki 2
-2.83
-manje 2.5
-1.55
-više 2.5
-2.27
- 
-+3 
-Serbia, U19 League
-+39
-Vojvodina U19
-Crvena zvezda U19
-31.10. 11:00
-ki 1
-4.15
-ki X
-4.05
-ki 2
-1.57
-manje 2.5
-2.73
-više 2.5
-1.36
  
 Israel, Liga Alef South
 +642
@@ -330,15 +221,15 @@ Perth Glory
 Melbourne Victory
 31.10. 11:45
 ki 1
-2.93
+2.88
 ki X
-3.60
+3.65
 ki 2
 2.22
 manje 2.5
-2.22
+2.30
 više 2.5
-1.60
+1.55
  
 Czech Republic, U19 League
 +82
@@ -408,13 +299,13 @@ Wisla II
 Siarka Tarnobrzeg
 31.10. 12:00
 ki 1
-2.45
+2.60
 ki X
 3.50
 ki 2
-2.30
+2.20
 manje 2.5
-2.41
+2.40
 više 2.5
 1.45
  
@@ -516,18 +407,18 @@ više 2.5
 1.29
  
 Indonesia, Super League
-+810
++808
 Persija Jakarta
 PSBS Biak Numfor
 31.10. 13:00
 ki 1
-1.22
+1.21
 ki X
-5.45
+5.60
 ki 2
-9.75
+10.0
 manje 2.5
-2.55
+2.60
 više 2.5
 1.43
  
@@ -583,13 +474,13 @@ Zabki
 Biala Piska
 31.10. 13:00
 ki 1
-1.04
+1.03
 ki X
-9.00
+9.75
 ki 2
-18.0
+20.0
 manje 2.5
-4.35
+4.40
 više 2.5
 1.14
  
@@ -622,6 +513,114 @@ manje 2.5
 2.22
 više 2.5
 1.53
++82
+Unia Swarzedz
+Elana Torun
+31.10. 13:00
+ki 1
+2.93
+ki X
+3.30
+ki 2
+2.05
+manje 2.5
+2.05
+više 2.5
+1.62
+ 
+Poland, III Liga - Group IV
++82
+Stal Krasnik
+Biala Podlaska
+31.10. 13:00
+ki 1
+2.30
+ki X
+3.45
+ki 2
+2.45
+manje 2.5
+2.35
+više 2.5
+1.48
+ 
+Russia,Youth League
++79
+Krasnodar U19
+Fakel Voronezh U19
+31.10. 13:00
+ki 1
+1.19
+ki X
+6.00
+ki 2
+10.0
+manje 2.5
+3.05
+više 2.5
+1.29
++81
+Nizhny Novgorod U19
+Lokomotiv Moscow U19
+31.10. 13:00
+ki 1
+5.70
+ki X
+4.40
+ki 2
+1.42
+manje 2.5
+2.50
+više 2.5
+1.43
+ 
+Indonesia, Championship
++645
+PSMS Medan
+Garudayaksa
+31.10. 13:00
+ki 1
+3.10
+ki X
+3.20
+ki 2
+2.20
+manje 2.5
+1.65
+više 2.5
+2.12
+ 
+International Clubs, AFC Challenge League
++645
+Paro FC
+Abdish-Ata
+31.10. 13:00
+ki 1
+2.97
+ki X
+3.45
+ki 2
+2.05
+manje 2.5
+2.10
+više 2.5
+1.65
+ 
+Vietnam, V.League 1
++799
+Cong An Nhan Dan
+PVF-CAND
+31.10. 13:15
+ki 1
+1.20
+ki X
+5.50
+ki 2
+10.5
+manje 2.5
+2.41
+više 2.5
+1.48
  Tiket
 TIKET
 
@@ -673,14 +672,14 @@ Danijela D.
 8.000,00
 5.
 Nina T.
-10,382.88
+10,394.38
 5.000,00
 Pravila igre
 Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-10:59:22
+11:08:10
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
