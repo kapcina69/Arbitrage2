@@ -5,8 +5,8 @@ Udinese  vs  Atalanta
 - Brazil_s   1=4.55  |  X=3.3  |  2=1.9  |  0-2=2  |  2+=1.27  |  3+=1.84
 - Mozzart    1=4.7  |  X=3.7  |  2=1.85  |  0-2=2.01  |  2+=1.27  |  3+=1.84
 - OktagonBet 1=4.55  |  X=3.35  |  2=1.89  |  0-2=1.99  |  3+=1.82  |  GG=1.78  |  GG&3+=2.25  |  4+=3.15
-- Soccer     1=4.25  |  X=3.8  |  2=1.85  |  0-2=2.0  |  2+=1.27  |  3+=1.82  |  GG=1.72  |  IGG=4.55  |  GG&3+=2.15
-- Topbet     1=4.25  |  X=3.75  |  2=1.85
+- Soccer     1=4.45  |  X=3.7  |  2=1.83  |  0-2=1.97  |  2+=1.28  |  3+=1.85  |  GG=1.72  |  IGG=4.6  |  GG&3+=2.17
+- Topbet     1=4.3  |  X=3.75  |  2=1.8
 
 Najveća 1  : 4.70  [Mozzart]
 Najveća X  : 3.85  [BalkanBet]
@@ -21,25 +21,25 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0323   profit≈-3.23%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1495
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1126
-Grupa sa veličinom ≥3: 812
-Grupa sa veličinom ≥4: 507
-Grupa sa veličinom ≥5: 251
-Grupa sa veličinom ≥6: 99
+Ukupno mečeva (grupa): 1496
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1133
+Grupa sa veličinom ≥3: 810
+Grupa sa veličinom ≥4: 492
+Grupa sa veličinom ≥5: 244
+Grupa sa veličinom ≥6: 95
 Grupa sa veličinom ≥7: 31
 
 Po kladionici:
   - BalkanBet  ukupno zapisa: 1134   spojeno (u grupama >1):  987
   - BetOle     ukupno zapisa:   26   spojeno (u grupama >1):   26
-  - Brazil_d   ukupno zapisa:  149   spojeno (u grupama >1):  148
-  - Brazil_p   ukupno zapisa:  132   spojeno (u grupama >1):  126
-  - Brazil_s   ukupno zapisa:  166   spojeno (u grupama >1):  163
+  - Brazil_d   ukupno zapisa:  151   spojeno (u grupama >1):  150
+  - Brazil_p   ukupno zapisa:  133   spojeno (u grupama >1):  131
+  - Brazil_s   ukupno zapisa:  165   spojeno (u grupama >1):  162
   - MaxBet     ukupno zapisa:  170   spojeno (u grupama >1):  161
-  - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  377
-  - OktagonBet ukupno zapisa: 1037   spojeno (u grupama >1):  918
-  - Soccer     ukupno zapisa:  375   spojeno (u grupama >1):  356
-  - Topbet     ukupno zapisa:  730   spojeno (u grupama >1):  693
+  - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  376
+  - OktagonBet ukupno zapisa: 1038   spojeno (u grupama >1):  918
+  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  334
+  - Topbet     ukupno zapisa:  730   spojeno (u grupama >1):  694
 
 Arbitraže (broj mečeva/grupa):
   - 1-X-2: 1
