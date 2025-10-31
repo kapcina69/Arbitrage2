@@ -16,40 +16,23 @@ Bonus tip
 Danas
 Sutra
 02.11.
-7:00
+8:00
 23:59
-7:00 - 23:59
+8:00 - 23:59
 FUDBAL
 KOŠARKA
-STRELCI FUDBAL
+KARIOKA SPECIJAL
 TENIS
 HOKEJ
 RUKOMET
 ODBOJKA
 VATERPOLO
+AMERIČKI FUDBAL
 ESPORT
 FUDBAL VIRTUAL
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-AUSTRALIA, A-League
-16
-07:00
-Central Coast Mariners
-Wellington Phoenix
-844
-1
-2.45
-X
-3.35
-2
-2.75
-0-2
-1.95
-2+
-1.23
-3+
-1.77
 JAPAN, J3 League
 790
 08:00
@@ -1145,7 +1128,7 @@ ITALY, Serie A
 12:30
 Verona
 Inter
-1005
+949
 1
 7.80
 X
@@ -1941,7 +1924,7 @@ SPAIN, LaLiga
 14:00
 Levante
 Celta Vigo
-1027
+977
 1
 2.80
 X
@@ -2558,54 +2541,54 @@ ITALY, Serie C - Group A
 14:30
 Cittadella
 Pro Vercelli
-827
+829
 1
-2.15
+2.05
 X
 3.00
 2
-3.25
+3.45
 0-2
-1.48
+1.49
 2+
-1.45
+1.44
 3+
 2.40
 691
 14:30
 L.R. Vicenza
 Giana Erminio
-817
+820
 1
-1.23
+1.25
 X
-4.80
+4.60
 2
-11.5
+11.0
 0-2
-1.93
+1.85
 2+
-1.23
+1.25
 3+
-1.77
+1.85
 ITALY, Serie C - Group B
 701
 14:30
 Gubbio
 Ternana
-833
+834
 1
-2.70
+2.75
 X
-3.00
+2.95
 2
-2.45
+2.50
 0-2
-1.70
+1.57
 2+
-1.31
+1.38
 3+
-2.02
+2.22
 702
 14:30
 Torres
@@ -2645,19 +2628,19 @@ X
 14:30
 Potenza
 Foggia
-829
+834
 1
-1.76
+1.67
 X
-3.25
+3.35
 2
-4.25
+4.70
 0-2
-1.75
+1.77
 2+
-1.29
+1.28
 3+
-1.95
+1.92
 NETHERLANDS, Eerste League
 184
 14:30
@@ -2789,7 +2772,7 @@ ENGLAND, Premier League
 15:00
 West Ham
 Newcastle
-1037
+959
 1
 5.00
 X
@@ -2807,7 +2790,7 @@ ITALY, Serie A
 15:00
 Fiorentina
 Lecce
-1019
+963
 1
 1.70
 X
@@ -2824,7 +2807,7 @@ X
 15:00
 Torino
 Pisa
-946
+942
 1
 2.00
 X
@@ -4769,7 +4752,7 @@ ENGLAND, Premier League
 17:30
 Manchester City
 Bournemouth
-1051
+967
 1
 1.50
 X
@@ -4894,17 +4877,17 @@ Latina
 Salernitana
 834
 1
-3.40
+3.70
 X
-3.10
+3.20
 2
-2.05
+1.91
 0-2
-1.65
+1.68
 2+
-1.33
+1.32
 3+
-2.07
+2.05
 POLAND, Ekstraklasa
 193
 17:30
@@ -4964,7 +4947,7 @@ ITALY, Serie A
 18:00
 Parma
 Bologna
-1002
+949
 1
 3.85
 X
@@ -5511,21 +5494,933 @@ X
 1.21
 3+
 1.69
+MEXICO, Liga de Expansion MX - Apertura
+913
+19:00
+Leones Negros
+Venados
+844
+1
+1.75
+X
+3.70
+2
+4.05
+0-2
+2.22
+2+
+1.17
+3+
+1.58
+PERU, Liga 1 - Clausura
+860
+19:00
+Alianza Huanuco
+Cusco
+833
+1
+3.05
+X
+3.30
+2
+2.20
+0-2
+2.00
+2+
+1.22
+3+
+1.74
+PORTUGAL, Liga Portugal
+147
+19:00
+Arouca
+Moreirense
+938
+1
+2.62
+X
+3.15
+2
+2.70
+0-2
+1.70
+2+
+1.33
+3+
+2.05
+BELGIUM, Jupiler Pro League
+671
+19:15
+RAAL La Louviere
+Cercle Brugge KSV
+937
+1
+2.55
+X
+3.15
+2
+2.75
+0-2
+1.72
+2+
+1.32
+3+
+2.02
+ISRAEL, Ligat ha'Al
+326
+19:15
+Kiryat Shmona
+Netanya
+842
+1
+2.50
+X
+3.20
+2
+2.70
+0-2
+1.82
+2+
+1.27
+3+
+1.89
+NORWAY, Eliteserien
+442
+19:15
+Tromso
+Sarpsborg
+841
+1
+1.55
+X
+4.35
+2
+5.10
+0-2
+2.40
+2+
+1.14
+3+
+1.50
+ARGENTINA, Primera B - Clausura
+907
+19:30
+Villa Dalmine
+Brown Adrogue
+813
+1
+2.25
+X
+2.75
+2
+3.35
+0-2
+1.35
+2+
+1.59
+3+
+2.88
+GERMANY, 3. Liga
+178
+19:30
+Alemannia Aachen
+Saarbrucken
+842
+1
+2.30
+X
+3.55
+2
+2.80
+0-2
+2.25
+2+
+1.17
+3+
+1.58
+ITALY, Serie B
+337
+19:30
+Sampdoria
+Mantova
+934
+1
+2.03
+X
+3.30
+2
+3.65
+0-2
+1.78
+2+
+1.30
+3+
+1.97
+POLAND, Division 2
+646
+19:30
+Ol. Grudziadz
+Sandecja Nowy S.
+837
+1
+1.85
+X
+3.45
+2
+3.60
+0-2
+2.03
+2+
+1.20
+3+
+1.68
+ROMANIA, Superliga
+1039
+19:30
+U Craiova 1948
+FC Rapid Bucuresti
+838
+1
+2.05
+X
+3.30
+2
+3.40
+0-2
+1.82
+2+
+1.27
+3+
+1.89
+ARGENTINA, Primera Nacional - Promotion - Play Offs
+1022
+20:00
+Deportivo Madryn
+Gimnasia Jujuy
+812
+1
+2.07
+X
+2.85
+2
+3.65
+0-2
+1.29
+2+
+1.68
+3+
+3.20
+ARGENTINA, Torneo Betano - Clausura
+1128
+20:00
+Estudiantes L.P.
+Boca Juniors
+824
+1
+2.85
+X
+3.00
+2
+2.60
+0-2
+1.45
+2+
+1.48
+3+
+2.55
+BOLIVIA, Division Profesional
+930
+20:00
+Academia del Balompie
+The Strongest
+848
+1
+3.30
+X
+3.75
+2
+1.86
+0-2
+2.35
+2+
+1.14
+3+
+1.51
+BOSNIA AND HERZEGOVINA, Premijer Liga BiH
+1077
+20:00
+Borac Banja Luka
+Sloga Doboj
+810
+1
+1.15
+X
+5.75
+2
+14.0
+0-2
+2.15
+2+
+1.17
+3+
+1.61
+BRAZIL, Serie A
+603
+20:00
+Bahia
+Bragantino
+932
+1
+1.67
+X
+3.70
+2
+4.90
+0-2
+1.85
+2+
+1.27
+3+
+1.89
+604
+20:00
+Ceara
+Fluminense
+925
+1
+2.90
+X
+2.88
+2
+2.62
+0-2
+1.48
+2+
+1.47
+3+
+2.45
+605
+20:00
+Corinthians
+Gremio
+930
+1
+1.75
+X
+3.30
+2
+5.10
+0-2
+1.67
+2+
+1.34
+3+
+2.08
+BRAZIL, Serie B
+629
+20:00
+Amazonas
+Cuiaba
+829
+1
+2.75
+X
+3.00
+2
+2.70
+0-2
+1.55
+2+
+1.42
+3+
+2.30
+DENMARK, Superliga
+92
+20:00
+Silkeborg
+Brondby
+849
+1
+3.30
+X
+3.80
+2
+1.99
+0-2
+2.40
+2+
+1.14
+3+
+1.51
+GREECE, Super League
+281
+20:00
+AEK Athens FC
+Panetolikos
+818
+1
+1.17
+X
+6.20
+2
+14.0
+0-2
+2.28
+2+
+1.16
+3+
+1.56
+USA, USL Championship - Play Offs
+889
+20:00
+Charleston
+Rhode Island
+662
+1
+1.61
+X
+3.65
+2
+4.70
+0-2
+2.03
+2+
+1.20
+3+
+1.68
+POLAND, Ekstraklasa
+194
+20:15
+Widzew Lodz
+Legia
+839
+1
+3.10
+X
+3.35
+2
+2.25
+0-2
+1.98
+2+
+1.23
+3+
+1.77
+POLAND, Division 1
+458
+20:15
+Legnica
+KS Wieczysta Krakow
+849
+1
+2.70
+X
+3.65
+2
+2.25
+0-2
+2.50
+2+
+1.12
+3+
+1.46
+ITALY, Serie C - Group A
+692
+20:30
+Lecco
+Arzignano
+825
+1
+2.25
+X
+2.90
+2
+3.15
+0-2
+1.53
+2+
+1.41
+3+
+2.30
+693
+20:30
+Lumezzane
+Renate
+830
+1
+2.35
+X
+2.88
+2
+2.95
+0-2
+1.52
+2+
+1.42
+3+
+2.35
+ITALY, Serie C - Group C
+716
+20:30
+Benevento
+Sorrento
+818
+1
+1.20
+X
+5.10
+2
+12.0
+0-2
+2.03
+2+
+1.20
+3+
+1.68
+SPAIN, Primera RFEF - Group 2
+964
+20:30
+Gimnastic
+Atl. Madrid B
+664
+1
+2.38
+X
+2.90
+2
+2.88
+0-2
+1.55
+2+
+1.39
+3+
+2.25
+URUGUAY, Liga AUF Uruguaya - Clausura
+1155
+20:30
+Racing Montevideo
+Danubio
+822
+1
+2.55
+X
+2.95
+2
+2.85
+0-2
+1.49
+2+
+1.44
+3+
+2.40
+ITALY, Serie A
+24
+20:45
+AC Milan
+AS Roma
+1017
+1
+2.20
+X
+3.10
+2
+3.65
+0-2
+1.68
+2+
+1.40
+3+
+2.22
+FRANCE, Ligue 1
+47
+20:45
+Brest
+Lyon
+953
+1
+3.15
+X
+3.40
+2
+2.28
+0-2
+2.05
+2+
+1.26
+3+
+1.80
+SPAIN, LaLiga
+597
+21:00
+Betis
+Mallorca
+952
+1
+1.60
+X
+4.05
+2
+5.60
+0-2
+1.95
+2+
+1.28
+3+
+1.87
+COLOMBIA, Primera A - Clausura
+935
+21:00
+Bucaramanga
+La Equidad
+818
+1
+1.25
+X
+4.85
+2
+12.0
+0-2
+1.92
+2+
+1.24
+3+
+1.80
+SPAIN, LaLiga2
+545
+21:00
+Zaragoza
+Dep. La Coruna
+971
+1
+3.15
+X
+3.15
+2
+2.30
+0-2
+1.72
+2+
+1.32
+3+
+2.02
+USA, NWSL
+651
+21:00
+Kansas City Current Wom.
+San Diego Wave Wom.
+102
+1
+1.53
+X
+3.65
+2
+5.45
+0-2
+1.85
+2+
+1.26
+3+
+1.85
+CHILE, Primera Division
+112
+21:30
+Coquimbo
+Union La Calera
+828
+1
+1.65
+X
+3.45
+2
+5.20
+0-2
+1.65
+2+
+1.35
+3+
+2.12
+113
+21:30
+U. Catolica
+O.Higgins
+837
+1
+2.12
+X
+3.20
+2
+3.30
+0-2
+1.68
+2+
+1.33
+3+
+2.07
+ECUADOR, Liga Pro - Placement Group
+1164
+21:30
+Macara
+Emelec
+659
+1
+2.12
+X
+3.00
+2
+3.20
+0-2
+1.62
+2+
+1.34
+3+
+2.12
+PARAGUAY, Copa de Primera - Clausura
+1140
+21:30
+Sp. Luqueno
+Ameliano
+838
+1
+2.62
+X
+3.05
+2
+2.62
+0-2
+1.67
+2+
+1.33
+3+
+2.07
+PERU, Liga 1 - Clausura
+861
+21:30
+Grau
+Alianza Atl.
+835
+1
+2.30
+X
+3.00
+2
+3.10
+0-2
+1.63
+2+
+1.36
+3+
+2.15
+PORTUGAL, Liga Portugal
+148
+21:30
+FC Porto
+Braga
+931
+1
+1.52
+X
+4.00
+2
+6.10
+0-2
+1.90
+2+
+1.25
+3+
+1.82
+ARGENTINA, Primera Nacional - Promotion - Play Offs
+1023
+22:00
+CA Estudiantes
+Tristan Suarez
+813
+1
+1.84
+X
+2.90
+2
+4.45
+0-2
+1.36
+2+
+1.58
+3+
+2.85
+CANADA, Canadian Premier League - Play Offs
+1033
+22:00
+Forge
+Cavalry
+663
+1
+1.86
+X
+3.30
+2
+3.70
+0-2
+1.90
+2+
+1.24
+3+
+1.80
+BOLIVIA, Division Profesional
+931
+22:15
+Tomayapo
+Wilstermann
+835
+1
+1.81
+X
+3.30
+2
+3.90
+0-2
+1.80
+2+
+1.26
+3+
+1.87
+ARGENTINA, Torneo Betano - Clausura
+1129
+22:30
+Godoy Cruz
+San Martin SJ
+820
+1
+2.12
+X
+2.95
+2
+3.90
+0-2
+1.36
+2+
+1.60
+3+
+2.90
+BRAZIL, Serie A
+606
+22:30
+Internacional
+Atletico-MG
+926
+1
+2.15
+X
+3.05
+2
+3.65
+0-2
+1.55
+2+
+1.42
+3+
+2.30
+607
+22:30
+Juventude
+Palmeiras
+925
+1
+6.75
+X
+3.90
+2
+1.51
+0-2
+1.87
+2+
+1.26
+3+
+1.85
+BRAZIL, Serie B
+630
+22:30
+Remo
+Chapecoense-SC
+834
+1
+2.07
+X
+3.20
+2
+3.65
+0-2
+1.65
+2+
+1.35
+3+
+2.12
+URUGUAY, Liga AUF Uruguaya - Clausura
+1156
+23:00
+Penarol
+Defensor Sp.
+829
+1
+1.47
+X
+3.85
+2
+6.60
+0-2
+1.75
+2+
+1.28
+3+
+1.93
+USA, NWSL
+652
+23:00
+Chicago Wom.
+Angel City Wom.
+103
+1
+3.00
+X
+3.15
+2
+2.20
+0-2
+1.80
+2+
+1.27
+3+
+1.89
+653
+23:00
+North Carolina Courage Wom.
+Gotham Wom.
+103
+1
+3.05
+X
+3.00
+2
+2.25
+0-2
+1.65
+2+
+1.34
+3+
+2.12
 Odigrani tiketi
-781
-Asan - Cheonan City
+747
+Suwon FC - Daegu
 02.11. 08:30
 KONAČAN ISHOD 
 1
-  1.66  
+  1.93  
 Običan
 Sistem
 Kvota:
-1.66
+1.93
 Uplata:
 20.00 RSD
 Dobitak:
-33.20 RSD
+38.60 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express
