@@ -1,45 +1,89 @@
+20:30   31.10.   [Engleska FA Kup]
+Luton  vs  Forest Green
+
+- BalkanBet  1=1.38  |  X=5.25  |  2=7.25  |  0-2=2.3  |  2+=1.21  |  3+=1.63  |  GG=1.8  |  IGG=4.65  |  GG&3+=2.05  |  GG&4+=3.05  |  4+=2.6
+- BetOle     1=1.41  |  X=4.75  |  2=6.7  |  0-2=2.37  |  3+=1.53
+- Brazil_d   1=1.41  |  X=4.7  |  2=6.75  |  0-2=2.35  |  2+=1.15  |  3+=1.53
+- MaxBet     1=1.42  |  X=4.60  |  2=6.70
+- Mozzart    1=1.48  |  X=4.4  |  2=6.75  |  0-2=2.41  |  2+=1.17  |  3+=1.5
+- OktagonBet 1=1.41  |  X=4.75  |  2=6.7  |  0-2=2.35  |  3+=1.53  |  GG=1.75  |  GG&3+=2.05  |  4+=2.4
+- Soccer     1=1.48  |  X=4.4  |  2=6.2  |  0-2=2.27  |  2+=1.16  |  3+=1.57  |  GG=1.7  |  IGG=4.0  |  GG&3+=1.98
+- Topbet     1=1.32  |  X=5.2  |  2=7.67
+
+Najveća 1  : 1.48  [Mozzart, Soccer]
+Najveća X  : 5.25  [BalkanBet]
+Najveća 2  : 7.67  [Topbet]
+Najveća 0-2: 2.41  [Mozzart]
+Najveća 3+ : 1.63  [BalkanBet]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9965   profit≈0.35%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0284   profit≈-2.84%
+
+21:00   31.10.   [Engleska 2]
+Wrexham  vs  Coventry
+
+- BalkanBet  1=3.75  |  X=3.5  |  2=2  |  0-2=1.84  |  2+=1.34  |  3+=1.98  |  GG=1.8  |  IGG=5.1  |  GG&3+=2.3  |  GG&4+=3.95  |  4+=3.55
+- BetOle     1=3.95  |  X=3.45  |  2=1.97  |  0-2=1.85  |  3+=1.97
+- Brazil_d   1=3.95  |  X=3.4  |  2=1.99  |  0-2=1.85  |  2+=1.32  |  3+=1.97
+- MaxBet     1=3.35  |  X=3.25  |  2=2.12
+- Mozzart    1=4  |  X=3.5  |  2=1.93  |  0-2=1.8  |  2+=1.29  |  3+=1.9
+- OktagonBet 1=3.5  |  X=3.3  |  2=2.18  |  0-2=1.84  |  3+=1.98  |  GG=1.81  |  GG&3+=2.38  |  4+=3.55
+- Soccer     1=3.7  |  X=3.65  |  2=1.93  |  0-2=1.85  |  2+=1.29  |  3+=1.95  |  GG=1.8  |  IGG=4.55  |  GG&3+=2.3
+- Topbet     1=3.55  |  X=3.55  |  2=2.05
+
+Najveća 1  : 4.00  [Mozzart]
+Najveća X  : 3.65  [Soccer]
+Najveća 2  : 2.18  [OktagonBet]
+Najveća 0-2: 1.85  [BetOle, Brazil_d, Soccer]
+Najveća 3+ : 1.98  [BalkanBet, OktagonBet]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9827   profit≈1.73%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0456   profit≈-4.56%
+
 23:00   31.10.   [Argentina 1]
 San Lorenzo  vs  Riestra
 
-- BalkanBet  1=2.05  |  X=2.9  |  2=4.6  |  0-2=1.25  |  2+=1.85  |  3+=4  |  GG=3.1  |  IGG=9.5  |  GG&3+=4.9  |  GG&4+=10.4  |  4+=10
+- BalkanBet  1=2.1  |  X=2.8  |  2=4.6  |  0-2=1.25  |  2+=1.85  |  3+=4  |  GG=3  |  IGG=9.5  |  GG&3+=4.7  |  GG&4+=10.4  |  4+=10
+- BetOle     1=2.02  |  X=2.73  |  2=4.8  |  0-2=1.18  |  3+=4.3
+- Brazil_d   1=2.02  |  X=2.7  |  2=4.8  |  0-2=1.18  |  2+=2  |  3+=4.3
 - MaxBet     1=2.05  |  X=2.65  |  2=4.85
 - Mozzart    1=1.9  |  X=3.05  |  2=4.85  |  0-2=1.33  |  2+=1.7  |  3+=3.05
 - OktagonBet 1=2.02  |  X=2.7  |  2=4.8  |  0-2=1.18  |  3+=4.3  |  GG=3.4  |  GG&3+=5.8  |  4+=11.3
 - Soccer     1=2.0  |  X=2.75  |  2=5.0  |  0-2=1.23  |  2+=1.93  |  3+=4.1  |  GG=3.1  |  IGG=9.7  |  GG&3+=5.0
-- Topbet     1=2  |  X=2.65  |  2=4.4
+- Topbet     1=2  |  X=2.55  |  2=4.8
 
-Najveća 1  : 2.05  [BalkanBet, MaxBet]
+Najveća 1  : 2.10  [BalkanBet]
 Najveća X  : 3.05  [Mozzart]
 Najveća 2  : 5.00  [Soccer]
 Najveća 0-2: 1.33  [Mozzart]
-Najveća 3+ : 4.30  [OktagonBet]
+Najveća 3+ : 4.30  [BetOle, Brazil_d, OktagonBet]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0157   profit≈-1.57%
+Arbitraža (1-X-2): NE   inv_sum=1.0041   profit≈-0.41%
 Arbitraža (0-2 / 3+): DA   inv_sum=0.9844   profit≈1.56%
 
 
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1531
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 995
-Grupa sa veličinom ≥3: 646
-Grupa sa veličinom ≥4: 333
-Grupa sa veličinom ≥5: 120
-Grupa sa veličinom ≥6: 37
-Grupa sa veličinom ≥7: 27
+Ukupno mečeva (grupa): 1536
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 990
+Grupa sa veličinom ≥3: 647
+Grupa sa veličinom ≥4: 334
+Grupa sa veličinom ≥5: 123
+Grupa sa veličinom ≥6: 60
+Grupa sa veličinom ≥7: 39
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa: 1016   spojeno (u grupama >1):  874
-  - BetOle     ukupno zapisa:   27   spojeno (u grupama >1):   27
-  - Brazil_d   ukupno zapisa:   69   spojeno (u grupama >1):   68
-  - MaxBet     ukupno zapisa:   71   spojeno (u grupama >1):   70
+  - BalkanBet  ukupno zapisa: 1015   spojeno (u grupama >1):  871
+  - BetOle     ukupno zapisa:   70   spojeno (u grupama >1):   70
+  - Brazil_d   ukupno zapisa:   77   spojeno (u grupama >1):   76
+  - MaxBet     ukupno zapisa:   70   spojeno (u grupama >1):   69
   - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  375
-  - OktagonBet ukupno zapisa: 1040   spojeno (u grupama >1):  725
-  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  344
+  - OktagonBet ukupno zapisa: 1039   spojeno (u grupama >1):  717
+  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  343
   - Topbet     ukupno zapisa:  713   spojeno (u grupama >1):  672
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 0
+  - 1-X-2: 2
   - 0-2 / 3+: 1
-  - Barem jedna arbitraža: 1
+  - Barem jedna arbitraža: 3
