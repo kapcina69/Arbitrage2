@@ -14,7 +14,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 11:35;Pet;31.10.;IZR3;Maccabi Kiryat Malakhi;Holon Yermiyahu;;2.15;3.25;3.0;1.8;1.29;1.88;1.73;;
 11:40;Pet;31.10.;IZR3S;Ironi Baka;Ironi Nesher;;1.95;3.35;3.35;1.75;1.32;1.97;1.83;;
 11:45;Pet;31.10.;AUS1;Perth Glory;Melbourne Victory;675;3.25;3.6;2.0;2.2;1.17;1.6;1.53;3.65;1.78
-12:00;Pet;31.10.;ČEŠ19;Dukla Prague U19;Slavia Prague U19;;2.48;3.7;2.3;2.5;1.12;1.47;1.45;;
+12:00;Pet;31.10.;ČEŠ19;Dukla Prague U19;Slavia Prague U19;;2.75;3.6;2.13;2.5;1.12;1.47;1.43;;
 12:00;Pet;31.10.;IZR3;Ramat Hasharon;Shimshon Tel Aviv;;5.3;3.9;1.5;2.0;1.22;1.72;1.82;;
 12:00;Pet;31.10.;VIJ1;Hong Linh Ha Tinh;Hanoi FC;502;4.8;3.5;1.7;1.87;1.26;1.83;1.78;4.55;2.13
 12:30;Pet;31.10.;IZR3S;Hapoel Ironi Arraba;Hapoel Ironi Karmiel;;2.45;3.35;2.45;2.0;1.23;1.73;1.6;;
@@ -56,7 +56,6 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 15:00;Pet;31.10.;ALŽ2;Biskra;Bordj Menail;;1.47;3.45;7.2;1.55;1.43;2.3;2.4;;
 15:00;Pet;31.10.;ALŽ2;Djijel;CA Batna;;1.9;2.95;4.15;1.55;1.43;2.3;2.0;;
 15:00;Pet;31.10.;ALŽ2;GC Mascara;JSM Tiaret;;3.45;2.9;2.12;1.43;1.55;2.6;2.2;;
-15:00;Pet;31.10.;ALŽ2;HB Chelghoum Laid;Annaba;;4.55;2.95;1.82;1.5;1.47;2.4;2.12;;
 15:00;Pet;31.10.;ALŽ2;Khemis El Khechna;Beni Oulbane;;2.85;2.9;2.4;1.5;1.5;2.43;2.05;;
 15:00;Pet;31.10.;ALŽ2;MC Saida;Hussein Dey;;2.07;2.75;3.85;1.45;1.53;2.55;2.12;;
 15:00;Pet;31.10.;ALŽ2;MO Bejaia;Magra;;1.5;3.5;6.5;1.65;1.35;2.1;2.15;;
@@ -72,8 +71,8 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 15:30;Pet;31.10.;KAT1;Al Arabi Doha;Al-Shahaniya;503;1.6;4.15;4.55;2.45;1.13;1.48;1.55;3.55;1.75
 15:30;Pet;31.10.;KUV1;Al Qadsia SC;Al Tadamon;499;1.35;4.8;7.3;2.2;1.17;1.6;1.9;4.55;2.15
 15:30;Pet;31.10.;SLO2;Rudar Velenje;NK Jesenice;502;1.42;4.7;6.0;2.55;1.12;1.45;1.63;3.7;1.82
-15:50;Pet;31.10.;SAR1;Al Hilal;Al-Shabab Riyadh;587;1.2;5.75;12.7;2.55;1.12;1.45;1.95;4.65;2.15
-16:00;Pet;31.10.;GRUK;Iberia 1999;Dinamo Batumi;494;1.7;3.5;4.75;1.65;1.35;2.08;2.0;5.35;2.5
+15:50;Pet;31.10.;SAR1;Al Hilal;Al-Shabab Riyadh;588;1.2;5.75;12.6;2.6;1.11;1.43;1.93;4.55;2.1
+16:00;Pet;31.10.;GRUK;Iberia 1999;Dinamo Batumi;503;1.62;3.65;5.15;1.65;1.35;2.1;2.1;5.55;2.6
 16:00;Pet;31.10.;IRK1;Al Minaa;Al-Qassim;;2.15;3.15;3.1;1.6;1.4;2.2;1.95;;
 16:00;Pet;31.10.;MAR1;Dcheira;Meknes;503;2.45;3.0;2.9;1.5;1.5;2.43;2.05;5.7;2.7
 16:30;Pet;31.10.;BLR1;Dynamo Brest;FC Molodechno;495;1.15;6.7;14.2;2.85;1.09;1.37;2.07;4.8;2.22
@@ -189,7 +188,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 20:30;Pet;31.10.;ITA3;Picerno;Cavese;503;2.55;3.0;2.75;1.68;1.35;2.05;1.8;4.8;2.25
 20:30;Pet;31.10.;POL1;Piast Gliwice;Korona Kielce;594;2.6;3.2;2.75;1.7;1.34;2.02;1.78;4.7;2.3
 20:30;Pet;31.10.;POL2;Ruch Chorzow;Tychy;503;1.95;3.5;3.45;2.05;1.21;1.68;1.6;3.9;1.9
-20:30;Pet;31.10.;POL3;Zaglebie Sosnowiec;Chojniczanka;503;1.72;3.85;4.1;2.05;1.21;1.7;1.7;4.1;2.0
+20:30;Pet;31.10.;POL3;Zaglebie Sosnowiec;Chojniczanka;503;1.72;3.8;4.15;2.05;1.21;1.7;1.7;4.1;2.0
 20:30;Pet;31.10.;ŠPA2;Racing Santander;R. Sociedad B;596;1.55;4.15;5.45;2.3;1.16;1.55;1.62;3.85;1.9
 20:30;Pet;31.10.;VELS2;Afan Lido;Caerau Ely;501;5.6;4.3;1.43;2.35;1.15;1.52;1.68;3.95;1.9
 20:30;Pet;31.10.;VELS2;Cwmbran Celtic;Baglan Dragons;503;3.65;3.65;1.78;2.05;1.21;1.7;1.67;4.05;1.97
@@ -255,6 +254,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 06:00;Sub;01.11.;JKOR1;Gangwon;Jeonbuk;529;2.7;3.2;2.45;1.82;1.28;1.88;1.7;4.35;2.07
 06:00;Sub;01.11.;JKOR2;Gyeongnam;Seoul E-Land;499;4.5;3.65;1.7;1.95;1.23;1.75;1.73;4.3;2.05
 06:00;Sub;01.11.;JKOR2;Suwon Bluewings;Cheongju;500;1.33;5.0;7.6;2.5;1.12;1.47;1.75;4.05;1.95
+07:00;Sub;01.11.;AUS1W;Brisbane Roar Wom.;Melbourne Victory Wom.;503;3.6;3.55;1.9;2.13;1.19;1.63;1.58;3.8;1.85
 07:00;Sub;01.11.;AUS1;Newcastle Jets;Sydney FC;656;2.5;3.75;2.37;2.7;1.1;1.4;1.38;3.05;1.55
 07:30;Sub;01.11.;KIN2;Chongqing Tonglianglong;Suzhou Dongwu;488;1.29;4.95;9.0;2.07;1.2;1.67;2.13;5.25;2.45
 07:30;Sub;01.11.;KIN2;Dalian Kuncheng;Shaanxi Union;494;2.55;3.15;2.65;1.65;1.35;2.1;1.85;4.85;2.3
