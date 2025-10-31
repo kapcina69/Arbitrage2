@@ -37,7 +37,7 @@ Sve
   
   
 FUDBAL
-1679
+1676
   
   
 DNEVNI SPECIJAL
@@ -45,19 +45,19 @@ DNEVNI SPECIJAL
   
   
 GOLOVI PO LIGAMA
-157
+155
   
   
 KOŠARKA
-258
+256
   
   
 SP. KOŠARKA
-210
+193
   
   
 TENIS
-69
+68
   
   
 RUKOMET
@@ -69,7 +69,7 @@ ODBOJKA
   
   
 HOKEJ
-160
+159
   
   
 SP. HOKEJ
@@ -85,7 +85,7 @@ BEJZBOL
   
   
 STONI TENIS
-89
+87
   
   
 VATERPOLO
@@ -117,7 +117,7 @@ FORMULA 1
   
   
 KONJSKE TRKE
-65
+55
   
   
 ESPORT
@@ -125,7 +125,7 @@ ESPORT
   
   
 SP. FUDBAL
-3368
+3369
   
   
 VIR. FUDBAL
@@ -151,61 +151,15 @@ Top
 Specijali
 KONAČAN ISHOD
  
-Spain, Tercera RFEF - Group 15
-+640
-Huarte
-Beti Kozkor
-31.10. 20:15
-ki 1
-1.95
-ki X
-3.00
-ki 2
-3.55
-manje 2.5
-1.53
-više 2.5
-2.22
- 
-Switzerland, Challenge League
-+815
-Etoile-Carouge
-Bellinzona
-31.10. 20:15
-ki 1
-1.97
-ki X
-3.25
-ki 2
-3.65
-manje 2.5
-1.72
-više 2.5
-2.00
-+825
-Yverdon
-Vaduz
-31.10. 20:15
-ki 1
-2.12
-ki X
-3.55
-ki 2
-2.97
-manje 2.5
-2.22
-više 2.5
-1.57
- 
 Germany, Bundesliga
-+1061
++1058
 Augsburg
 Dortmund
 31.10. 20:30
 ki 1
-5.10
+5.20
 ki X
-4.35
+4.40
 ki 2
 1.60
 manje 2.5
@@ -219,18 +173,18 @@ Luton
 Forest Green
 31.10. 20:30
 ki 1
-1.25
+1.26
 ki X
-5.90
+5.75
 ki 2
-10.0
+9.75
 manje 2.5
-2.70
+2.63
 više 2.5
-1.42
+1.43
  
 Poland, Ekstraklasa
-+813
++811
 Piast Gliwice
 Korona Kielce
 31.10. 20:30
@@ -243,7 +197,7 @@ ki 2
 manje 2.5
 1.57
 više 2.5
-2.27
+2.25
  
 Spain, LaLiga2
 +924
@@ -278,20 +232,20 @@ više 2.5
 1.77
  
 Belgium, Pro League U21
-+648
++647
 RAAL La Louviere U21
 Kortrijk U21
 31.10. 20:30
 ki 1
-2.67
+2.37
 ki X
-3.75
+3.55
 ki 2
-2.15
+2.47
 manje 2.5
-2.73
+2.37
 više 2.5
-1.36
+1.48
  
 Italy, Serie C - Group C
 +803
@@ -308,20 +262,20 @@ manje 2.5
 1.43
 više 2.5
 2.60
-+813
++817
 Picerno
 Cavese
 31.10. 20:30
 ki 1
-2.30
+2.50
 ki X
 3.05
 ki 2
-3.05
+2.77
 manje 2.5
 1.65
 više 2.5
-2.12
+2.10
  
 Poland, Division 1
 +820
@@ -467,13 +421,13 @@ Bangor FC
 Carrick Rangers
 31.10. 20:45
 ki 1
-2.41
+2.50
 ki X
-3.50
+3.55
 ki 2
-2.55
+2.45
 manje 2.5
-2.20
+2.22
 više 2.5
 1.60
 +809
@@ -497,31 +451,31 @@ Ayr
 Dunfermline
 31.10. 20:45
 ki 1
-2.00
+2.12
 ki X
-3.10
+3.03
 ki 2
-3.75
+3.50
 manje 2.5
-1.57
+1.55
 više 2.5
 2.27
  
 Wales, Cymru Premier
-+812
++809
 Bala
 Llanelli
 31.10. 20:45
 ki 1
-1.65
+1.55
 ki X
-3.40
+3.60
 ki 2
-4.75
+5.45
 manje 2.5
-1.75
+1.77
 više 2.5
-1.95
+1.91
  
 Wales, Cymru North
 +645
@@ -531,13 +485,13 @@ Airbus
 ki 1
 2.55
 ki X
-3.15
+3.10
 ki 2
 2.41
 manje 2.5
-1.90
+1.85
 više 2.5
-1.77
+1.81
 +646
 Ruthin
 Mold Alexandra
@@ -554,34 +508,34 @@ više 2.5
 1.55
  
 Spain, LaLiga
-+1061
++980
 Getafe
 Girona
 31.10. 21:00
 ki 1
-2.20
+2.15
 ki X
-3.03
+3.05
 ki 2
-3.85
+3.90
 manje 2.5
 1.51
 više 2.5
 2.57
  
 England, Championship
-+986
++918
 Wrexham
 Coventry
 31.10. 21:00
 ki 1
-3.45
+3.30
 ki X
 3.30
 ki 2
-2.20
+2.25
 manje 2.5
-1.85
+1.87
 više 2.5
 1.95
  
@@ -616,6 +570,54 @@ manje 2.5
 2.00
 više 2.5
 1.70
+ 
+Wales, Cymru North
++648
+Gresford
+Newtown
+31.10. 21:00
+ki 1
+4.50
+ki X
+4.15
+ki 2
+1.51
+manje 2.5
+2.80
+više 2.5
+1.36
+ 
+France, Premiere Ligue Women
++645
+Marseille Wom.
+Strasbourg Wom.
+31.10. 21:00
+ki 1
+2.30
+ki X
+3.30
+ki 2
+2.70
+manje 2.5
+1.97
+više 2.5
+1.67
+ 
+Portugal, Liga Portugal
++879
+Sporting CP
+Alverca
+31.10. 21:15
+ki 1
+1.11
+ki X
+8.25
+ki 2
+21.0
+manje 2.5
+2.90
+više 2.5
+1.36
  Tiket
 TIKET
 
@@ -674,7 +676,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-20:14:23
+20:25:06
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
