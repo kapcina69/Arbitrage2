@@ -10,7 +10,6 @@
   TURNIRI
 Registracija
 Prijava
-Euroleague
 Fudbal
 Košarka
 Slot
@@ -37,27 +36,27 @@ Sve
   
   
 FUDBAL
-1676
+1664
   
   
 DNEVNI SPECIJAL
-32
+22
   
   
 GOLOVI PO LIGAMA
-155
+153
   
   
 KOŠARKA
-256
+247
   
   
 SP. KOŠARKA
-193
+122
   
   
 TENIS
-68
+65
   
   
 RUKOMET
@@ -65,11 +64,11 @@ RUKOMET
   
   
 ODBOJKA
-61
+60
   
   
 HOKEJ
-159
+154
   
   
 SP. HOKEJ
@@ -85,7 +84,7 @@ BEJZBOL
   
   
 STONI TENIS
-87
+84
   
   
 VATERPOLO
@@ -117,7 +116,7 @@ FORMULA 1
   
   
 KONJSKE TRKE
-55
+45
   
   
 ESPORT
@@ -125,7 +124,7 @@ ESPORT
   
   
 SP. FUDBAL
-3369
+3334
   
   
 VIR. FUDBAL
@@ -137,7 +136,7 @@ VIR. TENIS
   
   
 OUTRIGHT
-617
+583
 
 This is a modal window.
 
@@ -150,194 +149,6 @@ Vremenska
 Top
 Specijali
 KONAČAN ISHOD
- 
-Germany, Bundesliga
-+1058
-Augsburg
-Dortmund
-31.10. 20:30
-ki 1
-5.20
-ki X
-4.40
-ki 2
-1.60
-manje 2.5
-2.57
-više 2.5
-1.51
- 
-England, FA Cup
-+813
-Luton
-Forest Green
-31.10. 20:30
-ki 1
-1.26
-ki X
-5.75
-ki 2
-9.75
-manje 2.5
-2.63
-više 2.5
-1.43
- 
-Poland, Ekstraklasa
-+811
-Piast Gliwice
-Korona Kielce
-31.10. 20:30
-ki 1
-2.25
-ki X
-3.05
-ki 2
-3.35
-manje 2.5
-1.57
-više 2.5
-2.25
- 
-Spain, LaLiga2
-+924
-Racing Santander
-R. Sociedad B
-31.10. 20:30
-ki 1
-1.38
-ki X
-4.95
-ki 2
-6.90
-manje 2.5
-2.50
-više 2.5
-1.48
- 
-Austria, 2. Liga
-+823
-Kapfenberg
-A. Salzburg
-31.10. 20:30
-ki 1
-2.55
-ki X
-3.30
-ki 2
-2.57
-manje 2.5
-1.93
-više 2.5
-1.77
- 
-Belgium, Pro League U21
-+647
-RAAL La Louviere U21
-Kortrijk U21
-31.10. 20:30
-ki 1
-2.37
-ki X
-3.55
-ki 2
-2.47
-manje 2.5
-2.37
-više 2.5
-1.48
- 
-Italy, Serie C - Group C
-+803
-Casertana
-Catania
-31.10. 20:30
-ki 1
-3.90
-ki X
-3.10
-ki 2
-1.97
-manje 2.5
-1.43
-više 2.5
-2.60
-+817
-Picerno
-Cavese
-31.10. 20:30
-ki 1
-2.50
-ki X
-3.05
-ki 2
-2.77
-manje 2.5
-1.65
-više 2.5
-2.10
- 
-Poland, Division 1
-+820
-Ruch Chorzow
-Tychy
-31.10. 20:30
-ki 1
-1.92
-ki X
-3.50
-ki 2
-3.55
-manje 2.5
-1.97
-više 2.5
-1.73
- 
-Poland, Division 2
-+822
-Zaglebie Sosnowiec SA
-Chojniczanka
-31.10. 20:30
-ki 1
-1.75
-ki X
-3.65
-ki 2
-3.75
-manje 2.5
-2.15
-više 2.5
-1.60
- 
-Wales, Cymru South
-+642
-Afan Lido
-Caerau Ely
-31.10. 20:30
-ki 1
-5.35
-ki X
-4.25
-ki 2
-1.42
-manje 2.5
-2.55
-više 2.5
-1.43
-+642
-Cwmbran Celtic
-Baglan Dragons
-31.10. 20:30
-ki 1
-3.75
-ki X
-3.40
-ki 2
-1.77
-manje 2.5
-2.03
-više 2.5
-1.67
  
 Belgium, Jupiler Pro League
 +961
@@ -430,20 +241,20 @@ manje 2.5
 2.22
 više 2.5
 1.60
-+809
++810
 Glentoran
 Portadown
 31.10. 20:45
 ki 1
-1.42
+1.40
 ki X
-4.20
+4.30
 ki 2
-6.90
+7.25
 manje 2.5
-2.00
+2.03
 više 2.5
-1.72
+1.70
  
 Scotland, Championship
 +815
@@ -467,15 +278,15 @@ Bala
 Llanelli
 31.10. 20:45
 ki 1
-1.55
+1.47
 ki X
-3.60
+3.80
 ki 2
-5.45
+6.20
 manje 2.5
-1.77
+1.82
 više 2.5
-1.91
+1.87
  
 Wales, Cymru North
 +645
@@ -508,7 +319,7 @@ više 2.5
 1.55
  
 Spain, LaLiga
-+980
++1061
 Getafe
 Girona
 31.10. 21:00
@@ -524,20 +335,20 @@ više 2.5
 2.57
  
 England, Championship
-+918
++990
 Wrexham
 Coventry
 31.10. 21:00
 ki 1
-3.30
+3.25
 ki X
-3.30
+3.35
 ki 2
 2.25
 manje 2.5
-1.87
-više 2.5
 1.95
+više 2.5
+1.85
  
 Gibraltar, National League
 +646
@@ -604,7 +415,7 @@ više 2.5
 1.67
  
 Portugal, Liga Portugal
-+879
++935
 Sporting CP
 Alverca
 31.10. 21:15
@@ -615,9 +426,195 @@ ki X
 ki 2
 21.0
 manje 2.5
-2.90
+2.93
 više 2.5
-1.36
+1.35
+ 
+San Marino, Campionato Sammarinese
++636
+Cosmos
+Murata
+31.10. 21:15
+ki 1
+1.41
+ki X
+3.95
+ki 2
+6.00
+manje 2.5
+1.92
+više 2.5
+1.72
++627
+Faetano
+La Fiorita
+31.10. 21:15
+ki 1
+13.0
+ki X
+6.30
+ki 2
+1.12
+manje 2.5
+2.37
+više 2.5
+1.47
+ 
+Spain, Primera RFEF - Group 2
++641
+Alcorcon
+Sevilla FC B
+31.10. 21:15
+ki 1
+2.12
+ki X
+2.93
+ki 2
+3.40
+manje 2.5
+1.50
+više 2.5
+2.40
+ 
+Chile, Primera Division
++821
+Deportes Iquique
+Deportes La Serena
+31.10. 21:30
+ki 1
+2.10
+ki X
+3.35
+ki 2
+3.20
+manje 2.5
+1.87
+više 2.5
+1.83
+ 
+Chile, Primera B
++815
+D. Concepcion
+San Felipe
+31.10. 21:30
+ki 1
+1.75
+ki X
+3.40
+ki 2
+4.05
+manje 2.5
+1.77
+više 2.5
+1.90
+ 
+Paraguay, Copa de Primera - Clausura
++819
+General Caballero JLM
+Recoleta Asuncion
+31.10. 21:30
+ki 1
+2.30
+ki X
+3.10
+ki 2
+3.00
+manje 2.5
+1.71
+više 2.5
+2.02
+ 
+Colombia, Primera B - Clausura - Quadrangular
++40
+Huila
+Jaguares de Cordoba
+31.10. 22:00
+ki 1
+2.67
+ki X
+2.93
+ki 2
+2.55
+manje 2.5
+1.55
+više 2.5
+2.27
+ 
+Panama, LPF - Clausura
++646
+Herrera
+SD Atletico Nacional
+31.10. 22:00
+ki 1
+2.45
+ki X
+3.20
+ki 2
+2.57
+manje 2.5
+1.90
+više 2.5
+1.80
++643
+Independiente de la Chorrera
+San Francisco FC Panama
+31.10. 22:00
+ki 1
+2.12
+ki X
+3.05
+ki 2
+3.25
+manje 2.5
+1.65
+više 2.5
+2.07
++645
+Veraguas
+Deportivo Universitario
+31.10. 22:00
+ki 1
+3.15
+ki X
+3.05
+ki 2
+2.15
+manje 2.5
+1.70
+više 2.5
+2.02
+ 
+Spain, Tercera RFEF - Group 12
++638
+Real Union Tenerife
+Tenerife C
+31.10. 22:00
+ki 1
+2.25
+ki X
+2.80
+ki 2
+3.10
+manje 2.5
+1.47
+više 2.5
+2.37
+ 
+Venezuela, Liga FUTVE - Clausura - Quadrangular
++647
+Zamora
+Puerto Cabello
+31.10. 22:30
+ki 1
+2.55
+ki X
+3.05
+ki 2
+2.55
+manje 2.5
+1.71
+više 2.5
+2.00
  Tiket
 TIKET
 
@@ -676,7 +673,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-20:25:06
+20:35:50
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
