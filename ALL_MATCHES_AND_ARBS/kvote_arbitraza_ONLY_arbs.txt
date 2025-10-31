@@ -2,18 +2,16 @@
 U19 Vojvodina  vs  U19 C.Zvezda
 
 - BalkanBet  1=4.8  |  X=4  |  2=1.53  |  2+=1.4  |  3+=2.75
-- Brazil_d   1=4.15  |  X=4  |  2=1.58  |  0-2=2.7  |  2+=1.07  |  3+=1.36
-- MaxBet     1=4.30  |  X=4.15  |  2=1.58
-- OktagonBet 1=4.15  |  X=4.05  |  2=1.56  |  0-2=2.75  |  3+=1.36  |  GG=1.42  |  GG&3+=1.64  |  4+=1.98
+- Brazil_d   1=4.15  |  X=4.05  |  2=1.57  |  0-2=2.85  |  2+=1.06  |  3+=1.34
 - Soccer     1=4.75  |  X=4.4  |  2=1.5  |  0-2=2.95  |  2+=1.08  |  3+=1.35  |  GG=1.47  |  IGG=None  |  GG&3+=None
 
 Najveća 1  : 4.80  [BalkanBet]
 Najveća X  : 4.40  [Soccer]
-Najveća 2  : 1.58  [Brazil_d, MaxBet]
+Najveća 2  : 1.57  [Brazil_d]
 Najveća 0-2: 2.95  [Soccer]
 Najveća 3+ : 2.75  [BalkanBet]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0685   profit≈-6.85%
+Arbitraža (1-X-2): NE   inv_sum=1.0725   profit≈-7.25%
 Arbitraža (0-2 / 3+): DA   inv_sum=0.7026   profit≈29.74%
 
 21:00   05.11.   [Liga Šampiona]
@@ -31,6 +29,24 @@ Najveća 3+ : 1.35  [BalkanBet, Mozzart]
 
 Arbitraža (1-X-2): DA   inv_sum=0.9969   profit≈0.31%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0392   profit≈-3.92%
+
+15:00   01.11.   [Italija 1]
+Udinese  vs  Atalanta
+
+- BalkanBet  1=4.3  |  X=3.85  |  2=1.82  |  0-2=1.98  |  2+=1.28  |  3+=1.87  |  GG=1.8  |  IGG=4.95  |  GG&3+=2.2  |  GG&4+=3.6  |  4+=3.2
+- Brazil_s   1=4.55  |  X=3.3  |  2=1.9  |  0-2=2  |  2+=1.27  |  3+=1.84
+- Mozzart    1=4.7  |  X=3.7  |  2=1.85  |  0-2=1.95  |  2+=1.28  |  3+=1.85
+- OktagonBet 1=4.55  |  X=3.35  |  2=1.89  |  0-2=1.99  |  3+=1.82  |  GG=1.78  |  GG&3+=2.25  |  4+=3.15
+- Topbet     1=4.3  |  X=3.75  |  2=1.8
+
+Najveća 1  : 4.70  [Mozzart]
+Najveća X  : 3.85  [BalkanBet]
+Najveća 2  : 1.90  [Brazil_s]
+Najveća 0-2: 2.00  [Brazil_s]
+Najveća 3+ : 1.87  [BalkanBet]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9988   profit≈0.12%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0348   profit≈-3.48%
 
 13:00   31.10.   [Belorusija 2]
 Uni Minsk  vs  Lida
@@ -55,27 +71,27 @@ Arbitraža (0-2 / 3+): DA   inv_sum=0.9942   profit≈0.58%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1578
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1251
-Grupa sa veličinom ≥3: 839
-Grupa sa veličinom ≥4: 540
-Grupa sa veličinom ≥5: 303
-Grupa sa veličinom ≥6: 134
-Grupa sa veličinom ≥7: 40
+Ukupno mečeva (grupa): 1582
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1222
+Grupa sa veličinom ≥3: 866
+Grupa sa veličinom ≥4: 536
+Grupa sa veličinom ≥5: 324
+Grupa sa veličinom ≥6: 136
+Grupa sa veličinom ≥7: 39
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa: 1157   spojeno (u grupama >1):  999
+  - BalkanBet  ukupno zapisa: 1157   spojeno (u grupama >1): 1002
   - BetOle     ukupno zapisa:   23   spojeno (u grupama >1):   23
   - Brazil_d   ukupno zapisa:  282   spojeno (u grupama >1):  281
-  - Brazil_p   ukupno zapisa:  288   spojeno (u grupama >1):  272
-  - Brazil_s   ukupno zapisa:  277   spojeno (u grupama >1):  271
-  - MaxBet     ukupno zapisa:  218   spojeno (u grupama >1):  204
-  - Mozzart    ukupno zapisa:  375   spojeno (u grupama >1):  342
-  - OktagonBet ukupno zapisa: 1038   spojeno (u grupama >1):  982
-  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  346
-  - Topbet     ukupno zapisa:  678   spojeno (u grupama >1):  639
+  - Brazil_p   ukupno zapisa:  281   spojeno (u grupama >1):  237
+  - Brazil_s   ukupno zapisa:  277   spojeno (u grupama >1):  272
+  - MaxBet     ukupno zapisa:  222   spojeno (u grupama >1):  209
+  - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  371
+  - OktagonBet ukupno zapisa: 1039   spojeno (u grupama >1):  975
+  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  345
+  - Topbet     ukupno zapisa:  670   spojeno (u grupama >1):  631
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 2
+  - 1-X-2: 3
   - 0-2 / 3+: 2
-  - Barem jedna arbitraža: 3
+  - Barem jedna arbitraža: 4
