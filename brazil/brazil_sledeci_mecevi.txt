@@ -22,6 +22,7 @@ Sutra
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
+KOŠARKA IGRAČI
 TENIS
 HOKEJ
 RUKOMET
@@ -36,6 +37,7 @@ BADMINTON
 FUDBAL VIRTUAL
 TENIS VIRTUAL
 POBEDNICI
+GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -115,19 +117,19 @@ INDONESIA, Super League
 09:30
 PSIM Yogyakarta
 Persik Kediri
-826
+832
 1
-2.22
+2.12
 X
 2.95
 2
-3.15
+3.30
 0-2
-1.58
+1.60
 2+
 1.37
 3+
-2.20
+2.18
 AUSTRALIA, A-League
 11
 09:35
@@ -135,35 +137,35 @@ Brisbane Roar
 Melbourne City
 837
 1
-4.00
+3.95
 X
 3.40
 2
 1.90
 0-2
-1.82
+1.83
 2+
 1.28
 3+
-1.90
+1.89
 AUSTRALIA, Australian Championship
 1165
 09:35
 Marconi Stallions
 Heidelberg Utd
-842
+843
 1
-3.00
+2.50
 X
-3.30
+3.25
 2
-2.12
+2.50
 0-2
-2.05
+2.03
 2+
 1.20
 3+
-1.66
+1.68
 RUSSIA, Supreme Division Women
 1210
 10:00
@@ -368,13 +370,13 @@ M. Ironi Kiryat Malachi
 Holon Yermiyahu
 667
 1
-2.10
+2.20
 X
 3.15
 2
-3.15
+3.00
 0-2
-1.82
+1.80
 2+
 1.26
 3+
@@ -402,19 +404,19 @@ AUSTRALIA, A-League
 11:45
 Perth Glory
 Melbourne Victory
-851
+849
 1
-3.00
+3.05
 X
-3.55
+3.50
 2
-2.20
-0-2
 2.22
+0-2
+2.15
 2+
-1.18
+1.19
 3+
-1.61
+1.64
 CZECH REPUBLIC, U19 League
 1255
 12:00
@@ -438,19 +440,19 @@ INDIA, Super Cup
 12:00
 Dempo
 Chennaiyin
-842
+841
 1
-2.80
+3.00
 X
 3.45
 2
-2.15
+2.05
 0-2
 1.95
 2+
 1.22
 3+
-1.77
+1.75
 ISRAEL, Liga Alef South
 1237
 12:00
@@ -476,13 +478,13 @@ Gornik Zabrze II
 Goczalkowice Zdroj
 59
 1
-2.35
+2.45
 X
 3.25
 2
-2.55
+2.40
 0-2
-2.07
+2.08
 2+
 1.17
 3+
@@ -511,15 +513,15 @@ Wisla II
 Siarka Tarnobrzeg
 59
 1
-2.85
+2.80
 X
 3.45
 2
-2.05
+2.08
 0-2
 2.30
 2+
-1.12
+1.13
 3+
 1.50
 VIETNAM, V.League 1
@@ -760,11 +762,11 @@ Stal Krasnik
 Biala Podlaska
 59
 1
-2.45
+2.30
 X
 3.40
 2
-2.35
+2.50
 0-2
 2.35
 2+
@@ -884,17 +886,17 @@ WE SC
 El Mansoura
 60
 1
-2.22
+2.40
 X
 2.70
 2
-3.20
+2.90
 0-2
 1.35
 2+
-1.53
+1.54
 3+
-2.75
+2.80
 LITHUANIA, 1 Lyga
 7759
 13:30
@@ -1074,6 +1076,58 @@ X
 1.16
 3+
 1.56
+IRAN, Persian Gulf Pro League
+462
+14:00
+Esteghlal F.C.
+Aluminium Arak
+648
+1
+1.59
+X
+3.15
+2
+6.00
+0-2
+1.39
+2+
+1.50
+3+
+2.62
+463
+14:00
+Mes Rafsanjan
+Chadormalu
+646
+1
+2.15
+X
+2.65
+2
+3.75
+0-2
+1.25
+2+
+1.70
+3+
+3.30
+464
+14:00
+Zob Ahan
+Malavan
+648
+1
+3.15
+X
+2.62
+2
+2.45
+0-2
+1.25
+2+
+1.70
+3+
+3.30
 ISRAEL, Leumit League
 583
 14:00
@@ -1165,19 +1219,19 @@ MALAYSIA, Super League
 14:00
 Terengganu
 Johor DT
-823
+817
 1
-13.0
+14.0
 X
-6.90
+7.20
 2
-1.14
+1.12
 0-2
 3.35
 2+
 1.05
 3+
-1.27
+1.26
 POLAND, Division 2
 640
 14:00
@@ -1409,6 +1463,24 @@ X
 1.02
 3+
 1.19
+IRAN, Persian Gulf Pro League
+465
+14:30
+Kheybar Khorramabad
+Gol Gohar
+649
+1
+2.62
+X
+2.60
+2
+2.95
+0-2
+1.24
+2+
+1.73
+3+
+3.40
 POLAND, III Liga - Group II
 814
 14:30
@@ -1432,19 +1504,19 @@ UZBEKISTAN, Super League
 14:30
 Shortan Guzor
 OKMK
-831
+833
 1
-5.50
+6.20
 X
-3.85
+4.10
 2
-1.50
+1.43
 0-2
-2.00
+2.07
 2+
-1.18
+1.17
 3+
-1.66
+1.61
 SAUDI ARABIA, Professional League
 476
 14:40
@@ -1808,6 +1880,24 @@ X
 1.06
 3+
 1.32
+SLOVENIA, 2. SNL
+736
+15:00
+NK Krka
+Krsko
+660
+1
+1.27
+X
+5.10
+2
+6.90
+0-2
+3.35
+2+
+1.03
+3+
+1.25
 WORLD, AFC Challenge League
 1114
 15:00
@@ -1827,6 +1917,23 @@ X
 3+
 1.63
 IRAN, Persian Gulf Pro League
+466
+15:30
+Esteghlal Khuzestan
+Foolad
+646
+1
+3.60
+X
+2.65
+2
+2.20
+0-2
+1.26
+2+
+1.69
+3+
+3.25
 467
 15:30
 Shams Azar Qazvin
@@ -1887,35 +1994,35 @@ Rudar Velenje
 NK Jesenice
 656
 1
-1.36
+1.37
 X
-4.20
+4.15
 2
 6.30
 0-2
-2.20
+2.15
 2+
-1.14
+1.15
 3+
-1.54
+1.58
 SAUDI ARABIA, Professional League
 477
 15:50
 Al Hilal Riyadh
 Al Shabab
-833
+832
 1
-1.22
+1.25
 X
-5.50
+5.25
 2
-9.25
+8.50
 0-2
-2.65
+2.55
 2+
-1.10
+1.11
 3+
-1.41
+1.43
 GEORGIA, Georgia Cup
 764
 16:00
@@ -2186,19 +2293,19 @@ UNITED ARAB EMIRATES, UAE League
 16:45
 Khorfakkan
 Al Wasl
-843
+842
 1
-5.00
+4.90
 X
-4.15
+4.05
 2
-1.50
+1.52
 0-2
-2.45
+2.40
 2+
 1.13
 3+
-1.48
+1.50
 BAHRAIN, Premier League
 561
 17:00
@@ -2597,15 +2704,15 @@ POLAND, Ekstraklasa
 18:00
 Termalica B-B.
 GKS Katowice
-843
+844
 1
-2.40
+2.50
 X
 3.35
 2
-2.80
+2.70
 0-2
-2.00
+1.98
 2+
 1.23
 3+
@@ -2847,19 +2954,19 @@ GERMANY, Regionalliga West
 18:30
 Schalke II
 Rodinghausen
-840
+843
 1
-1.74
+1.77
 X
-3.45
+3.55
 2
-4.05
+3.80
 0-2
-2.00
+2.15
 2+
-1.21
+1.18
 3+
-1.72
+1.61
 IRAQ, Stars League
 1267
 18:30
@@ -3712,15 +3819,15 @@ Oberhausen
 1
 2.95
 X
-3.65
+3.70
 2
-2.02
+2.00
 0-2
-2.35
+2.40
 2+
-1.14
+1.13
 3+
-1.51
+1.49
 ROMANIA, Superliga
 1034
 19:30
@@ -3780,7 +3887,7 @@ NETHERLANDS, Eredivisie
 20:00
 PSV
 Sittard
-972
+919
 1
 1.15
 X
@@ -4110,19 +4217,19 @@ X
 20:00
 Guingamp
 Laval
-972
+969
 1
-1.88
+1.90
 X
-3.30
+3.25
 2
-4.25
+4.20
 0-2
-1.70
+1.65
 2+
-1.33
+1.36
 3+
-2.07
+2.15
 348
 20:00
 Le Mans
@@ -4430,15 +4537,15 @@ Piast Gliwice
 Korona Kielce
 838
 1
-2.62
+2.70
 X
 3.10
 2
-2.75
+2.65
 0-2
 1.65
 2+
-1.35
+1.36
 3+
 2.12
 POLAND, Division 1
@@ -4729,7 +4836,7 @@ SPAIN, LaLiga
 21:00
 Getafe
 Girona
-1061
+983
 1
 2.22
 X
@@ -4821,17 +4928,17 @@ Sporting CP
 Alverca
 904
 1
-1.13
+1.12
 X
-7.60
+7.80
 2
 19.0
 0-2
-2.85
+2.90
 2+
-1.09
+1.08
 3+
-1.37
+1.35
 SAN MARINO, Campionato Sammarinese
 1211
 21:15

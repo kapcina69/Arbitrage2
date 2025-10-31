@@ -1,21 +1,22 @@
 11:00   31.10.   [AFC Challenge League]
 Regar  vs  TadAZ - Safa
 
-- BalkanBet  1=2.6  |  X=3.35  |  2=2.35  |  0-2=1.82  |  2+=1.27  |  3+=1.78  |  GG=1.55  |  IGG=3.85  |  GG&3+=1.95  |  GG&4+=3.3  |  4+=2.95
+- BalkanBet  1=2.6  |  X=3.4  |  2=2.3  |  0-2=1.77  |  2+=1.28  |  3+=1.83  |  GG=1.6  |  IGG=4.25  |  GG&3+=2  |  GG&4+=3.5  |  4+=3.1
 - BetOle     1=2.67  |  X=3.35  |  2=2.3  |  0-2=1.9  |  3+=1.8
 - Brazil_d   1=2.65  |  X=3.3  |  2=2.3  |  0-2=1.9  |  2+=1.24  |  3+=1.82
 - MaxBet     1=2.75  |  X=3.40  |  2=2.30
-- Merkur     1=2.52  |  X=3.45  |  2=2.25  |  0-2=2.23  |  3+=1.55  |  GG=1.45
-- Soccer     1=2.7  |  X=3.4  |  2=2.38  |  0-2=1.87  |  2+=1.26  |  3+=1.83  |  GG=1.7  |  IGG=4.2  |  GG&3+=2.05
+- Merkur     1=2.62  |  X=3.5  |  2=2.18  |  0-2=2.23  |  3+=1.55  |  GG=1.47
+- Mozzart    1=2.85  |  X=3.3  |  2=2.35  |  0-2=1.85  |  2+=1.28  |  3+=1.85
+- Soccer     1=2.75  |  X=3.35  |  2=2.35  |  0-2=1.83  |  2+=1.28  |  3+=1.87  |  GG=1.7  |  IGG=4.35  |  GG&3+=2.1
 
-Najveća 1  : 2.75  [MaxBet]
-Najveća X  : 3.45  [Merkur]
-Najveća 2  : 2.38  [Soccer]
+Najveća 1  : 2.85  [Mozzart]
+Najveća X  : 3.50  [Merkur]
+Najveća 2  : 2.35  [Mozzart, Soccer]
 Najveća 0-2: 2.23  [Merkur]
-Najveća 3+ : 1.83  [Soccer]
+Najveća 3+ : 1.87  [Soccer]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0737   profit≈-7.37%
-Arbitraža (0-2 / 3+): DA   inv_sum=0.9949   profit≈0.51%
+Arbitraža (1-X-2): NE   inv_sum=1.0621   profit≈-6.21%
+Arbitraža (0-2 / 3+): DA   inv_sum=0.9832   profit≈1.68%
 
 11:00   31.10.   [Srbija U19]
 U19 Vojvodina  vs  U19 C.Zvezda
@@ -34,6 +35,26 @@ Najveća 3+ : 2.75  [BalkanBet]
 
 Arbitraža (1-X-2): NE   inv_sum=1.0778   profit≈-7.78%
 Arbitraža (0-2 / 3+): DA   inv_sum=0.7208   profit≈27.92%
+
+16:30   31.10.   [Bugarska 2]
+Fratria Varna  vs  Vihren Sandanski
+
+- BalkanBet  1=1.9  |  X=3.35  |  2=3.5  |  0-2=1.88  |  2+=1.28  |  3+=1.82  |  GG=1.65  |  IGG=4.35  |  GG&3+=2.05  |  GG&4+=3.45  |  4+=3.05
+- Brazil_d   1=1.73  |  X=3.35  |  2=4.3  |  0-2=1.8  |  2+=1.25  |  3+=1.85
+- MaxBet     1=1.80  |  X=3.30  |  2=3.90
+- Merkur     1=1.97  |  X=3.3  |  2=3.25  |  0-2=1.9  |  3+=1.8  |  GG=1.65  |  IGG=4.55  |  GG&3+=2.15
+- Mozzart    1=1.7  |  X=3.5  |  2=4.8  |  0-2=1.9  |  2+=1.27  |  3+=1.8
+- Soccer     1=1.95  |  X=3.45  |  2=3.6  |  0-2=1.9  |  2+=1.25  |  3+=1.8  |  GG=1.7  |  IGG=4.25  |  GG&3+=2.05
+- Topbet     1=1.75  |  X=3.65  |  2=3.8
+
+Najveća 1  : 1.97  [Merkur]
+Najveća X  : 3.65  [Topbet]
+Najveća 2  : 4.80  [Mozzart]
+Najveća 0-2: 1.90  [Merkur, Mozzart, Soccer]
+Najveća 3+ : 1.85  [Brazil_d]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9899   profit≈1.01%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0669   profit≈-6.69%
 
 23:00   31.10.   [Argentina 1]
 San Lorenzo  vs  Riestra
@@ -160,27 +181,27 @@ Arbitraža (0-2 / 3+): DA   inv_sum=0.9942   profit≈0.58%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1581
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1190
-Grupa sa veličinom ≥3: 827
-Grupa sa veličinom ≥4: 539
-Grupa sa veličinom ≥5: 332
-Grupa sa veličinom ≥6: 139
-Grupa sa veličinom ≥7: 47
+Ukupno mečeva (grupa): 1587
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1188
+Grupa sa veličinom ≥3: 836
+Grupa sa veličinom ≥4: 540
+Grupa sa veličinom ≥5: 342
+Grupa sa veličinom ≥6: 137
+Grupa sa veličinom ≥7: 42
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa: 1116   spojeno (u grupama >1):  970
+  - BalkanBet  ukupno zapisa: 1116   spojeno (u grupama >1):  972
   - BetOle     ukupno zapisa:   24   spojeno (u grupama >1):   24
-  - Brazil_d   ukupno zapisa:  285   spojeno (u grupama >1):  275
+  - Brazil_d   ukupno zapisa:  291   spojeno (u grupama >1):  281
   - Brazil_p   ukupno zapisa:  294   spojeno (u grupama >1):  258
   - Brazil_s   ukupno zapisa:  276   spojeno (u grupama >1):  231
-  - MaxBet     ukupno zapisa:  240   spojeno (u grupama >1):  228
-  - Merkur     ukupno zapisa: 1016   spojeno (u grupama >1):  939
-  - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  379
+  - MaxBet     ukupno zapisa:  240   spojeno (u grupama >1):  229
+  - Merkur     ukupno zapisa: 1016   spojeno (u grupama >1):  940
+  - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  367
   - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  347
   - Topbet     ukupno zapisa:  662   spojeno (u grupama >1):  626
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 7
+  - 1-X-2: 8
   - 0-2 / 3+: 3
-  - Barem jedna arbitraža: 9
+  - Barem jedna arbitraža: 10
