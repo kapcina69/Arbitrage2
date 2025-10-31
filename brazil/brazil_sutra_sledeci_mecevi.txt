@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 02.11.
-1:00
+2:00
 23:59
-1:00 - 23:59
+2:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
@@ -30,7 +30,6 @@ STONI TENIS
 AMERIČKI FUDBAL
 MMA
 FUTSAL
-BEJZBOL
 ESPORT
 FUDBAL VIRTUAL
 POBEDNICI
@@ -38,167 +37,24 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-ECUADOR, Liga Pro - Placement Group
-1287
-01:00
-Delfin
-Dep. Cuenca
-658
-1
-2.75
-X
-2.85
-2
-2.50
-0-2
-1.45
-2+
-1.46
-3+
-2.45
-ARGENTINA, Primera Nacional - Promotion - Play Offs
-1142
-01:10
-Estudiantes Rio Cuarto
-Gimnasia y Tiro
-806
-1
-2.28
-X
-2.62
-2
-3.45
-0-2
-1.27
-2+
-1.71
-3+
-3.30
-ARGENTINA, Torneo Betano - Clausura
-1254
-01:15
-Instituto
-Rosario Central
-814
-1
-3.25
-X
-2.75
-2
-2.50
-0-2
-1.31
-2+
-1.67
-3+
-3.15
-1255
-01:15
-Newells Old Boys
-Union de Santa Fe
-831
-1
-3.10
-X
-3.00
-2
-2.38
-0-2
-1.55
-2+
-1.41
-3+
-2.30
-BOLIVIA, Copa Pacena
-35945
-01:30
-Blooming
-Aurora
-666
-1
-1.94
-X
-3.35
-2
-3.35
-0-2
-2.02
-2+
-1.19
-3+
-1.68
-COLOMBIA, Primera B - Clausura - Quadrangular
-38172
-01:30
-Inter Palmira
-Cucuta
-665
-1
-2.50
-X
-2.90
-2
-2.75
-0-2
-1.55
-2+
-1.40
-3+
-2.28
-NEW ZEALAND, National League - Championship Group
-34444
-01:30
-Christchurch
-Auckland City
-59
-1
-2.45
-X
-3.80
-2
-2.28
-0-2
-2.50
-2+
-1.12
-3+
-1.44
-BRAZIL, Serie B
-972
-01:35
-Ferroviaria
-Criciuma
-832
-1
-2.85
-X
-3.05
-2
-2.55
-0-2
-1.60
-2+
-1.38
-3+
-2.22
 MEXICO, Liga MX - Apertura
 1078
 02:00
 Necaxa
 Santos Laguna
-847
+849
 1
-1.55
+1.54
 X
-4.50
+4.55
 2
 4.95
 0-2
-2.65
+2.70
 2+
-1.12
+1.11
 3+
-1.43
+1.41
 MEXICO, Liga MX Femenil Women
 1029
 02:00
@@ -347,19 +203,19 @@ MEXICO, Liga MX Femenil Women
 04:00
 Club Tijuana Wom.
 Pachuca Wom.
-662
+665
 1
-6.10
+6.20
 X
-4.80
+4.95
 2
-1.36
+1.35
 0-2
-3.00
+3.30
 2+
-1.07
+1.05
 3+
-1.33
+1.28
 1031
 04:00
 Monterrey Wom.
@@ -507,19 +363,19 @@ SOUTH KOREA, K-League 1 - Championship Group
 06:00
 Daejeon
 Seoul
-843
+844
 1
-2.55
-X
-3.35
-2
 2.50
+X
+3.40
+2
+2.55
 0-2
-2.05
+2.10
 2+
-1.21
+1.19
 3+
-1.69
+1.66
 1020
 06:00
 Gangwon
@@ -1986,7 +1842,7 @@ ENGLAND, Championship
 13:30
 Leicester
 Blackburn
-936
+1002
 1
 1.86
 X
@@ -2110,7 +1966,7 @@ SPAIN, LaLiga
 14:00
 Villarreal
 Rayo Vallecano
-1014
+961
 1
 1.72
 X
@@ -2741,11 +2597,11 @@ FSV Frankfurt
 Alzenau
 661
 1
-1.30
+1.32
 X
-4.85
+4.70
 2
-7.50
+7.00
 0-2
 2.55
 2+
@@ -2876,19 +2732,19 @@ X
 14:00
 Kalamata
 Panargiakos
-638
+645
 1
 1.11
 X
-6.50
+6.40
 2
-18.0
+20.0
 0-2
-2.08
+2.00
 2+
-1.19
+1.21
 3+
-1.66
+1.72
 1096
 14:00
 Olympiacos Piraeus B
@@ -3264,7 +3120,7 @@ ITALY, Serie A
 15:00
 Udinese
 Atalanta
-1023
+973
 1
 4.60
 X
@@ -3654,7 +3510,7 @@ GERMANY, Bundesliga
 15:30
 Heidenheim
 Eintracht Frankfurt
-961
+1042
 1
 3.65
 X
@@ -3671,7 +3527,7 @@ X
 15:30
 Mainz
 Werder Bremen
-962
+1048
 1
 2.03
 X
@@ -3688,7 +3544,7 @@ X
 15:30
 RB Leipzig
 Stuttgart
-1058
+979
 1
 2.02
 X
@@ -3722,7 +3578,7 @@ X
 15:30
 Union Berlin
 Freiburg
-1029
+1031
 1
 2.65
 X
@@ -4495,7 +4351,7 @@ ENGLAND, Premier League
 16:00
 Brighton
 Leeds
-974
+998
 1
 1.87
 X
@@ -4512,7 +4368,7 @@ X
 16:00
 Burnley
 Arsenal
-972
+944
 1
 11.2
 X
@@ -4529,7 +4385,7 @@ X
 16:00
 Crystal Palace
 Brentford
-1052
+975
 1
 1.95
 X
@@ -4546,7 +4402,7 @@ X
 16:00
 Fulham
 Wolves
-954
+995
 1
 1.90
 X
@@ -4941,21 +4797,501 @@ X
 1.18
 3+
 1.63
+34335
+16:00
+Dartford
+Welling
+842
+1
+1.50
+X
+4.10
+2
+5.00
+0-2
+2.40
+2+
+1.13
+3+
+1.49
+34336
+16:00
+Folkestone
+Billericay
+818
+1
+2.20
+X
+3.25
+2
+2.88
+0-2
+2.00
+2+
+1.20
+3+
+1.69
+ENGLAND, NPL Premier Division
+34433
+16:00
+Ashton Utd
+Cleethorpes
+836
+1
+2.07
+X
+3.25
+2
+3.15
+0-2
+1.90
+2+
+1.24
+3+
+1.80
+34434
+16:00
+Bamber Bridge
+FC United
+839
+1
+2.38
+X
+3.35
+2
+2.55
+0-2
+1.90
+2+
+1.23
+3+
+1.79
+34435
+16:00
+Guiseley
+Hednesford
+838
+1
+2.75
+X
+3.25
+2
+2.25
+0-2
+1.85
+2+
+1.26
+3+
+1.85
+34436
+16:00
+Hebburn Town
+Warrington
+839
+1
+2.35
+X
+3.40
+2
+2.55
+0-2
+2.03
+2+
+1.20
+3+
+1.68
+34437
+16:00
+Hyde
+Morpeth
+842
+1
+1.85
+X
+3.60
+2
+3.45
+0-2
+2.18
+2+
+1.17
+3+
+1.59
+34438
+16:00
+Lancaster
+Whitby
+837
+1
+2.07
+X
+3.30
+2
+3.10
+0-2
+2.00
+2+
+1.20
+3+
+1.69
+34439
+16:00
+Rushall
+Prescot Cables
+838
+1
+2.25
+X
+3.20
+2
+2.85
+0-2
+1.90
+2+
+1.23
+3+
+1.77
+34440
+16:00
+Rylands
+Leek Town
+843
+1
+1.90
+X
+3.65
+2
+3.25
+0-2
+2.25
+2+
+1.16
+3+
+1.56
+34441
+16:00
+Stocksbridge
+Workington
+841
+1
+2.02
+X
+3.40
+2
+3.15
+0-2
+2.00
+2+
+1.20
+3+
+1.72
+34442
+16:00
+Stockton Town
+Ilkeston
+843
+1
+1.98
+X
+3.45
+2
+3.20
+0-2
+2.07
+2+
+1.19
+3+
+1.66
+ENGLAND, National League North
+31209
+16:00
+Alfreton
+Kidderminster
+833
+1
+4.65
+X
+3.35
+2
+1.69
+0-2
+1.78
+2+
+1.28
+3+
+1.92
+31210
+16:00
+Hereford
+Curzon Ashton
+841
+1
+2.15
+X
+3.25
+2
+3.00
+0-2
+1.95
+2+
+1.22
+3+
+1.75
+31211
+16:00
+Marine
+AFC Fylde
+843
+1
+3.85
+X
+3.80
+2
+1.72
+0-2
+2.15
+2+
+1.18
+3+
+1.61
+31212
+16:00
+Oxford City
+Bedford
+843
+1
+2.25
+X
+3.30
+2
+2.75
+0-2
+2.05
+2+
+1.19
+3+
+1.66
+31213
+16:00
+Peterborough Sports
+Chorley
+843
+1
+3.20
+X
+3.50
+2
+1.95
+0-2
+2.05
+2+
+1.19
+3+
+1.66
+31214
+16:00
+Southport
+King’s Lynn
+843
+1
+2.50
+X
+3.15
+2
+2.55
+0-2
+1.85
+2+
+1.25
+3+
+1.82
+31215
+16:00
+Worksop
+Scarborough
+839
+1
+2.45
+X
+3.30
+2
+2.50
+0-2
+2.05
+2+
+1.20
+3+
+1.66
+34261
+16:00
+Merthyr Town
+Darlington
+841
+1
+2.22
+X
+3.45
+2
+2.70
+0-2
+2.25
+2+
+1.16
+3+
+1.56
+ENGLAND, National League South
+31226
+16:00
+Bath
+Horsham FC
+840
+1
+2.62
+X
+3.05
+2
+2.50
+0-2
+1.72
+2+
+1.30
+3+
+1.97
+31227
+16:00
+Chesham
+Chippenham
+832
+1
+1.55
+X
+3.60
+2
+5.30
+0-2
+1.85
+2+
+1.26
+3+
+1.85
+31228
+16:00
+Dag & Red
+Farnborough
+837
+1
+2.10
+X
+3.20
+2
+3.10
+0-2
+1.90
+2+
+1.24
+3+
+1.80
+31229
+16:00
+Enfield Town
+Eastbourne Boro
+841
+1
+3.05
+X
+3.15
+2
+2.18
+0-2
+1.83
+2+
+1.26
+3+
+1.87
+31230
+16:00
+Maidstone
+Tonbridge
+828
+1
+1.43
+X
+3.90
+2
+6.40
+0-2
+1.87
+2+
+1.24
+3+
+1.82
+31231
+16:00
+Salisbury
+Dorking
+840
+1
+3.10
+X
+3.25
+2
+2.10
+0-2
+1.90
+2+
+1.24
+3+
+1.80
+31232
+16:00
+Torquay
+Hornchurch
+840
+1
+2.12
+X
+3.15
+2
+3.10
+0-2
+1.82
+2+
+1.26
+3+
+1.87
+ENGLAND, Southern League Premier Central
+34446
+16:00
+AFC Sudbury
+Worcester City
+836
+1
+3.10
+X
+3.30
+2
+2.05
+0-2
+1.90
+2+
+1.24
+3+
+1.80
 Odigrani tiketi
-1254
-Instituto - Rosario Central
-01.11. 01:15
+1106
+Correcaminos - Zacatecas Mineros
+01.11. 02:00
 KONAČAN ISHOD 
 1
-  3.25  
+  3.70  
 Običan
 Sistem
 Kvota:
-3.25
+3.70
 Uplata:
 20.00 RSD
 Dobitak:
-65.00 RSD
+74.00 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express
