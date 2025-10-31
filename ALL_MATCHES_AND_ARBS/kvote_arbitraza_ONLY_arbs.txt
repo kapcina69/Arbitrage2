@@ -4,7 +4,6 @@ U19 Vojvodina  vs  U19 C.Zvezda
 - BalkanBet  1=4.8  |  X=4  |  2=1.53  |  2+=1.4  |  3+=2.75
 - Brazil_d   1=4.5  |  X=4.1  |  2=1.51  |  0-2=2.75  |  2+=1.07  |  3+=1.35
 - MaxBet     1=4.70  |  X=4.30  |  2=1.50
-- Merkur     1=4.5  |  X=4.15  |  2=1.5  |  0-2=2.8  |  3+=1.35  |  GG=1.43
 - OktagonBet 1=4.5  |  X=4.15  |  2=1.5  |  0-2=2.75  |  3+=1.35  |  GG=1.44  |  GG&3+=1.66  |  4+=1.95
 - Soccer     1=4.75  |  X=4.4  |  2=1.5  |  0-2=2.95  |  2+=1.08  |  3+=1.35  |  GG=1.47  |  IGG=None  |  GG&3+=None
 
@@ -56,24 +55,23 @@ Arbitraža (0-2 / 3+): DA   inv_sum=0.9942   profit≈0.58%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1765
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1239
-Grupa sa veličinom ≥3: 834
-Grupa sa veličinom ≥4: 570
-Grupa sa veličinom ≥5: 380
-Grupa sa veličinom ≥6: 188
-Grupa sa veličinom ≥7: 109
+Ukupno mečeva (grupa): 1580
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1221
+Grupa sa veličinom ≥3: 854
+Grupa sa veličinom ≥4: 543
+Grupa sa veličinom ≥5: 321
+Grupa sa veličinom ≥6: 133
+Grupa sa veličinom ≥7: 40
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa: 1127   spojeno (u grupama >1):  973
+  - BalkanBet  ukupno zapisa: 1132   spojeno (u grupama >1):  980
   - BetOle     ukupno zapisa:   23   spojeno (u grupama >1):   23
   - Brazil_d   ukupno zapisa:  282   spojeno (u grupama >1):  281
-  - Brazil_p   ukupno zapisa:  288   spojeno (u grupama >1):  270
-  - Brazil_s   ukupno zapisa:  277   spojeno (u grupama >1):  268
-  - MaxBet     ukupno zapisa:  231   spojeno (u grupama >1):  218
-  - Merkur     ukupno zapisa:  407   spojeno (u grupama >1):  218
-  - Mozzart    ukupno zapisa:  420   spojeno (u grupama >1):  383
-  - OktagonBet ukupno zapisa: 1037   spojeno (u grupama >1):  976
+  - Brazil_p   ukupno zapisa:  288   spojeno (u grupama >1):  243
+  - Brazil_s   ukupno zapisa:  277   spojeno (u grupama >1):  273
+  - MaxBet     ukupno zapisa:  217   spojeno (u grupama >1):  203
+  - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  371
+  - OktagonBet ukupno zapisa: 1041   spojeno (u grupama >1):  976
   - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  346
   - Topbet     ukupno zapisa:  678   spojeno (u grupama >1):  638
 
