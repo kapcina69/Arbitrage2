@@ -2,21 +2,22 @@
 San Lorenzo  vs  Riestra
 
 - BalkanBet  1=2.05  |  X=2.9  |  2=4.6  |  0-2=1.25  |  2+=1.85  |  3+=4  |  GG=3.1  |  IGG=9.5  |  GG&3+=4.9  |  GG&4+=10.4  |  4+=10
-- Brazil_d   1=2.02  |  X=2.75  |  2=4.7  |  0-2=1.2  |  2+=1.93  |  3+=4.05
+- BetOle     1=2.02  |  X=2.7  |  2=4.8  |  0-2=1.18  |  3+=4.35
+- Brazil_d   1=2.02  |  X=2.7  |  2=4.8  |  0-2=1.17  |  2+=2  |  3+=4.35
 - MaxBet     1=2.05  |  X=2.60  |  2=4.85
 - Mozzart    1=1.9  |  X=3.05  |  2=4.85  |  0-2=1.33  |  2+=1.7  |  3+=3.05
 - OktagonBet 1=2.02  |  X=2.75  |  2=4.7  |  0-2=1.2  |  3+=4.05  |  GG=3.2  |  GG&3+=5.45  |  4+=10.4
-- Soccer     1=2.0  |  X=2.85  |  2=4.8  |  0-2=1.29  |  2+=1.8  |  3+=3.65  |  GG=2.8  |  IGG=8.6  |  GG&3+=4.35
+- Soccer     1=2.0  |  X=2.75  |  2=5.0  |  0-2=1.23  |  2+=1.93  |  3+=4.1  |  GG=3.1  |  IGG=9.7  |  GG&3+=5.0
 - Topbet     1=2  |  X=2.65  |  2=4.4
 
 Najveća 1  : 2.05  [BalkanBet, MaxBet]
 Najveća X  : 3.05  [Mozzart]
-Najveća 2  : 4.85  [MaxBet, Mozzart]
+Najveća 2  : 5.00  [Soccer]
 Najveća 0-2: 1.33  [Mozzart]
-Najveća 3+ : 4.05  [Brazil_d, OktagonBet]
+Najveća 3+ : 4.35  [BetOle, Brazil_d]
 
-Arbitraža (1-X-2): NE   inv_sum=1.0219   profit≈-2.19%
-Arbitraža (0-2 / 3+): DA   inv_sum=0.9988   profit≈0.12%
+Arbitraža (1-X-2): NE   inv_sum=1.0157   profit≈-1.57%
+Arbitraža (0-2 / 3+): DA   inv_sum=0.9818   profit≈1.82%
 
 
 ======================================================================================
@@ -24,15 +25,15 @@ Arbitraža (0-2 / 3+): DA   inv_sum=0.9988   profit≈0.12%
 ======================================================================================
 Ukupno mečeva (grupa): 1449
 Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1040
-Grupa sa veličinom ≥3: 715
-Grupa sa veličinom ≥4: 398
-Grupa sa veličinom ≥5: 137
-Grupa sa veličinom ≥6: 68
-Grupa sa veličinom ≥7: 28
+Grupa sa veličinom ≥3: 720
+Grupa sa veličinom ≥4: 401
+Grupa sa veličinom ≥5: 143
+Grupa sa veličinom ≥6: 91
+Grupa sa veličinom ≥7: 62
 
 Po kladionici:
   - BalkanBet  ukupno zapisa: 1070   spojeno (u grupama >1):  952
-  - BetOle     ukupno zapisa:   26   spojeno (u grupama >1):   26
+  - BetOle     ukupno zapisa:  110   spojeno (u grupama >1):  110
   - Brazil_d   ukupno zapisa:  123   spojeno (u grupama >1):  122
   - Brazil_p   ukupno zapisa:    8   spojeno (u grupama >1):    8
   - MaxBet     ukupno zapisa:  113   spojeno (u grupama >1):  108

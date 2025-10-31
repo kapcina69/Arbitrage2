@@ -36,7 +36,7 @@ MMA
 Esport
 12
 Hokej
-32
+31
 Rukomet
 18
 Americki Fudbal
@@ -44,7 +44,7 @@ Americki Fudbal
 Odbojka
 17
 Vaterpolo
-2
+1
 Stoni Tenis
 4
 Formula 1
@@ -75,13 +75,13 @@ GG
 GG3+
 31.10. 19:00
 A. Italiano - Cobresal
-1.86
-3.65
-3.60
-2.12
-1.63
-2.65
-1.59
+1.75
+3.70
+4.00
+2.18
+1.61
+2.62
+1.60
 1.94
 31.10. 19:00
 Horsens - Koge
@@ -95,14 +95,14 @@ Horsens - Koge
 2.15
 31.10. 19:00
 Viktoria Koln - Ingolstadt
-2.55
+2.47
 3.65
-2.45
+2.55
 2.35
-1.54
+1.53
 2.40
-1.48
-1.78
+1.47
+1.77
 31.10. 19:00
 Ansbach - Burghausen
 3.50
@@ -225,14 +225,14 @@ Oedt - SC Weiz
 1.51
 31.10. 19:00
 Treibach - Lafnitz
-2.90
-3.85
-1.98
-2.55
-1.41
-2.12
-1.39
-1.63
+2.85
+3.80
+2.02
+2.60
+1.40
+2.08
+1.38
+1.61
 31.10. 19:00
 Weindorf St. Anna - LASK (Am)
 7.45
@@ -315,14 +315,14 @@ Kirchanschoring - FC Schwaig
 1.48
 31.10. 19:00
 ATSV Wolfsberger - Lendorf
-1.74
-4.05
-3.30
-2.65
+1.98
+3.80
+2.80
+2.62
+1.39
+2.05
 1.37
-2.02
-1.38
-1.59
+1.60
 31.10. 19:00
 Lebring - UFC Fehring
 1.32
@@ -347,22 +347,22 @@ SV Union Gnas - Koflach
 TUS Bad Waltersdorf - Leoben
 1.43
 4.50
-4.85
-3.05
-1.29
-1.82
-1.41
-1.59
+4.90
+2.90
+1.32
+1.87
+1.44
+1.63
 31.10. 19:00
 Vitoria Wom. - Bahia Wom.
-7.25
-4.55
-1.33
-2.20
-1.54
-2.47
-1.87
+6.80
+4.50
+1.35
 2.22
+1.54
+2.45
+1.82
+2.15
 31.10. 19:30
 Lotte - Gutersloh 2000
 2.75
@@ -465,14 +465,14 @@ SV Oberwart - Wiener Sport-Club
 2.02
 31.10. 19:30
 TWL Elektra - Kremser
-9.10
-5.85
-1.21
-3.20
-1.27
-1.75
-1.65
-1.83
+9.70
+6.05
+1.19
+3.25
+1.26
+1.74
+1.67
+1.86
 31.10. 19:30
 Traiskirchen - SV Donau
 1.65
@@ -888,21 +888,21 @@ Piast Gliwice - Korona Kielce
 2.60
 3.10
 2.75
-1.64
-2.15
-4.05
-1.89
-2.55
+1.62
+2.18
+4.15
+1.92
+2.62
 31.10. 20:30
 Kapfenberg - A. Salzburg
 2.60
-3.35
+3.30
 2.47
-2.03
-1.70
-2.85
-1.59
-2.00
+1.97
+1.74
+2.95
+1.62
+2.05
 31.10. 20:30
 Ruch Chorzow - Tychy
 2.05
@@ -916,10 +916,10 @@ Ruch Chorzow - Tychy
 31.10. 20:30
 Racing Santander - R. Sociedad B
 1.39
-4.80
-6.85
+4.85
+6.90
 2.38
-1.53
+1.52
 2.38
 1.76
 2.07
@@ -945,9 +945,9 @@ Casertana - Catania
 3.20
 31.10. 20:30
 Picerno - Cavese
-2.25
+2.20
 3.00
-3.00
+3.10
 1.64
 2.10
 3.95
@@ -985,14 +985,14 @@ RAAL La Louviere U21 - Kortrijk U21
 1.56
 31.10. 20:45
 Bangor FC - Carrick Rangers
-2.38
+2.45
 3.50
-2.60
+2.50
 2.18
 1.61
 2.60
-1.53
-1.88
+1.52
+1.87
 31.10. 20:45
 Glentoran - Portadown
 1.44
@@ -1095,14 +1095,14 @@ Mickleover - Shepshed
 2.03
 31.10. 21:00
 Wrexham - Coventry
-3.95
-3.55
-1.94
+4.05
+3.45
 1.95
 1.86
-3.25
-1.77
-2.22
+1.95
+3.50
+1.83
+2.35
 31.10. 21:00
 Getafe - Girona
 2.20
@@ -1147,12 +1147,12 @@ Marseille Wom. - Strasbourg Wom.
 Sporting CP - Alverca
 1.11
 8.45
-20.5
-3.15
+20.0
+3.20
 1.31
-1.84
-2.32
-2.55
+1.82
+2.28
+2.50
 31.10. 21:15
 Alcorcon - Sevilla FC B
 2.12
@@ -1265,24 +1265,24 @@ Veraguas - Deportivo Universitario
 2.45
 31.10. 22:30
 Zamora - Puerto Cabello
-2.50
-3.20
-2.50
-1.86
-1.82
-3.20
-1.67
-2.15
+2.55
+3.05
+2.55
+1.71
+1.99
+3.65
+1.79
+2.40
 31.10. 23:00
 Atletico GO - Paysandu PA
-1.52
+1.54
 3.90
-6.30
-1.86
-1.85
-3.25
-2.02
-2.55
+6.05
+1.91
+1.81
+3.15
+1.96
+2.45
 31.10. 23:00
 Coritiba - CRB
 1.71
@@ -1595,14 +1595,14 @@ Atl. San Luis - Juarez
 2.15
 01.11. 04:05
 Puebla - Cruz Azul
-4.75
-3.95
-1.60
-2.18
-1.61
-2.62
-1.67
-2.02
+4.80
+4.00
+1.59
+2.25
+1.57
+2.50
+1.65
+1.97
 01.11. 04:15
 Sydney Wom. - Melbourne City Wom.
 4.10
@@ -1675,14 +1675,14 @@ YSCC - Veertien Mie
 2.60
 01.11. 05:05
 Kashiwa Reysol - Sanfrecce Hiroshima
-2.70
+2.85
 3.10
-2.55
+2.40
 1.69
 2.04
 3.80
 1.82
-2.45
+2.47
 01.11. 05:15
 Sydney Olympic - South Melbourne
 3.05
@@ -2205,14 +2205,14 @@ Arsenal Tula 2 - SKA Khabarovsk 2
 1.81
 01.11. 12:00
 Kvant - Rodina Moscow U21
-19.5
-7.85
-1.07
-2.75
-1.38
-2.00
+21.5
+8.15
+1.06
 2.70
-3.05
+1.39
+2.03
+2.95
+3.30
 01.11. 12:00
 R.Volgograd 2 - Penza
 2.28
@@ -6198,14 +6198,14 @@ Red Star - St Etienne
 2.15
 01.11. 20:00
 Copiapo - U. De Concepcion
-1.74
-3.65
+1.76
+3.55
 3.85
-2.15
-1.61
-2.60
-1.59
-1.94
+2.08
+1.65
+2.70
+1.63
+1.99
 01.11. 20:00
 Cruzeiro - Vitoria
 1.46
@@ -6218,13 +6218,13 @@ Cruzeiro - Vitoria
 2.65
 01.11. 20:00
 Santos - Fortaleza
-1.70
-3.65
-4.80
-1.92
-1.80
-3.15
-1.80
+1.67
+3.70
+4.95
+1.94
+1.78
+3.10
+1.81
 2.28
 01.11. 20:00
 Goias - Athletico-PR
@@ -6348,12 +6348,12 @@ Liverpool M. - Juventud
 2.45
 01.11. 20:45
 Cremonese - Juventus
-6.55
-3.90
-1.56
-1.90
-1.91
-3.40
+6.30
+3.85
+1.58
+1.88
+1.93
+3.45
 2.08
 2.62
 01.11. 20:45
@@ -6481,11 +6481,11 @@ Mirassol - Botafogo
 2.22
 3.30
 3.15
-1.80
-1.92
-3.45
+1.79
+1.93
+3.50
 1.76
-2.30
+2.32
 01.11. 22:00
 Alianza - Chico
 1.47
@@ -7103,9 +7103,9 @@ Bayswater - Sydney United 58
 2.55
 2.08
 1.65
-2.70
+2.75
 1.55
-1.93
+1.94
 02.11. 06:30
 NWS Spirit FC - Preston Lions
 2.15
@@ -10054,14 +10054,14 @@ Gainsborough - Accrington
 2.02
 02.11. 18:15
 Osijek - Varazdin
-1.95
-3.30
+2.10
+3.20
+3.35
+1.73
+1.99
 3.65
-1.75
-1.96
-3.55
 1.82
-2.40
+2.45
 02.11. 18:15
 Ponferradina - Cacereno
 1.89
@@ -10334,14 +10334,14 @@ Fenix - Excursionistas
 2.80
 02.11. 19:30
 Villa Dalmine - Brown Adrogue
-2.25
+2.28
 2.75
-3.30
-1.36
-2.85
+3.25
+1.35
+2.88
 6.35
 2.35
-3.55
+3.60
 02.11. 19:30
 U Craiova 1948 - FC Rapid Bucuresti
 2.05
