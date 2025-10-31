@@ -49,15 +49,15 @@ GOLOVI PO LIGAMA
   
   
 KOŠARKA
-153
+154
   
   
 SP. KOŠARKA
-85
+103
   
   
 TENIS
-144
+146
   
   
 RUKOMET
@@ -65,7 +65,7 @@ RUKOMET
   
   
 ODBOJKA
-62
+64
   
   
 HOKEJ
@@ -101,7 +101,7 @@ BADMINTON
   
   
 MMA
-22
+23
   
   
 BOKS
@@ -117,11 +117,11 @@ FORMULA 1
   
   
 ESPORT
-23
+33
   
   
 SP. FUDBAL
-3339
+3343
   
   
 VIR. FUDBAL
@@ -155,13 +155,13 @@ Perth Wom.
 ki 1
 2.37
 ki X
-3.25
+3.30
 ki 2
 2.60
 manje 2.5
-2.05
+2.08
 više 2.5
-1.67
+1.65
  
 Russia,Youth League
 +77
@@ -235,11 +235,11 @@ ki 1
 ki X
 3.45
 ki 2
-1.88
+1.90
 manje 2.5
-1.83
+1.85
 više 2.5
-1.88
+1.87
  
 Australia, Australian Championship
 +822
@@ -247,11 +247,11 @@ Marconi Stallions
 Heidelberg Utd
 31.10. 09:35
 ki 1
-2.45
+2.50
 ki X
 3.30
 ki 2
-2.55
+2.47
 manje 2.5
 2.03
 više 2.5
@@ -295,11 +295,11 @@ Shanghai Port
 Zhejiang Professional
 31.10. 11:00
 ki 1
-1.60
+1.57
 ki X
-4.45
+4.50
 ki 2
-4.25
+4.30
 manje 2.5
 3.40
 više 2.5
@@ -322,18 +322,18 @@ više 2.5
 1.33
  
 Israel, Liga Alef South
-+643
++642
 Nordia Jerusalem
 Hapoel Azor
 31.10. 11:00
 ki 1
-2.93
+3.05
 ki X
 2.97
 ki 2
-2.35
+2.25
 manje 2.5
-1.57
+1.60
 više 2.5
 2.20
  
@@ -463,20 +463,20 @@ više 2.5
 1.97
  
 Australia, A-League
-+829
++830
 Perth Glory
 Melbourne Victory
 31.10. 11:45
 ki 1
-3.03
+3.00
 ki X
-3.50
+3.55
 ki 2
 2.20
 manje 2.5
-2.15
+2.20
 više 2.5
-1.65
+1.62
  
 Czech Republic, U19 League
 +82
@@ -562,11 +562,11 @@ Hong Linh Ha Tinh
 Hanoi FC
 31.10. 12:00
 ki 1
-4.00
+3.80
 ki X
 3.25
 ki 2
-1.81
+1.85
 manje 2.5
 1.70
 više 2.5
@@ -589,20 +589,20 @@ više 2.5
 1.73
  
 China, Super League
-+827
++826
 Chengdu Rongcheng
 Henan Songshan Longmen
 31.10. 12:35
 ki 1
-1.35
+1.33
 ki X
-5.20
+5.30
 ki 2
-6.60
+6.75
 manje 2.5
-3.30
+3.45
 više 2.5
-1.29
+1.26
  
 +3 
 Serbia, Prva Liga
@@ -721,15 +721,15 @@ Zabki
 Biala Piska
 31.10. 13:00
 ki 1
-1.03
+1.04
 ki X
-9.75
+9.25
 ki 2
-20.0
+18.0
 manje 2.5
-4.30
+4.20
 više 2.5
-1.15
+1.16
  
 Poland, III Liga - Group II
 +81
@@ -953,11 +953,11 @@ Skra
 BKS Sparta Katowice
 31.10. 13:30
 ki 1
-2.10
+2.05
 ki X
-3.35
+3.40
 ki 2
-2.80
+2.90
 manje 2.5
 2.12
 više 2.5
@@ -1026,18 +1026,18 @@ više 2.5
 2.47
  
 Germany, Regionalliga North
-+830
++829
 Drochtersen/Assel
 Jeddeloh
 31.10. 14:00
 ki 1
-1.92
+1.83
 ki X
-3.85
+3.90
 ki 2
-3.03
+3.25
 manje 2.5
-2.57
+2.60
 više 2.5
 1.43
  
@@ -1174,20 +1174,20 @@ više 2.5
 1.92
  
 Malaysia, Super League
-+792
++790
 Terengganu
 Johor DT
 31.10. 14:00
 ki 1
 14.0
 ki X
-7.30
+7.40
 ki 2
-1.11
+1.10
 manje 2.5
-3.30
+3.40
 više 2.5
-1.25
+1.24
  
 Poland, Division 2
 +821
@@ -1408,36 +1408,36 @@ više 2.5
 3.35
  
 Poland, III Liga - Group II
-+77
++78
 Rewal
 Sroda
 31.10. 14:30
 ki 1
-11.0
+10.0
 ki X
-5.60
+5.25
 ki 2
-1.17
+1.19
 manje 2.5
-2.40
+2.35
 više 2.5
-1.45
+1.48
  
 Uzbekistan, Super League
-+811
++810
 Shortan Guzor
 OKMK
 31.10. 14:30
 ki 1
-6.20
+6.50
 ki X
-4.15
+4.25
 ki 2
-1.41
+1.38
 manje 2.5
-2.07
+2.10
 više 2.5
-1.62
+1.60
  
 Saudi Arabia, Saudi Professional League
 +820
@@ -1730,20 +1730,20 @@ više 2.5
 1.32
  
 Slovenia, 2. SNL
-+638
++627
 NK Krka
 Krsko
 31.10. 15:00
 ki 1
-1.27
+1.18
 ki X
-5.10
+6.10
 ki 2
-6.80
+8.75
 manje 2.5
-3.35
+4.05
 više 2.5
-1.25
+1.17
  
 India, Super Cup
 +820
@@ -1845,31 +1845,31 @@ Rudar Velenje
 NK Jesenice
 31.10. 15:30
 ki 1
-1.37
+1.41
 ki X
-4.20
+4.10
 ki 2
-6.25
+5.75
 manje 2.5
 2.15
 više 2.5
 1.57
  
 Saudi Arabia, Saudi Professional League
-+811
++814
 Al Hilal Riyadh
 Al Shabab
 31.10. 15:50
 ki 1
-1.25
+1.27
 ki X
-5.30
+5.10
 ki 2
-8.25
+7.70
 manje 2.5
-2.57
+2.55
 više 2.5
-1.43
+1.45
  
 Georgia, Georgian Cup
 +636
@@ -2015,11 +2015,11 @@ Fratria
 Vihren
 31.10. 16:30
 ki 1
-1.81
+1.83
 ki X
-3.30
+3.35
 ki 2
-3.90
+3.80
 manje 2.5
 1.77
 više 2.5
@@ -2118,20 +2118,20 @@ više 2.5
 1.50
  
 Russia, Premier League
-+817
++818
 CSKA Moscow
 Nizhny Novgorod
 31.10. 17:00
 ki 1
-1.42
+1.40
 ki X
-4.80
+4.90
 ki 2
-6.80
+7.20
 manje 2.5
-2.22
+2.25
 više 2.5
-1.60
+1.57
  
 Ukraine, Premier League
 +816
@@ -2375,11 +2375,11 @@ Termalica B-B.
 GKS Katowice
 31.10. 18:00
 ki 1
-2.47
+2.57
 ki X
 3.40
 ki 2
-2.67
+2.60
 manje 2.5
 1.97
 više 2.5
@@ -2684,20 +2684,20 @@ više 2.5
 1.48
  
 Germany, Regionalliga West
-+822
++824
 Schalke II
 Rodinghausen
 31.10. 18:30
 ki 1
-1.77
+1.75
 ki X
-3.60
+3.65
 ki 2
 3.75
 manje 2.5
-2.15
+2.22
 više 2.5
-1.61
+1.57
  
 Germany, Bundesliga Women
 +642
@@ -2940,16 +2940,16 @@ više 2.5
 1.32
  
 Chile, Primera Division
-+825
++824
 A. Italiano
 Cobresal
 31.10. 19:00
 ki 1
-1.90
+1.95
 ki X
-3.60
+3.55
 ki 2
-3.50
+3.40
 manje 2.5
 2.10
 više 2.5
@@ -3895,15 +3895,15 @@ Always Ready
 Guabira
 31.10. 20:00
 ki 1
-1.22
+1.20
 ki X
-5.90
+6.10
 ki 2
-8.50
+9.00
 manje 2.5
-3.45
+3.55
 više 2.5
-1.25
+1.24
  
 Spain, Tercera RFEF - Group 15
 +640
@@ -3952,7 +3952,7 @@ više 2.5
 1.55
  
 Germany, Bundesliga
-+938
++1039
 Augsburg
 Dortmund
 31.10. 20:30
@@ -4606,20 +4606,20 @@ manje 2.5
 1.65
 više 2.5
 2.15
-+811
++809
 Coritiba
 CRB
 31.10. 23:00
 ki 1
-1.85
+1.77
 ki X
-3.25
+3.30
 ki 2
-4.45
+4.95
 manje 2.5
-1.61
+1.62
 više 2.5
-2.20
+2.15
  
 Brazil, Paulista Women
 +641
@@ -4726,7 +4726,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-08:50:23
+08:58:16
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
