@@ -1,23 +1,40 @@
+15:00   02.11.   [Francuska 1]
+Rennes  vs  Strasbourg
+
+- BalkanBet  1=2.35  |  X=3.65  |  2=2.95  |  0-2=2.2  |  2+=1.24  |  3+=1.7  |  GG=1.6  |  IGG=4.05  |  GG&3+=1.95  |  GG&4+=3.1  |  4+=2.75
+- Mozzart    1=2.45  |  X=3.5  |  2=3  |  0-2=2.24  |  2+=1.22  |  3+=1.68
+- OktagonBet 1=2.25  |  X=3.35  |  2=3.25  |  0-2=2.18  |  3+=1.69  |  GG=1.6  |  GG&3+=1.99  |  4+=2.8
+- Topbet     1=2.3  |  X=3.55  |  2=2.95
+
+Najveća 1  : 2.45  [Mozzart]
+Najveća X  : 3.65  [BalkanBet]
+Najveća 2  : 3.25  [OktagonBet]
+Najveća 0-2: 2.24  [Mozzart]
+Najveća 3+ : 1.70  [BalkanBet]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9898   profit≈1.02%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0347   profit≈-3.47%
+
+
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1475
+Ukupno mečeva (grupa): 1481
 Mečeva spojenih sa ≥2 kladionice (grupa size>1): 941
-Grupa sa veličinom ≥3: 605
+Grupa sa veličinom ≥3: 595
 Grupa sa veličinom ≥4: 297
 Grupa sa veličinom ≥5: 117
 Grupa sa veličinom ≥6: 0
 Grupa sa veličinom ≥7: 0
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  941   spojeno (u grupama >1):  830
-  - Brazil_d   ukupno zapisa:    3   spojeno (u grupama >1):    0
+  - BalkanBet  ukupno zapisa:  940   spojeno (u grupama >1):  830
   - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  374
-  - OktagonBet ukupno zapisa: 1037   spojeno (u grupama >1):  696
+  - OktagonBet ukupno zapisa: 1037   spojeno (u grupama >1):  686
   - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  341
   - Topbet     ukupno zapisa:  699   spojeno (u grupama >1):  660
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 0
+  - 1-X-2: 1
   - 0-2 / 3+: 0
-  - Barem jedna arbitraža: 0
+  - Barem jedna arbitraža: 1
