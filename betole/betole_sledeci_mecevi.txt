@@ -36,7 +36,7 @@ Sve
   
   
 FUDBAL
-1664
+1653
   
   
 DNEVNI SPECIJAL
@@ -44,11 +44,11 @@ DNEVNI SPECIJAL
   
   
 GOLOVI PO LIGAMA
-153
+149
   
   
 KOŠARKA
-247
+245
   
   
 SP. KOŠARKA
@@ -56,7 +56,7 @@ SP. KOŠARKA
   
   
 TENIS
-65
+63
   
   
 RUKOMET
@@ -68,7 +68,7 @@ ODBOJKA
   
   
 HOKEJ
-154
+153
   
   
 SP. HOKEJ
@@ -116,7 +116,7 @@ FORMULA 1
   
   
 KONJSKE TRKE
-45
+35
   
   
 ESPORT
@@ -124,7 +124,7 @@ ESPORT
   
   
 SP. FUDBAL
-3334
+3295
   
   
 VIR. FUDBAL
@@ -136,7 +136,7 @@ VIR. TENIS
   
   
 OUTRIGHT
-583
+567
 
 This is a modal window.
 
@@ -150,176 +150,8 @@ Top
 Specijali
 KONAČAN ISHOD
  
-Belgium, Jupiler Pro League
-+961
-St. Liege
-Charleroi
-31.10. 20:45
-ki 1
-2.80
-ki X
-3.00
-ki 2
-2.62
-manje 2.5
-1.60
-više 2.5
-2.20
- 
-England, Isthmian Division One North
-+645
-Bowers & Pitsea
-Grays Athletic
-31.10. 20:45
-ki 1
-1.71
-ki X
-3.95
-ki 2
-3.70
-manje 2.5
-2.25
-više 2.5
-1.57
- 
-England, Northern League Division One
-+646
-Ashington
-Newton Aycliffe
-31.10. 20:45
-ki 1
-2.27
-ki X
-3.35
-ki 2
-2.70
-manje 2.5
-2.00
-više 2.5
-1.71
-+646
-Atherton Collieries
-Vauxhall Motors
-31.10. 20:45
-ki 1
-2.57
-ki X
-3.25
-ki 2
-2.40
-manje 2.5
-1.97
-više 2.5
-1.71
-+644
-Mickleover
-Shepshed
-31.10. 20:45
-ki 1
-1.75
-ki X
-3.50
-ki 2
-3.90
-manje 2.5
-2.05
-više 2.5
-1.67
- 
-Northern Ireland, NIFL Premiership
-+824
-Bangor FC
-Carrick Rangers
-31.10. 20:45
-ki 1
-2.50
-ki X
-3.55
-ki 2
-2.45
-manje 2.5
-2.22
-više 2.5
-1.60
-+810
-Glentoran
-Portadown
-31.10. 20:45
-ki 1
-1.40
-ki X
-4.30
-ki 2
-7.25
-manje 2.5
-2.03
-više 2.5
-1.70
- 
-Scotland, Championship
-+815
-Ayr
-Dunfermline
-31.10. 20:45
-ki 1
-2.12
-ki X
-3.03
-ki 2
-3.50
-manje 2.5
-1.55
-više 2.5
-2.27
- 
-Wales, Cymru Premier
-+809
-Bala
-Llanelli
-31.10. 20:45
-ki 1
-1.47
-ki X
-3.80
-ki 2
-6.20
-manje 2.5
-1.82
-više 2.5
-1.87
- 
-Wales, Cymru North
-+645
-Llandudno
-Airbus
-31.10. 20:45
-ki 1
-2.55
-ki X
-3.10
-ki 2
-2.41
-manje 2.5
-1.85
-više 2.5
-1.81
-+646
-Ruthin
-Mold Alexandra
-31.10. 20:45
-ki 1
-2.88
-ki X
-3.45
-ki 2
-2.05
-manje 2.5
-2.22
-više 2.5
-1.55
- 
 Spain, LaLiga
-+1061
++1059
 Getafe
 Girona
 31.10. 21:00
@@ -340,15 +172,15 @@ Wrexham
 Coventry
 31.10. 21:00
 ki 1
-3.25
+3.35
 ki X
 3.35
 ki 2
-2.25
+2.20
 manje 2.5
 1.95
 više 2.5
-1.85
+1.87
  
 Gibraltar, National League
 +646
@@ -404,31 +236,31 @@ Marseille Wom.
 Strasbourg Wom.
 31.10. 21:00
 ki 1
-2.30
+2.20
 ki X
 3.30
 ki 2
-2.70
+2.85
 manje 2.5
 1.97
 više 2.5
 1.67
  
 Portugal, Liga Portugal
-+935
++940
 Sporting CP
 Alverca
 31.10. 21:15
 ki 1
-1.11
+1.13
 ki X
-8.25
+7.70
 ki 2
-21.0
+18.0
 manje 2.5
-2.93
+2.85
 više 2.5
-1.35
+1.37
  
 San Marino, Campionato Sammarinese
 +636
@@ -493,20 +325,20 @@ više 2.5
 1.83
  
 Chile, Primera B
-+815
++816
 D. Concepcion
 San Felipe
 31.10. 21:30
 ki 1
-1.75
+1.67
 ki X
-3.40
+3.50
 ki 2
-4.05
+4.40
 manje 2.5
-1.77
+1.81
 više 2.5
-1.90
+1.87
  
 Paraguay, Copa de Primera - Clausura
 +819
@@ -615,6 +447,84 @@ manje 2.5
 1.71
 više 2.5
 2.00
+ 
+Argentina, Torneo Betano - Clausura
++779
+San Lorenzo
+Deportivo Riestra
+31.10. 23:00
+ki 1
+2.15
+ki X
+2.62
+ki 2
+4.35
+manje 2.5
+1.17
+više 2.5
+4.45
+ 
+Brazil, Serie B
++813
+Atletico GO
+Paysandu PA
+31.10. 23:00
+ki 1
+1.60
+ki X
+3.80
+ki 2
+5.60
+manje 2.5
+1.88
+više 2.5
+1.83
++806
+Coritiba
+CRB
+31.10. 23:00
+ki 1
+1.70
+ki X
+3.40
+ki 2
+5.35
+manje 2.5
+1.65
+više 2.5
+2.12
+ 
+Brazil, Paulista Women
++636
+Santos Wom.
+Taubate Wom.
+31.10. 23:00
+ki 1
+1.35
+ki X
+4.25
+ki 2
+7.80
+manje 2.5
+1.91
+više 2.5
+1.77
+ 
+Bolivia, Copa Pacena
++622
+Bolivar
+SA Bulo Bulo
+31.10. 23:00
+ki 1
+1.11
+ki X
+7.70
+ki 2
+14.0
+manje 2.5
+4.15
+više 2.5
+1.18
  Tiket
 TIKET
 
@@ -673,7 +583,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-20:35:50
+20:46:34
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.

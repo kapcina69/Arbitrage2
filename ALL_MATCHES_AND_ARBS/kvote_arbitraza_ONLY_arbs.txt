@@ -1,46 +1,25 @@
-23:00   31.10.   [Argentina 1]
-San Lorenzo  vs  Riestra
-
-- BalkanBet  1=2.1  |  X=2.8  |  2=4.6  |  0-2=1.25  |  2+=1.85  |  3+=4  |  GG=3  |  IGG=9.5  |  GG&3+=4.7  |  GG&4+=10.4  |  4+=10
-- Brazil_d   1=2.18  |  X=2.62  |  2=4.35  |  0-2=1.17  |  2+=2.03  |  3+=4.45
-- MaxBet     1=2.25  |  X=2.50  |  2=4.45
-- Mozzart    1=1.9  |  X=3.05  |  2=4.85  |  0-2=1.33  |  2+=1.7  |  3+=3.05
-- OktagonBet 1=2.18  |  X=2.62  |  2=4.35  |  0-2=1.17  |  3+=4.45  |  GG=3.4  |  GG&3+=5.95  |  4+=11.8
-- Soccer     1=2.0  |  X=2.75  |  2=5.0  |  0-2=1.23  |  2+=1.93  |  3+=4.1  |  GG=3.1  |  IGG=9.7  |  GG&3+=5.0
-- Topbet     1=2  |  X=2.55  |  2=4.8
-
-Najveća 1  : 2.25  [MaxBet]
-Najveća X  : 3.05  [Mozzart]
-Najveća 2  : 5.00  [Soccer]
-Najveća 0-2: 1.33  [Mozzart]
-Najveća 3+ : 4.45  [Brazil_d, OktagonBet]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9723   profit≈2.77%
-Arbitraža (0-2 / 3+): DA   inv_sum=0.9766   profit≈2.34%
-
-
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1493
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 969
-Grupa sa veličinom ≥3: 629
-Grupa sa veličinom ≥4: 315
-Grupa sa veličinom ≥5: 118
-Grupa sa veličinom ≥6: 26
-Grupa sa veličinom ≥7: 11
+Ukupno mečeva (grupa): 1495
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 959
+Grupa sa veličinom ≥3: 612
+Grupa sa veličinom ≥4: 312
+Grupa sa veličinom ≥5: 117
+Grupa sa veličinom ≥6: 19
+Grupa sa veličinom ≥7: 13
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  971   spojeno (u grupama >1):  852
-  - BetOle     ukupno zapisa:   28   spojeno (u grupama >1):   28
-  - Brazil_d   ukupno zapisa:   33   spojeno (u grupama >1):   32
-  - MaxBet     ukupno zapisa:   30   spojeno (u grupama >1):   29
+  - BalkanBet  ukupno zapisa:  964   spojeno (u grupama >1):  845
+  - BetOle     ukupno zapisa:   22   spojeno (u grupama >1):   22
+  - Brazil_d   ukupno zapisa:   22   spojeno (u grupama >1):   21
+  - MaxBet     ukupno zapisa:   23   spojeno (u grupama >1):   22
   - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  377
-  - OktagonBet ukupno zapisa: 1039   spojeno (u grupama >1):  711
-  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  343
-  - Topbet     ukupno zapisa:  709   spojeno (u grupama >1):  669
+  - OktagonBet ukupno zapisa: 1037   spojeno (u grupama >1):  696
+  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  342
+  - Topbet     ukupno zapisa:  708   spojeno (u grupama >1):  670
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 1
-  - 0-2 / 3+: 1
-  - Barem jedna arbitraža: 1
+  - 1-X-2: 0
+  - 0-2 / 3+: 0
+  - Barem jedna arbitraža: 0
