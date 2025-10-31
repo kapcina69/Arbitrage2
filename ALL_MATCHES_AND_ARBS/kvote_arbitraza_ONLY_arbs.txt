@@ -1,25 +1,46 @@
+22:30   02.11.   [Brazil 1]
+Juventude  vs  Palmeiras
+
+- BalkanBet  1=7.15  |  X=3.75  |  2=1.53  |  0-2=1.8  |  2+=1.34  |  3+=1.98  |  GG=2.05  |  IGG=5.6  |  GG&3+=2.7  |  GG&4+=3.95  |  4+=3.55
+- Brazil_p   1=5.8  |  X=3.55  |  2=1.62  |  0-2=1.75  |  2+=1.31  |  3+=2.02
+- Mozzart    1=6.5  |  X=4  |  2=1.55  |  0-2=1.76  |  2+=1.28  |  3+=1.95
+- OktagonBet 1=5.55  |  X=3.55  |  2=1.64  |  0-2=1.74  |  3+=1.99  |  GG=2.05  |  GG&3+=2.65  |  4+=3.65
+- Topbet     1=5.7  |  X=3.8  |  2=1.55
+
+Najveća 1  : 7.15  [BalkanBet]
+Najveća X  : 4.00  [Mozzart]
+Najveća 2  : 1.64  [OktagonBet]
+Najveća 0-2: 1.80  [BalkanBet]
+Najveća 3+ : 2.02  [Brazil_p]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9996   profit≈0.04%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0506   profit≈-5.06%
+
+
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
 Ukupno mečeva (grupa): 1473
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1058
-Grupa sa veličinom ≥3: 733
-Grupa sa veličinom ≥4: 416
-Grupa sa veličinom ≥5: 158
-Grupa sa veličinom ≥6: 77
-Grupa sa veličinom ≥7: 22
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1090
+Grupa sa veličinom ≥3: 804
+Grupa sa veličinom ≥4: 474
+Grupa sa veličinom ≥5: 226
+Grupa sa veličinom ≥6: 107
+Grupa sa veličinom ≥7: 74
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa: 1096   spojeno (u grupama >1):  952
+  - BalkanBet  ukupno zapisa: 1095   spojeno (u grupama >1):  958
+  - BetOle     ukupno zapisa:  134   spojeno (u grupama >1):  134
   - Brazil_d   ukupno zapisa:  151   spojeno (u grupama >1):  150
-  - Brazil_p   ukupno zapisa:   59   spojeno (u grupama >1):   56
+  - Brazil_p   ukupno zapisa:  133   spojeno (u grupama >1):  130
+  - Brazil_s   ukupno zapisa:  123   spojeno (u grupama >1):  122
   - MaxBet     ukupno zapisa:  136   spojeno (u grupama >1):  129
   - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  372
-  - OktagonBet ukupno zapisa: 1037   spojeno (u grupama >1):  877
+  - OktagonBet ukupno zapisa: 1037   spojeno (u grupama >1):  901
   - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  318
-  - Topbet     ukupno zapisa:  703   spojeno (u grupama >1):  668
+  - Topbet     ukupno zapisa:  703   spojeno (u grupama >1):  670
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 0
+  - 1-X-2: 1
   - 0-2 / 3+: 0
-  - Barem jedna arbitraža: 0
+  - Barem jedna arbitraža: 1
