@@ -37,7 +37,7 @@ Sve
   
   
 FUDBAL
-1592
+1590
   
   
 DNEVNI SPECIJAL
@@ -49,7 +49,7 @@ GOLOVI PO LIGAMA
   
   
 KOŠARKA
-169
+168
   
   
 SP. KOŠARKA
@@ -57,7 +57,7 @@ SP. KOŠARKA
   
   
 TENIS
-104
+100
   
   
 RUKOMET
@@ -73,7 +73,7 @@ HOKEJ
   
   
 SP. HOKEJ
-744
+708
   
   
 AM.FUDBAL
@@ -89,7 +89,7 @@ RAGBI UNIJA
   
   
 STONI TENIS
-172
+170
   
   
 VATERPOLO
@@ -133,7 +133,7 @@ ESPORT
   
   
 SP. FUDBAL
-3408
+3409
   
   
 VIR. FUDBAL
@@ -159,53 +159,21 @@ Top
 Specijali
 KONAČAN ISHOD
  
-Israel, Liga Alef South
-+647
-M. Ironi Kiryat Malachi
-Holon Yermiyahu
-31.10. 11:35
-ki 1
-2.10
-ki X
-3.20
-ki 2
-3.10
-manje 2.5
-1.85
-više 2.5
-1.83
- 
-Israel, Liga Alef North
-+645
-Ironi Baka
-Ironi Nesher
-31.10. 11:40
-ki 1
-2.12
-ki X
-3.10
-ki 2
-3.20
-manje 2.5
-1.73
-više 2.5
-1.97
- 
 Australia, A-League
 +834
 Perth Glory
 Melbourne Victory
 31.10. 11:45
 ki 1
-2.75
+2.80
 ki X
 3.75
 ki 2
-2.27
+2.25
 manje 2.5
-2.57
+2.55
 više 2.5
-1.45
+1.47
  
 Czech Republic, U19 League
 +82
@@ -213,13 +181,13 @@ Dukla Prague U19
 Slavia Prague U19
 31.10. 12:00
 ki 1
-2.30
+2.40
 ki X
 3.60
 ki 2
-2.37
+2.30
 manje 2.5
-2.75
+2.73
 više 2.5
 1.36
  
@@ -275,31 +243,31 @@ Wisla II
 Siarka Tarnobrzeg
 31.10. 12:00
 ki 1
-2.35
+2.12
 ki X
-3.45
+3.50
 ki 2
-2.41
+2.67
 manje 2.5
 2.37
 više 2.5
 1.47
  
 Vietnam, V.League 1
-+821
++825
 Hong Linh Ha Tinh
 Hanoi FC
 31.10. 12:00
 ki 1
-3.45
+3.75
 ki X
-3.30
+3.45
 ki 2
-1.95
-manje 2.5
 1.82
+manje 2.5
+1.93
 više 2.5
-1.85
+1.75
  
 India, Super Cup
 +821
@@ -307,15 +275,15 @@ Dempo
 Chennaiyin
 31.10. 12:00
 ki 1
-3.60
+3.50
 ki X
-3.70
+3.65
 ki 2
-1.77
+1.81
 manje 2.5
 2.00
 više 2.5
-1.70
+1.71
  
 China, Super League
 +827
@@ -383,20 +351,20 @@ više 2.5
 1.28
  
 Indonesia, Super League
-+808
++800
 Persija Jakarta
 PSBS Biak Numfor
 31.10. 13:00
 ki 1
-1.21
+1.17
 ki X
-5.60
+6.00
 ki 2
-10.0
+11.25
 manje 2.5
-2.60
+2.73
 više 2.5
-1.43
+1.40
  
 Israel, Liga Alef North
 +634
@@ -445,20 +413,20 @@ manje 2.5
 2.35
 više 2.5
 1.48
-+74
++75
 Zabki
 Biala Piska
 31.10. 13:00
 ki 1
-1.03
+1.06
 ki X
-9.50
+8.25
 ki 2
-19.0
+16.0
 manje 2.5
-4.40
+4.05
 više 2.5
-1.14
+1.17
  
 Poland, III Liga - Group II
 +82
@@ -466,15 +434,15 @@ Luzino
 Lipno Steszew
 31.10. 13:00
 ki 1
-1.43
+1.51
 ki X
-4.33
+4.15
 ki 2
-4.95
+4.45
 manje 2.5
-2.80
+2.77
 više 2.5
-1.33
+1.35
 +82
 Tluchowo
 WDA Swiecie
@@ -627,6 +595,38 @@ manje 2.5
 1.37
 više 2.5
 2.70
+ 
+Lithuania, I Lyga
++638
+FK Panevezys 2
+Babrungas
+31.10. 13:30
+ki 1
+9.00
+ki X
+6.00
+ki 2
+1.20
+manje 2.5
+3.05
+više 2.5
+1.29
+ 
+North Macedonia, 1. MFL
++810
+Brera Strumica
+Shkendija
+31.10. 13:30
+ki 1
+5.25
+ki X
+4.00
+ki 2
+1.50
+manje 2.5
+1.88
+više 2.5
+1.81
  Tiket
 TIKET
 
@@ -666,7 +666,7 @@ Miljana J.
 70.000,00
 2.
 Dragan P.
-57,373.90
+57,519.65
 35.000,00
 3.
 Aleksandar J.
@@ -685,7 +685,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-11:34:36
+11:43:26
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
