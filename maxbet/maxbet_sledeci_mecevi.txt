@@ -48,7 +48,7 @@ Košarka
   
   
 Specijal košarka
-122
+232
   
   
 Mućkalice Košarka
@@ -57,6 +57,10 @@ Mućkalice Košarka
   
 Tenis
 99
+  
+  
+Specijal tenis
+225
   
   
 Hokej
@@ -71,6 +75,10 @@ Rukomet
 12
   
   
+Specijal Rukomet
+32
+  
+  
 Odbojka
 25
   
@@ -80,7 +88,7 @@ Bejzbol
   
   
 Stoni Tenis
-85
+84
   
   
 Američki Fudbal
@@ -93,6 +101,10 @@ Specijal Američki Fudbal
   
 Ragbi
 6
+  
+  
+Specijal Vaterpolo
+16
   
   
 Vaterpolo
@@ -113,6 +125,10 @@ Pikado
   
 Futsal
 3
+  
+  
+Golovi po ligama
+8
   
   
 Fudbal Virtual
@@ -139,9 +155,9 @@ AUSTRALIA 1 - Women
 WS Wanderers W
 Perth W
 1
-2.35
+2.30
 X
-3.30
+3.35
 2
 2.65
  
@@ -165,7 +181,7 @@ AUSTRALIA 1
 Brisbane R.
 Melbourne City
 1
-3.95
+3.90
 X
 3.45
 2
@@ -213,13 +229,13 @@ X
 ASIA AFC Challenge League
 31.10 11:00
   
-+812
++811
 Regar-TadAZ
 Safa
 1
-2.75
+2.80
 X
-3.40
+3.35
 2
 2.30
  
@@ -234,7 +250,7 @@ Zhejiang
 X
 4.50
 2
-4.25
+4.30
  
 ISRAEL Liga Alef South
 31.10 11:00
@@ -243,11 +259,11 @@ ISRAEL Liga Alef South
 Nordia Jerusalem
 Hapoel Azor
 1
-2.65
+2.90
 X
 2.90
 2
-2.45
+2.30
  
 +3 
 SERBIA U19 League
@@ -370,15 +386,28 @@ X
 VIETNAM 1
 31.10 12:00
   
-+801
++802
 Hong Linh HT
 Hanoi FC
 1
-4.15
+3.95
 X
 3.30
 2
-1.83
+1.88
+ 
+ISRAEL Liga Alef North
+31.10 12:30
+  
++799
+Araba
+Hapoel Karmiel
+1
+2.45
+X
+3.20
+2
+2.45
  
 CHINA 1
 31.10 12:35
@@ -387,9 +416,9 @@ CHINA 1
 Chengdu Rongcheng
 Henan SL
 1
-1.33
+1.32
 X
-5.25
+5.30
 2
 6.80
  
@@ -636,11 +665,11 @@ GERMANY 4 North
 Drochtersen/A.
 Jeddeloh
 1
-1.90
+1.85
 X
-3.90
+4.00
 2
-3.20
+3.35
  
 IRAN 1
 31.10 14:00
@@ -1153,28 +1182,28 @@ X
 SLOVENIA 2
 31.10 15:30
   
-+799
++797
 Rudar
 NK Jesenice
 1
-1.36
+1.40
 X
-4.40
+4.25
 2
-6.75
+6.40
  
 S.ARABIA 1
 31.10 15:50
   
-+801
++804
 Al-Hilal
 Al-Shabab R.
 1
-1.27
+1.30
 X
-5.30
+5.10
 2
-8.75
+7.90
  
 GEORGIA Cup
 31.10 16:00
@@ -1288,11 +1317,11 @@ BULGARIA 2
 Fratria
 Vihren
 1
-1.80
+1.83
 X
-3.30
+3.35
 2
-3.90
+3.75
  
 BURKINA FASO 1
 31.10 16:30
@@ -1653,11 +1682,11 @@ POLAND 1
 Termalica
 GKS Katowice
 1
-2.45
+2.55
 X
 3.35
 2
-2.65
+2.60
  
 POLAND 2
 31.10 18:00
@@ -1795,15 +1824,15 @@ X
 GERMANY 4 West
 31.10 18:30
   
-+809
++813
 Schalke II
 SV Rodinghausen
 1
-1.80
+1.78
 X
-3.65
+3.75
 2
-3.90
+3.85
  
 GERMANY Bundesliga - Women
 31.10 18:30
@@ -2474,15 +2503,15 @@ X
 BOLIVIA Copa Pacena
 31.10 20:00
   
-+810
++806
 Always Ready
 Guabira
 1
-1.24
+1.22
 X
-5.90
+6.10
 2
-8.75
+9.50
  
 ENGLAND Premier League II
 31.10 20:00
@@ -2800,7 +2829,7 @@ X
 GERMANY 1
 31.10 20:30
   
-+811
++849
 Augsburg
 Dortmund
 1
@@ -3362,15 +3391,15 @@ X
 BRAZIL 2
 31.10 23:00
   
-+801
++798
 Coritiba
 CRB
 1
-1.83
+1.75
 X
-3.20
+3.25
 2
-4.30
+4.80
  
 BRAZIL Paulista Women
 31.10 23:00
@@ -3393,7 +3422,7 @@ Promeni temu  
 VIP KLUB
 REZULTATI
 STATUS TIKETA
-8:45:32
+8:53:24
 NAČIN UPLATE DEPOZITA
 UPLATNA MESTA
 PRAVILA IGRE
