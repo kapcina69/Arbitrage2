@@ -7,8 +7,8 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 01:00
 La Fama  vs  Deportivo Nacional   (ID: 59)
-1=3.05   X=3.3   2=2.08
-0-2=1.95   2+=1.22   3+=1.75
+1=3   X=3.5   2=2.04
+0-2=2.15   2+=1.18   3+=1.61
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 01:00  [ECUADOR, Liga Pro - Placement Group]
@@ -31,14 +31,14 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 01:15  [ARGENTINA, Torneo Betano - Clausura]
 Newells Old Boys  vs  Union de Santa Fe   (ID: 821)
-1=3.2   X=2.9   2=2.4
+1=3.2   X=2.9   2=2.45
 0-2=1.43   2+=1.51   3+=2.6
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 01:15  [ARGENTINA, Torneo Federal A - Promotion - Play Offs]
 Sportivo Belgrano  vs  Guillermo Brown   (ID: 656)
-1=1.45   X=3.75   2=6.5
-0-2=1.68   2+=1.32   3+=2.04
+1=1.39   X=3.95   2=7.25
+0-2=1.73   2+=1.3   3+=1.97
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 01:30  [ARGENTINA, Torneo Federal A - Promotion - Play Offs]
@@ -79,8 +79,8 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 02:00  [MEXICO, Liga de Expansion MX - Apertura]
 Correcaminos  vs  Zacatecas Mineros   (ID: 844)
-1=4.2   X=3.75   2=1.72
-0-2=2.25   2+=1.16   3+=1.56
+1=4.7   X=3.95   2=1.61
+0-2=2.28   2+=1.16   3+=1.56
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 02:00  [MEXICO, Liga de Expansion MX - Apertura]
@@ -174,9 +174,9 @@ Honda FC  vs  Okinawa SV   (ID: 663)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 05:00  [MEXICO, Liga MX - Apertura]
-Maruyasu Okazaki  vs  Yokogawa Musashino FC   (ID: 665)
-1=2.12   X=3.1   2=3.15
-0-2=1.75   2+=1.29   3+=1.95
+Maruyasu Okazaki  vs  Yokogawa Musashino FC   (ID: 667)
+1=2.18   X=3.1   2=3.05
+0-2=1.75   2+=1.29   3+=1.97
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 05:00  [MEXICO, Liga MX - Apertura]
@@ -354,9 +354,9 @@ Taiwan Steel  vs  Phnom Penh Crown   (ID: 663)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 09:30  [JAPAN, YBC Levain Cup - Second stage]
-Adhyaksa  vs  PSPS Riau   (ID: 665)
-1=1.83   X=3.5   2=3.9
-0-2=2   2+=1.22   3+=1.72
+Adhyaksa  vs  PSPS Riau   (ID: 664)
+1=1.84   X=3.35   2=4.05
+0-2=1.83   2+=1.27   3+=1.87
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 09:30  [JAPAN, YBC Levain Cup - Second stage]
@@ -650,7 +650,7 @@ GG=-   IGG=-   GG&3+=-
 12:00  [CZECH REPUBLIC, CFL - Group A]
 Werder Bremen Wom.  vs  Union Berlin Wom.   (ID: 666)
 1=2.35   X=3.35   2=2.6
-0-2=2.1   2+=1.18   3+=1.64
+0-2=2.1   2+=1.19   3+=1.66
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 12:00  [CZECH REPUBLIC, CFL - Group A]
@@ -714,9 +714,9 @@ Atl. Madrid Wom.  vs  Alhama Wom.   (ID: 643)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 12:00  [CZECH REPUBLIC, CFL - Group A]
-Badalona Wom.  vs  Sevilla FC Wom.   (ID: 661)
-1=2.15   X=2.95   2=3.3
-0-2=1.5   2+=1.39   3+=2.28
+Badalona Wom.  vs  Sevilla FC Wom.   (ID: 662)
+1=2.45   X=2.95   2=2.75
+0-2=1.55   2+=1.36   3+=2.2
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 12:00  [CZECH REPUBLIC, CFL - Group A]
@@ -804,7 +804,7 @@ Parma Wom.  vs  Napoli Wom.   (ID: 666)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 12:30  [CZECH REPUBLIC, CFL - Group A]
-Avellino  vs  Reggiana   (ID: 946)
+Avellino  vs  Reggiana   (ID: 996)
 1=1.9   X=3.25   2=4.2
 0-2=1.62   2+=1.37   3+=2.18
 GG=-   IGG=-   GG&3+=-
@@ -912,13 +912,13 @@ Hertha Berlin  vs  SG Dynamo Dresden   (ID: 946)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - RS]
-Karlsruher  vs  Schalke   (ID: 956)
+Karlsruher  vs  Schalke   (ID: 940)
 1=2.65   X=3.4   2=2.55
 0-2=2   2+=1.22   3+=1.74
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 13:00  [BOSNIA AND HERZEGOVINA, Prva Liga - RS]
-Nurnberg  vs  Braunschweig   (ID: 955)
+Nurnberg  vs  Braunschweig   (ID: 939)
 1=1.79   X=3.6   2=4.45
 0-2=2.1   2+=1.2   3+=1.66
 GG=-   IGG=-   GG&3+=-
@@ -1278,7 +1278,7 @@ Dubai United  vs  Hatta   (ID: 662)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:00  [BOSNIA AND HERZEGOVINA, Prva Liga - RS]
-Villarreal  vs  Rayo Vallecano   (ID: 980)
+Villarreal  vs  Rayo Vallecano   (ID: 964)
 1=1.72   X=3.9   2=4.65
 0-2=2.1   2+=1.24   3+=1.75
 GG=-   IGG=-   GG&3+=-
@@ -1549,8 +1549,8 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:00  [CZECH REPUBLIC, CFL - Group A]
 Freiberg  vs  Fulda-Lehnerz   (ID: 661)
-1=1.32   X=4.85   2=6.75
-0-2=2.85   2+=1.08   3+=1.36
+1=1.33   X=4.75   2=6.7
+0-2=2.75   2+=1.09   3+=1.38
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:00  [CZECH REPUBLIC, CFL - Group A]
@@ -1590,8 +1590,8 @@ Chrisoupolis  vs  Niki Volos   (ID: 658)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:00  [CZECH REPUBLIC, CFL - Group A]
-Kalamata  vs  Panargiakos   (ID: 649)
-1=1.13   X=6.1   2=16
+Kalamata  vs  Panargiakos   (ID: 647)
+1=1.12   X=6.3   2=17
 0-2=2.07   2+=1.19   3+=1.66
 GG=-   IGG=-   GG&3+=-
 ======================================================================
@@ -1687,7 +1687,7 @@ GG=-   IGG=-   GG&3+=-
 ======================================================================
 14:00  [PORTUGAL, Campeonato de Portugal - Group B]
 Mbarara City  vs  NEC FC Bugolobi   (ID: 100)
-1=6   X=3.35   2=1.51
+1=5.1   X=3.2   2=1.63
 0-2=1.52   2+=1.38   3+=2.25
 GG=-   IGG=-   GG&3+=-
 ======================================================================
@@ -2016,9 +2016,9 @@ Spaeri  vs  Merani Martvili   (ID: 658)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 15:00  [EUROPE, UEFA Youth League - Winners Play Offs]
-AC Milan Wom.  vs  Lazio Wom.   (ID: 668)
-1=2.05   X=3.45   2=3
-0-2=2.2   2+=1.17   3+=1.59
+AC Milan Wom.  vs  Lazio Wom.   (ID: 667)
+1=2.12   X=3.45   2=2.9
+0-2=2.18   2+=1.17   3+=1.61
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 15:00  [EUROPE, UEFA Youth League - Winners Play Offs]
@@ -2070,7 +2070,7 @@ Bravo  vs  Maribor   (ID: 844)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 15:00  [RUSSIA, FNL - Division A Gold - Fall Season]
-Hacken  vs  Malmo FF   (ID: 954)
+Hacken  vs  Malmo FF   (ID: 941)
 1=2.6   X=3.55   2=2.5
 0-2=2.22   2+=1.18   3+=1.61
 GG=-   IGG=-   GG&3+=-
@@ -2196,19 +2196,19 @@ Al Ahed  vs  Nejmeh SC   (ID: 663)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 15:30  [RUSSIA, FNL - Division A Gold - Fall Season]
-Heidenheim  vs  Eintracht Frankfurt   (ID: 1016)
+Heidenheim  vs  Eintracht Frankfurt   (ID: 972)
 1=3.65   X=3.9   2=1.93
 0-2=2.65   2+=1.15   3+=1.49
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 15:30  [RUSSIA, FNL - Division A Gold - Fall Season]
-Mainz  vs  Werder Bremen   (ID: 974)
+Mainz  vs  Werder Bremen   (ID: 961)
 1=2.04   X=3.9   2=3.6
 0-2=2.45   2+=1.17   3+=1.59
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 15:30  [RUSSIA, FNL - Division A Gold - Fall Season]
-RB Leipzig  vs  Stuttgart   (ID: 1032)
+RB Leipzig  vs  Stuttgart   (ID: 988)
 1=2   X=4.05   2=3.3
 0-2=2.95   2+=1.12   3+=1.4
 GG=-   IGG=-   GG&3+=-
@@ -2220,7 +2220,7 @@ St. Pauli  vs  B. Monchengladbach   (ID: 1038)
 GG=-   IGG=-   GG&3+=-
 ======================================================================
 15:30  [RUSSIA, FNL - Division A Gold - Fall Season]
-Union Berlin  vs  Freiburg   (ID: 999)
+Union Berlin  vs  Freiburg   (ID: 955)
 1=2.62   X=3.2   2=2.8
 0-2=1.75   2+=1.36   3+=2.12
 GG=-   IGG=-   GG&3+=-

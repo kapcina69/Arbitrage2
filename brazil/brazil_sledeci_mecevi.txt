@@ -35,6 +35,7 @@ FUTSAL
 PIKADO
 BEJZBOL
 ESPORT
+BADMINTON
 FUDBAL VIRTUAL
 TENIS VIRTUAL
 POBEDNICI
@@ -49,17 +50,17 @@ La Fama
 Deportivo Nacional
 59
 1
-3.05
+3.00
 X
-3.30
+3.50
 2
-2.08
+2.04
 0-2
-1.95
+2.15
 2+
-1.22
+1.18
 3+
-1.75
+1.61
 ECUADOR, Liga Pro - Placement Group
 1162
 01:00
@@ -124,7 +125,7 @@ Union de Santa Fe
 X
 2.90
 2
-2.40
+2.45
 0-2
 1.43
 2+
@@ -138,17 +139,17 @@ Sportivo Belgrano
 Guillermo Brown
 656
 1
-1.45
+1.39
 X
-3.75
+3.95
 2
-6.50
+7.25
 0-2
-1.68
+1.73
 2+
-1.32
+1.30
 3+
-2.04
+1.97
 BOLIVIA, Copa Pacena
 1120
 01:30
@@ -264,13 +265,13 @@ Correcaminos
 Zacatecas Mineros
 844
 1
-4.20
+4.70
 X
-3.75
+3.95
 2
-1.72
+1.61
 0-2
-2.25
+2.28
 2+
 1.16
 3+
@@ -545,19 +546,19 @@ X
 05:00
 Maruyasu Okazaki
 Yokogawa Musashino FC
-665
+667
 1
-2.12
+2.18
 X
 3.10
 2
-3.15
+3.05
 0-2
 1.75
 2+
 1.29
 3+
-1.95
+1.97
 7757
 05:00
 YSCC
@@ -1072,19 +1073,19 @@ INDONESIA, Championship
 09:30
 Adhyaksa
 PSPS Riau
-665
+664
 1
-1.83
+1.84
 X
-3.50
+3.35
 2
-3.90
+4.05
 0-2
-2.00
+1.83
 2+
-1.22
+1.27
 3+
-1.72
+1.87
 32539
 09:30
 Persiku Kudus
@@ -1946,9 +1947,9 @@ X
 0-2
 2.10
 2+
-1.18
+1.19
 3+
-1.64
+1.66
 KENYA, Premier League
 32260
 12:00
@@ -2129,19 +2130,19 @@ X
 12:00
 Badalona Wom.
 Sevilla FC Wom.
-661
+662
 1
-2.15
+2.45
 X
 2.95
 2
-3.30
+2.75
 0-2
-1.50
+1.55
 2+
-1.39
+1.36
 3+
-2.28
+2.20
 32284
 12:00
 Levante Wom.
@@ -2395,7 +2396,7 @@ ITALY, Serie B
 12:30
 Avellino
 Reggiana
-946
+996
 1
 1.90
 X
@@ -2715,7 +2716,7 @@ X
 13:00
 Karlsruher
 Schalke
-956
+940
 1
 2.65
 X
@@ -2732,7 +2733,7 @@ X
 13:00
 Nurnberg
 Braunschweig
-955
+939
 1
 1.79
 X
@@ -3791,7 +3792,7 @@ SPAIN, LaLiga
 14:00
 Villarreal
 Rayo Vallecano
-980
+964
 1
 1.72
 X
@@ -4581,17 +4582,17 @@ Freiberg
 Fulda-Lehnerz
 661
 1
-1.32
+1.33
 X
-4.85
+4.75
 2
-6.75
+6.70
 0-2
-2.85
+2.75
 2+
-1.08
+1.09
 3+
-1.36
+1.38
 416
 14:00
 Freiburg II
@@ -4699,13 +4700,13 @@ X
 14:00
 Kalamata
 Panargiakos
-649
+647
 1
-1.13
+1.12
 X
-6.10
+6.30
 2
-16.0
+17.0
 0-2
 2.07
 2+
@@ -4983,11 +4984,11 @@ Mbarara City
 NEC FC Bugolobi
 100
 1
-6.00
+5.10
 X
-3.35
+3.20
 2
-1.51
+1.63
 0-2
 1.52
 2+
@@ -5947,19 +5948,19 @@ ITALY, Serie A Women
 15:00
 AC Milan Wom.
 Lazio Wom.
-668
+667
 1
-2.05
+2.12
 X
 3.45
 2
-3.00
+2.90
 0-2
-2.20
+2.18
 2+
 1.17
 3+
-1.59
+1.61
 ITALY, Serie B
 329
 15:00
@@ -6107,7 +6108,7 @@ SWEDEN, Allsvenskan
 15:00
 Hacken
 Malmo FF
-954
+941
 1
 2.60
 X
@@ -6473,7 +6474,7 @@ GERMANY, Bundesliga
 15:30
 Heidenheim
 Eintracht Frankfurt
-1016
+972
 1
 3.65
 X
@@ -6490,7 +6491,7 @@ X
 15:30
 Mainz
 Werder Bremen
-974
+961
 1
 2.04
 X
@@ -6507,7 +6508,7 @@ X
 15:30
 RB Leipzig
 Stuttgart
-1032
+988
 1
 2.00
 X
@@ -6541,7 +6542,7 @@ X
 15:30
 Union Berlin
 Freiburg
-999
+955
 1
 2.62
 X
