@@ -83,17 +83,17 @@ BE1 NFA
 Siauliai 2
 669
 1
-2.12
+2.18
 X
-3.65
+3.70
 2
-2.75
+2.65
 0-2
 2.65
 2+
-1.09
+1.08
 3+
-1.39
+1.38
 820
 17:00
 Hegelmann Litauen 2
@@ -223,19 +223,19 @@ WORLD, AFC Challenge League
 17:00
 Al Kuwait SC
 Bashundara Kings
-650
+647
 1
-1.10
-X
-7.10
-2
-16.0
-0-2
-2.85
-2+
 1.08
+X
+7.60
+2
+18.0
+0-2
+2.90
+2+
+1.07
 3+
-1.36
+1.34
 MAURITANIA, Ligue 1
 1253
 17:15
@@ -277,13 +277,13 @@ QATAR, QSL
 17:30
 Al Wakra
 Qatar SC
-853
+854
 1
-1.71
+1.75
 X
-3.85
-2
 3.80
+2
+3.65
 0-2
 2.60
 2+
@@ -315,17 +315,17 @@ Stripfing
 SK Rapid Wien (Am)
 843
 1
-2.65
+2.75
 X
 3.30
 2
-2.45
+2.38
 0-2
-1.95
+1.97
 2+
-1.23
+1.22
 3+
-1.77
+1.75
 AUSTRIA, Regionalliga West
 7750
 18:00
@@ -385,19 +385,19 @@ CYPRUS, Cyprus League
 18:00
 Aris Limassol
 Chloraka
-814
+806
 1
-1.12
-X
-7.25
-2
-16.0
-0-2
-2.85
-2+
 1.08
+X
+8.75
+2
+21.0
+0-2
+3.25
+2+
+1.06
 3+
-1.36
+1.29
 CZECH REPUBLIC, Division 2
 1066
 18:00
@@ -513,15 +513,15 @@ Czarni Polaniec
 1
 1.58
 X
-3.65
+3.55
 2
-4.50
+4.60
 0-2
-2.08
+2.00
 2+
-1.17
+1.19
 3+
-1.61
+1.66
 SLOVAKIA, 2. Liga
 616
 18:00
@@ -547,15 +547,15 @@ Basaksehir
 Kocaelispor
 1020
 1
-1.74
+1.80
 X
-3.45
+3.40
 2
-4.80
+4.50
 0-2
 1.80
 2+
-1.28
+1.29
 3+
 1.92
 TURKEY, TFF 1. Lig
@@ -899,19 +899,19 @@ AUSTRIA, Regionalliga East
 19:00
 Marchfeld
 Wiener Viktoria
-661
+663
 1
-1.58
+1.57
 X
-3.85
+3.95
 2
 4.60
 0-2
-2.20
+2.30
 2+
-1.14
+1.13
 3+
-1.56
+1.50
 564
 19:00
 Neusiedl
@@ -1076,19 +1076,19 @@ DENMARK, 2nd Division
 19:00
 F. Amager
 AB Copenhagen
-665
+668
 1
-4.25
+3.75
 X
-3.80
+3.60
 2
-1.65
+1.77
 0-2
-2.25
+2.20
 2+
 1.16
 3+
-1.56
+1.58
 GERMANY, 3. Liga
 169
 19:00
@@ -1657,19 +1657,19 @@ NETHERLANDS, Eredivisie
 20:00
 PSV
 Sittard
-956
+958
 1
-1.13
+1.14
 X
-8.50
+8.25
 2
-16.0
+15.0
 0-2
-3.85
+3.80
 2+
 1.04
 3+
-1.22
+1.23
 AUSTRIA, Regionalliga East
 568
 20:00
@@ -1695,15 +1695,15 @@ Lierse K.
 Lommel SK
 843
 1
-3.00
+2.95
 X
 3.45
 2
-2.15
+2.18
 0-2
-2.15
+2.12
 2+
-1.18
+1.19
 3+
 1.63
 829
@@ -1955,17 +1955,17 @@ Annecy
 Boulogne
 963
 1
-2.15
+2.20
 X
-2.95
+2.90
 2
-3.75
+3.70
 0-2
-1.44
+1.43
 2+
-1.51
+1.52
 3+
-2.55
+2.62
 346
 20:00
 Bastia
@@ -2200,15 +2200,15 @@ Luton
 Forest Green
 842
 1
-1.47
+1.43
 X
-4.45
+4.60
 2
-6.10
+6.50
 0-2
-2.28
+2.30
 2+
-1.17
+1.16
 3+
 1.56
 GERMANY, Bundesliga
@@ -2216,7 +2216,7 @@ GERMANY, Bundesliga
 20:30
 Augsburg
 Dortmund
-1090
+1012
 1
 5.20
 X
@@ -2361,17 +2361,17 @@ Racing Santander
 R. Sociedad B
 946
 1
-1.42
+1.40
 X
-4.65
+4.80
 2
-6.50
+6.75
 0-2
 2.40
 2+
-1.15
+1.14
 3+
-1.51
+1.50
 WALES, Cymru South
 1249
 20:30
@@ -2412,19 +2412,19 @@ BELGIUM, Jupiler Pro League
 20:45
 St. Liege
 Charleroi
-934
+985
 1
-2.80
+2.85
 X
 3.00
 2
 2.60
 0-2
-1.65
+1.63
 2+
-1.36
+1.37
 3+
-2.15
+2.18
 ENGLAND, Isthmian Division One North
 1257
 20:45
@@ -2554,15 +2554,15 @@ BE1 NFA - Siauliai 2
 31.10. 17:00
 KONAČAN ISHOD 
 1
-  2.12  
+  2.18  
 Običan
 Sistem
 Kvota:
-2.12
+2.18
 Uplata:
 20.00 RSD
 Dobitak:
-42.40 RSD
+43.60 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express
