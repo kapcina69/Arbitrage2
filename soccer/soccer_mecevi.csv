@@ -54,8 +54,8 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 15:00;Pet;31.10.;ALŽ2;ASM Oran;Tixeraine;;1.45;3.55;7.4;1.6;1.4;2.17;2.32;;
 15:00;Pet;31.10.;ALŽ2;Adrar;Bechar Djedid;;1.4;3.9;7.2;1.7;1.34;2.03;2.32;;
 15:00;Pet;31.10.;ALŽ2;Biskra;Bordj Menail;;1.47;3.45;7.2;1.55;1.43;2.3;2.4;;
-15:00;Pet;31.10.;ALŽ2;Djijel;CA Batna;;1.9;2.95;4.15;1.55;1.43;2.3;2.0;;
-15:00;Pet;31.10.;ALŽ2;GC Mascara;JSM Tiaret;;3.45;2.9;2.12;1.43;1.55;2.6;2.2;;
+15:00;Pet;31.10.;ALŽ2;Djijel;CA Batna;;1.8;3.15;4.15;1.55;1.43;2.3;2.1;;
+15:00;Pet;31.10.;ALŽ2;GC Mascara;JSM Tiaret;;3.85;2.9;1.98;1.43;1.55;2.6;2.22;;
 15:00;Pet;31.10.;ALŽ2;Khemis El Khechna;Beni Oulbane;;2.85;2.9;2.4;1.5;1.5;2.43;2.05;;
 15:00;Pet;31.10.;ALŽ2;MC Saida;Hussein Dey;;2.07;2.75;3.85;1.45;1.53;2.55;2.12;;
 15:00;Pet;31.10.;ALŽ2;MO Bejaia;Magra;;1.5;3.5;6.5;1.65;1.35;2.1;2.15;;
@@ -79,7 +79,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 16:30;Pet;31.10.;BURK1;ASF Dioulasso;Sporting Cascades;;1.93;2.9;4.05;1.5;1.47;2.4;2.05;;
 16:30;Pet;31.10.;BURK1;CFFEB;Rahimo FC;;2.9;2.7;2.55;1.47;1.5;2.5;2.02;;
 16:30;Pet;31.10.;BURK1;RDF;Kadiogo;;2.17;2.85;3.35;1.43;1.55;2.6;2.17;;
-16:30;Pet;31.10.;RUM2;Poli Iasi;FC Bihor;503;2.4;3.0;3.0;1.62;1.4;2.15;1.85;5.05;2.35
+16:30;Pet;31.10.;RUM2;Poli Iasi;FC Bihor;503;2.37;3.1;2.95;1.65;1.37;2.1;1.85;4.95;2.33
 16:45;Pet;31.10.;UAE1;Khorfakkan;Al Wasl;503;5.55;4.45;1.47;2.5;1.12;1.47;1.6;3.7;1.8
 17:00;Pet;31.10.;AFCCL;Al Kuwait;Bashundhara Kings;486;1.04;12.4;38.0;3.95;1.02;1.21;3.05;6.95;3.1
 17:00;Pet;31.10.;BAH1;Al-Hidd;Al Budaiya;503;2.08;3.5;3.15;1.8;1.29;1.88;1.75;4.45;2.15
@@ -188,7 +188,7 @@ TIME;DAY;DATE;LEAGUE;HOME;AWAY;MATCH_ID;1;X;2;0-2;2+;3+;GG;IGG;GG&3+
 20:30;Pet;31.10.;ITA3;Picerno;Cavese;503;2.55;3.0;2.75;1.68;1.35;2.05;1.8;4.8;2.25
 20:30;Pet;31.10.;POL1;Piast Gliwice;Korona Kielce;594;2.6;3.2;2.75;1.7;1.34;2.02;1.78;4.7;2.3
 20:30;Pet;31.10.;POL2;Ruch Chorzow;Tychy;503;1.95;3.5;3.45;2.05;1.21;1.68;1.6;3.9;1.9
-20:30;Pet;31.10.;POL3;Zaglebie Sosnowiec;Chojniczanka;503;1.72;3.8;4.15;2.05;1.21;1.7;1.7;4.1;2.0
+20:30;Pet;31.10.;POL3;Zaglebie Sosnowiec;Chojniczanka;501;1.6;4.05;4.75;2.07;1.2;1.67;1.73;4.2;2.03
 20:30;Pet;31.10.;ŠPA2;Racing Santander;R. Sociedad B;596;1.55;4.15;5.45;2.3;1.16;1.55;1.62;3.85;1.9
 20:30;Pet;31.10.;VELS2;Afan Lido;Caerau Ely;501;5.6;4.3;1.43;2.35;1.15;1.52;1.68;3.95;1.9
 20:30;Pet;31.10.;VELS2;Cwmbran Celtic;Baglan Dragons;503;3.65;3.65;1.78;2.05;1.21;1.7;1.67;4.05;1.97
