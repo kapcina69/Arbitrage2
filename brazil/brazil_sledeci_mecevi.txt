@@ -46,13 +46,13 @@ WS Wanderers Wom.
 Perth Wom.
 666
 1
-2.45
+2.38
 X
 3.25
 2
-2.55
+2.62
 0-2
-2.03
+2.05
 2+
 1.20
 3+
@@ -66,15 +66,32 @@ CSKA Moscow U19
 1
 14.0
 X
-7.10
+7.00
 2
-1.12
+1.13
 0-2
-3.05
+3.20
 2+
-1.05
+1.04
 3+
-1.29
+1.27
+1191
+09:00
+Spartak Moscow U19
+Konoplev Academy U19
+100
+1
+1.34
+X
+4.65
+2
+6.70
+0-2
+2.55
+2+
+1.10
+3+
+1.41
 INDONESIA, Championship
 1158
 09:30
@@ -208,17 +225,17 @@ Plzen U19
 FK Pardubice U19
 102
 1
-1.82
+1.94
 X
-3.80
+3.75
 2
-3.20
+2.90
 0-2
 2.80
 2+
 1.07
 3+
-1.35
+1.34
 ISRAEL, Liga Alef South
 1233
 11:00
@@ -1021,24 +1038,6 @@ X
 1.38
 3+
 2.28
-ENGLAND, Professional Development League
-1205
-14:00
-Charlton U21
-QPR U21
-665
-1
-1.44
-X
-4.75
-2
-4.90
-0-2
-4.10
-2+
-1.02
-3+
-1.19
 GERMANY, Regionalliga North
 404
 14:00
@@ -1392,6 +1391,24 @@ X
 1.35
 3+
 2.12
+ENGLAND, Professional Development League
+1205
+14:30
+Charlton U21
+QPR U21
+665
+1
+1.44
+X
+4.75
+2
+4.90
+0-2
+4.10
+2+
+1.02
+3+
+1.19
 POLAND, III Liga - Group II
 814
 14:30
@@ -1502,13 +1519,13 @@ X
 15:00
 Chelghoum
 Annaba
-659
+653
 1
-3.75
+4.95
 X
-3.10
+3.30
 2
-1.92
+1.66
 0-2
 1.52
 2+
@@ -1536,19 +1553,19 @@ X
 15:00
 GC Mascara
 JSM Tiaret
-652
+649
 1
-3.90
+4.10
 X
 2.90
 2
-1.97
+1.91
 0-2
-1.36
+1.35
 2+
-1.53
+1.54
 3+
-2.75
+2.80
 727
 15:00
 Harrach
@@ -1774,23 +1791,6 @@ X
 1.19
 3+
 1.66
-1191
-15:00
-Spartak Moscow U19
-Konoplev Academy U19
-100
-1
-1.34
-X
-4.65
-2
-6.70
-0-2
-2.55
-2+
-1.10
-3+
-1.41
 1192
 15:00
 Zenit U19
@@ -1952,24 +1952,6 @@ X
 1.38
 3+
 2.28
-GHANA, Premier League
-588
-16:00
-Bechem United
-Nations FC
-101
-1
-1.83
-X
-2.85
-2
-4.65
-0-2
-1.30
-2+
-1.67
-3+
-3.15
 IRAQ, Stars League
 1266
 16:00
@@ -2181,6 +2163,24 @@ X
 1.51
 3+
 2.70
+GHANA, Premier League
+588
+16:30
+Bechem United
+Nations FC
+101
+1
+1.83
+X
+2.85
+2
+4.65
+0-2
+1.30
+2+
+1.67
+3+
+3.15
 ROMANIA, Liga 2
 573
 16:30
@@ -3395,11 +3395,11 @@ Hertha Zehlendorf
 Chemie Leipzig
 843
 1
-2.55
+2.45
 X
 3.25
 2
-2.45
+2.55
 0-2
 2.00
 2+
@@ -3804,9 +3804,9 @@ Sittard
 X
 8.25
 2
-16.0
+15.0
 0-2
-3.75
+3.80
 2+
 1.04
 3+
@@ -4096,17 +4096,17 @@ Annecy
 Boulogne
 963
 1
-2.18
+2.15
 X
 2.90
 2
-3.75
+3.80
 0-2
-1.43
+1.42
 2+
-1.52
+1.53
 3+
-2.62
+2.70
 346
 20:00
 Bastia
@@ -4500,7 +4500,7 @@ SPAIN, LaLiga2
 20:30
 Racing Santander
 R. Sociedad B
-985
+944
 1
 1.53
 X
@@ -4747,19 +4747,19 @@ SPAIN, LaLiga
 21:00
 Getafe
 Girona
-947
+1026
 1
-2.20
+2.22
 X
 2.95
 2
 3.85
 0-2
-1.49
+1.47
 2+
-1.54
+1.56
 3+
-2.62
+2.70
 ENGLAND, Championship
 27
 21:00
@@ -4837,7 +4837,7 @@ PORTUGAL, Liga Portugal
 21:15
 Sporting CP
 Alverca
-902
+955
 1
 1.11
 X
@@ -5033,19 +5033,19 @@ VENEZUELA, Liga FUTVE - Clausura - Quadrangular
 22:30
 Zamora
 Puerto Cabello
-666
+667
 1
-2.50
+2.45
 X
-3.25
+3.40
 2
-2.50
+2.45
 0-2
-2.03
+2.15
 2+
-1.20
+1.17
 3+
-1.69
+1.61
 ARGENTINA, Torneo Betano - Clausura
 1121
 23:00

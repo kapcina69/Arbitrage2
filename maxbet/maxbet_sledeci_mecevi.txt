@@ -41,7 +41,7 @@ Fantasy PL
   
   
 Košarka
-88
+97
   
   
 Specijal košarka
@@ -49,11 +49,11 @@ Specijal košarka
   
   
 Tenis
-94
+102
   
   
 Hokej
-135
+145
   
   
 Rukomet
@@ -69,7 +69,7 @@ Bejzbol
   
   
 Stoni Tenis
-59
+95
   
   
 Američki Fudbal
@@ -93,7 +93,7 @@ Antepost
   
   
 Pikado
-8
+15
   
   
 Fudbal Virtual
@@ -108,7 +108,7 @@ Opseg Vremena
 7:00
 23:59
 Opseg Kvota
-1.1
+1.11
 23
 Fudbal
 Konačan ishod
@@ -120,11 +120,11 @@ AUSTRALIA 1 - Women
 WS Wanderers W
 Perth W
 1
-2.40
+2.35
 X
 3.30
 2
-2.55
+2.65
  
 INDONESIA 1
 31.10 09:30
@@ -207,15 +207,15 @@ X
 ISRAEL Liga Alef South
 31.10 11:00
   
-+790
++786
 Nordia Jerusalem
 Hapoel Azor
 1
-2.60
+2.65
 X
 2.90
 2
-2.50
+2.45
  
 VIETNAM 1
 31.10 11:00
@@ -367,24 +367,24 @@ CHINA 1
 Shan.Shenhua
 Shenzhen Xinp.
 1
-1.25
+1.24
 X
-5.70
+5.80
 2
-8.75
+9.00
  
 INDONESIA 1
 31.10 13:00
   
-+786
++787
 Persija Jakarta
 PSBS Biak Numfor
 1
-1.10
+1.11
 X
-7.30
+7.00
 2
-16.0
+15.0
  
 INDONESIA 2
 31.10 13:00
@@ -728,15 +728,15 @@ X
 ALGERIA 2
 31.10 15:00
   
-+798
++791
 Chelghoum
 Annaba
 1
-3.55
+4.40
 X
-3.05
+3.15
 2
-2.00
+1.78
  
 ALGERIA 2
 31.10 15:00
@@ -949,15 +949,15 @@ X
 SLOVENIA 2
 31.10 15:30
   
-+802
++799
 Rudar
 NK Jesenice
 1
-1.37
+1.36
 X
 4.40
 2
-6.40
+6.75
  
 S.ARABIA 1
 31.10 15:50
@@ -984,19 +984,6 @@ X
 3.15
 2
 4.70
- 
-GHANA 1
-31.10 16:00
-  
-+49
-Bechem Utd
-Nations FC
-1
-1.80
-X
-3.00
-2
-4.50
  
 IRAQ 1
 31.10 16:00
@@ -1076,6 +1063,19 @@ X
 3.40
 2
 4.45
+ 
+GHANA 1
+31.10 16:30
+  
++49
+Bechem Utd
+Nations FC
+1
+1.80
+X
+3.00
+2
+4.50
  
 ROMANIA 2
 31.10 16:30
@@ -1188,11 +1188,11 @@ UKRAINE 1
 Kudrivka
 Obolon
 1
-2.75
+2.70
 X
 3.05
 2
-2.50
+2.55
  
 QATAR 1
 31.10 17:30
@@ -1513,11 +1513,11 @@ AUSTRIA 3 Central
 St.Anna
 LASK (Am)
 1
-8.25
+7.50
 X
-5.70
+5.50
 2
-1.23
+1.26
  
 AUSTRIA 3 Central
 31.10 19:00
@@ -1708,11 +1708,11 @@ GERMANY 4 Nordost
 H.Zehlendorf
 Chemie Leipzig
 1
-2.60
+2.50
 X
 3.35
 2
-2.50
+2.55
  
 POLAND 3
 31.10 19:00
@@ -1743,41 +1743,41 @@ X
 AUSTRIA 3 East
 31.10 19:30
   
-+810
++809
 Oberwart
 Wiener S.
 1
-1.55
+1.58
 X
-4.05
+3.95
 2
-4.65
+4.55
  
 AUSTRIA 3 East
 31.10 19:30
   
-+797
++795
 TWL Elektra
 Kremser
 1
-9.25
+10.0
 X
-5.45
+5.90
 2
-1.22
+1.19
  
 AUSTRIA 3 East
 31.10 19:30
   
-+812
++810
 Traiskirchen
 SV Donau
 1
-1.83
+1.65
 X
-3.65
+3.85
 2
-3.50
+4.10
  
 AUSTRIA 3 West
 31.10 19:30
@@ -1890,24 +1890,24 @@ GERMANY 4 West
 Lotte
 FC Gutersloh
 1
-3.70
+3.00
 X
-3.85
+3.65
 2
-1.78
+2.10
  
 GERMANY 4 West
 31.10 19:30
   
-+812
++815
 Wuppertaler
 Oberhausen
 1
-2.80
+3.00
 X
-3.50
+3.75
 2
-2.25
+2.05
  
 POLAND 1 - Women
 31.10 19:30
@@ -2120,15 +2120,15 @@ X
 FRANCE 2
 31.10 20:00
   
-+793
++792
 Annecy
 Boulogne
 1
-2.15
+2.12
 X
 2.95
 2
-3.70
+3.75
  
 FRANCE 2
 31.10 20:00
@@ -2705,15 +2705,15 @@ X
 BOLIVIA Copa Pacena
 31.10 23:00
   
-+787
++793
 Bolivar
 SA Bulo Bulo
 1
-1.12
+1.14
 X
-7.60
+7.20
 2
-15.0
+13.0
  
 BRAZIL 2
 31.10 23:00
@@ -2749,7 +2749,7 @@ Promeni temu  
 VIP KLUB
 REZULTATI
 STATUS TIKETA
-7:44:33
+7:52:25
 NAČIN UPLATE DEPOZITA
 UPLATNA MESTA
 PRAVILA IGRE
