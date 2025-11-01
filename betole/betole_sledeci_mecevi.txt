@@ -36,7 +36,7 @@ Sve
   
   
 FUDBAL
-1069
+1055
   
   
 DNEVNI SPECIJAL
@@ -44,15 +44,15 @@ DNEVNI SPECIJAL
   
   
 GOLOVI PO LIGAMA
-79
+78
   
   
 KOŠARKA
-217
+205
   
   
 SP. KOŠARKA
-324
+287
   
   
 TENIS
@@ -68,11 +68,11 @@ SP. RUKOMET
   
   
 ODBOJKA
-107
+103
   
   
 HOKEJ
-190
+186
   
   
 AM.FUDBAL
@@ -92,7 +92,7 @@ RAGBI UNIJA
   
   
 STONI TENIS
-250
+246
   
   
 VATERPOLO
@@ -132,7 +132,7 @@ ESPORT
   
   
 SP. FUDBAL
-2505
+2472
   
   
 VIR. FUDBAL
@@ -157,218 +157,6 @@ Vremenska
 Top
 Specijali
 KONAČAN ISHOD
- 
-Slovenia, Prva Liga
-+816
-Celje
-Aluminij
-01.11. 17:30
-ki 1
-1.22
-ki X
-6.10
-ki 2
-9.50
-manje 2.5
-3.45
-više 2.5
-1.26
- 
-Sweden, Allsvenskan
-+928
-Norrkoping
-Sirius
-01.11. 17:30
-ki 1
-2.77
-ki X
-3.85
-ki 2
-2.22
-manje 2.5
-2.73
-više 2.5
-1.41
- 
-Ireland, Premier Division
-+810
-Cork City
-Derry City
-01.11. 17:30
-ki 1
-6.30
-ki X
-3.80
-ki 2
-1.55
-manje 2.5
-1.77
-više 2.5
-1.95
-+817
-Drogheda
-Bohemian
-01.11. 17:30
-ki 1
-3.35
-ki X
-3.20
-ki 2
-2.15
-manje 2.5
-1.77
-više 2.5
-1.97
-+822
-Shamrock Rovers
-Sligo Rovers
-01.11. 17:30
-ki 1
-2.47
-ki X
-3.30
-ki 2
-2.77
-manje 2.5
-1.87
-više 2.5
-1.85
-+821
-Shelbourne FC
-St. Patricks
-01.11. 17:30
-ki 1
-2.57
-ki X
-3.20
-ki 2
-2.70
-manje 2.5
-1.77
-više 2.5
-1.95
-+824
-Waterford
-Galway
-01.11. 17:30
-ki 1
-2.65
-ki X
-3.30
-ki 2
-2.57
-manje 2.5
-1.87
-više 2.5
-1.85
- 
-Israel, Ligat ha'Al
-+817
-Hapoel Petah Tikva
-Sakhnin
-01.11. 17:30
-ki 1
-2.03
-ki X
-3.25
-ki 2
-3.50
-manje 2.5
-1.75
-više 2.5
-1.97
-+822
-SC Ashdod
-Hapoel Haifa
-01.11. 17:30
-ki 1
-2.67
-ki X
-3.20
-ki 2
-2.47
-manje 2.5
-1.82
-više 2.5
-1.88
- 
-Italy, Serie C - Group A
-+821
-Virtus Verona
-Trento
-01.11. 17:30
-ki 1
-2.95
-ki X
-3.25
-ki 2
-2.27
-manje 2.5
-1.75
-više 2.5
-1.95
- 
-Italy, Serie C - Group B
-+807
-Rimini
-Bra
-01.11. 17:30
-ki 1
-2.25
-ki X
-3.00
-ki 2
-3.20
-manje 2.5
-1.48
-više 2.5
-2.45
- 
-Qatar, QSL
-+828
-Umm-Salal
-Shamal
-01.11. 17:30
-ki 1
-4.30
-ki X
-4.25
-ki 2
-1.55
-manje 2.5
-2.93
-više 2.5
-1.35
- 
-Switzerland, Promotion League
-+648
-Vevey
-Zurich II
-01.11. 17:30
-ki 1
-3.65
-ki X
-4.20
-ki 2
-1.67
-manje 2.5
-3.40
-više 2.5
-1.26
-+648
-Kriens
-Basel II
-01.11. 17:30
-ki 1
-1.70
-ki X
-4.50
-ki 2
-3.35
-manje 2.5
-3.40
-više 2.5
-1.26
  
 Argentina, Primera Nacional - Promotion - Play Offs
 +789
@@ -403,16 +191,16 @@ više 2.5
 1.85
  
 Italy, Serie A
-+1055
++1057
 Napoli
 Como
 01.11. 18:00
 ki 1
-1.95
+1.97
 ki X
 3.35
 ki 2
-4.15
+4.10
 manje 2.5
 1.75
 više 2.5
@@ -440,15 +228,15 @@ Galatasaray
 Trabzonspor
 01.11. 18:00
 ki 1
-1.45
+1.48
 ki X
-4.75
+4.60
 ki 2
-5.80
+5.50
 manje 2.5
-2.88
+2.77
 više 2.5
-1.37
+1.40
  
 Denmark, Superliga
 +817
@@ -518,15 +306,15 @@ Winterthur
 Servette
 01.11. 18:00
 ki 1
-4.75
+4.45
 ki X
-4.25
+4.15
 ki 2
-1.55
+1.60
 manje 2.5
 2.47
 više 2.5
-1.48
+1.47
  
 Algeria, Ligue 1
 +808
@@ -591,20 +379,20 @@ više 2.5
 1.57
  
 Czech, Chance Liga
-+811
++809
 Slavia Prague
 Ostrava
 01.11. 18:00
 ki 1
-1.24
+1.25
 ki X
-5.80
+5.60
 ki 2
-11.0
+10.5
 manje 2.5
-2.47
+2.35
 više 2.5
-1.48
+1.53
  
 France, National 2 - Group A
 +641
@@ -621,6 +409,210 @@ manje 2.5
 1.55
 više 2.5
 2.20
++635
+FC Chauray
+Bordeaux
+01.11. 18:00
+ki 1
+4.80
+ki X
+3.20
+ki 2
+1.70
+manje 2.5
+1.57
+više 2.5
+2.15
++636
+La Roche
+Chateaubriant
+01.11. 18:00
+ki 1
+1.63
+ki X
+3.35
+ki 2
+5.00
+manje 2.5
+1.62
+više 2.5
+2.07
++639
+Granville
+Montlouis
+01.11. 18:00
+ki 1
+1.82
+ki X
+3.20
+ki 2
+4.05
+manje 2.5
+1.63
+više 2.5
+2.05
+ 
+France, National 2 - Group C
++638
+AS Cannes
+Toulon
+01.11. 18:00
+ki 1
+1.72
+ki X
+3.35
+ki 2
+4.35
+manje 2.5
+1.77
+više 2.5
+1.87
++640
+Lusitanos
+Grasse
+01.11. 18:00
+ki 1
+2.03
+ki X
+3.05
+ki 2
+3.45
+manje 2.5
+1.55
+više 2.5
+2.20
++641
+Saint Priest
+Limonest
+01.11. 18:00
+ki 1
+2.12
+ki X
+3.00
+ki 2
+3.30
+manje 2.5
+1.57
+više 2.5
+2.15
++640
+Hyeres
+FC 93
+01.11. 18:00
+ki 1
+2.22
+ki X
+2.90
+ki 2
+3.20
+manje 2.5
+1.47
+više 2.5
+2.40
++645
+Rousset-Ste Victoire
+Creteil
+01.11. 18:00
+ki 1
+2.83
+ki X
+3.15
+ki 2
+2.30
+manje 2.5
+1.77
+više 2.5
+1.87
+ 
+France, National 2 - Group B
++637
+Beauvais
+Thionville
+01.11. 18:00
+ki 1
+4.20
+ki X
+3.15
+ki 2
+1.81
+manje 2.5
+1.55
+više 2.5
+2.20
++647
+Blois
+Haguenau
+01.11. 18:00
+ki 1
+2.45
+ki X
+3.05
+ki 2
+2.67
+manje 2.5
+1.67
+više 2.5
+1.97
++644
+Chantilly
+Feignies-Aulnoye
+01.11. 18:00
+ki 1
+2.67
+ki X
+2.97
+ki 2
+2.50
+manje 2.5
+1.60
+više 2.5
+2.12
++641
+Saint-Pryve
+Chambly
+01.11. 18:00
+ki 1
+2.47
+ki X
+2.95
+ki 2
+2.70
+manje 2.5
+1.57
+više 2.5
+2.20
+ 
+Georgia, Crystalbet Erovnuli Liga 2
++642
+Bolnisi
+Rustavi
+01.11. 18:00
+ki 1
+4.40
+ki X
+3.30
+ki 2
+1.72
+manje 2.5
+1.75
+više 2.5
+1.95
+ 
+Germany, Regionalliga North
++824
+Emden
+Altona
+01.11. 18:00
+ki 1
+1.42
+ki X
+4.55
+ki 2
+5.45
+manje 2.5
+2.90
+više 2.5
+1.35
  Tiket
 TIKET
 
@@ -672,14 +664,14 @@ Danijela D.
 8.000,00
 5.
 Nina T.
-12,828.89
+12,874.39
 5.000,00
 Pravila igre
 Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-17:27:38
+17:37:24
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
