@@ -16,6 +16,44 @@ Najveća 3+ : 2.63  [BalkanBet]
 Arbitraža (1-X-2): NE   inv_sum=1.0786   profit≈-7.86%
 Arbitraža (0-2 / 3+): DA   inv_sum=0.7802   profit≈21.98%
 
+15:00   01.11.   [Švedska 1]
+Hacken  vs  Malmo
+
+- BalkanBet  1=2.3  |  X=3.75  |  2=2.85  |  0-2=2.52  |  2+=1.17  |  3+=1.53  |  GG=1.5  |  IGG=3.7  |  GG&3+=1.8  |  GG&4+=2.7  |  4+=2.35
+- Brazil_d   1=2.25  |  X=3.7  |  2=2.85  |  0-2=2.45  |  2+=1.14  |  3+=1.48
+- MaxBet     1=2.25  |  X=3.75  |  2=2.75
+- OktagonBet 1=2.62  |  X=3.45  |  2=2.4  |  0-2=2.1  |  3+=1.65  |  GG=1.56  |  GG&3+=1.93  |  4+=2.7
+- Soccer     1=2.38  |  X=3.8  |  2=2.65  |  0-2=2.33  |  2+=1.15  |  3+=1.55  |  GG=1.48  |  IGG=3.45  |  GG&3+=1.75
+
+Najveća 1  : 2.62  [OktagonBet]
+Najveća X  : 3.80  [Soccer]
+Najveća 2  : 2.85  [BalkanBet, Brazil_d]
+Najveća 0-2: 2.52  [BalkanBet]
+Najveća 3+ : 1.65  [OktagonBet]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9957   profit≈0.43%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0029   profit≈-0.29%
+
+15:30   01.11.   [Nemačka 1]
+Leipzig  vs  Stuttgart
+
+- BalkanBet  1=2.05  |  X=4  |  2=3.3  |  0-2=2.85  |  2+=1.15  |  3+=1.45  |  GG=1.42  |  IGG=3.5  |  GG&3+=1.7  |  GG&4+=2.4  |  4+=2.15
+- Brazil_d   1=2.1  |  X=3.9  |  2=3.15  |  0-2=2.8  |  2+=1.13  |  3+=1.45
+- MaxBet     1=2.12  |  X=3.85  |  2=3.20
+- Mozzart    1=2.05  |  X=4  |  2=3.45  |  0-2=2.75  |  2+=1.15  |  3+=1.48
+- OktagonBet 1=2.1  |  X=3.95  |  2=3.1  |  0-2=2.8  |  3+=1.44  |  GG=1.43  |  GG&3+=1.66  |  4+=2.12
+- Soccer     1=2.05  |  X=4.2  |  2=3.15  |  0-2=2.7  |  2+=1.15  |  3+=1.47  |  GG=1.45  |  IGG=3.35  |  GG&3+=1.7
+- Topbet     1=2.05  |  X=3.8  |  2=3.3
+
+Najveća 1  : 2.12  [MaxBet]
+Najveća X  : 4.20  [Soccer]
+Najveća 2  : 3.45  [Mozzart]
+Najveća 0-2: 2.85  [BalkanBet]
+Najveća 3+ : 1.48  [Mozzart]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9996   profit≈0.04%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0266   profit≈-2.66%
+
 15:30   [RUSSIA, FNL - Division A Gold - Fall Season]
 St. Pauli  vs  B. Monchengladbach
 
@@ -54,27 +92,27 @@ Arbitraža (0-2 / 3+): DA   inv_sum=0.8049   profit≈19.51%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1420
+Ukupno mečeva (grupa): 1421
 Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1064
-Grupa sa veličinom ≥3: 754
-Grupa sa veličinom ≥4: 486
+Grupa sa veličinom ≥3: 757
+Grupa sa veličinom ≥4: 485
 Grupa sa veličinom ≥5: 284
 Grupa sa veličinom ≥6: 156
-Grupa sa veličinom ≥7: 116
+Grupa sa veličinom ≥7: 117
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa: 1041   spojeno (u grupama >1):  935
+  - BalkanBet  ukupno zapisa: 1046   spojeno (u grupama >1):  939
   - BetOle     ukupno zapisa:   27   spojeno (u grupama >1):   27
-  - Brazil_d   ukupno zapisa:  321   spojeno (u grupama >1):  318
+  - Brazil_d   ukupno zapisa:  320   spojeno (u grupama >1):  317
   - Brazil_p   ukupno zapisa:   68   spojeno (u grupama >1):   51
   - Brazil_s   ukupno zapisa:   97   spojeno (u grupama >1):   96
   - MaxBet     ukupno zapisa:  270   spojeno (u grupama >1):  262
-  - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  374
-  - OktagonBet ukupno zapisa: 1038   spojeno (u grupama >1):  889
+  - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  373
+  - OktagonBet ukupno zapisa: 1038   spojeno (u grupama >1):  890
   - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  348
   - Topbet     ukupno zapisa:  665   spojeno (u grupama >1):  626
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 1
+  - 1-X-2: 3
   - 0-2 / 3+: 2
-  - Barem jedna arbitraža: 3
+  - Barem jedna arbitraža: 5
