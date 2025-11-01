@@ -430,25 +430,25 @@ Burnley - Arsenal
 14.50
 5.90
 1.25
-+53
++57
 16:00
 Crystal Palace - Brentford
 1.95
 3.60
 3.90
-+53
++57
 16:00
 Fulham - Wolverhampton
 1.85
 3.45
 4.55
-+53
++58
 16:00
 Nottingham Forest - Man . Utd
 3.40
 3.80
 2.05
-+53
++57
 18:30
 Tottenham - Chelsea
 2.70
@@ -578,7 +578,7 @@ Mainz - Werder
 2.00
 3.95
 3.40
-+53
++58
 15:30
 RB Leipzig - Stuttgart
 1.95
@@ -900,19 +900,19 @@ Chelmsford - Braintree
 16:00
 AFC Wimbledon - Gateshead
 1.35
-5.05
-7.24
+5.10
+6.91
 +41
 16:00
 Barnsley - York City
-1.80
-4.00
+1.85
+3.85
 3.56
 +41
 16:00
 Blackpool - Scunthorpe
-1.70
-3.85
+1.72
+3.70
 4.21
 +41
 16:00
@@ -930,20 +930,20 @@ Boreham - Crawley
 16:00
 Bromley - Bristol Rovers
 1.85
-3.50
-4.05
+3.55
+3.78
 +41
 16:00
 Burton - St Albans
-1.27
-5.55
-8.75
+1.30
+5.35
+8.53
 +41
 16:00
 Buxton - Chatham Town
 2.15
-3.60
-3.00
+3.65
+3.02
 +41
 16:00
 Cambridge - Chester
@@ -953,20 +953,20 @@ Cambridge - Chester
 +41
 16:00
 Cheltenham - Bradford
-5.18
-4.05
-1.55
+4.86
+4.10
+1.58
 +41
 16:00
 Colchester - MK Dons
 2.35
-3.40
-2.92
+3.50
+2.81
 +41
 16:00
 Crewe - Doncaster
-3.08
-3.78
+3.13
+3.80
 2.05
 +41
 16:00
@@ -978,26 +978,26 @@ Halifax - Exeter
 16:00
 Fleetwood - Barnet
 2.92
-3.30
+3.35
 2.35
 +41
 16:00
 Grimsby - Ebbsfleet
 1.35
-4.80
-7.88
+4.95
+7.45
 +41
 16:00
 Macclesfield FC - AFC Totton
 2.00
-3.50
-3.35
+3.60
+3.46
 +41
 16:00
 Mansfield - Harrogate
 1.52
-4.25
-5.40
+4.35
+5.18
 +41
 16:00
 Newport - Gillingham
@@ -1008,20 +1008,20 @@ Newport - Gillingham
 16:00
 Oldham - Northampton
 2.60
-2.95
+3.15
 2.70
 +41
 16:00
 Peterborough - Cardiff
 3.24
-3.45
+3.60
 2.05
 +41
 16:00
 Reading - Carlisle
-1.70
-3.85
-4.32
+1.72
+3.90
+4.00
 +41
 16:00
 Rotherham - Swindon
@@ -1037,27 +1037,27 @@ Salford - Lincoln
 +41
 16:00
 Slough - Altrincham
-4.10
-3.95
-1.70
+3.78
+4.00
+1.72
 +41
 16:00
 Spennymoor - Barrow
 4.21
-3.85
-1.70
+3.70
+1.72
 +41
 16:00
 Stevenage - Chesterfield
-1.62
-4.00
-4.64
+1.65
+4.25
+4.43
 +41
 16:00
 Sutton - AFC Telford
 2.20
-3.65
-2.90
+3.67
+2.92
 +41
 16:00
 Tranmere - Stockport
@@ -1067,15 +1067,15 @@ Tranmere - Stockport
 +41
 16:00
 Wealdstone - Southend
-3.89
-3.65
+4.00
+3.78
 1.80
 +41
 16:00
 Weston Super Mare - Aldershot
-2.10
-3.50
-3.02
+2.15
+3.40
+3.13
 +41
 16:00
 Wigan - Hemel Hempstead
@@ -1085,9 +1085,9 @@ Wigan - Hemel Hempstead
 +41
 16:00
 Wycombe - Plymouth
-1.72
-3.60
-4.32
+1.75
+3.70
+4.40
 +41
 18:30
 Brackley - Notts County
@@ -2065,8 +2065,8 @@ X
 2
 10:15
 SK Aritma Prague - SK Dynamo Ceske Budejovice B
-2.15
-3.45
+2.25
+3.40
 2.80
 +35
 10:15
@@ -2610,7 +2610,7 @@ Watford - Middlesbrough
 2.55
 3.30
 2.80
-+52
++53
 Engleska 6 Jug
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -2622,8 +2622,8 @@ X
 16:00
 Dag & Red - Farnborough
 2.10
-3.25
-3.10
+3.40
+3.35
 +40
 16:00
 Enfield - Eastbourne
@@ -2634,8 +2634,8 @@ Enfield - Eastbourne
 16:00
 Torquay - AFC Hornchurch
 2.20
-3.35
-3.10
+3.40
+3.13
 +40
 16:00
 Maidstone - Tonbridge
@@ -2645,15 +2645,15 @@ Maidstone - Tonbridge
 +40
 16:00
 Bath City - Horsham
-2.75
-3.15
-2.50
+2.55
+3.35
+2.55
 +40
 16:00
 Chesham - Chippenham
-1.58
-3.85
-4.90
+1.60
+3.90
+4.60
 +40
 16:00
 Salisbury - Dorking
@@ -2664,8 +2664,8 @@ Salisbury - Dorking
 16:00
 Worthing - Hampton & Richmond
 1.52
-4.43
-5.15
+4.50
+5.20
 +40
 Engleska 6 Sever
 KONAČAN ISHOD
@@ -3233,14 +3233,14 @@ X
 2
 13:00
 Kallithea FC Athén - Marko
-1.72
-3.30
-4.60
+1.68
+3.40
+4.70
 +36
 14:00
 Nestos Chrysoupoli - Niki Volou
 5.70
-3.65
+3.60
 1.58
 +36
 14:00
@@ -3486,7 +3486,7 @@ Entella - Empoli
 19:30
 Palermo - Pescara
 1.42
-4.50
+4.40
 6.00
 +52
 NED. 02.11.
@@ -4039,8 +4039,8 @@ Changchun Y. - Beijing G.
 +41
 08:30
 Shandong Taishan - Tianjin T.
-1.40
-4.95
+1.38
+5.15
 6.10
 +41
 12:35
@@ -4357,16 +4357,6 @@ Meksiko 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
 OBA TIMA DAJU GOL
-SUB. 01.11.
-1
-X
-2
-04:05
-Puebla - Cruz Azul
-4.32
-4.00
-1.65
-+37
 NED. 02.11.
 1
 X
@@ -4640,7 +4630,7 @@ X
 14:00
 Bahlinger - Balingen
 2.00
-3.65
+3.70
 3.00
 +40
 14:00
@@ -4711,14 +4701,14 @@ Weiche 08 - Lubeck
 +40
 14:00
 Phonix Lubeck - FSV Schoningen 2011
-1.45
-4.70
-5.30
+1.35
+5.20
+6.30
 +40
 14:00
 Bremer - Hannover II
 2.55
-3.85
+3.80
 2.35
 +40
 18:00
@@ -4939,9 +4929,9 @@ X
 2
 16:00
 Aalesund - Aasane
-1.30
-5.35
-7.90
+1.32
+5.30
+6.60
 +41
 16:00
 Egersunds - Hodd
@@ -4952,19 +4942,19 @@ Egersunds - Hodd
 16:00
 Start - Moss
 1.38
-4.90
-6.40
+5.10
+6.10
 +41
 16:00
 Kongsvinger - Lillestrom
-3.20
-4.05
-1.85
+3.10
+3.90
+1.90
 +41
 16:00
 Odds - Sogndal
-2.45
-3.70
+2.50
+3.60
 2.50
 +41
 16:00
