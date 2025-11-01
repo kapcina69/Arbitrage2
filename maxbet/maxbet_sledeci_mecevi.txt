@@ -33,7 +33,7 @@ Sve
   
   
 Fudbal
-1274
+1259
   
   
 Fantasy PL
@@ -41,7 +41,7 @@ Fantasy PL
   
   
 Fudbal Specijal
-81
+207
   
   
 Igrači Stats
@@ -53,7 +53,7 @@ Mućkalice Fudbal
   
   
 Košarka
-186
+185
   
   
 Specijal košarka
@@ -61,7 +61,7 @@ Specijal košarka
   
   
 Tenis
-67
+63
   
   
 Specijal tenis
@@ -69,7 +69,7 @@ Specijal tenis
   
   
 Hokej
-161
+160
   
   
 Specijal Hokej
@@ -93,7 +93,7 @@ Bejzbol
   
   
 Stoni Tenis
-105
+101
   
   
 Američki Fudbal
@@ -137,7 +137,7 @@ Golovi po ligama
   
   
 Fudbal Virtual
-76
+75
 VREMENSKA PONUDA
 Danas
 Sutra
@@ -145,208 +145,13 @@ Sutra
 
 
 Opseg Vremena
-11:00
+12:00
 23:59
 Opseg Kvota
 1.09
 22
 Fudbal
 Konačan ishod
- 
-BELARUS 1
-01.11 12:00
-  
-+800
-Smorgon
-Vitebsk
-1
-2.80
-X
-2.95
-2
-2.50
- 
-CAMBODIA 1
-01.11 12:00
-  
-+806
-Boeung Ket
-NagaWorld
-1
-2.05
-X
-3.45
-2
-2.90
- 
-GERMANY Bundesliga - Women
-01.11 12:00
-  
-+813
-Werder B W
-Union B W
-1
-2.15
-X
-3.50
-2
-2.80
- 
-PORTUGAL 2
-01.11 12:00
-  
-+803
-Sporting CP B
-Feirense
-1
-1.90
-X
-3.25
-2
-3.90
- 
-RUSSIA 2
-01.11 12:00
-  
-+791
-Ural
-Saratov
-1
-1.48
-X
-3.80
-2
-6.80
- 
-SPAIN 1 - Women
-01.11 12:00
-  
-+789
-Badalona Wom.
-Sevilla FC Wom.
-1
-2.50
-X
-2.90
-2
-2.75
- 
-SPAIN 1 - Women
-01.11 12:00
-  
-+794
-Levante Wom.
-Costa Adeje Tenerife Wom.
-1
-5.75
-X
-3.60
-2
-1.53
- 
-SPAIN Tercera RFEF - Group 16
-01.11 12:00
-  
-+798
-Agoncillo
-UD Logrones B
-1
-5.30
-X
-3.75
-2
-1.53
- 
-THAILAND 1
-01.11 12:00
-  
-+794
-Ratchaburi
-Chiangrai Utd.
-1
-1.45
-X
-3.85
-2
-6.00
- 
-THAILAND 2
-01.11 12:00
-  
-+808
-Phrae
-Chanthaburi
-1
-1.75
-X
-3.55
-2
-3.85
- 
-UKRAINE 1
-01.11 12:00
-  
-+799
-Kryvbas
-SC Poltava
-1
-1.40
-X
-4.45
-2
-6.60
- 
-UKRAINE 2
-01.11 12:00
-  
-+806
-UCSA
-Metalist Kharkiv
-1
-2.65
-X
-3.05
-2
-2.65
- 
-VIETNAM 1
-01.11 12:00
-  
-+796
-Da Nang
-Song Lam Nghe An
-1
-1.93
-X
-3.15
-2
-3.90
- 
-VIETNAM 1
-01.11 12:00
-  
-+794
-Phu Dong Ninh Binh
-Binh Doung
-1
-1.37
-X
-4.33
-2
-7.75
- 
-VIETNAM 2
-01.11 12:00
-  
-+774
-PVF-CAND B
-Dong Thap
-1
-1.65
-X
-3.05
-2
-5.10
  
 ITALY 2
 01.11 12:30
@@ -355,11 +160,11 @@ ITALY 2
 Avellino
 Reggiana
 1
-1.95
+2.05
 X
-3.40
+3.35
 2
-3.65
+3.45
  
 MALAYSIA 1
 01.11 12:30
@@ -404,7 +209,7 @@ X
 SINGAPORE Cup
 01.11 12:30
   
-+817
++818
 Geylang
 Albirex Niigata
 1
@@ -412,7 +217,7 @@ Albirex Niigata
 X
 3.70
 2
-2.35
+2.38
  
 THAILAND 1
 01.11 12:30
@@ -421,11 +226,11 @@ THAILAND 1
 Kanchanaburi
 Ayutthaya Utd
 1
-1.83
+1.88
 X
-3.45
+3.40
 2
-3.65
+3.50
  
 THAILAND 2
 01.11 12:30
@@ -443,15 +248,15 @@ X
 CHINA 1
 01.11 12:35
   
-+814
++815
 Meizhou Hakka
 Dalian Kuncheng
 1
-2.10
+2.05
 X
-3.50
+3.60
 2
-3.05
+3.15
  
 ASIA AFC Challenge League
 01.11 13:00
@@ -581,20 +386,20 @@ Dyn. Dresden
 X
 4.00
 2
-4.00
+4.05
  
 GERMANY 2
 01.11 13:00
   
-+815
++814
 Karlsruher
 Schalke
 1
-2.75
+3.05
 X
-3.50
+3.45
 2
-2.45
+2.30
  
 GERMANY 2
 01.11 13:00
@@ -916,11 +721,11 @@ THAILAND 2
 Rasisalai Utd
 Trat FC
 1
-1.34
+1.32
 X
-4.45
+4.55
 2
-7.20
+7.40
  
 TURKEY 4 - Group 1
 01.11 13:00
@@ -964,13 +769,13 @@ X
 UZBEKISTAN 1
 01.11 13:00
   
-+795
++798
 Andijan
 Buxoro
 1
-2.20
+2.25
 X
-3.05
+2.95
 2
 3.10
  
@@ -990,15 +795,15 @@ X
 MALAYSIA 1
 01.11 13:15
   
-+805
++803
 Kuala Lumpur
 Kelantan The Real W.
 1
-1.29
+1.25
 X
-5.10
+5.40
 2
-7.10
+8.25
  
 VIETNAM 1
 01.11 13:15
@@ -1133,15 +938,15 @@ X
 ENGLAND 2
 01.11 13:30
   
-+798
++802
 West Brom
 Sheff Wed
 1
-1.48
+1.53
 X
-3.95
+3.85
 2
-6.70
+6.20
  
 ESTONIA 1
 01.11 13:30
@@ -1254,11 +1059,11 @@ BULGARIA 1
 Lok.Plovdiv
 Botev P.
 1
-1.93
+1.90
 X
-3.25
+3.30
 2
-3.80
+3.90
  
 UAE 2
 01.11 13:45
@@ -1315,7 +1120,7 @@ X
 SPAIN 1
 01.11 14:00
   
-+848
++810
 Villarreal
 Vallecano
 1
@@ -1670,11 +1475,11 @@ GERMANY 3
 Munich 1860
 Cottbus
 1
-2.25
+2.35
 X
-3.60
+3.65
 2
-2.80
+2.65
  
 GERMANY 3
 01.11 14:00
@@ -1705,15 +1510,15 @@ X
 GERMANY 4 Bayern
 01.11 14:00
   
-+813
++815
 Aubstadt
 Schwaben Augsb.
 1
-1.78
+2.05
 X
-3.75
+3.65
 2
-3.85
+3.00
  
 GERMANY 4 Nordost
 01.11 14:00
@@ -2619,13 +2424,13 @@ X
 TUNISIA 1
 01.11 14:30
   
-+779
++778
 Club Africain
 Soliman
 1
-1.17
+1.18
 X
-5.35
+5.00
 2
 15.0
  
@@ -2636,11 +2441,11 @@ TUNISIA 1
 Etoile Sahel
 Metlaoui
 1
-1.55
+1.50
 X
-3.25
+3.35
 2
-6.50
+7.00
  
 TUNISIA 1
 01.11 14:30
@@ -3014,11 +2819,11 @@ SWEDEN 2
 Ostersunds
 Trelleborgs
 1
-2.25
+2.35
 X
 3.25
 2
-2.95
+2.80
  
 SWEDEN 2
 01.11 15:00
@@ -3062,15 +2867,15 @@ X
 TURKEY 1
 01.11 15:00
   
-+800
++799
 Goztepe
 Genclerbirligi
 1
-1.63
+1.55
 X
-3.65
+3.80
 2
-5.60
+6.20
  
 TURKEY 3 - White Group
 01.11 15:00
@@ -3261,11 +3066,11 @@ LEBANON 1
 Al Ahed
 Al Nejmeh
 1
-2.20
+2.75
 X
-3.25
+3.20
 2
-2.85
+2.30
  
 +2 
 Max Bonus Tip Fudbal
@@ -3310,7 +3115,7 @@ X
 GERMANY 1
 01.11 15:30
   
-+817
++856
 RB Leipzig
 Stuttgart
 1
@@ -3323,7 +3128,7 @@ X
 GERMANY 1
 01.11 15:30
   
-+846
++811
 St. Pauli
 B.M'Gladbach
 1
@@ -3531,13 +3336,13 @@ X
 S.ARABIA 1
 01.11 15:35
   
-+816
++815
 Al Khaleej
 Al-Ittihad FC
 1
 3.00
 X
-3.70
+3.65
 2
 2.05
  
@@ -3567,189 +3372,6 @@ X
 3.85
 2
 3.05
- 
-+2 
-Max Bonus Tip Fudbal
-01.11 16:00
-  
-+5
-Nottingham
-Man.Utd
-1
-3.55
-X
-3.75
-2
-2.20
- 
-ENGLAND 1
-01.11 16:00
-  
-+806
-Brighton
-Leeds
-1
-2.00
-X
-3.55
-2
-3.75
- 
-ENGLAND 1
-01.11 16:00
-  
-+824
-Burnley
-Arsenal
-1
-13.0
-X
-5.60
-2
-1.26
- 
-ENGLAND 1
-01.11 16:00
-  
-+809
-Crystal Palace
-Brentford
-1
-2.10
-X
-3.50
-2
-3.65
- 
-ENGLAND 1
-01.11 16:00
-  
-+841
-Fulham
-Wolves
-1
-1.80
-X
-3.55
-2
-4.85
- 
-ENGLAND 1
-01.11 16:00
-  
-+845
-Nottingham
-Man.Utd
-1
-3.40
-X
-3.55
-2
-2.15
- 
-SERBIA 1
-01.11 16:00
-  
-+797
-Javor
-Spartak S.
-1
-2.20
-X
-3.00
-2
-3.30
- 
-ARMENIA 1
-01.11 16:00
-  
-+797
-Noah
-Ararat-Arm.
-1
-1.65
-X
-3.75
-2
-4.15
- 
-BELGIUM 1
-01.11 16:00
-  
-+814
-Waregem
-St.Gilloise
-1
-5.20
-X
-4.10
-2
-1.60
- 
-BELGIUM 2
-01.11 16:00
-  
-+810
-Gent U23
-Eupen
-1
-2.95
-X
-3.20
-2
-2.25
- 
-CROATIA 1
-01.11 16:00
-  
-+800
-Dinamo Z.
-Rijeka
-1
-1.53
-X
-3.80
-2
-5.70
- 
-CYPRUS 1
-01.11 16:00
-  
-+799
-Omonia Arad.
-Ol. Nicosia
-1
-2.35
-X
-3.00
-2
-3.00
- 
-EGYPT 1
-01.11 16:00
-  
-+785
-Ghazl El Mahallah
-Modern Sport
-1
-3.50
-X
-2.75
-2
-2.25
- 
-ENGLAND 2
-01.11 16:00
-  
-+803
-Birmingham
-Portsmouth
-1
-1.73
-X
-3.40
-2
-5.00
  Tiket
 Ekspres tiketi
 1
@@ -3759,7 +3381,7 @@ Promeni temu  
 VIP KLUB
 REZULTATI
 STATUS TIKETA
-11:53:31
+12:02:20
 NAČIN UPLATE DEPOZITA
 UPLATNA MESTA
 PRAVILA IGRE
