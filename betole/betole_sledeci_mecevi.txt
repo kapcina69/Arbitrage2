@@ -36,7 +36,7 @@ Sve
   
   
 FUDBAL
-1650
+1644
   
   
 DNEVNI SPECIJAL
@@ -48,7 +48,7 @@ GOLOVI PO LIGAMA
   
   
 KOŠARKA
-224
+225
   
   
 SP. KOŠARKA
@@ -56,11 +56,15 @@ SP. KOŠARKA
   
   
 TENIS
-47
+48
   
   
 RUKOMET
 87
+  
+  
+SP. RUKOMET
+39
   
   
 ODBOJKA
@@ -120,11 +124,11 @@ ESPORT
   
   
 SP. FUDBAL
-3223
+3222
   
   
 VIR. FUDBAL
-77
+76
   
   
 OUTRIGHT
@@ -142,117 +146,21 @@ Top
 Specijali
 KONAČAN ISHOD
  
-Estonia, Esiliiga
-Nomme Kalju U21
-Tallinna Kalev U21
-01.11. 11:30
- 
-ki 1
-1.04
-ki X
-10.5
-ki 2
-18.0
-manje 2.5
-7.10
-više 2.5
-1.04
- 
-Italy, Primavera 2
-+649
-Ascoli U19
-Pisa U19
-01.11. 11:30
-ki 1
-1.85
-ki X
-3.80
-ki 2
-3.25
-manje 2.5
-2.47
-više 2.5
-1.47
- 
-Romania, Liga 2
-+646
-Afumati
-FC ASA Tg. Mures
-01.11. 11:30
-ki 1
-2.40
-ki X
-3.30
-ki 2
-2.60
-manje 2.5
-2.00
-više 2.5
-1.70
- 
-Spain, Segunda RFEF - Group 2
-+645
-Beasain
-Basconia
-01.11. 11:30
-ki 1
-2.20
-ki X
-3.10
-ki 2
-3.00
-manje 2.5
-1.72
-više 2.5
-1.93
- 
-Spain, Tercera RFEF - Group 7
-+644
-Atl. Madrid C
-Pozuelo de Alarcon
-01.11. 11:30
-ki 1
-1.75
-ki X
-3.60
-ki 2
-3.60
-manje 2.5
-2.20
-više 2.5
-1.55
- 
-Turkey, TFF 1. Lig
-+821
-Keciorengucu
-Sariyer
-01.11. 11:30
-ki 1
-2.07
-ki X
-3.35
-ki 2
-3.25
-manje 2.5
-1.92
-više 2.5
-1.77
- 
 Ukraine, Premier League
-+816
++814
 Kryvbas
 SC Poltava
 01.11. 12:00
 ki 1
-1.38
+1.40
 ki X
-4.60
+4.50
 ki 2
 6.70
 manje 2.5
-2.22
+2.15
 više 2.5
-1.60
+1.62
  
 Belarus, Vysshaya Liga
 +810
@@ -276,15 +184,15 @@ Belshina
 BATE 2
 01.11. 12:00
 ki 1
-1.57
+1.60
 ki X
-3.90
+3.85
 ki 2
-4.20
+4.15
 manje 2.5
-2.45
+2.40
 više 2.5
-1.43
+1.45
  
 Bhutan, Premier League
 +37
@@ -628,15 +536,15 @@ BFB Pattaya City
 ACDC FC
 01.11. 12:00
 ki 1
-2.37
+2.07
 ki X
-3.10
+3.15
 ki 2
-2.73
+3.25
 manje 2.5
-1.71
+1.73
 više 2.5
-1.93
+1.92
 +80
 Chiangmai FC
 Chattrakan City FC
@@ -672,31 +580,31 @@ UCSA
 Metalist Kharkiv
 01.11. 12:00
 ki 1
-2.50
+2.60
 ki X
 2.97
 ki 2
-2.67
+2.60
 manje 2.5
 1.60
 više 2.5
 2.15
  
 Vietnam, V.League 1
-+812
++811
 Da Nang
 Song Lam Nghe An
 01.11. 12:00
 ki 1
-1.88
+1.95
 ki X
-3.15
+3.10
 ki 2
-3.85
+3.65
 manje 2.5
 1.57
 više 2.5
-2.20
+2.22
 +810
 TTBD Phu Dong
 Binh Duong
@@ -759,20 +667,20 @@ više 2.5
 2.37
  
 Italy, Serie B
-+955
++956
 Avellino
 Reggiana
 01.11. 12:30
 ki 1
-1.90
+1.88
 ki X
-3.45
+3.50
 ki 2
 3.95
 manje 2.5
-1.85
+1.87
 više 2.5
-1.88
+1.85
  
 Italy, Serie A Women
 +646
@@ -823,18 +731,18 @@ više 2.5
 1.77
  
 Thailand, Thai Premier League
-+820
++822
 Kanchanaburi City
 Ayutthaya Utd
 01.11. 12:30
 ki 1
-1.92
+1.82
 ki X
-3.45
+3.50
 ki 2
-3.35
+3.65
 manje 2.5
-1.95
+1.97
 više 2.5
 1.77
  
@@ -872,16 +780,16 @@ više 2.5
 1.31
  
 Singapore, Singapore Cup
-+833
++834
 Geylang
 Albirex Niigata Singapore
 01.11. 12:30
 ki 1
-2.15
+2.35
 ki X
 3.80
 ki 2
-2.57
+2.40
 manje 2.5
 3.00
 više 2.5
@@ -920,7 +828,7 @@ više 2.5
 1.81
  
 Germany, 2. Bundesliga
-+967
++926
 Hertha Berlin
 SG Dynamo Dresden
 01.11. 13:00
@@ -948,20 +856,20 @@ manje 2.5
 2.05
 više 2.5
 1.70
-+965
++920
 Nurnberg
 Braunschweig
 01.11. 13:00
 ki 1
-1.70
+1.72
 ki X
-3.90
+3.80
 ki 2
-4.65
+4.55
 manje 2.5
-2.20
+2.15
 više 2.5
-1.62
+1.63
  
 Belarus, Pershaya Liga
 +641
@@ -971,13 +879,13 @@ Niva Dolbizno
 ki 1
 5.10
 ki X
-4.15
+4.10
 ki 2
 1.45
 manje 2.5
-2.45
+2.40
 više 2.5
-1.43
+1.45
 +633
 Lokomotiv Gomel
 Osipovichi
@@ -994,20 +902,20 @@ više 2.5
 1.65
  
 Croatia, Prva NL
-+641
++642
 Hrvace
 Orijent
 01.11. 13:00
 ki 1
-3.45
+3.15
 ki X
-3.25
+3.10
 ki 2
-1.95
+2.12
 manje 2.5
-1.75
+1.72
 više 2.5
-1.90
+1.93
  
 Denmark, 3rd Division
 +648
@@ -1187,13 +1095,13 @@ SC Lusitania
 SB Castelo Branco
 01.11. 13:00
 ki 1
-2.47
+2.50
 ki X
 3.00
 ki 2
-2.70
+2.65
 manje 2.5
-1.63
+1.62
 više 2.5
 2.12
  
@@ -1467,9 +1375,9 @@ ki X
 ki 2
 8.50
 manje 2.5
-2.30
+2.27
 više 2.5
-1.53
+1.55
  
 Turkey, 3. Lig Group 4
 +629
@@ -1645,44 +1553,44 @@ više 2.5
 2.15
  
 Hungary, NB I.
-+819
++821
 Kazincbarcikai
 Puskas Academy
 01.11. 13:15
 ki 1
-4.45
+4.15
 ki X
-3.65
+3.55
 ki 2
-1.70
+1.77
 manje 2.5
-2.05
+2.02
 više 2.5
-1.70
+1.71
  
 Malaysia, Super League
-+821
++820
 Kuala Lumpur City
 Kelantan United
 01.11. 13:15
 ki 1
-1.41
+1.38
 ki X
-4.40
+4.55
 ki 2
-5.75
+6.10
 manje 2.5
-2.47
+2.50
 više 2.5
-1.43
+1.42
  
 Vietnam, V.League 1
-+810
++815
 Ho Chi Minh City
 Hai Phong
 01.11. 13:15
 ki 1
-2.27
+2.30
 ki X
 3.03
 ki 2
@@ -1698,16 +1606,16 @@ Leicester
 Blackburn
 01.11. 13:30
 ki 1
-1.82
+1.83
 ki X
 3.55
 ki 2
-4.55
+4.50
 manje 2.5
 1.83
 više 2.5
 1.97
-+991
++922
 Norwich
 Hull
 01.11. 13:30
@@ -1919,15 +1827,15 @@ Sandersdorf
 RSV Eintracht
 01.11. 13:30
 ki 1
-5.20
+5.30
 ki X
-4.50
+4.45
 ki 2
 1.43
 manje 2.5
-2.80
+2.73
 više 2.5
-1.35
+1.36
  
 Germany, Regionalliga North
 +830
@@ -2104,15 +2012,15 @@ Lok. Plovdiv
 Botev Plovdiv
 01.11. 13:45
 ki 1
-1.97
+1.91
 ki X
 3.25
 ki 2
-3.70
+3.85
 manje 2.5
 1.70
 više 2.5
-2.05
+2.03
  
 Oman, 1st Division
 +644
@@ -2198,7 +2106,7 @@ ki 1
 ki X
 3.85
 ki 2
-4.55
+4.60
 manje 2.5
 2.12
 više 2.5
@@ -2376,13 +2284,13 @@ Vrchovina
 Zlin B
 01.11. 14:00
 ki 1
-2.41
+2.35
 ki X
-3.35
+3.30
 ki 2
-2.41
+2.50
 manje 2.5
-2.12
+2.10
 više 2.5
 1.60
 +647
@@ -2510,11 +2418,11 @@ Hillerod
 Kolding IF
 01.11. 14:00
 ki 1
-2.63
+2.57
 ki X
 3.25
 ki 2
-2.50
+2.55
 manje 2.5
 1.87
 više 2.5
@@ -2695,20 +2603,20 @@ više 2.5
 1.87
  
 Germany, Regionalliga Bayern
-+820
++821
 Aubstadt
 Schwaben Augsburg
 01.11. 14:00
 ki 1
-1.51
+1.57
 ki X
-4.10
+3.90
 ki 2
-4.95
+4.50
 manje 2.5
-2.35
+2.30
 više 2.5
-1.51
+1.53
  
 Germany, Oberliga Bayern Nord
 +82
@@ -2910,15 +2818,15 @@ Freiberg
 Fulda-Lehnerz
 01.11. 14:00
 ki 1
-1.63
+1.65
 ki X
-4.00
+3.90
 ki 2
-4.05
+4.00
 manje 2.5
-2.57
+2.50
 više 2.5
-1.43
+1.45
 +650
 Freiburg II
 Steinbach Haiger
@@ -2938,15 +2846,15 @@ Grossaspach
 Mainz II
 01.11. 14:00
 ki 1
-2.07
+2.12
 ki X
 3.70
 ki 2
-2.83
+2.70
 manje 2.5
-2.62
+2.67
 više 2.5
-1.42
+1.40
 +646
 Kassel
 Eintracht Trier
@@ -2966,11 +2874,11 @@ Schott Mainz
 Sandhausen
 01.11. 14:00
 ki 1
-4.20
+4.05
 ki X
-4.15
+4.10
 ki 2
-1.57
+1.62
 manje 2.5
 2.83
 više 2.5
@@ -3002,21 +2910,21 @@ ki X
 ki 2
 33.0
 manje 2.5
-4.90
+4.70
 više 2.5
-1.13
+1.14
  
 Greece, Super League 2
-+631
++628
 Chrisoupolis
 Niki Volos
 01.11. 14:00
 ki 1
-4.45
+4.80
 ki X
-3.03
+3.05
 ki 2
-1.80
+1.75
 manje 2.5
 1.38
 više 2.5
@@ -3035,16 +2943,16 @@ manje 2.5
 2.08
 više 2.5
 1.65
-+634
++632
 Olympiacos Piraeus B
 Ilioupoli
 01.11. 14:00
 ki 1
-1.27
+1.22
 ki X
-4.75
+5.00
 ki 2
-9.00
+11.0
 manje 2.5
 2.02
 više 2.5
@@ -3266,20 +3174,20 @@ više 2.5
 2.12
  
 Spain, Primera RFEF - Group 1
-+641
++639
 Pontevedra
 Zamora
 01.11. 14:00
 ki 1
-2.27
+2.50
 ki X
-2.88
+2.85
 ki 2
-3.10
+2.77
 manje 2.5
 1.48
 više 2.5
-2.41
+2.45
  
 Sweden, Division 2 - Promotion Group
 +650
@@ -3546,16 +3454,16 @@ više 2.5
 2.50
  
 Austria, 2. Liga
-+824
++822
 First Vienna
 Amstetten
 01.11. 14:30
 ki 1
-2.60
+2.35
 ki X
 3.25
 ki 2
-2.50
+2.83
 manje 2.5
 1.88
 više 2.5
@@ -4092,36 +4000,36 @@ više 2.5
 2.85
  
 Italy, Serie A
-+1072
++1071
 Udinese
 Atalanta
 01.11. 15:00
 ki 1
-5.00
+5.20
 ki X
-3.60
+3.55
 ki 2
 1.75
 manje 2.5
-2.20
+2.12
 više 2.5
-1.67
+1.72
  
 Turkey, Super Lig
-+991
++938
 Goztepe
 Genclerbirligi
 01.11. 15:00
 ki 1
-1.60
+1.63
 ki X
-3.80
+3.70
 ki 2
-5.50
+5.35
 manje 2.5
-1.85
+1.81
 više 2.5
-1.87
+1.91
  
 Slovenia, Prva Liga
 +824
@@ -4140,7 +4048,7 @@ više 2.5
 1.63
  
 Sweden, Allsvenskan
-+971
++921
 Hacken
 Malmo FF
 01.11. 15:00
@@ -4170,7 +4078,7 @@ manje 2.5
 1.88
 više 2.5
 1.83
-+948
++907
 Padova
 Sudtirol
 01.11. 15:00
@@ -4200,20 +4108,20 @@ manje 2.5
 1.55
 više 2.5
 2.20
-+635
++636
 MO Constantine
 Telaghema
 01.11. 15:00
 ki 1
-1.85
+1.97
 ki X
-3.10
+3.03
 ki 2
-4.10
+3.70
 manje 2.5
-1.48
+1.47
 više 2.5
-2.35
+2.37
  
 Austria, Wien
 +39
@@ -4264,20 +4172,20 @@ više 2.5
 1.70
  
 Czech, Chance Liga
-+814
++813
 FK Pardubice
 Dukla Prague
 01.11. 15:00
 ki 1
-1.92
+1.93
 ki X
-3.40
+3.35
 ki 2
-3.90
+3.95
 manje 2.5
-1.72
+1.62
 više 2.5
-2.02
+2.15
 +813
 Jablonec
 Zlin
@@ -4292,20 +4200,20 @@ manje 2.5
 1.73
 više 2.5
 2.00
-+812
++809
 Slovacko
 Liberec
 01.11. 15:00
 ki 1
-3.45
+3.50
 ki X
-3.10
+3.05
 ki 2
 2.20
 manje 2.5
-1.62
+1.57
 više 2.5
-2.20
+2.30
  
 Czech Republic, ChNL
 +813
@@ -4340,20 +4248,20 @@ više 2.5
 1.70
  
 Denmark, Elitedivisionen Women
-+628
++627
 Koge Wom.
 KoldingQ Wom.
 01.11. 15:00
 ki 1
-1.11
+1.09
 ki X
-7.10
+7.60
 ki 2
-15.0
+16.5
 manje 2.5
-2.90
+3.03
 više 2.5
-1.35
+1.32
  
 England, Premier League 2
 +649
@@ -4402,20 +4310,20 @@ manje 2.5
 1.90
 više 2.5
 1.80
-+635
++636
 Spaeri
 Merani Martvili
 01.11. 15:00
 ki 1
-1.35
+1.36
 ki X
 4.10
 ki 2
-8.05
+7.70
 manje 2.5
-1.77
+1.82
 više 2.5
-1.91
+1.87
  
 Italy, Serie A Women
 +647
@@ -4458,13 +4366,13 @@ Sparta Selemet
 ki 1
 -
 ki X
-15.0
+16.25
 ki 2
-36.0
+40.0
 manje 2.5
-4.40
+5.20
 više 2.5
-1.14
+1.10
  
 Northern Ireland, NIFL Championship
 +818
@@ -4679,20 +4587,20 @@ manje 2.5
 2.08
 više 2.5
 1.63
-+642
++644
 Trefelin
 Pontypridd
 01.11. 15:00
 ki 1
-1.55
+1.52
 ki X
-3.95
+4.15
 ki 2
-4.33
+4.40
 manje 2.5
-2.27
+2.55
 više 2.5
-1.53
+1.43
 +646
 Treowen
 Llantwit Major
@@ -4847,39 +4755,39 @@ Al Ahed
 Nejmeh SC
 01.11. 15:15
 ki 1
-2.41
+2.65
 ki X
 3.10
 ki 2
-2.65
+2.47
 manje 2.5
-1.77
+1.73
 više 2.5
-1.92
+1.97
  
 Germany, Bundesliga
-+1066
++989
 Heidenheim
 Eintracht Frankfurt
 01.11. 15:30
 ki 1
-3.65
+3.60
 ki X
 4.00
 ki 2
 1.91
 manje 2.5
-2.73
+2.80
 više 2.5
-1.47
-+1066
+1.45
++1079
 Mainz
 Werder Bremen
 01.11. 15:30
 ki 1
 1.83
 ki X
-3.90
+3.85
 ki 2
 4.05
 manje 2.5
@@ -4960,20 +4868,20 @@ manje 2.5
 2.62
 više 2.5
 1.43
-+826
++824
 Presov
 Zilina
 01.11. 15:30
 ki 1
-2.47
+2.60
 ki X
-3.55
+3.50
 ki 2
-2.47
+2.40
 manje 2.5
-2.27
+2.15
 više 2.5
-1.55
+1.62
 +815
 Skalica
 Ruzomberok
@@ -5142,20 +5050,20 @@ više 2.5
 1.47
  
 Saudi Arabia, Saudi Professional League
-+825
++827
 Al Khaleej
 Al Ittihad Jeddah
 01.11. 15:35
 ki 1
-2.93
+2.90
 ki X
-3.65
+3.75
 ki 2
-2.03
+2.02
 manje 2.5
-2.30
+2.41
 više 2.5
-1.53
+1.48
  
 Russia, Premier League
 +806
@@ -5235,7 +5143,7 @@ manje 2.5
 1.95
 više 2.5
 1.87
-+1028
++1027
 Burnley
 Arsenal
 01.11. 16:00
@@ -5249,7 +5157,7 @@ manje 2.5
 2.05
 više 2.5
 1.77
-+989
++1067
 Crystal Palace
 Brentford
 01.11. 16:00
@@ -5589,6 +5497,90 @@ manje 2.5
 2.15
 više 2.5
 1.65
++823
+Reading
+Carlisle
+01.11. 16:00
+ki 1
+1.72
+ki X
+3.85
+ki 2
+4.40
+manje 2.5
+2.15
+više 2.5
+1.63
++823
+Rotherham
+Swindon
+01.11. 16:00
+ki 1
+2.20
+ki X
+3.45
+ki 2
+3.10
+manje 2.5
+2.05
+više 2.5
+1.70
++824
+Salford
+Lincoln
+01.11. 16:00
+ki 1
+2.85
+ki X
+3.35
+ki 2
+2.37
+manje 2.5
+1.95
+više 2.5
+1.77
++824
+Slough
+Altrincham
+01.11. 16:00
+ki 1
+4.25
+ki X
+4.00
+ki 2
+1.71
+manje 2.5
+2.30
+više 2.5
+1.55
++819
+Spennymoor
+Barrow
+01.11. 16:00
+ki 1
+4.33
+ki X
+3.55
+ki 2
+1.80
+manje 2.5
+1.93
+više 2.5
+1.80
++823
+Stevenage
+Chesterfield
+01.11. 16:00
+ki 1
+1.70
+ki X
+4.00
+ki 2
+4.35
+manje 2.5
+2.15
+više 2.5
+1.63
  Tiket
 TIKET
 
@@ -5624,7 +5616,7 @@ Rezultat
 Nagrada
 1.
 Miljana J.
-103,043.25
+103,612.25
 70.000,00
 2.
 Dragan P.
@@ -5647,7 +5639,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-11:23:00
+11:31:49
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
