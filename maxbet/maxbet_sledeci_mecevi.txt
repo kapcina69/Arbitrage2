@@ -33,7 +33,7 @@ Sve
   
   
 Fudbal
-1164
+1162
   
   
 Fantasy PL
@@ -41,11 +41,11 @@ Fantasy PL
   
   
 Košarka
-126
+125
   
   
 Specijal košarka
-194
+181
   
   
 Tenis
@@ -57,7 +57,7 @@ Specijal tenis
   
   
 Hokej
-66
+65
   
   
 Specijal Hokej
@@ -73,19 +73,15 @@ Specijal Rukomet
   
   
 Odbojka
-35
-  
-  
-Bejzbol
-1
+34
   
   
 Stoni Tenis
-53
+50
   
   
 Američki Fudbal
-16
+15
   
   
 Specijal Američki Fudbal
@@ -129,39 +125,13 @@ Sutra
 
 
 Opseg Vremena
-0:00
+1:00
 23:59
 Opseg Kvota
 1.11
 17
 Fudbal
 Konačan ishod
- 
-ARUBA 1
-01.11 01:00
-  
-+811
-La Fama
-Dep. Nacional
-1
-2.95
-X
-3.85
-2
-1.90
- 
-ECUADOR 1 - Placement Group
-01.11 01:00
-  
-+803
-Delfin
-Dep. Cuenca
-1
-3.65
-X
-3.25
-2
-1.98
  
 ARGENTINA 2 - Promotion - Play Offs
 01.11 01:10
@@ -184,11 +154,11 @@ Max Bonus Tip Fudbal
 Instituto
 Rosario Central
 1
-3.50
+3.60
 X
 3.10
 2
-2.50
+2.45
  
 ARGENTINA 1
 01.11 01:15
@@ -197,11 +167,11 @@ ARGENTINA 1
 Instituto
 Rosario Central
 1
-3.25
+3.35
 X
 2.90
 2
-2.38
+2.35
  
 ARGENTINA 1
 01.11 01:15
@@ -210,7 +180,7 @@ ARGENTINA 1
 Newells Old Boys
 Union de Santa Fe
 1
-3.55
+3.60
 X
 2.90
 2
@@ -219,15 +189,15 @@ X
 ARGENTINA Torneo Federal - Promotion - Play Offs
 01.11 01:15
   
-+790
++791
 Sportivo Belgrano
 Guillermo Brown
 1
-1.42
+1.36
 X
-4.05
+4.25
 2
-7.40
+8.25
  
 BOLIVIA Copa Pacena
 01.11 01:30
@@ -271,28 +241,28 @@ X
 BRAZIL 2
 01.11 01:35
   
-+802
++804
 Ferroviaria
 Criciuma
 1
-2.75
+2.65
 X
 3.00
 2
-2.50
+2.60
  
 MEXICO 1 - Women
 01.11 02:00
   
-+794
++789
 Juarez W
 Queretaro W
 1
-1.23
+1.16
 X
-5.20
+6.10
 2
-9.50
+12.5
  
 MEXICO 1
 01.11 02:00
@@ -314,11 +284,11 @@ MEXICO 2
 Correcaminos
 Zacatecas M.
 1
-4.45
+4.60
 X
-4.05
+4.15
 2
-1.63
+1.58
  
 MEXICO 2
 01.11 02:00
@@ -596,15 +566,15 @@ X
 CHINA 2
 01.11 07:30
   
-+811
++809
 Dalian Kuncheng
 Shaanxi Union
 1
-2.40
+2.15
 X
 3.20
 2
-2.65
+3.00
  
 CHINA 2
 01.11 07:30
@@ -908,15 +878,15 @@ X
 ROMANIA 2
 01.11 10:00
   
-+805
++804
 Tunari
 CSM Resita
 1
-3.50
+3.75
 X
-3.35
+3.45
 2
-1.98
+1.88
  
 CZECH REP.3 - CFL - A
 01.11 10:15
@@ -1094,11 +1064,11 @@ ROMANIA 2
 Afumati
 FC ASA Tg. Mures
 1
-2.65
+2.50
 X
-3.30
+3.35
 2
-2.45
+2.55
  
 SPAIN 4 - Group 2
 01.11 11:30
@@ -1220,15 +1190,15 @@ X
 SPAIN Tercera RFEF - Group 16
 01.11 12:00
   
-+794
++796
 Agoncillo
 UD Logrones B
 1
-8.25
+7.60
 X
-4.75
+4.55
 2
-1.28
+1.32
  
 THAILAND 1
 01.11 12:00
@@ -3430,20 +3400,20 @@ X
 GERMANY 1
 01.11 15:30
   
-+818
++856
 RB Leipzig
 Stuttgart
 1
-2.00
+2.05
 X
 4.00
 2
-3.40
+3.35
  
 GERMANY 1
 01.11 15:30
   
-+810
++845
 St. Pauli
 B.M'Gladbach
 1
@@ -3451,7 +3421,7 @@ B.M'Gladbach
 X
 3.35
 2
-3.35
+3.30
  
 GERMANY 1
 01.11 15:30
@@ -3638,20 +3608,20 @@ X
 ENGLAND 1
 01.11 16:00
   
-+807
++842
 Brighton
 Leeds
 1
-1.95
+1.98
 X
-3.65
+3.60
 2
-3.95
+3.85
  
 ENGLAND 1
 01.11 16:00
   
-+789
++827
 Burnley
 Arsenal
 1
@@ -3690,7 +3660,7 @@ X
 ENGLAND 1
 01.11 16:00
   
-+810
++845
 Nottingham
 Man.Utd
 1
@@ -3716,15 +3686,15 @@ X
 BELGIUM 1
 01.11 16:00
   
-+814
++812
 Waregem
 St.Gilloise
 1
-5.00
+5.25
 X
-4.10
+4.15
 2
-1.63
+1.60
  
 BELGIUM 2
 01.11 16:00
@@ -5334,7 +5304,7 @@ Airdieonians
 1
 1.23
 X
-5.30
+5.35
 2
 11.0
  
@@ -5796,15 +5766,15 @@ X
 NETHERLANDS 2
 01.11 16:30
   
-+811
++812
 Roda
 Jong Utrecht
 1
-1.55
+1.53
 X
-4.30
+4.35
 2
-4.65
+4.85
  
 PORTUGAL 1
 01.11 16:30
@@ -5874,7 +5844,7 @@ X
 FRANCE 1
 01.11 17:00
   
-+843
++805
 PSG
 Nice
 1
@@ -6550,15 +6520,15 @@ X
 SPAIN 4 - Group 2
 01.11 18:00
   
-+794
++799
 Tudelano
 SD Logrones
 1
-2.55
+2.50
 X
-2.95
+2.90
 2
-2.65
+2.75
  
 SPAIN Tercera RFEF - Group 1
 01.11 18:00
@@ -6810,7 +6780,7 @@ X
 SPAIN 1
 01.11 18:30
   
-+795
++827
 R.Sociedad
 Ath Bilbao
 1
@@ -7816,7 +7786,7 @@ Promeni temu  
 VIP KLUB
 REZULTATI
 STATUS TIKETA
-0:56:35
+1:05:24
 NAČIN UPLATE DEPOZITA
 UPLATNA MESTA
 PRAVILA IGRE
