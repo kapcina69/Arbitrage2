@@ -36,7 +36,7 @@ Sve
   
   
 FUDBAL
-1314
+1129
   
   
 DNEVNI SPECIJAL
@@ -44,39 +44,43 @@ DNEVNI SPECIJAL
   
   
 GOLOVI PO LIGAMA
-105
+90
   
   
 KOŠARKA
-217
+234
   
   
 SP. KOŠARKA
-352
+346
   
   
 TENIS
-79
+78
   
   
 RUKOMET
-77
+73
   
   
 SP. RUKOMET
-28
+20
   
   
 ODBOJKA
-110
+124
   
   
 HOKEJ
-206
+186
   
   
 AM.FUDBAL
 40
+  
+  
+BEJZBOL
+1
   
   
 RAGBI UNIJA
@@ -84,15 +88,15 @@ RAGBI UNIJA
   
   
 STONI TENIS
-135
+264
   
   
 VATERPOLO
-5
+4
   
   
 FUTSAL
-24
+20
   
   
 BADMINTON
@@ -116,7 +120,7 @@ FORMULA 1
   
   
 KONJSKE TRKE
-162
+151
   
   
 ESPORT
@@ -124,7 +128,7 @@ ESPORT
   
   
 SP. FUDBAL
-2898
+2694
   
   
 VIR. FUDBAL
@@ -132,7 +136,7 @@ VIR. FUDBAL
   
   
 OUTRIGHT
-486
+451
 
 This is a modal window.
 
@@ -146,431 +150,480 @@ Top
 Specijali
 KONAČAN ISHOD
  
-England, Premier League
-+1071
-Brighton
-Leeds
-01.11. 16:00
-ki 1
-1.91
-ki X
-3.65
-ki 2
-3.95
-manje 2.5
-1.97
-više 2.5
-1.83
-+1038
-Burnley
-Arsenal
-01.11. 16:00
-ki 1
-15.0
-ki X
-5.45
-ki 2
-1.25
-manje 2.5
-1.91
-više 2.5
-1.90
-+992
-Crystal Palace
-Brentford
-01.11. 16:00
-ki 1
-2.15
-ki X
-3.40
-ki 2
-3.40
-manje 2.5
-1.97
-više 2.5
-1.85
-+987
-Fulham
-Wolves
-01.11. 16:00
-ki 1
-1.81
-ki X
-3.55
-ki 2
-4.60
-manje 2.5
-1.95
-više 2.5
-1.87
-+1075
-Nottingham
-Manchester Utd
-01.11. 16:00
-ki 1
-3.20
-ki X
-3.60
-ki 2
-2.15
-manje 2.5
-2.22
-više 2.5
-1.67
- 
-Serbia, Super Liga
-+806
-Javor
-Sp. Subotica
-01.11. 16:00
-ki 1
-1.92
-ki X
-3.10
-ki 2
-4.05
-manje 2.5
-1.50
-više 2.5
-2.45
- 
-England, FA Cup
-+822
-AFC Wimbledon
-Gateshead
-01.11. 16:00
+Spain, LaLiga
++984
+Atl. Madrid
+Sevilla
+01.11. 16:15
 ki 1
 1.37
 ki X
-5.10
+4.85
 ki 2
-7.00
+8.75
 manje 2.5
-2.57
-više 2.5
-1.45
-+829
-Barnsley
-York
-01.11. 16:00
-ki 1
-1.83
-ki X
-3.95
-ki 2
-3.65
-manje 2.5
-2.62
-više 2.5
-1.45
-+819
-Blackpool
-Scunthorpe
-01.11. 16:00
-ki 1
-1.75
-ki X
-3.60
-ki 2
-4.50
-manje 2.5
-1.97
-više 2.5
-1.77
-+822
-Bolton
-Huddersfield
-01.11. 16:00
-ki 1
-2.10
-ki X
-3.40
-ki 2
-3.30
-manje 2.5
-1.93
-više 2.5
-1.77
-+824
-Boreham Wood
-Crawley
-01.11. 16:00
-ki 1
-2.57
-ki X
-3.60
-ki 2
-2.47
-manje 2.5
-2.22
-više 2.5
-1.60
-+818
-Bromley
-Bristol Rovers
-01.11. 16:00
-ki 1
-1.75
-ki X
-3.60
-ki 2
-4.50
-manje 2.5
-1.87
-više 2.5
-1.85
-+813
-Burton
-St. Albans
-01.11. 16:00
-ki 1
-1.29
-ki X
-5.45
-ki 2
-9.00
-manje 2.5
-2.45
-više 2.5
-1.50
-+824
-Buxton
-Chatham Town
-01.11. 16:00
-ki 1
-1.90
-ki X
-3.80
-ki 2
-3.55
-manje 2.5
-2.10
-više 2.5
-1.67
-+815
-Cambridge Utd
-Chester
-01.11. 16:00
-ki 1
-1.36
-ki X
-4.90
-ki 2
-7.50
-manje 2.5
-2.30
-više 2.5
-1.55
-+821
-Cheltenham
-Bradford
-01.11. 16:00
-ki 1
-4.55
-ki X
-3.60
-ki 2
-1.75
-manje 2.5
-2.00
-više 2.5
-1.75
-+823
-Colchester
-MK Dons
-01.11. 16:00
-ki 1
-2.35
-ki X
-3.40
-ki 2
-2.90
-manje 2.5
-2.02
-više 2.5
-1.72
-+821
-Crewe
-Doncaster
-01.11. 16:00
-ki 1
-3.25
-ki X
-3.40
-ki 2
-2.12
-manje 2.5
-2.03
-više 2.5
-1.72
-+822
-FC Halifax
-Exeter
-01.11. 16:00
-ki 1
-3.45
-ki X
-3.55
-ki 2
-2.00
-manje 2.5
-1.95
-više 2.5
-1.77
-+822
-Fleetwood
-Barnet
-01.11. 16:00
-ki 1
-3.30
-ki X
-3.30
-ki 2
 2.15
-manje 2.5
-1.95
 više 2.5
-1.77
-+815
-Grimsby
-Ebbsfleet
-01.11. 16:00
+1.71
+ 
+Spain, LaLiga2
++927
+Cultural Leonesa
+Mirandes
+01.11. 16:15
 ki 1
-1.38
+1.88
 ki X
-4.75
+3.45
 ki 2
-7.50
+4.05
 manje 2.5
-2.30
+1.72
 više 2.5
-1.57
-+822
-Macclesfield
-AFC Totton
-01.11. 16:00
+2.02
+ 
+Belarus, Vysshaya Liga
++810
+ML Vitebsk
+Isloch
+01.11. 16:15
 ki 1
 1.87
-ki X
-3.65
-ki 2
-3.85
-manje 2.5
-2.07
-više 2.5
-1.70
-+819
-Mansfield
-Harrogate
-01.11. 16:00
-ki 1
-1.42
-ki X
-4.60
-ki 2
-6.60
-manje 2.5
-2.30
-više 2.5
-1.55
-+817
-Newport Co
-Gillingham
-01.11. 16:00
-ki 1
-3.25
-ki X
-3.20
-ki 2
-2.22
-manje 2.5
-1.75
-više 2.5
-2.00
-+815
-Oldham
-Northampton
-01.11. 16:00
-ki 1
-2.50
 ki X
 3.10
 ki 2
-2.90
+4.33
 manje 2.5
-1.62
+1.60
 više 2.5
-2.15
-+824
-Peterborough
-Cardiff
-01.11. 16:00
+2.20
+ 
+Spain, Primera RFEF - Group 2
++640
+Eldense
+Algeciras
+01.11. 16:15
+ki 1
+1.87
+ki X
+3.15
+ki 2
+3.90
+manje 2.5
+1.52
+više 2.5
+2.35
+ 
+Spain, Tercera RFEF - Group 8
++633
+Mansilles
+La Virgen
+01.11. 16:15
+ki 1
+2.55
+ki X
+2.75
+ki 2
+2.67
+manje 2.5
+1.40
+više 2.5
+2.57
++638
+Numancia B
+Bembibre
+01.11. 16:15
+ki 1
+2.27
+ki X
+2.83
+ki 2
+3.00
+manje 2.5
+1.47
+više 2.5
+2.37
+ 
+Netherlands, Eredivisie
++938
+Ajax
+Heerenveen
+01.11. 16:30
+ki 1
+1.53
+ki X
+4.70
+ki 2
+5.10
+manje 2.5
+2.80
+više 2.5
+1.38
+ 
+Portugal, Liga Portugal
++934
+Nacional
+Famalicao
+01.11. 16:30
 ki 1
 3.05
 ki X
-3.55
+3.25
 ki 2
-2.15
+2.30
 manje 2.5
-2.15
-više 2.5
-1.65
-+820
-Reading
-Carlisle
-01.11. 16:00
-ki 1
-1.55
-ki X
-4.25
-ki 2
-5.25
-manje 2.5
-2.25
-više 2.5
-1.57
-+824
-Rotherham
-Swindon
-01.11. 16:00
-ki 1
-2.37
-ki X
-3.40
-ki 2
-2.80
-manje 2.5
-2.07
-više 2.5
-1.70
-+823
-Salford
-Lincoln
-01.11. 16:00
-ki 1
-3.00
-ki X
-3.35
-ki 2
-2.27
-manje 2.5
-1.97
-više 2.5
 1.77
-+824
-Slough
-Altrincham
-01.11. 16:00
+više 2.5
+1.95
+ 
+Romania, Superliga
++806
+Unirea Slobozia
+FC Arges
+01.11. 16:30
 ki 1
-4.15
+3.45
+ki X
+2.93
+ki 2
+2.20
+manje 2.5
+1.47
+više 2.5
+2.50
+ 
+Netherlands, Eerste Divisie
++827
+Roda
+Jong Utrecht
+01.11. 16:30
+ki 1
+1.53
+ki X
+4.20
+ki 2
+4.95
+manje 2.5
+2.55
+više 2.5
+1.45
+ 
+Austria, Regionalliga East
++638
+Leobendorf
+Sportunion Mauer
+01.11. 16:30
+ki 1
+1.50
 ki X
 3.95
 ki 2
-1.75
+5.25
+manje 2.5
+2.10
+više 2.5
+1.60
+ 
+Bulgaria, Parva Liga
++818
+Septemvri Sofia
+Slavia Sofia
+01.11. 16:30
+ki 1
+3.30
+ki X
+3.25
+ki 2
+2.10
+manje 2.5
+1.82
+više 2.5
+1.88
+ 
+Germany, 3. Liga
++827
+Hansa Rostock
+Verl
+01.11. 16:30
+ki 1
+1.92
+ki X
+3.80
+ki 2
+3.45
+manje 2.5
+2.35
+više 2.5
+1.55
+ 
+Ghana, Premier League
++82
+Hohoe United
+Medeama
+01.11. 16:30
+ki 1
+2.50
+ki X
+2.75
+ki 2
+2.88
+manje 2.5
+1.38
+više 2.5
+2.77
+ 
+Israel, Ligat ha'Al
++814
+Hapoel Tel Aviv
+Ironi Tiberias
+01.11. 16:30
+ki 1
+1.38
+ki X
+4.55
+ki 2
+7.00
+manje 2.5
+2.22
+više 2.5
+1.57
+ 
+Jordan, Premier League
++807
+Al Ramtha
+Al Wehdat
+01.11. 16:30
+ki 1
+3.45
+ki X
+2.85
+ki 2
+2.22
+manje 2.5
+1.45
+više 2.5
+2.55
+ 
+Malta, Challenge League
++645
+Marsa FC
+Sirens
+01.11. 16:30
+ki 1
+2.12
+ki X
+3.50
+ki 2
+2.85
+manje 2.5
+2.08
+više 2.5
+1.65
++647
+Melita
+Gudja
+01.11. 16:30
+ki 1
+1.73
+ki X
+3.95
+ki 2
+3.55
+manje 2.5
+2.25
+više 2.5
+1.55
+ 
++3 
+Montenegro, Prva Crnogorska Liga
++813
+Mornar Bar
+Jedinstvo
+01.11. 16:30
+ki 1
+1.87
+ki X
+3.20
+ki 2
+3.85
+manje 2.5
+1.63
+više 2.5
+2.10
+ 
+Portugal, Liga 3
++640
+Braga B
+AD Fafe
+01.11. 16:30
+ki 1
+2.67
+ki X
+2.95
+ki 2
+2.55
+manje 2.5
+1.57
+više 2.5
+2.20
+ 
+Spain, Segunda RFEF - Group 1
++641
+UD Ourense
+Dep. Fabril
+01.11. 16:30
+ki 1
+3.35
+ki X
+2.97
+ki 2
+2.12
+manje 2.5
+1.52
+više 2.5
+2.27
+ 
+Spain, Tercera RFEF - Group 13
++639
+EF Santa Cruz
+EG El Palmar CF
+01.11. 16:30
+ki 1
+1.71
+ki X
+3.30
+ki 2
+4.15
+manje 2.5
+1.82
+više 2.5
+1.81
+ 
+Spain, Tercera RFEF - Group 14
++630
+Llerenense
+Pueblonuevo
+01.11. 16:30
+ki 1
+1.23
+ki X
+4.75
+ki 2
+9.50
+manje 2.5
+2.03
+više 2.5
+1.63
+ 
+Spain, Tercera RFEF - Group 15
++635
+Bidezarra
+AD San Juan
+01.11. 16:30
+ki 1
+3.95
+ki X
+3.03
+ki 2
+1.83
+manje 2.5
+1.50
+više 2.5
+2.30
++642
+Oberena
+Ezcabarte
+01.11. 16:30
+ki 1
+2.10
+ki X
+3.03
+ki 2
+3.15
+manje 2.5
+1.67
+više 2.5
+2.00
+ 
+Spain, Tercera RFEF - Group 18
++635
+Azuqueca
+Villacanas
+01.11. 16:30
+ki 1
+2.20
+ki X
+2.80
+ki 2
+3.15
+manje 2.5
+1.43
+više 2.5
+2.47
+ 
+Spain, Youth League
++82
+Real Valladolid U19
+Trival Valderas U19
+01.11. 16:30
+ki 1
+1.52
+ki X
+3.90
+ki 2
+4.60
 manje 2.5
 2.30
 više 2.5
-1.55
+1.48
+ 
+United Arab Emirates, UAE League
++817
+Al Jazira Abu Dhabi
+Al Bataeh
+01.11. 16:45
+ki 1
+1.31
+ki X
+4.80
+ki 2
+7.20
+manje 2.5
+2.50
+više 2.5
+1.45
+ 
+France, Ligue 1
++1061
+Paris SG
+Nice
+01.11. 17:00
+ki 1
+1.20
+ki X
+6.80
+ki 2
+14.0
+manje 2.5
+3.20
+više 2.5
+1.35
+ 
+Austria, Bundesliga
++930
+BW Linz
+LASK
+01.11. 17:00
+ki 1
+3.40
+ki X
+3.30
+ki 2
+2.20
+manje 2.5
+1.80
+više 2.5
+2.00
  Tiket
 TIKET
 
@@ -606,7 +659,7 @@ Rezultat
 Nagrada
 1.
 Miljana J.
-110,187.75
+110,555.50
 70.000,00
 2.
 Dragan P.
@@ -622,14 +675,14 @@ Danijela D.
 8.000,00
 5.
 Nina T.
-12,470.89
+12,532.39
 5.000,00
 Pravila igre
 Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-16:00:11
+16:09:56
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
