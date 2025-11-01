@@ -1,22 +1,42 @@
-14:00   01.11.   [Češka 3 MSFL]
-Vsetin  vs  Hlucin
+14:00   01.11.   [Danska 2]
+Hillerod  vs  Kolding
 
-- BalkanBet  1=2.4  |  X=3.75  |  2=2.35  |  0-2=2.2  |  2+=1.17  |  3+=1.53  |  GG=1.38  |  IGG=3.2  |  GG&3+=1.65  |  GG&4+=2.65  |  4+=2.35
-- BetOle     1=2.35  |  X=3.4  |  2=2.45  |  0-2=2.22  |  3+=1.53
-- Brazil_d   1=2.7  |  X=3.4  |  2=2.18  |  0-2=2.25  |  2+=1.13  |  3+=1.51
-- MaxBet     1=2.75  |  X=3.55  |  2=2.15
-- OktagonBet 1=2.7  |  X=3.45  |  2=2.15  |  0-2=2.25  |  3+=1.51  |  GG=1.46  |  GG&3+=1.76  |  4+=2.38
-- Soccer     1=2.42  |  X=3.6  |  2=2.4  |  0-2=2.25  |  2+=1.17  |  3+=1.58  |  GG=1.52  |  IGG=3.55  |  GG&3+=1.75
-- Topbet     1=2.15  |  X=3.65  |  2=2.8
+- BalkanBet  1=2.5  |  X=3.55  |  2=2.5  |  0-2=1.87  |  2+=1.28  |  3+=1.83  |  GG=1.65  |  IGG=4.25  |  GG&3+=2.1  |  GG&4+=3.5  |  4+=3.1
+- Brazil_d   1=2.55  |  X=3.25  |  2=2.55  |  0-2=1.93  |  2+=1.24  |  3+=1.79
+- MaxBet     1=2.55  |  X=3.30  |  2=2.55
+- Mozzart    1=2.6  |  X=3.25  |  2=2.55  |  0-2=1.9  |  2+=1.27  |  3+=1.8
+- OktagonBet 1=2.55  |  X=3.3  |  2=2.55  |  0-2=1.93  |  3+=1.77  |  GG=1.64  |  GG&3+=2.1  |  4+=3.05
+- Soccer     1=2.5  |  X=3.5  |  2=2.5  |  0-2=1.85  |  2+=1.27  |  3+=1.85  |  GG=1.7  |  IGG=4.25  |  GG&3+=2.07
+- Topbet     1=2  |  X=3.5  |  2=3
 
-Najveća 1  : 2.75  [MaxBet]
+Najveća 1  : 2.60  [Mozzart]
+Najveća X  : 3.55  [BalkanBet]
+Najveća 2  : 3.00  [Topbet]
+Najveća 0-2: 1.93  [Brazil_d, OktagonBet]
+Najveća 3+ : 1.85  [Soccer]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9996   profit≈0.04%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0587   profit≈-5.87%
+
+14:00   01.11.   [Danska 4]
+Vejgaard  vs  Frem
+
+- BalkanBet  1=2.9  |  X=3.75  |  2=2  |  0-2=1.9  |  2+=1.28  |  3+=1.8  |  GG=1.6  |  IGG=4.35  |  GG&3+=1.95  |  GG&4+=3.4  |  4+=3
+- Brazil_d   1=3.25  |  X=3.3  |  2=2  |  0-2=1.93  |  2+=1.23  |  3+=1.77
+- MaxBet     1=3.25  |  X=3.35  |  2=1.98
+- Mozzart    1=2.8  |  X=3.25  |  2=2.4  |  0-2=1.85  |  2+=1.28  |  3+=1.85
+- OktagonBet 1=3.25  |  X=3.35  |  2=1.99  |  0-2=1.93  |  3+=1.75  |  GG=1.66  |  GG&3+=2.12  |  4+=3
+- Soccer     1=2.95  |  X=3.25  |  2=2.17  |  0-2=1.83  |  2+=1.28  |  3+=1.87  |  GG=1.7  |  IGG=4.35  |  GG&3+=2.1
+- Topbet     1=2.9  |  X=3.2  |  2=2.25
+
+Najveća 1  : 3.25  [Brazil_d, MaxBet, OktagonBet]
 Najveća X  : 3.75  [BalkanBet]
-Najveća 2  : 2.80  [Topbet]
-Najveća 0-2: 2.25  [Brazil_d, OktagonBet, Soccer]
-Najveća 3+ : 1.58  [Soccer]
+Najveća 2  : 2.40  [Mozzart]
+Najveća 0-2: 1.93  [Brazil_d, OktagonBet]
+Najveća 3+ : 1.87  [Soccer]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9874   profit≈1.26%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0774   profit≈-7.74%
+Arbitraža (1-X-2): DA   inv_sum=0.9910   profit≈0.90%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0529   profit≈-5.29%
 
 15:00   01.11.   [Srbija U19]
 U19 Usce N. Beog.  vs  U19 Partizan
@@ -75,20 +95,19 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0502   profit≈-5.02%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1494
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1095
-Grupa sa veličinom ≥3: 736
-Grupa sa veličinom ≥4: 444
+Ukupno mečeva (grupa): 1493
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1097
+Grupa sa veličinom ≥3: 727
+Grupa sa veličinom ≥4: 447
 Grupa sa veličinom ≥5: 292
-Grupa sa veličinom ≥6: 178
-Grupa sa veličinom ≥7: 122
+Grupa sa veličinom ≥6: 177
+Grupa sa veličinom ≥7: 111
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa: 1125   spojeno (u grupama >1):  972
-  - BetOle     ukupno zapisa:   24   spojeno (u grupama >1):   24
-  - Brazil_d   ukupno zapisa:  316   spojeno (u grupama >1):  313
+  - BalkanBet  ukupno zapisa: 1125   spojeno (u grupama >1):  976
+  - Brazil_d   ukupno zapisa:  315   spojeno (u grupama >1):  312
   - Brazil_p   ukupno zapisa:   70   spojeno (u grupama >1):   53
-  - Brazil_s   ukupno zapisa:  134   spojeno (u grupama >1):  132
+  - Brazil_s   ukupno zapisa:  134   spojeno (u grupama >1):  131
   - MaxBet     ukupno zapisa:  283   spojeno (u grupama >1):  278
   - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  374
   - OktagonBet ukupno zapisa: 1037   spojeno (u grupama >1):  887
@@ -96,6 +115,6 @@ Po kladionici:
   - Topbet     ukupno zapisa:  626   spojeno (u grupama >1):  590
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 2
+  - 1-X-2: 3
   - 0-2 / 3+: 2
-  - Barem jedna arbitraža: 4
+  - Barem jedna arbitraža: 5

@@ -541,8 +541,8 @@ Nantes - Metz
 17:15
 Lille - Angers
 1.30
-5.50
-11.50
+5.55
+12.00
 +53
 17:15
 Lens - Lorient
@@ -661,8 +661,8 @@ Verona - Inter
 15:00
 Fiorentina - Lecce
 1.62
-3.75
-6.10
+3.85
+5.80
 +53
 15:00
 Torino - Pisa
@@ -708,9 +708,9 @@ X
 2
 14:00
 Villarreal - Rayo Vallecano
-1.70
-3.90
-4.90
+1.72
+4.05
+4.50
 +58
 16:15
 Atletico M. - Sevilla
@@ -980,9 +980,9 @@ Halifax - Exeter
 +41
 16:00
 Fleetwood - Barnet
-3.24
+3.13
 3.30
-2.15
+2.20
 +41
 16:00
 Grimsby - Ebbsfleet
@@ -1242,9 +1242,9 @@ Aldosivi - Independiente Rivadavia
 +9
 20:00
 Barracas Central - Argentinos J.
-2.90
-2.90
-2.40
+3.00
+2.85
+2.35
 +37
 21:00
 Velez - Talleres C.
@@ -1536,9 +1536,9 @@ X
 2
 14:00
 Sv Gloggnitz - SC Retz
-1.35
+1.32
 4.95
-6.90
+7.70
 +39
 16:30
 Leobendorf - Union AC Mauer
@@ -1638,9 +1638,9 @@ X
 2
 16:00
 (R) Gent - Eupen
-2.80
-3.35
-2.35
+2.70
+3.25
+2.50
 +41
 20:00
 Charleroi Chatelet Farciennes - RFC Liege
@@ -1688,13 +1688,13 @@ X
 Slavia Mozyr - Naftan Novopolotsk
 1.42
 4.40
-6.25
+6.10
 +41
 16:15
 Maxline Rogachev - Isloch
-1.85
-3.35
-3.80
+1.80
+3.40
+3.90
 +41
 NED. 02.11.
 1
@@ -1848,7 +1848,7 @@ X
 Cruzeiro MG - Vitoria BA
 1.42
 4.30
-6.50
+6.70
 +41
 20:00
 Santos - Fortaleza CE
@@ -2032,9 +2032,9 @@ X
 2
 13:30
 FK Sevlievo - Dunav
-6.00
+5.70
 3.65
-1.55
+1.52
 +39
 13:30
 Marek Dupnica - Pirin
@@ -2186,15 +2186,15 @@ X
 2
 14:00
 Kladno - Pisek
-1.25
-5.45
-9.20
+1.23
+5.90
+10.00
 +35
 14:00
 Banik Sous - Kolin
-1.70
-3.75
-3.90
+1.68
+3.80
+4.10
 +35
 14:00
 Velvary - Hradec B
@@ -2282,9 +2282,9 @@ Blansko - Trinec
 +33
 14:30
 Vitkovice - Hodonin
-3.60
+3.70
 3.85
-1.75
+1.72
 +33
 NED. 02.11.
 1
@@ -2486,21 +2486,21 @@ X
 2
 14:00
 Aarhus - Hvidovre
-2.30
-3.35
-2.80
+2.35
+3.45
+2.70
 +37
 14:00
 Hillerod - Kolding
-2.65
-3.25
-2.50
+2.00
+3.50
+3.00
 +37
 14:00
 Middelfart - Aalborg
-3.60
-3.75
-1.80
+3.70
+3.70
+1.78
 +37
 NED. 02.11.
 1
@@ -2535,7 +2535,7 @@ Brabrand - HIK Hellerup
 14:00
 Roskilde - Thisted
 1.55
-3.95
+4.00
 5.00
 +36
 14:00
@@ -2884,7 +2884,7 @@ Dag & Red - Farnborough
 Enfield - Eastbourne
 2.80
 3.45
-2.25
+2.30
 +40
 16:00
 Torquay - AFC Hornchurch
@@ -3234,9 +3234,9 @@ Halesowen Town - Needham Market
 +39
 16:00
 Kettering Town - St Ives
-1.75
-3.85
-3.60
+1.72
+3.75
+3.80
 +39
 16:00
 Royston - Harborough Town Fc
@@ -3638,7 +3638,7 @@ X
 Comunicaciones - Achuapa
 1.48
 4.00
-6.20
+6.00
 +39
 02:00
 Malacateco - CD Marquense
@@ -3880,9 +3880,9 @@ X
 2
 14:00
 BSK Bijelo Brdo - Sesvete
-2.25
+2.15
 2.95
-3.10
+3.30
 +39
 NED. 02.11.
 1
@@ -3993,8 +3993,8 @@ Entella - Empoli
 19:30
 Palermo - Pescara
 1.42
-4.50
-6.20
+4.45
+6.10
 +52
 NED. 02.11.
 1
@@ -4116,15 +4116,15 @@ X
 2
 14:30
 Pineto - Pianese
-1.78
+1.75
 3.35
-4.00
+4.20
 +40
 14:30
 Arezzo - Citta Di Campobasso
-1.42
-4.15
-6.90
+1.45
+4.05
+6.30
 +40
 17:30
 Rimini - Bra
@@ -4286,9 +4286,9 @@ X
 2
 11:00
 SS Lazio U20 - AC Milan U20
-3.20
-3.30
-2.05
+2.90
+3.25
+2.20
 +36
 11:00
 US Lecce U20 - US Cremonese U20
@@ -4344,8 +4344,8 @@ X
 +39
 18:00
 (W) Como - (W) Genoa CFC
-1.62
-4.00
+1.60
+4.15
 4.30
 +39
 NED. 02.11.
@@ -4374,9 +4374,9 @@ X
 2
 14:00
 Mac. Haifa - Hapoel Jerusalem
-1.32
-5.30
-6.60
+1.30
+5.35
+7.90
 +41
 16:30
 Hap. Tel Aviv - Ironi Tiberias
@@ -4600,9 +4600,9 @@ X
 2
 14:30
 Mamelodi - Orlando Pirates
-2.10
-2.90
-3.60
+2.15
+2.85
+3.50
 +37
 14:30
 Orbit College FC - Magesi FC
@@ -4728,8 +4728,8 @@ X
 2
 08:30
 Qingdao Jonoon - Wuhan Three Towns FC
-1.70
-3.95
+1.68
+4.10
 3.80
 +41
 12:35
@@ -4880,9 +4880,9 @@ Al Fehaheel - Kazma
 +36
 17:45
 Al Shabab (KW) - Al Salmiyah
-5.20
-3.95
-1.55
+4.90
+3.85
+1.58
 +36
 Letonija 1
 KONAČAN ISHOD
@@ -4894,9 +4894,9 @@ X
 2
 12:00
 Super Nova - RFS
-11.60
-7.00
-1.18
+10.00
+6.50
+1.20
 +40
 12:00
 Auda - Tukums
