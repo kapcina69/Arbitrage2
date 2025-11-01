@@ -36,7 +36,7 @@ Sve
   
   
 FUDBAL
-1655
+1690
   
   
 DNEVNI SPECIJAL
@@ -56,7 +56,7 @@ SP. KOŠARKA
   
   
 TENIS
-63
+62
   
   
 RUKOMET
@@ -80,7 +80,7 @@ RAGBI UNIJA
   
   
 STONI TENIS
-201
+198
   
   
 VATERPOLO
@@ -112,15 +112,15 @@ FORMULA 1
   
   
 ESPORT
-22
+21
   
   
 SP. FUDBAL
-3183
+3184
   
   
 VIR. FUDBAL
-81
+80
   
   
 VIR. TENIS
@@ -142,153 +142,21 @@ Top
 Specijali
 KONAČAN ISHOD
  
-Indonesia, Super League
-+811
-FC Bhayangkara
-Persita
-01.11. 09:30
-ki 1
-2.20
-ki X
-2.97
-ki 2
-3.15
-manje 2.5
-1.57
-više 2.5
-2.22
- 
-Thailand, Thai League 3
-+82
-Assumption United
-Raj Pracha
-01.11. 09:30
-ki 1
-3.15
-ki X
-3.20
-ki 2
-2.07
-manje 2.5
-1.80
-više 2.5
-1.83
-+82
-Fleet FC
-Chachoengsao
-01.11. 09:30
-ki 1
-1.82
-ki X
-3.20
-ki 2
-4.05
-manje 2.5
-1.61
-više 2.5
-2.08
-+82
-Futera United
-Singburi Warriors
-01.11. 09:30
-ki 1
-2.15
-ki X
-3.85
-ki 2
-2.60
-manje 2.5
-2.55
-više 2.5
-1.41
-+83
-Nakon Sawan See Khwae City
-Kamphaeng Phet
-01.11. 09:30
-ki 1
-2.60
-ki X
-3.00
-ki 2
-2.55
-manje 2.5
-1.61
-više 2.5
-2.08
-+82
-Pathum Thani Univ.
-Chamchuri Utd
-01.11. 09:30
-ki 1
-2.35
-ki X
-3.20
-ki 2
-2.73
-manje 2.5
-1.82
-više 2.5
-1.82
-+82
-Yasothon FC
-Udon United
-01.11. 09:30
-ki 1
-4.30
-ki X
-3.20
-ki 2
-1.77
-manje 2.5
-1.63
-više 2.5
-2.05
- 
-Indonesia, Championship
-+640
-Adhyaksa
-PSPS Riau
-01.11. 09:30
-ki 1
-1.60
-ki X
-3.55
-ki 2
-5.45
-manje 2.5
-1.72
-više 2.5
-2.00
-+645
-Persiku Kudus
-Tornado FC Pekanbaru
-01.11. 09:30
-ki 1
-3.55
-ki X
-3.45
-ki 2
-1.93
-manje 2.5
-1.88
-više 2.5
-1.82
- 
 Australia, A-League
-+826
++829
 Macarthur FC
 WS Wanderers
 01.11. 09:35
 ki 1
 2.50
 ki X
-3.65
+3.75
 ki 2
-2.50
+2.47
 manje 2.5
-2.35
+2.50
 više 2.5
-1.53
+1.48
  
 Czech Republic, U19 League
 +82
@@ -310,15 +178,45 @@ Ostrava U19
 Slovacko U19
 01.11. 10:00
 ki 1
-1.41
+1.50
 ki X
-4.50
+4.33
 ki 2
-5.10
+4.40
 manje 2.5
-2.80
+2.88
 više 2.5
-1.33
+1.32
++82
+Mlada Boleslav U19
+Slovan Liberec U19
+01.11. 10:00
+ki 1
+1.57
+ki X
+4.25
+ki 2
+3.95
+manje 2.5
+2.73
+više 2.5
+1.36
+ 
+Myanmar, National League
+Thitsar Arman
+Yarmanya United
+01.11. 10:00
+ 
+ki 1
+1.02
+ki X
+11.5
+ki 2
+23.0
+manje 2.5
+5.70
+više 2.5
+1.09
  
 Romania, Liga 2
 +642
@@ -349,16 +247,16 @@ manje 2.5
 1.85
 više 2.5
 1.82
-+645
++643
 FC Bacau
 Selimbar
 01.11. 10:00
 ki 1
-1.95
+1.83
 ki X
-3.30
+3.40
 ki 2
-3.35
+3.70
 manje 2.5
 1.83
 više 2.5
@@ -396,15 +294,15 @@ Tunari
 CSM Resita
 01.11. 10:00
 ki 1
-3.70
+3.75
 ki X
-3.35
+3.40
 ki 2
-1.85
+1.82
 manje 2.5
-1.85
+1.90
 više 2.5
-1.83
+1.80
  
 Spain, Youth League
 +81
@@ -428,15 +326,15 @@ Aritma Prague
 Ceske Budejovice B
 01.11. 10:15
 ki 1
-2.73
+2.30
 ki X
-3.45
+3.40
 ki 2
-2.12
+2.47
 manje 2.5
-2.27
+2.25
 više 2.5
-1.51
+1.52
 +645
 Petrin Plzen
 Motorlet Prague
@@ -552,15 +450,15 @@ Sigma Olomouc U19
 Zlin U19
 01.11. 11:00
 ki 1
-1.55
+1.45
 ki X
-4.00
+4.20
 ki 2
-4.25
+4.95
 manje 2.5
-2.57
+2.65
 više 2.5
-1.40
+1.38
 +82
 Hradec Kralove U19
 Brno U19
@@ -580,15 +478,123 @@ Jihlava U19
 Sparta Prague U19
 01.11. 11:00
 ki 1
-6.75
+6.10
 ki X
-4.55
+4.25
 ki 2
-1.32
+1.37
 manje 2.5
-2.40
+2.25
+više 2.5
+1.52
+ 
+Czech Republic, 3. CFL - Group B
++645
+Teplice B
+Mlada Boleslav B
+01.11. 11:00
+ki 1
+2.12
+ki X
+3.40
+ki 2
+2.75
+manje 2.5
+1.87
+više 2.5
+1.75
+ 
+France, League U19
++82
+Monaco U19
+Toulouse U19
+01.11. 11:00
+ki 1
+1.63
+ki X
+3.85
+ki 2
+3.90
+manje 2.5
+2.47
+više 2.5
+1.42
+ 
+Netherlands, Tweede Divisie
++642
+Hoek
+ACV Assen
+01.11. 11:00
+ki 1
+1.37
+ki X
+4.65
+ki 2
+6.00
+manje 2.5
+2.50
 više 2.5
 1.45
+ 
+Hong Kong, Premier League
++622
+Lee Man Warriors
+Hong Kong FC
+01.11. 11:00
+ki 1
+1.07
+ki X
+8.25
+ki 2
+18.0
+manje 2.5
+3.30
+više 2.5
+1.25
+ 
+Italy, Primavera 2
++645
+Renate U19
+Udinese U19
+01.11. 11:00
+ki 1
+2.60
+ki X
+3.30
+ki 2
+2.37
+manje 2.5
+2.05
+više 2.5
+1.67
++649
+Salernitana U19
+Spezia U19
+01.11. 11:00
+ki 1
+3.10
+ki X
+3.80
+ki 2
+1.91
+manje 2.5
+2.60
+više 2.5
+1.42
++647
+Ternana U19
+Cosenza U19
+01.11. 11:00
+ki 1
+1.81
+ki X
+3.65
+ki 2
+3.50
+manje 2.5
+2.22
+više 2.5
+1.57
  Tiket
 TIKET
 
@@ -647,7 +653,7 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-09:24:12
+09:33:00
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
