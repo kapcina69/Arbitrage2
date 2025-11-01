@@ -24,15 +24,15 @@ Mainz  vs  Werder
 - Mozzart    1=2  |  X=3.6  |  2=4  |  0-2=2.45  |  2+=1.18  |  3+=1.58
 - OktagonBet 1=2.02  |  X=3.75  |  2=3.5  |  0-2=2.35  |  3+=1.6  |  GG=1.56  |  GG&3+=1.88  |  4+=2.5
 - Soccer     1=2.1  |  X=3.75  |  2=3.4  |  0-2=2.33  |  2+=1.21  |  3+=1.6  |  GG=1.55  |  IGG=3.8  |  GG&3+=1.85
-- Topbet     1=2  |  X=3.95  |  2=3.4
+- Topbet     1=2  |  X=3.85  |  2=3.45
 
 Najveća 1  : 2.10  [Soccer]
-Najveća X  : 3.95  [Topbet]
+Najveća X  : 3.85  [BalkanBet, Brazil_d, MaxBet, Topbet]
 Najveća 2  : 4.00  [Mozzart]
 Najveća 0-2: 2.45  [BalkanBet, Mozzart]
 Najveća 3+ : 1.64  [Brazil_d]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9794   profit≈2.06%
+Arbitraža (1-X-2): DA   inv_sum=0.9859   profit≈1.41%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0179   profit≈-1.79%
 
 16:00   01.11.   [Engleska 1]
@@ -95,23 +95,23 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0502   profit≈-5.02%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1521
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1236
-Grupa sa veličinom ≥3: 846
-Grupa sa veličinom ≥4: 540
+Ukupno mečeva (grupa): 1526
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1235
+Grupa sa veličinom ≥3: 848
+Grupa sa veličinom ≥4: 530
 Grupa sa veličinom ≥5: 325
 Grupa sa veličinom ≥6: 173
 Grupa sa veličinom ≥7: 64
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  911   spojeno (u grupama >1):  829
+  - BalkanBet  ukupno zapisa:  910   spojeno (u grupama >1):  829
   - BetOle     ukupno zapisa:   26   spojeno (u grupama >1):   26
   - Brazil_d   ukupno zapisa:  378   spojeno (u grupama >1):  371
   - Brazil_p   ukupno zapisa:   74   spojeno (u grupama >1):   57
-  - Brazil_s   ukupno zapisa:  277   spojeno (u grupama >1):  274
-  - MaxBet     ukupno zapisa:  566   spojeno (u grupama >1):  545
+  - Brazil_s   ukupno zapisa:  277   spojeno (u grupama >1):  273
+  - MaxBet     ukupno zapisa:  565   spojeno (u grupama >1):  544
   - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  376
-  - OktagonBet ukupno zapisa: 1037   spojeno (u grupama >1):  970
+  - OktagonBet ukupno zapisa: 1035   spojeno (u grupama >1):  962
   - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  326
   - Topbet     ukupno zapisa:  683   spojeno (u grupama >1):  648
 
