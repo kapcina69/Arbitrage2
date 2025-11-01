@@ -33,7 +33,7 @@ Sve
   
   
 Fudbal
-1113
+1309
   
   
 Fantasy PL
@@ -41,7 +41,7 @@ Fantasy PL
   
   
 Košarka
-164
+174
   
   
 Specijal košarka
@@ -49,7 +49,7 @@ Specijal košarka
   
   
 Tenis
-63
+61
   
   
 Specijal tenis
@@ -61,7 +61,7 @@ Hokej
   
   
 Specijal Hokej
-178
+212
   
   
 Rukomet
@@ -81,7 +81,7 @@ Bejzbol
   
   
 Stoni Tenis
-93
+89
   
   
 Američki Fudbal
@@ -116,8 +116,16 @@ Antepost
 182
   
   
+Futsal
+9
+  
+  
+Golovi po ligama
+25
+  
+  
 Fudbal Virtual
-82
+81
 VREMENSKA PONUDA
 Danas
 Sutra
@@ -125,7 +133,7 @@ Sutra
 
 
 Opseg Vremena
-8:00
+9:00
 23:59
 Opseg Kvota
 1.08
@@ -253,15 +261,15 @@ X
 CZECH REP.3 - CFL - A
 01.11 10:15
   
-+814
++815
 Aritma Prague
 Ceske Budejovice B
 1
-2.05
+2.10
 X
-3.70
+3.65
 2
-2.90
+2.75
  
 CZECH REP.3 - CFL - A
 01.11 10:15
@@ -292,28 +300,28 @@ X
 CZECH REP.3 - CFL - A
 01.11 10:30
   
-+818
++814
 Kraluv Dvur
 Hostoun
 1
-1.98
+2.00
 X
-3.90
+3.75
 2
-2.85
+2.90
  
 AZERBAIJAN 1
 01.11 11:00
   
-+784
++787
 Karvan
 Zira
 1
-9.00
+8.00
 X
-4.00
+3.85
 2
-1.34
+1.38
  
 BULGARIA 1
 01.11 11:00
@@ -340,6 +348,19 @@ X
 3.25
 2
 2.90
+ 
+HONG KONG 1
+01.11 11:00
+  
++51
+Lee Man Warriors
+Hong Kong FC
+1
+1.08
+X
+8.25
+2
+17.0
  
 ITALY Primavera 1
 01.11 11:00
@@ -393,6 +414,73 @@ X
 2
 3.40
  
++3 
+KENYA 1
+01.11 11:00
+  
++46
+Mara Sugar
+Bandari
+1
+2.25
+X
+2.70
+2
+3.35
+ 
++3 
+SERBIA U19 League
+01.11 11:00
+  
++50
+FK Graficar U19
+OFK Vrsac U19
+1
+1.80
+X
+3.80
+2
+3.40
+ 
+TURKEY 4 - Group 3
+01.11 11:00
+  
++797
+Cayeli SK
+Yozgat
+1
+3.70
+X
+3.30
+2
+1.80
+ 
+TURKEY 4 - Group 3
+01.11 11:00
+  
++781
+Tokat
+Hopaspor
+1
+1.83
+X
+3.15
+2
+3.75
+ 
+TURKEY 4 - Group 4
+01.11 11:00
+  
++790
+Anadolu Universitesi
+Afyonspor
+1
+1.25
+X
+4.70
+2
+8.50
+ 
 UKRAINE 2
 01.11 11:00
   
@@ -405,6 +493,33 @@ X
 4.33
 2
 1.30
+ 
++3 
+SERBIA U19 League
+01.11 11:15
+  
++50
+TSC U19
+Spartak Subotica U19
+1
+1.35
+X
+4.90
+2
+6.20
+ 
+ESTONIA 2
+01.11 11:30
+  
++822
+Nomme Kalju U21
+Tallinna Kalev U21
+1
+1.38
+X
+5.60
+2
+4.75
  
 ITALY Primavera 2
 01.11 11:30
@@ -483,6 +598,19 @@ X
 3.00
 2
 2.65
+ 
+CAMBODIA 1
+01.11 12:00
+  
++806
+Boeung Ket
+NagaWorld
+1
+2.05
+X
+3.40
+2
+2.90
  
 GERMANY Bundesliga - Women
 01.11 12:00
@@ -640,6 +768,19 @@ X
 2
 7.00
  
+VIETNAM 2
+01.11 12:00
+  
++760
+PVF-CAND B
+Dong Thap
+1
+1.63
+X
+3.05
+2
+5.30
+ 
 ITALY 2
 01.11 12:30
   
@@ -653,6 +794,19 @@ X
 2
 4.05
  
+MALAYSIA 1
+01.11 12:30
+  
++815
+Sabah
+Selangor
+1
+3.40
+X
+3.75
+2
+1.83
+ 
 NORWAY 1 - Women
 01.11 12:30
   
@@ -665,6 +819,20 @@ X
 3.25
 2
 3.10
+ 
++3 
+SERBIA U19 League
+01.11 12:30
+  
++50
+FK Napredak U19
+Borac Cacak U19
+1
+1.53
+X
+4.33
+2
+4.50
  
 SINGAPORE Cup
 01.11 12:30
@@ -717,6 +885,19 @@ X
 3.55
 2
 2.95
+ 
+ASIA AFC Challenge League
+01.11 13:00
+  
++808
+Manila Digger
+Svay Rieng
+1
+5.50
+X
+4.05
+2
+1.53
  
 CROATIA 2
 01.11 13:00
@@ -809,6 +990,19 @@ X
 2
 2.10
  
+ENGLAND Premier League II
+01.11 13:00
+  
++819
+Reading U21
+Fulham U21
+1
+2.95
+X
+3.90
+2
+1.95
+ 
 GERMANY 2
 01.11 13:00
   
@@ -864,15 +1058,15 @@ X
 INDONESIA 1
 01.11 13:00
   
-+808
++804
 Bali United
 Persib Bandung
 1
-3.15
+3.50
 X
-3.25
+3.40
 2
-2.10
+1.88
  
 INDONESIA 2
 01.11 13:00
@@ -913,6 +1107,73 @@ X
 2
 6.20
  
++3 
+KENYA 1
+01.11 13:00
+  
++46
+Nairobi United
+Sofapaka
+1
+2.20
+X
+2.85
+2
+3.25
+ 
+LITHUANIA 2
+01.11 13:00
+  
++799
+Ekranas
+Atmosfera
+1
+4.15
+X
+3.85
+2
+1.65
+ 
+MOLDOVA 1
+01.11 13:00
+  
++807
+Politehnica UTM
+Dacia Buiucani
+1
+3.55
+X
+3.85
+2
+1.78
+ 
+PORTUGAL Campeonato de Portugal - Group C
+01.11 13:00
+  
++796
+SC Lusitania
+SB Castelo Branco
+1
+2.50
+X
+3.05
+2
+2.75
+ 
++3 
+SERBIA U19 League
+01.11 13:00
+  
++49
+Vozdovac U19
+Novi Pazar U19
+1
+1.98
+X
+3.80
+2
+2.90
+ 
 SLOVAKIA 2
 01.11 13:00
   
@@ -952,6 +1213,19 @@ X
 2
 3.30
  
+SPAIN Tercera RFEF - Group 12
+01.11 13:00
+  
++779
+Tamaraceite
+Mensajero
+1
+2.10
+X
+3.00
+2
+3.35
+ 
 SWEDEN 1 - Women
 01.11 13:00
   
@@ -968,15 +1242,15 @@ X
 SWEDEN 1 - Women
 01.11 13:00
   
-+810
++808
 Kristianstad W
 Djurgarden W
 1
-2.20
+2.05
 X
-3.20
+3.30
 2
-2.90
+3.15
  
 SWEDEN 1 - Women
 01.11 13:00
@@ -985,11 +1259,11 @@ SWEDEN 1 - Women
 Vaxjo DFF W
 IF Brommapojkarna W
 1
-2.20
+2.35
 X
 3.55
 2
-2.65
+2.50
  
 SWEDEN 2
 01.11 13:00
@@ -1085,15 +1359,54 @@ X
 THAILAND 2
 01.11 13:00
   
-+802
++799
 Rasisalai Utd
 Trat FC
 1
-1.45
+1.40
+X
+4.33
+2
+6.20
+ 
+TURKEY 4 - Group 1
+01.11 13:00
+  
++789
+Edirnespor
+Silivrispor
+1
+6.90
 X
 4.20
 2
-5.60
+1.34
+ 
+TURKEY 4 - Group 4
+01.11 13:00
+  
++780
+Balikesirspor
+Nazillispor
+1
+1.18
+X
+5.40
+2
+10.0
+ 
+TURKEY 4 - Group 4
+01.11 13:00
+  
++805
+Soke 1970
+Denizli IY Gureller
+1
+2.05
+X
+3.40
+2
+2.95
  
 UZBEKISTAN 1
 01.11 13:00
@@ -1121,6 +1434,19 @@ X
 2
 1.70
  
+MALAYSIA 1
+01.11 13:15
+  
++800
+Kuala Lumpur
+Kelantan The Real W.
+1
+1.28
+X
+5.10
+2
+7.60
+ 
 VIETNAM 1
 01.11 13:15
   
@@ -1133,6 +1459,84 @@ X
 3.05
 2
 2.70
+ 
+CYPRUS 2
+01.11 13:30
+  
++782
+ASIL Lysi
+Nea Salamis
+1
+6.25
+X
+3.95
+2
+1.45
+ 
+CYPRUS 2
+01.11 13:30
+  
++806
+Digenis Akritas
+Ayia Napa
+1
+1.85
+X
+3.50
+2
+3.55
+ 
+CYPRUS 2
+01.11 13:30
+  
++802
+Halkanoras
+Apea Akrotiriou
+1
+2.05
+X
+3.50
+2
+3.00
+ 
+CYPRUS 2
+01.11 13:30
+  
++803
+M.E.A.P. Nisou
+Doxa
+1
+3.20
+X
+3.05
+2
+2.12
+ 
+CYPRUS 2
+01.11 13:30
+  
++797
+PAEEK
+Kitiou
+1
+2.00
+X
+3.30
+2
+3.20
+ 
+CYPRUS 2
+01.11 13:30
+  
++803
+Zakakiou
+Ethnikos Latsion
+1
+2.10
+X
+3.05
+2
+3.25
  
 DENMARK 4
 01.11 13:30
@@ -1150,15 +1554,15 @@ X
 ENGLAND 2
 01.11 13:30
   
-+805
++804
 Leicester
 Blackburn
 1
-1.80
+1.85
 X
 3.40
 2
-4.45
+4.15
  
 ENGLAND 2
 01.11 13:30
@@ -1212,6 +1616,45 @@ X
 2
 3.25
  
+MALAWI 1
+01.11 13:30
+  
++47
+Ekhaya
+Dedza Dynamos
+1
+1.80
+X
+3.15
+2
+4.25
+ 
+MALAWI 1
+01.11 13:30
+  
++50
+Kamuzu Barracks
+Chitipa United
+1
+1.60
+X
+3.50
+2
+4.95
+ 
+MALAWI 1
+01.11 13:30
+  
++46
+Mzuzu City
+Creck Sporting
+1
+2.90
+X
+2.80
+2
+2.45
+ 
 NORWAY 1 - Women
 01.11 13:30
   
@@ -1264,6 +1707,58 @@ X
 2
 3.80
  
+UAE 2
+01.11 13:45
+  
++810
+Emirates Club
+Dibba Al Hisn
+1
+3.05
+X
+3.30
+2
+2.10
+ 
+UAE 2
+01.11 13:45
+  
++812
+Gulf United
+Al Fujairah
+1
+2.70
+X
+3.30
+2
+2.30
+ 
+UAE 2
+01.11 13:45
+  
++810
+Masfut
+Al Jazira Hamra
+1
+2.10
+X
+3.25
+2
+3.05
+ 
+UAE 2
+01.11 13:50
+  
++808
+United FC
+Hatta
+1
+1.55
+X
+4.15
+2
+4.50
+ 
 SPAIN 1
 01.11 14:00
   
@@ -1289,6 +1784,32 @@ X
 4.40
 2
 6.50
+ 
+AUSTRIA 3 West
+01.11 14:00
+  
++817
+Altach U21
+Wals-Grunau
+1
+2.90
+X
+3.80
+2
+1.98
+ 
+AUSTRIA 3 West
+01.11 14:00
+  
++803
+Hohenems
+FC Lustenau
+1
+1.37
+X
+4.85
+2
+5.75
  
 AZERBAIJAN 1
 01.11 14:00
@@ -1368,6 +1889,19 @@ X
 2
 1.95
  
+CZECH REP.3 - CFL - B
+01.11 14:00
+  
++798
+Banik Most-Sous
+Kolin
+1
+1.68
+X
+3.75
+2
+4.10
+ 
 CZECH REP.3 - MSFL
 01.11 14:00
   
@@ -1393,6 +1927,19 @@ X
 3.70
 2
 2.70
+ 
+CZECH REP.3 - MSFL
+01.11 14:00
+  
++789
+Blansko
+Trinec
+1
+10.0
+X
+6.00
+2
+1.19
  
 DENMARK 2
 01.11 14:00
@@ -1557,11 +2104,11 @@ GERMANY 3
 Havelse
 Wehen
 1
-3.50
+3.65
 X
 3.90
 2
-1.85
+1.83
  
 GERMANY 3
 01.11 14:00
@@ -1657,13 +2204,13 @@ X
 GERMANY 4 North
 01.11 14:00
   
-+821
++818
 Bremer
 Hannover II
 1
 2.80
 X
-3.90
+3.85
 2
 2.10
  
@@ -1713,11 +2260,11 @@ GERMANY 4 Southwest
 Freiberg
 Fulda-Lehnerz
 1
-1.60
+1.65
 X
-4.20
+4.10
 2
-4.50
+4.15
  
 GERMANY 4 Southwest
 01.11 14:00
@@ -1726,11 +2273,11 @@ GERMANY 4 Southwest
 Freiburg II
 Steinbach
 1
-2.15
+2.25
 X
-4.20
+4.25
 2
-2.55
+2.45
  
 GERMANY 4 Southwest
 01.11 14:00
@@ -1761,28 +2308,28 @@ X
 GERMANY 4 Southwest
 01.11 14:00
   
-+817
++816
 Schott Mainz
 Sandhausen
 1
-3.45
+3.70
 X
 4.00
 2
-1.83
+1.75
  
 GERMANY 4 Southwest
 01.11 14:00
   
-+821
++823
 Walldorf
 K.Offenbach
 1
-2.50
+2.40
 X
 3.90
 2
-2.30
+2.38
  
 GREECE 2
 01.11 14:00
@@ -1836,6 +2383,19 @@ X
 2
 4.40
  
+IRAN 1
+01.11 14:00
+  
++776
+Paykan
+Fajr Sepasi
+1
+2.55
+X
+2.85
+2
+2.90
+ 
 ISRAEL 1
 01.11 14:00
   
@@ -1848,6 +2408,73 @@ X
 5.30
 2
 8.25
+ 
++3 
+KENYA 1
+01.11 14:00
+  
++49
+Kariobangi Sh.
+Shabana
+1
+3.45
+X
+2.65
+2
+2.25
+ 
+MALAYSIA 1
+01.11 14:00
+  
++809
+PDRM
+Kuching
+1
+4.80
+X
+3.95
+2
+1.55
+ 
+MALTA 2
+01.11 14:00
+  
++805
+Santa Lucia
+Pieta
+1
+2.20
+X
+3.35
+2
+2.70
+ 
+MALTA 2
+01.11 14:00
+  
++802
+Zebbug
+Mgarr
+1
+3.20
+X
+3.30
+2
+1.95
+ 
++3 
+MONTENEGRO 1
+01.11 14:00
+  
++793
+Bokelj
+Sutjeska
+1
+3.40
+X
+3.15
+2
+2.00
  
 PORTUGAL Campeonato de Portugal - Group B
 01.11 14:00
@@ -1862,6 +2489,45 @@ X
 2
 3.30
  
+RWANDA 1
+01.11 14:00
+  
++46
+Amagaju
+Musanze
+1
+2.15
+X
+2.75
+2
+3.55
+ 
+RWANDA 1
+01.11 14:00
+  
++50
+Police
+Mukura Victory Sports
+1
+1.88
+X
+2.90
+2
+4.35
+ 
+RWANDA 1
+01.11 14:00
+  
++49
+Rutsiro
+APR
+1
+6.60
+X
+3.60
+2
+1.45
+ 
 SPAIN 3 - Group 1
 01.11 14:00
   
@@ -1874,6 +2540,32 @@ X
 2.90
 2
 3.25
+ 
+SWEDEN 4 - Promotion
+01.11 14:00
+  
++819
+Motala
+Tvaaker
+1
+2.55
+X
+3.75
+2
+2.20
+ 
+TANZANIA 1
+01.11 14:00
+  
++766
+Tanzania Prisons
+Young Africans
+1
+12.5
+X
+4.85
+2
+1.21
  
 TURKEY 2
 01.11 14:00
@@ -1901,6 +2593,34 @@ X
 2
 1.90
  
++3 
+UGANDA 1
+01.11 14:00
+  
++50
+Gadaffi
+Vipers
+1
+5.90
+X
+3.50
+2
+1.53
+ 
++3 
+UGANDA 1
+01.11 14:00
+  
++47
+Mbarara City
+NEC FC
+1
+6.00
+X
+3.40
+2
+1.55
+ 
 URUGUAY 1
 01.11 14:00
   
@@ -1917,15 +2637,67 @@ X
 ZAMBIA 1
 01.11 14:00
   
-+780
++775
 Red Arrows
 Nkana
 1
-1.70
+1.60
 X
-3.05
+3.10
 2
-5.20
+6.10
+ 
+ZAMBIA 1
+01.11 14:00
+  
++780
+Green Eagles
+Zanaco
+1
+3.35
+X
+2.70
+2
+2.30
+ 
+ZAMBIA 1
+01.11 14:00
+  
++776
+Mufulira
+Kabwe
+1
+2.50
+X
+2.70
+2
+3.00
+ 
+ZAMBIA 1
+01.11 14:00
+  
++782
+Mutondo Stars
+Konkola
+1
+2.60
+X
+2.60
+2
+2.90
+ 
+ZIMBABWE 1
+01.11 14:00
+  
++46
+Chicken Inn
+CAPS Utd
+1
+2.45
+X
+2.70
+2
+3.00
  
 BELARUS 1
 01.11 14:15
@@ -1973,24 +2745,24 @@ AUSTRIA 2
 Hertha Wels
 Bregenz
 1
-1.85
+1.83
 X
 3.70
 2
-3.60
+3.75
  
 AUSTRIA 2
 01.11 14:30
   
-+811
++813
 St.Polten
 FAC Wien
 1
-2.30
+2.55
 X
 3.25
 2
-2.90
+2.60
  
 CZECH REP.3 - MSFL
 01.11 14:30
@@ -2004,6 +2776,19 @@ X
 4.05
 2
 1.73
+ 
+ENGLAND Premier League II
+01.11 14:30
+  
++822
+Tottenham U21
+Southampton U21
+1
+2.00
+X
+4.05
+2
+2.75
  
 ITALY 3 - Group A
 01.11 14:30
@@ -2073,15 +2858,15 @@ X
 ITALY 3 - Group C
 01.11 14:30
   
-+800
++801
 Casarano
 Monopoli
 1
-1.88
+1.98
 X
-3.25
+3.20
 2
-4.05
+3.70
  
 ITALY Primavera 2
 01.11 14:30
@@ -2148,18 +2933,57 @@ X
 2
 3.10
  
-S.ARABIA 1
+ITALY Serie D - Group B
 01.11 14:30
   
-+809
-Al-Taawon
-Al Qadisiya
++791
+Chievo
+Real Calepina
 1
-3.35
+1.70
+X
+3.30
+2
+4.55
+ 
+ITALY Serie D - Group G
+01.11 14:30
+  
++796
+Albalonga
+Sarrabus Ogliastra
+1
+2.05
+X
+3.25
+2
+3.15
+ 
+ITALY Serie D - Group G
+01.11 14:30
+  
++791
+Trastevere Calcio
+Atl. Lodigiani
+1
+1.80
 X
 3.40
 2
-2.00
+3.80
+ 
+S.ARABIA 1
+01.11 14:30
+  
++807
+Al-Taawon
+Al Qadisiya
+1
+3.25
+X
+3.20
+2
+2.15
  
 SOUTH AFRICA 1
 01.11 14:30
@@ -2213,18 +3037,44 @@ X
 2
 2.60
  
+SOUTH AFRICA 2
+01.11 14:30
+  
++768
+Upington C.
+Highbury
+1
+2.40
+X
+2.75
+2
+3.05
+ 
+SOUTH AFRICA 2
+01.11 14:30
+  
++766
+Venda
+Pretoria Un.
+1
+2.25
+X
+2.75
+2
+3.25
+ 
 TUNISIA 1
 01.11 14:30
   
-+777
++778
 AS Gabes
 Monastir
 1
-5.10
+4.65
 X
-3.10
+3.00
 2
-1.68
+1.78
  
 TUNISIA 1
 01.11 14:30
@@ -2251,6 +3101,19 @@ X
 3.30
 2
 6.50
+ 
+TUNISIA 1
+01.11 14:30
+  
++767
+Ben Guerdane
+JS Kairouan
+1
+1.63
+X
+3.15
+2
+5.45
  
 TUNISIA 2
 01.11 14:30
@@ -2291,6 +3154,19 @@ X
 2
 3.40
  
+TUNISIA 2
+01.11 14:30
+  
++781
+Chebba
+OC Kerkennah
+1
+2.12
+X
+2.75
+2
+3.45
+ 
 UKRAINE 1
 01.11 14:30
   
@@ -2307,15 +3183,54 @@ X
 ITALY 1
 01.11 15:00
   
-+847
++848
 Udinese
 Atalanta
 1
-4.85
+4.70
 X
-3.75
+3.85
 2
 1.75
+ 
+ALGERIA 2
+01.11 15:00
+  
++780
+CR Beni Thour
+Khroub
+1
+2.12
+X
+2.95
+2
+3.35
+ 
+ALGERIA 2
+01.11 15:00
+  
++780
+MO Constantine
+Telaghema
+1
+2.10
+X
+2.95
+2
+3.35
+ 
+BRAZIL Paulista Women
+01.11 15:00
+  
++789
+Corinthians W
+Sao Paulo W
+1
+1.58
+X
+3.65
+2
+4.95
  
 CZECH REP. 1
 01.11 15:00
@@ -2395,6 +3310,19 @@ X
 2
 4.05
  
+ENGLAND Premier League II
+01.11 15:00
+  
++816
+Liverpool U21
+Middlesbrough U21
+1
+1.68
+X
+4.05
+2
+3.75
+ 
 FRANCE 3
 01.11 15:00
   
@@ -2467,11 +3395,11 @@ SAN MARINO 1
 Juvenes/Dogana
 Tre Penne
 1
-5.10
+4.80
 X
-3.85
+3.75
 2
-1.53
+1.58
  
 SAN MARINO 1
 01.11 15:00
@@ -2485,6 +3413,20 @@ X
 5.20
 2
 9.75
+ 
++3 
+SERBIA U19 League
+01.11 15:00
+  
++50
+FK USCE Novi Beograd U19
+Partizan U19
+1
+4.90
+X
+4.25
+2
+1.48
  
 SLOVENIA 1
 01.11 15:00
@@ -2589,6 +3531,45 @@ X
 3.90
 2
 5.80
+ 
+TURKEY 3 - White Group
+01.11 15:00
+  
++793
+Bucaspor 1928
+Iskenderunspor
+1
+6.90
+X
+4.10
+2
+1.38
+ 
+TURKEY 4 - Group 4
+01.11 15:00
+  
++805
+Tire 2021 FK
+Ayvalikgucu
+1
+2.20
+X
+3.25
+2
+2.70
+ 
+UEFA Youth League - Winners Play Offs
+01.11 15:00
+  
++804
+Din. Minsk U19
+Ludogorets U19
+1
+1.88
+X
+3.45
+2
+3.70
  
 WALES Cymru North
 01.11 15:00
@@ -2733,6 +3714,33 @@ X
 2
 1.50
  
+LEBANON 1
+01.11 15:15
+  
++809
+Al Ahed
+Al Nejmeh
+1
+2.35
+X
+3.25
+2
+2.65
+ 
++2 
+Max Bonus Tip Fudbal
+01.11 15:30
+  
++5
+RB Leipzig
+Stuttgart
+1
+2.12
+X
+4.10
+2
+3.40
+ 
 GERMANY 1
 01.11 15:30
   
@@ -2798,6 +3806,19 @@ X
 2
 2.85
  
+ANGOLA 1
+01.11 15:30
+  
++46
+Redonda
+Academica
+1
+3.60
+X
+2.80
+2
+2.12
+ 
 HUNGARY 1
 01.11 15:30
   
@@ -2823,6 +3844,19 @@ X
 3.50
 2
 2.10
+ 
+KUWAIT 1
+01.11 15:30
+  
++790
+Al-Fahaheel
+Kazma SC
+1
+3.50
+X
+3.25
+2
+1.95
  
 QATAR 1
 01.11 15:30
@@ -2888,6 +3922,19 @@ X
 3.65
 2
 5.00
+ 
+SPAIN Tercera RFEF - Group 15
+01.11 15:30
+  
++780
+Cortes
+CD Ardoi
+1
+1.83
+X
+3.15
+2
+4.05
  
 WALES 1
 01.11 15:30
@@ -2967,6 +4014,20 @@ X
 2
 2.15
  
++2 
+Max Bonus Tip Fudbal
+01.11 16:00
+  
++5
+Nottingham
+Man.Utd
+1
+3.50
+X
+3.70
+2
+2.20
+ 
 ENGLAND 1
 01.11 16:00
   
@@ -3026,7 +4087,7 @@ ENGLAND 1
 Nottingham
 Man.Utd
 1
-3.35
+3.40
 X
 3.55
 2
@@ -3044,6 +4105,19 @@ X
 3.10
 2
 3.30
+ 
+ARMENIA 1
+01.11 16:00
+  
++797
+Noah
+Ararat-Arm.
+1
+1.65
+X
+3.75
+2
+4.15
  
 BELGIUM 1
 01.11 16:00
@@ -3152,15 +4226,15 @@ X
 ENGLAND 2
 01.11 16:00
   
-+810
++811
 QPR
 Ipswich
 1
-3.15
+3.20
 X
 3.30
 2
-2.20
+2.15
  
 ENGLAND 2
 01.11 16:00
@@ -4092,11 +5166,11 @@ ENGLAND FA Cup
 Fleetwood
 Barnet
 1
-3.20
+3.30
 X
 3.30
 2
-2.20
+2.15
  
 ENGLAND FA Cup
 01.11 16:00
@@ -4179,7 +5253,7 @@ X
 ENGLAND FA Cup
 01.11 16:00
   
-+815
++814
 Peterborough
 Cardiff
 1
@@ -4371,6 +5445,58 @@ X
 2
 6.40
  
+MEXICO Liga MX U21
+01.11 16:00
+  
++824
+Atlas U21
+Toluca U21
+1
+2.70
+X
+3.90
+2
+2.10
+ 
+MEXICO Liga MX U21
+01.11 16:00
+  
++817
+Club America U21
+Club Leon U21
+1
+2.05
+X
+4.00
+2
+2.70
+ 
+MEXICO Liga MX U21
+01.11 16:00
+  
++810
+Monterrey U21
+Tigres UANL U21
+1
+4.55
+X
+4.40
+2
+1.50
+ 
+MOROCCO 2
+01.11 16:00
+  
++763
+Chabab Benguerir
+USM Oujda
+1
+2.15
+X
+2.80
+2
+3.50
+ 
 N.IRELAND 1
 01.11 16:00
   
@@ -4439,15 +5565,29 @@ X
 N.IRELAND 2
 01.11 16:00
   
-+816
++815
 Newington Y.
 H&W Welders
 1
 2.35
 X
-3.55
+3.50
 2
 2.50
+ 
++3 
+NIGERIA 1
+01.11 16:00
+  
++47
+Bendel Insurance
+Warri Wolves
+1
+1.88
+X
+3.15
+2
+3.85
  
 NORWAY 1
 01.11 16:00
@@ -4478,15 +5618,15 @@ X
 NORWAY 2
 01.11 16:00
   
-+806
++807
 Egersunds
 Hodd
 1
-1.58
+1.65
 X
-3.90
+3.75
 2
-5.00
+4.65
  
 NORWAY 2
 01.11 16:00
@@ -4540,6 +5680,19 @@ X
 2
 6.20
  
+PORTUGAL 1 - Women
+01.11 16:00
+  
++799
+Vitoria Guimaraes Wom.
+Damaiense W
+1
+1.88
+X
+3.50
+2
+3.45
+ 
 PORTUGAL 3
 01.11 16:00
   
@@ -4582,15 +5735,15 @@ X
 SCOTLAND 1
 01.11 16:00
   
-+813
++812
 Falkirk
 Kilmarnock
 1
-2.00
+1.80
 X
-3.55
+3.70
 2
-3.40
+4.00
  
 SCOTLAND 1
 01.11 16:00
@@ -4638,11 +5791,11 @@ SCOTLAND 2
 Partick
 Queens Park
 1
-1.50
+1.48
 X
-3.85
+3.95
 2
-6.20
+6.50
  
 SCOTLAND 2
 01.11 16:00
@@ -4664,9 +5817,9 @@ SCOTLAND 2
 St Johnstone
 Airdieonians
 1
-1.25
+1.26
 X
-5.25
+5.00
 2
 10.0
  
@@ -4764,15 +5917,15 @@ X
 SCOTLAND 4
 01.11 16:00
   
-+815
++814
 Spartans
 East Kilbride
 1
-2.20
+2.38
 X
 3.60
 2
-2.75
+2.55
  
 SCOTLAND 4
 01.11 16:00
@@ -4799,6 +5952,32 @@ X
 3.15
 2
 2.50
+ 
+SPAIN 1 - Women
+01.11 16:00
+  
++783
+Eibar W
+Dep. La Coruna Wom.
+1
+2.65
+X
+2.90
+2
+2.55
+ 
+SPAIN 1 - Women
+01.11 16:00
+  
++800
+Madrid C. Wom.
+Granada CF Wom.
+1
+1.68
+X
+3.40
+2
+4.60
  
 SPAIN 3 - Group 1
 01.11 16:00
@@ -4839,6 +6018,19 @@ X
 2
 2.25
  
+SPAIN Tercera RFEF - Group 11
+01.11 16:00
+  
++794
+Llosetense
+Pena Deportiva
+1
+3.25
+X
+3.05
+2
+2.12
+ 
 SPAIN Tercera RFEF - Group 16
 01.11 16:00
   
@@ -4852,6 +6044,32 @@ X
 2
 5.50
  
+SPAIN Tercera RFEF - Group 17
+01.11 16:00
+  
++777
+Belchite 97
+Atl.Monzon
+1
+3.90
+X
+3.05
+2
+1.90
+ 
+SPAIN Tercera RFEF - Group 4
+01.11 16:00
+  
++800
+Aurrera de Vitoria
+Eibar C
+1
+1.90
+X
+3.50
+2
+3.35
+ 
 SPAIN Tercera RFEF - Group 6
 01.11 16:00
   
@@ -4864,6 +6082,19 @@ X
 2.90
 2
 2.55
+ 
+SPAIN Tercera RFEF - Group 6
+01.11 16:00
+  
++783
+Levante B
+Alzira
+1
+1.53
+X
+3.65
+2
+5.50
  
 SPAIN Tercera RFEF - Group 8
 01.11 16:00
@@ -4933,15 +6164,15 @@ X
 SWEDEN 3 Sodra
 01.11 16:00
   
-+794
++795
 Jonkoping
 Ariana
 1
-1.50
+1.53
 X
-3.80
+3.75
 2
-6.30
+6.00
  
 SWITZERLAND Promotion League
 01.11 16:00
@@ -4994,6 +6225,20 @@ X
 3.85
 2
 2.00
+ 
++2 
+Max Bonus Tip Fudbal
+01.11 16:15
+  
++5
+Atl. Madrid
+Sevilla
+1
+1.40
+X
+5.60
+2
+9.25
  
 SPAIN 1
 01.11 16:15
@@ -5073,6 +6318,19 @@ X
 2
 3.35
  
+AUSTRIA 3 East
+01.11 16:30
+  
++805
+Leobendorf
+Sportunion Mauer
+1
+1.50
+X
+4.10
+2
+4.90
+ 
 BULGARIA 1
 01.11 16:30
   
@@ -5099,6 +6357,19 @@ X
 2
 3.10
  
+GHANA 1
+01.11 16:30
+  
++46
+Hohoe United
+Medeama
+1
+2.50
+X
+2.75
+2
+2.85
+ 
 ISRAEL 1
 01.11 16:30
   
@@ -5112,18 +6383,71 @@ X
 2
 7.20
  
+JORDAN 1
+01.11 16:30
+  
++793
+Al Ramtha
+Al Wehdat
+1
+3.40
+X
+2.95
+2
+2.10
+ 
+MALTA 2
+01.11 16:30
+  
++805
+Marsa
+Sirens
+1
+2.15
+X
+3.25
+2
+2.80
+ 
+MALTA 2
+01.11 16:30
+  
++803
+Melita
+Gudja
+1
+1.48
+X
+4.10
+2
+4.90
+ 
++3 
+MONTENEGRO 1
+01.11 16:30
+  
++790
+Mornar
+Jedinstvo
+1
+1.85
+X
+3.20
+2
+3.95
+ 
 NETHERLANDS 1
 01.11 16:30
   
-+815
++817
 Ajax
 Heerenveen
 1
-1.53
+1.55
 X
-4.75
+4.60
 2
-5.20
+5.00
  
 NETHERLANDS 2
 01.11 16:30
@@ -5190,6 +6514,71 @@ X
 2
 2.35
  
+SPAIN Tercera RFEF - Group 13
+01.11 16:30
+  
++795
+Santa Cruz
+EG El Palmar CF
+1
+1.73
+X
+3.20
+2
+4.60
+ 
+SPAIN Tercera RFEF - Group 14
+01.11 16:30
+  
++780
+Llerenense
+Pueblonuevo
+1
+1.25
+X
+4.80
+2
+9.50
+ 
+SPAIN Tercera RFEF - Group 15
+01.11 16:30
+  
++778
+Bidezarra
+AD San Juan
+1
+4.10
+X
+3.10
+2
+1.83
+ 
+SPAIN Tercera RFEF - Group 15
+01.11 16:30
+  
++802
+Oberena
+Ezcabarte
+1
+1.98
+X
+3.15
+2
+3.45
+ 
+SPAIN Tercera RFEF - Group 18
+01.11 16:30
+  
++778
+Azuqueca
+Villacanas
+1
+2.25
+X
+2.85
+2
+3.25
+ 
 UAE 1
 01.11 16:45
   
@@ -5203,16 +6592,30 @@ X
 2
 6.80
  
++2 
+Max Bonus Tip Fudbal
+01.11 17:00
+  
++5
+PSG
+Nice
+1
+1.27
+X
+7.20
+2
+13.0
+ 
 FRANCE 1
 01.11 17:00
   
-+807
++845
 PSG
 Nice
 1
 1.23
 X
-7.10
+7.00
 2
 12.5
  
@@ -5268,6 +6671,58 @@ X
 2
 2.65
  
+FRANCE 1 - Women
+01.11 17:00
+  
++793
+Fleury 91 W
+Lens W
+1
+1.32
+X
+4.75
+2
+7.00
+ 
+FRANCE 1 - Women
+01.11 17:00
+  
++801
+Nantes W
+Dijon W
+1
+2.45
+X
+3.35
+2
+2.50
+ 
+FRANCE 1 - Women
+01.11 17:00
+  
++789
+PSG W
+Le Havre W
+1
+1.21
+X
+5.60
+2
+9.75
+ 
+FRANCE 1 - Women
+01.11 17:00
+  
++795
+St Etienne W
+Montpellier W
+1
+4.00
+X
+3.40
+2
+1.75
+ 
 FRANCE 4 - Group A
 01.11 17:00
   
@@ -5284,15 +6739,15 @@ X
 FRANCE 4 - Group B
 01.11 17:00
   
-+806
++804
 Biesheim
 Wasquehal
 1
-2.10
+2.00
 X
-3.10
-2
 3.20
+2
+3.40
  
 GREECE 1
 01.11 17:00
@@ -5320,6 +6775,19 @@ X
 2
 3.55
  
+SPAIN Tercera RFEF - Group 1
+01.11 17:00
+  
++787
+Somozas
+Noia
+1
+2.00
+X
+3.10
+2
+3.45
+ 
 SPAIN Tercera RFEF - Group 15
 01.11 17:00
   
@@ -5332,6 +6800,45 @@ X
 3.10
 2
 2.85
+ 
+SPAIN Tercera RFEF - Group 18
+01.11 17:00
+  
++773
+Tarancon
+Puertollano C.F.
+1
+2.30
+X
+2.80
+2
+3.10
+ 
+SPAIN Tercera RFEF - Group 3
+01.11 17:00
+  
++782
+Bezana
+Castro
+1
+2.75
+X
+2.90
+2
+2.50
+ 
+SPAIN Tercera RFEF - Group 8
+01.11 17:00
+  
++771
+Guijuelo
+CD Mojados
+1
+1.24
+X
+4.75
+2
+11.0
  
 UKRAINE 1
 01.11 17:00
@@ -5359,31 +6866,44 @@ X
 2
 3.20
  
-IRELAND 1
-01.11 17:30
+SPAIN Tercera RFEF - Group 4
+01.11 17:15
   
-+794
-Cork City
-Derry City
++775
+SD Deusto
+Real Sociedad C
 1
-8.50
+2.25
 X
-4.35
+2.90
 2
-1.37
+3.10
  
 IRELAND 1
 01.11 17:30
   
-+806
++793
+Cork City
+Derry City
+1
+8.00
+X
+4.20
+2
+1.40
+ 
+IRELAND 1
+01.11 17:30
+  
++807
 Drogheda
 Bohemians
 1
-3.45
-X
 3.30
+X
+3.25
 2
-2.05
+2.15
  
 IRELAND 1
 01.11 17:30
@@ -5554,6 +7074,47 @@ X
 2
 3.85
  
+KUWAIT 1
+01.11 17:45
+  
++788
+Al Shabab
+Al Salmiya
+1
+4.35
+X
+3.25
+2
+1.75
+ 
++2 
+Max Bonus Tip Fudbal
+01.11 18:00
+  
++5
+Napoli
+Como
+1
+2.00
+X
+3.55
+2
+4.45
+ 
++2 
+Max Bonus Tip Fudbal
+01.11 18:00
+  
++5
+Cukaricki
+Partizan
+1
+5.60
+X
+4.20
+2
+1.70
+ 
 ITALY 1
 01.11 18:00
   
@@ -5579,6 +7140,19 @@ X
 3.75
 2
 1.60
+ 
+AFRICA CAF Ch.League - Qual.
+01.11 18:00
+  
++782
+Berkane
+Al Ahly Tripoli
+1
+1.42
+X
+3.65
+2
+7.50
  
 ALGERIA 1
 01.11 18:00
@@ -5814,6 +7388,32 @@ X
 2
 3.05
  
+ISRAEL Liga Alef North
+01.11 18:00
+  
++797
+M. Neve Shaanan E.
+Tzeirey Um El Fahem
+1
+2.20
+X
+3.15
+2
+2.80
+ 
+MOROCCO 2
+01.11 18:00
+  
++765
+Mouloudia Oujda
+Jeunesse Sportive Soualem
+1
+2.12
+X
+2.80
+2
+3.55
+ 
 NORWAY 1
 01.11 18:00
   
@@ -5826,6 +7426,32 @@ X
 3.80
 2
 3.40
+ 
+PORTUGAL 1 - Women
+01.11 18:00
+  
++800
+Sporting W
+Torreense W
+1
+1.42
+X
+4.25
+2
+5.90
+ 
+SENEGAL 1
+01.11 18:00
+  
++49
+Teungueth
+US Goree
+1
+2.90
+X
+2.65
+2
+2.55
  
 SLOVAKIA 1
 01.11 18:00
@@ -5917,6 +7543,19 @@ X
 3.00
 2
 3.20
+ 
+SPAIN Tercera RFEF - Group 12
+01.11 18:00
+  
++785
+San Miguel
+Arucas
+1
+2.25
+X
+2.95
+2
+3.05
  
 SPAIN Tercera RFEF - Group 3
 01.11 18:00
@@ -6113,6 +7752,34 @@ X
 2
 3.05
  
++2 
+Max Bonus Tip Fudbal
+01.11 18:30
+  
++5
+Tottenham
+Chelsea
+1
+2.90
+X
+3.55
+2
+2.65
+ 
++2 
+Max Bonus Tip Fudbal
+01.11 18:30
+  
++5
+Bayern M.
+B.Leverkusen
+1
+1.26
+X
+8.00
+2
+12.0
+ 
 ENGLAND 1
 01.11 18:30
   
@@ -6142,7 +7809,7 @@ X
 SPAIN 1
 01.11 18:30
   
-+798
++830
 R.Sociedad
 Ath Bilbao
 1
@@ -6311,15 +7978,15 @@ X
 SPAIN Tercera RFEF - Group 3
 01.11 18:30
   
-+797
++794
 Revilla
 Tropezon
 1
-4.90
+5.10
 X
-3.35
+3.45
 2
-1.65
+1.60
  
 ARGENTINA 1
 01.11 18:45
@@ -6363,15 +8030,54 @@ X
 FRANCE 1
 01.11 19:00
   
-+814
++849
 Monaco
 Paris FC
 1
-1.75
+1.73
 X
-4.05
+4.10
 2
-4.60
+4.65
+ 
+BELGIUM 3 - ACFF
+01.11 19:00
+  
++801
+St. Liege U23
+Charleroi B
+1
+2.45
+X
+3.30
+2
+2.50
+ 
+BRAZIL Carioca B1
+01.11 19:00
+  
++769
+Bonsucesso
+Goncalense
+1
+2.20
+X
+2.85
+2
+3.25
+ 
+BRAZIL Carioca B1
+01.11 19:00
+  
++774
+Duque de Caxias
+Nova Cidade
+1
+2.05
+X
+2.90
+2
+3.65
  
 EGYPT 1
 01.11 19:00
@@ -6411,6 +8117,58 @@ X
 4.65
 2
 9.75
+ 
+ISRAEL Liga Alef South
+01.11 19:00
+  
++787
+M. Ironi Ashdod
+H. Marmorek
+1
+1.80
+X
+3.15
+2
+3.85
+ 
+MALTA 1
+01.11 19:00
+  
++791
+Birkirkara
+Hamrun
+1
+3.90
+X
+3.05
+2
+1.90
+ 
+MALTA 1
+01.11 19:00
+  
++778
+Floriana
+Sliema
+1
+3.00
+X
+2.95
+2
+2.30
+ 
+MALTA 1
+01.11 19:00
+  
++789
+Hibernians
+Marsaxlokk
+1
+3.80
+X
+3.25
+2
+1.85
  
 PERU 1
 01.11 19:00
@@ -6516,6 +8274,32 @@ X
 2
 3.65
  
+BELGIUM 3 - ACFF
+01.11 19:30
+  
++808
+Royal Union SG 2
+Namur
+1
+1.65
+X
+3.80
+2
+4.15
+ 
+BELGIUM 3 - VV
+01.11 19:30
+  
++801
+Merelbeke
+Hoogstraten
+1
+2.55
+X
+3.30
+2
+2.45
+ 
 ISRAEL Liga Alef North
 01.11 19:30
   
@@ -6528,6 +8312,19 @@ X
 3.10
 2
 1.75
+ 
+ISRAEL Liga Alef South
+01.11 19:30
+  
++789
+Kiryat Gat
+Tzeirei Tira
+1
+1.45
+X
+3.95
+2
+5.20
  
 ITALY 2
 01.11 19:30
@@ -6646,6 +8443,58 @@ X
 2
 6.30
  
+BELGIUM 3 - ACFF
+01.11 20:00
+  
++801
+Meux
+Stockay-Warfusee
+1
+2.55
+X
+3.30
+2
+2.40
+ 
+BELGIUM 3 - ACFF
+01.11 20:00
+  
++795
+Tubize-Braine
+Habay La Neuve
+1
+1.33
+X
+4.70
+2
+6.75
+ 
+BELGIUM 3 - ACFF
+01.11 20:00
+  
++799
+Virton
+Renaissance Mons
+1
+3.05
+X
+3.25
+2
+2.10
+ 
+BELGIUM 3 - VV
+01.11 20:00
+  
++789
+Hasselt
+SK Roeselare
+1
+1.42
+X
+4.25
+2
+5.90
+ 
 BOLIVIA 1
 01.11 20:00
   
@@ -6750,6 +8599,32 @@ X
 2
 5.90
  
+ISRAEL Liga Alef North
+01.11 20:00
+  
++799
+Hapoel Tirat HaCarmel
+Hapoel Bnei Musmus
+1
+1.95
+X
+3.30
+2
+3.15
+ 
+MOROCCO 1
+01.11 20:00
+  
++791
+Yacoub El Mansour
+R. Zemamra
+1
+2.50
+X
+3.00
+2
+2.80
+ 
 NETHERLANDS 1
 01.11 20:00
   
@@ -6776,6 +8651,19 @@ X
 2
 7.50
  
+ARGENTINA Torneo Federal - Promotion - Play Offs
+01.11 20:30
+  
++793
+Argentino MM
+Douglas Haig
+1
+2.15
+X
+2.90
+2
+3.55
+ 
 GERMANY 2
 01.11 20:30
   
@@ -6796,11 +8684,11 @@ SWITZERLAND 1
 Zurich
 Lausanne
 1
-2.15
+2.20
 X
 3.70
 2
-2.90
+2.80
  
 URUGUAY 1
 01.11 20:30
@@ -6835,9 +8723,9 @@ ITALY 1
 Cremonese
 Juventus
 1
-6.60
+6.50
 X
-4.60
+4.65
 2
 1.48
  
@@ -6853,6 +8741,34 @@ X
 4.40
 2
 5.50
+ 
++2 
+Max Bonus Tip Fudbal
+01.11 21:00
+  
++5
+Liverpool
+Aston Villa
+1
+1.75
+X
+4.80
+2
+4.55
+ 
++2 
+Max Bonus Tip Fudbal
+01.11 21:00
+  
++5
+Real M.
+Valencia
+1
+1.22
+X
+8.25
+2
+18.0
  
 ENGLAND 1
 01.11 21:00
@@ -6870,7 +8786,7 @@ X
 SPAIN 1
 01.11 21:00
   
-+801
++839
 Real M.
 Valencia
 1
@@ -6892,6 +8808,32 @@ X
 2.95
 2
 3.75
+ 
+DOMINICAN R. 1
+01.11 21:00
+  
++800
+Delfines Del Este
+Jarabacoa
+1
+1.80
+X
+3.50
+2
+3.70
+ 
+FRANCE 1 - Women
+01.11 21:00
+  
++778
+Lyon W
+Paris FC W
+1
+1.10
+X
+7.60
+2
+14.0
  
 NETHERLANDS 1
 01.11 21:00
@@ -6935,13 +8877,13 @@ X
 FRANCE 1
 01.11 21:05
   
-+807
++845
 Auxerre
 Marseille
 1
-5.10
+5.00
 X
-3.75
+3.80
 2
 1.73
  
@@ -7023,6 +8965,32 @@ X
 2
 6.80
  
+EL SALVADOR 1
+01.11 22:00
+  
++807
+Cacahuatique
+Hercules
+1
+1.78
+X
+3.40
+2
+4.25
+ 
+EL SALVADOR 1
+01.11 22:00
+  
++793
+Zacatecoluca
+Mun.Limeno
+1
+3.05
+X
+3.00
+2
+2.30
+ 
 GUATEMALA 1
 01.11 22:00
   
@@ -7035,6 +9003,58 @@ X
 3.05
 2
 3.25
+ 
+HONDURAS 1
+01.11 22:00
+  
++791
+Marathon
+Olancho FC
+1
+1.63
+X
+3.60
+2
+4.60
+ 
+NICARAGUA 1
+01.11 22:00
+  
++810
+Real Madriz
+Jalapa
+1
+2.95
+X
+3.75
+2
+2.10
+ 
+COLOMBIA 2 - Primera B - Clausura
+01.11 22:05
+  
++784
+Cartagena
+Boca Juniors
+1
+1.53
+X
+3.65
+2
+6.20
+ 
+EL SALVADOR 1
+01.11 22:15
+  
++808
+Fuerte SF
+Platense Municipal
+1
+2.70
+X
+3.10
+2
+2.50
  
 BRAZIL 2
 01.11 22:30
@@ -7061,6 +9081,19 @@ X
 3.75
 2
 5.10
+ 
+MEXICO 3 - Serie B
+01.11 22:30
+  
++818
+Uruapan
+Poza Rica
+1
+2.55
+X
+3.55
+2
+2.30
  
 USA MLS - Play Offs
 01.11 22:30
@@ -7108,11 +9141,37 @@ CHILE 2
 S. Wanderers
 Magallanes
 1
-2.05
+2.00
 X
-3.75
+3.80
 2
 3.00
+ 
+DOMINICAN R. 1
+01.11 23:00
+  
++785
+Atletico Pantoja
+Atlantico
+1
+1.34
+X
+4.30
+2
+7.60
+ 
+DOMINICAN R. 1
+01.11 23:00
+  
++789
+Moca
+Vega Real
+1
+1.83
+X
+3.20
+2
+4.05
  
 URUGUAY 1
 01.11 23:00
@@ -7148,7 +9207,7 @@ Promeni temu  
 VIP KLUB
 REZULTATI
 STATUS TIKETA
-8:52:01
+9:00:54
 NAČIN UPLATE DEPOZITA
 UPLATNA MESTA
 PRAVILA IGRE

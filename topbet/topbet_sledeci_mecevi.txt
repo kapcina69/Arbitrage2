@@ -421,9 +421,9 @@ X
 2
 16:00
 Brighton - Leeds
-2.00
-3.65
-3.55
+1.95
+3.60
+3.80
 +57
 16:00
 Burnley - Arsenal
@@ -594,7 +594,7 @@ Union Berlin - Freiburg
 18:30
 Bayern M. - B. Leverkusen
 1.23
-7.40
+7.00
 12.00
 +58
 NED. 02.11.
@@ -609,8 +609,8 @@ Koln - Hamburger
 +53
 17:30
 Wolfsburg - Hoffenheim
-2.75
-3.90
+2.80
+3.75
 2.35
 +53
 Italija 1
@@ -623,21 +623,21 @@ X
 2
 15:00
 Udinese - Atalanta
-4.65
-3.85
-1.75
+4.80
+3.90
+1.72
 +58
 18:00
 Napoli - Como
 1.90
-3.40
-4.40
+3.35
+4.50
 +58
 20:45
 Cremonese - Juventus
-6.90
-4.40
-1.50
+6.70
+4.55
+1.48
 +58
 NED. 02.11.
 1
@@ -977,8 +977,8 @@ Halifax - Exeter
 +41
 16:00
 Fleetwood - Barnet
-3.15
-3.46
+3.13
+3.40
 2.15
 +41
 16:00
@@ -1001,9 +1001,9 @@ Mansfield - Harrogate
 +41
 16:00
 Newport - Gillingham
-3.75
 3.46
-1.95
+3.45
+2.00
 +41
 16:00
 Oldham - Northampton
@@ -1014,7 +1014,7 @@ Oldham - Northampton
 16:00
 Peterborough - Cardiff
 3.24
-3.60
+3.55
 2.05
 +41
 16:00
@@ -1501,8 +1501,8 @@ First Vienna - Amstetten
 +41
 14:30
 St. Polten - Floridsdorfer
-2.30
-3.35
+2.35
+3.25
 2.80
 +41
 20:00
@@ -1557,9 +1557,9 @@ X
 2
 11:00
 FK Karvan Yevlakh - Zira
-9.60
-4.65
-1.30
+8.40
+4.45
+1.35
 +39
 14:00
 Neftchi - Kapaz
@@ -2314,6 +2314,12 @@ X
 1.58
 4.45
 4.20
++35
+10:00
+(U19) Karvina - (U19) Budejovice
+2.00
+3.95
+2.80
 +35
 11:00
 (U19) Hradec - (U19) Brno
@@ -3447,9 +3453,9 @@ X
 2
 11:30
 (U21) Nomme Kalju - (U21) Tallinna Kalev
-1.38
-5.70
-5.60
+1.35
+5.75
+6.00
 +16
 Finska 1
 KONAČAN ISHOD
@@ -3635,6 +3641,12 @@ Olympiacos Piraeus B - GS Ilioupoli
 5.15
 8.80
 +36
+14:00
+Kalamata - Panargiakos FC
+1.10
+7.00
+19.50
++2
 NED. 02.11.
 1
 X
@@ -3650,6 +3662,12 @@ Anagennisi Karditsas 1904 - P.O.T Iraklis
 3.10
 3.05
 2.20
++36
+13:00
+Kampaniakos - Asteras Tripolis B
+3.00
+3.20
+2.15
 +36
 14:00
 PAS Giannina - Kavala
@@ -3689,6 +3707,38 @@ Samgurali Tskaltubo - Gagra
 3.30
 3.30
 +39
+Gruzija 2
+KONAČAN ISHOD
+UKUPNO GOLOVA
+OBA TIMA DAJU GOL
+SUB. 01.11.
+1
+X
+2
+14:00
+FC Gonio - IberiaTiblisi 1999 2
+1.90
+3.70
+3.20
++22
+15:00
+Dinamo-2 Tbilisi - FC Meshakhte Tkibuli
+3.60
+3.30
+1.90
++22
+15:00
+FC Spaeri - Merani Martvili
+1.50
+3.90
+6.10
++22
+18:00
+Sioni Bolnisi - Rustavi
+4.20
+3.40
+1.75
++22
 Gvatemala 1
 KONAČAN ISHOD
 UKUPNO GOLOVA
@@ -3981,9 +4031,9 @@ X
 2
 09:30
 Bhayangkara - Persita Tangerang
-2.25
-3.10
-2.90
+2.20
+3.15
+2.95
 +39
 13:00
 Bali United - Persib Bandung
@@ -4423,8 +4473,8 @@ X
 +36
 15:30
 (U19) Pro Vercelli 1892 - (U19) Modena
-2.80
-3.75
+2.90
+3.70
 2.05
 +36
 Italija 1 (W)
@@ -4903,9 +4953,9 @@ X
 2
 13:30
 Asil Lysis - Nea Salamina
-6.10
-4.05
-1.48
+5.60
+3.95
+1.52
 +36
 13:30
 AEZ Zakakiou - Ethnikos Latsion
@@ -4922,7 +4972,7 @@ Halkanoras - Apea Akrotiriou
 13:30
 PAEEK - Spartakos Kitiou FC
 1.95
-3.45
+3.50
 3.30
 +36
 13:30
@@ -5098,50 +5148,8 @@ Sabah - Selangor
 13:15
 Kuala Lumpur - Kelantan United FC
 1.27
-5.80
-7.50
+5.70
+7.90
 +40
-Mađarska 1
-KONAČAN ISHOD
-UKUPNO GOLOVA
-OBA TIMA DAJU GOL
-SUB. 01.11.
-1
-X
-2
-13:15
-Kazincbarcikai - Puskas A.
-4.00
-3.85
-1.68
-+41
-15:30
-Gyor - Paksi
-2.00
-3.75
-2.90
-+41
-20:00
-Ferencvarosi - MTK
-1.40
-5.05
-5.90
-+41
-NED. 02.11.
-1
-X
-2
-15:30
-Diosgyori - Ujpest
-2.80
-3.60
-2.20
-+41
-18:00
-Debreceni - Zalaegerszeg
-2.00
-3.45
-3.20
-+41
 
 Tiket (0)
