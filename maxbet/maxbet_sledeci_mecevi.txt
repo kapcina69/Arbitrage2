@@ -33,7 +33,7 @@ Sve
   
   
 Fudbal
-871
+863
   
   
 Fantasy PL
@@ -41,11 +41,11 @@ Fantasy PL
   
   
 Fudbal Specijal
-216
+210
   
   
 Igrači Stats
-943
+752
   
   
 Mućkalice Fudbal
@@ -53,7 +53,7 @@ Mućkalice Fudbal
   
   
 Košarka
-159
+158
   
   
 Specijal košarka
@@ -65,7 +65,7 @@ Mućkalice Košarka
   
   
 Tenis
-41
+39
   
   
 Specijal tenis
@@ -97,7 +97,7 @@ Bejzbol
   
   
 Stoni Tenis
-48
+45
   
   
 Američki Fudbal
@@ -129,7 +129,7 @@ Boks
   
   
 Antepost
-124
+117
   
   
 Futsal
@@ -137,7 +137,7 @@ Futsal
   
   
 Golovi po ligama
-8
+7
   
   
 Fudbal Virtual
@@ -153,101 +153,9 @@ Opseg Vremena
 23:59
 Opseg Kvota
 1.13
-16
+17
 Fudbal
 Konačan ishod
- 
-+2 
-Max Bonus Tip Fudbal
-01.11 16:15
-  
-+5
-Atl. Madrid
-Sevilla
-1
-1.45
-X
-5.10
-2
-9.00
- 
-SPAIN 1
-01.11 16:15
-  
-+837
-Atl. Madrid
-Sevilla
-1
-1.38
-X
-5.00
-2
-8.25
- 
-BELARUS 1
-01.11 16:15
-  
-+797
-ML Vitebsk
-Isloch M.
-1
-1.75
-X
-3.10
-2
-5.10
- 
-SPAIN 2
-01.11 16:15
-  
-+803
-Cultural L.
-Mirandes
-1
-1.88
-X
-3.30
-2
-4.10
- 
-SPAIN 3 - Group 2
-01.11 16:15
-  
-+795
-Eldense
-Algeciras
-1
-1.88
-X
-3.10
-2
-3.95
- 
-SPAIN Tercera RFEF - Group 8
-01.11 16:15
-  
-+790
-Mansilles
-La Virgen
-1
-2.60
-X
-2.85
-2
-2.70
- 
-SPAIN Tercera RFEF - Group 8
-01.11 16:15
-  
-+795
-Numancia B
-Bembibre
-1
-2.35
-X
-2.85
-2
-3.00
  
 AUSTRIA 3 East
 01.11 16:30
@@ -278,15 +186,15 @@ X
 GERMANY 3
 01.11 16:30
   
-+816
++815
 Hansa R.
 Verl
 1
-1.93
+2.10
 X
-3.75
+3.65
 2
-3.45
+3.10
  
 GHANA 1
 01.11 16:30
@@ -370,13 +278,13 @@ X
 NETHERLANDS 1
 01.11 16:30
   
-+817
++816
 Ajax
 Heerenveen
 1
-1.53
+1.55
 X
-4.70
+4.65
 2
 5.10
  
@@ -409,15 +317,15 @@ X
 PORTUGAL 3
 01.11 16:30
   
-+804
++803
 Braga B
 AD Fafe
 1
-2.70
+2.90
 X
 3.00
 2
-2.55
+2.40
  
 ROMANIA 1
 01.11 16:30
@@ -474,15 +382,15 @@ X
 SPAIN Tercera RFEF - Group 15
 01.11 16:30
   
-+792
++791
 Bidezarra
 AD San Juan
 1
-4.10
+3.60
 X
-3.10
+2.95
 2
-1.83
+2.05
  
 SPAIN Tercera RFEF - Group 15
 01.11 16:30
@@ -579,13 +487,13 @@ X
 AUSTRIA 1
 01.11 17:00
   
-+798
++799
 Grazer AK
 Altach
 1
 3.35
 X
-2.90
+2.95
 2
 2.40
  
@@ -882,7 +790,7 @@ IRELAND 1
 Shamrock
 Sligo Rovers
 1
-1.98
+2.00
 X
 3.40
 2
@@ -1092,11 +1000,11 @@ Max Bonus Tip Fudbal
 Cukaricki
 Partizan
 1
-4.40
+4.30
 X
-3.85
+3.90
 2
-1.93
+1.95
  
 ITALY 1
 01.11 18:00
@@ -1114,15 +1022,15 @@ X
 SERBIA 1
 01.11 18:00
   
-+808
++809
 Cukaricki
 Partizan
 1
-3.95
+3.80
 X
 3.45
 2
-1.83
+1.85
  
 AFRICA CAF Ch.League - Qual.
 01.11 18:00
@@ -1140,15 +1048,15 @@ X
 ALGERIA 1
 01.11 18:00
   
-+797
++796
 Oran
 Constantine.
 1
-2.00
+1.95
 X
-3.15
+3.20
 2
-3.70
+3.85
  
 CYPRUS 1
 01.11 18:00
@@ -1192,13 +1100,13 @@ X
 DENMARK 1
 01.11 18:00
   
-+802
++803
 FC Copenhagen
 Fredericia
 1
-1.19
+1.20
 X
-6.90
+6.80
 2
 13.0
  
@@ -1400,15 +1308,15 @@ X
 FRANCE 4 - Group C
 01.11 18:00
   
-+788
++810
 Rousset Ste Victoire
 Creteil
 1
 2.80
 X
-3.00
+3.15
 2
-2.40
+2.30
  
 GERMANY 4 North
 01.11 18:00
@@ -1426,15 +1334,15 @@ X
 GERMANY 4 North
 01.11 18:00
   
-+818
++819
 Lohne
 Hamburger II
 1
-2.15
+2.30
 X
 3.85
 2
-2.75
+2.50
  
 GERMANY 4 West
 01.11 18:00
@@ -1469,11 +1377,11 @@ ISRAEL Liga Alef North
 M. Neve Shaanan E.
 Tzeirey Um El Fahem
 1
-2.50
+2.55
 X
 3.10
 2
-2.50
+2.45
  
 ITALY 1 - Women
 01.11 18:00
@@ -1569,7 +1477,7 @@ X
 SPAIN 3 - Group 2
 01.11 18:00
   
-+799
++797
 FC Cartagena SAD
 Villarreal B
 1
@@ -1577,7 +1485,7 @@ Villarreal B
 X
 3.30
 2
-4.85
+4.90
  
 SPAIN 4 - Group 2
 01.11 18:00
@@ -1725,15 +1633,15 @@ X
 SWITZERLAND 1
 01.11 18:00
   
-+811
++812
 Winterthur
 Servette
 1
-4.95
+4.85
 X
-4.30
+4.25
 2
-1.55
+1.58
  
 SWITZERLAND 2
 01.11 18:00
@@ -1896,7 +1804,7 @@ X
 GERMANY 1
 01.11 18:30
   
-+852
++814
 Bayern M.
 B.Leverkusen
 1
@@ -2507,15 +2415,15 @@ X
 ISRAEL Liga Alef South
 01.11 19:30
   
-+792
++789
 Kiryat Gat
 Tzeirei Tira
 1
-1.63
+1.58
 X
-3.50
+3.60
 2
-4.30
+4.60
  
 ITALY 2
 01.11 19:30
@@ -2542,6 +2450,409 @@ X
 3.15
 2
 2.20
+ 
+ARGENTINA 1
+01.11 20:00
+  
++794
+Barracas Central
+Argentinos Jrs
+1
+3.35
+X
+3.05
+2
+2.25
+ 
+ARGENTINA Primera B
+01.11 20:00
+  
++783
+Laferrere
+Midland
+1
+2.85
+X
+2.70
+2
+2.70
+ 
+AUSTRIA 2
+01.11 20:00
+  
++811
+Austria V. II
+Liefering
+1
+3.00
+X
+3.35
+2
+2.20
+ 
+AUSTRIA 2
+01.11 20:00
+  
++803
+Sturm G. II
+Admira
+1
+5.20
+X
+3.80
+2
+1.58
+ 
+BELGIUM 2
+01.11 20:00
+  
++802
+Beveren
+Club Brugge U23
+1
+1.28
+X
+5.35
+2
+8.25
+ 
+BELGIUM 2
+01.11 20:00
+  
++812
+OC Charleroi
+RFC Liege
+1
+4.35
+X
+3.70
+2
+1.70
+ 
+BELGIUM 2
+01.11 20:00
+  
++806
+RWDM Brussels
+Genk U23
+1
+1.28
+X
+5.60
+2
+8.00
+ 
+BELGIUM 3 - ACFF
+01.11 20:00
+  
++801
+Meux
+Stockay-Warfusee
+1
+2.55
+X
+3.30
+2
+2.40
+ 
+BELGIUM 3 - ACFF
+01.11 20:00
+  
++795
+Tubize-Braine
+Habay La Neuve
+1
+1.33
+X
+4.70
+2
+6.75
+ 
+BELGIUM 3 - ACFF
+01.11 20:00
+  
++799
+Virton
+Renaissance Mons
+1
+3.05
+X
+3.25
+2
+2.10
+ 
+BELGIUM 3 - VV
+01.11 20:00
+  
++789
+Hasselt
+SK Roeselare
+1
+1.42
+X
+4.25
+2
+5.90
+ 
+BOLIVIA 1
+01.11 20:00
+  
++812
+Real Oruro
+GV San Jose
+1
+2.45
+X
+3.45
+2
+2.60
+ 
+BOLIVIA Copa Simon Bolivar
+01.11 20:00
+  
++787
+Nueva Cliza
+San Juan FC
+1
+1.80
+X
+3.35
+2
+3.70
+ 
+BRAZIL 1
+01.11 20:00
+  
++794
+Cruzeiro
+Vitoria
+1
+1.42
+X
+4.20
+2
+7.50
+ 
+BRAZIL 1
+01.11 20:00
+  
++806
+Santos
+Fortaleza
+1
+1.70
+X
+3.65
+2
+4.85
+ 
+BRAZIL 2
+01.11 20:00
+  
++798
+Goias
+Athletico-PR
+1
+2.75
+X
+2.95
+2
+2.55
+ 
+CHILE 2
+01.11 20:00
+  
++802
+Copiapo
+U. De Concepcion
+1
+1.83
+X
+3.35
+2
+4.05
+ 
+ECUADOR 1 - Relegation Group
+01.11 20:00
+  
++801
+Tecnico U.
+Mushuc Runa
+1
+2.38
+X
+2.95
+2
+3.00
+ 
+FRANCE 2
+01.11 20:00
+  
++812
+Red Star
+St.Etienne
+1
+2.90
+X
+3.30
+2
+2.35
+ 
+HUNGARY 1
+01.11 20:00
+  
++814
+Ferencvaros
+MTK Budapest
+1
+1.40
+X
+4.75
+2
+5.90
+ 
+ISRAEL Liga Alef North
+01.11 20:00
+  
++794
+Hapoel Tirat HaCarmel
+Hapoel Bnei Musmus
+1
+1.98
+X
+3.20
+2
+3.20
+ 
+MOROCCO 1
+01.11 20:00
+  
++798
+Yacoub El Mansour
+R. Zemamra
+1
+2.35
+X
+2.95
+2
+3.05
+ 
+NETHERLANDS 1
+01.11 20:00
+  
++796
+Feyenoord
+Volendam
+1
+1.13
+X
+9.00
+2
+17.0
+ 
+NETHERLANDS 2
+01.11 20:00
+  
++815
+Cambuur
+Jong Ajax
+1
+1.29
+X
+5.50
+2
+7.50
+ 
+ARGENTINA Torneo Federal - Promotion - Play Offs
+01.11 20:30
+  
++791
+Argentino MM
+Douglas Haig
+1
+1.88
+X
+3.10
+2
+4.30
+ 
+GERMANY 2
+01.11 20:30
+  
++816
+Darmstadt
+A.Bielefeld
+1
+2.00
+X
+3.75
+2
+3.40
+ 
+SWITZERLAND 1
+01.11 20:30
+  
++818
+Zurich
+Lausanne
+1
+2.20
+X
+3.70
+2
+2.80
+ 
+URUGUAY 1
+01.11 20:30
+  
++803
+Liverpool M.
+Juventud
+1
+1.88
+X
+3.30
+2
+3.95
+ 
+USA MLS - Play Offs
+01.11 20:30
+  
++812
+NY City
+Charlotte
+1
+1.75
+X
+3.70
+2
+4.30
+ 
+ITALY 1
+01.11 20:45
+  
++841
+Cremonese
+Juventus
+1
+6.70
+X
+4.45
+2
+1.50
+ 
+BELGIUM 1
+01.11 20:45
+  
++812
+Anderlecht
+Mechelen
+1
+1.53
+X
+4.35
+2
+5.70
  Tiket
 Ekspres tiketi
 1
@@ -2551,7 +2862,7 @@ Promeni temu  
 VIP KLUB
 REZULTATI
 STATUS TIKETA
-16:12:59
+16:22:21
 NAČIN UPLATE DEPOZITA
 UPLATNA MESTA
 PRAVILA IGRE
