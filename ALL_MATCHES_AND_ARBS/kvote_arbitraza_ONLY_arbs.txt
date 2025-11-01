@@ -1,21 +1,41 @@
+18:00   01.11.   [KAF Liga Šampiona]
+Berkane  vs  Al-Ahli Tripoli
+
+- BalkanBet  1=1.42  |  X=3.85  |  2=7.6  |  0-2=1.6  |  2+=1.42  |  3+=2.2  |  GG=2.35  |  IGG=6.55  |  GG&3+=3.2  |  GG&4+=4.65  |  4+=4.1
+- Brazil_d   1=1.45  |  X=3.5  |  2=7.4  |  0-2=1.49  |  2+=1.44  |  3+=2.4
+- MaxBet     1=1.40  |  X=3.90  |  2=7.30
+- Mozzart    1=1.42  |  X=4.1  |  2=7.5  |  0-2=1.76  |  2+=1.28  |  3+=1.95
+- OktagonBet 1=1.45  |  X=3.55  |  2=7.35  |  0-2=1.5  |  3+=2.38  |  GG=2.75  |  GG&3+=3.8  |  4+=4.8
+- Soccer     1=1.45  |  X=3.85  |  2=7.4  |  0-2=1.55  |  2+=1.42  |  3+=2.25  |  GG=2.55  |  IGG=7.0  |  GG&3+=3.45
+- Topbet     1=1.45  |  X=3.95  |  2=6.7
+
+Najveća 1  : 1.45  [Brazil_d, OktagonBet, Soccer, Topbet]
+Najveća X  : 4.10  [Mozzart]
+Najveća 2  : 7.60  [BalkanBet]
+Najveća 0-2: 1.76  [Mozzart]
+Najveća 3+ : 2.40  [Brazil_d]
+
+Arbitraža (1-X-2): NE   inv_sum=1.0651   profit≈-6.51%
+Arbitraža (0-2 / 3+): DA   inv_sum=0.9848   profit≈1.52%
+
 18:30   01.11.   [Nemačka 1]
 Bayern  vs  Leverkusen
 
-- BalkanBet  1=1.27  |  X=6.5  |  2=10  |  0-2=3.55  |  2+=1.08  |  3+=1.32  |  GG=1.65  |  IGG=3.7  |  GG&3+=1.85  |  GG&4+=2.3  |  4+=1.83
-- Brazil_d   1=1.29  |  X=6  |  2=9.25  |  0-2=3.25  |  2+=1.1  |  3+=1.35
+- BalkanBet  1=1.27  |  X=6.5  |  2=10  |  0-2=3.35  |  2+=1.1  |  3+=1.35  |  GG=1.7  |  IGG=3.9  |  GG&3+=1.9  |  GG&4+=2.45  |  4+=1.9
+- Brazil_d   1=1.28  |  X=6.1  |  2=9.5  |  0-2=3.2  |  2+=1.1  |  3+=1.35
 - MaxBet     1=1.28  |  X=6.25  |  2=9.50
 - Mozzart    1=1.28  |  X=6.75  |  2=10.5  |  0-2=3.5  |  2+=1.07  |  3+=1.33
-- OktagonBet 1=1.29  |  X=6.1  |  2=9.2  |  0-2=3.25  |  3+=1.35  |  GG=1.67  |  GG&3+=1.87  |  4+=1.88
+- OktagonBet 1=1.28  |  X=6.15  |  2=9.45  |  0-2=3.25  |  3+=1.35  |  GG=1.69  |  GG&3+=1.89  |  4+=1.89
 - Soccer     1=1.28  |  X=6.3  |  2=9.9  |  0-2=3.55  |  2+=1.09  |  3+=1.32  |  GG=1.6  |  IGG=3.6  |  GG&3+=1.75
 - Topbet     1=1.25  |  X=7.4  |  2=12
 
-Najveća 1  : 1.29  [Brazil_d, OktagonBet]
+Najveća 1  : 1.28  [Brazil_d, MaxBet, Mozzart, OktagonBet, Soccer]
 Najveća X  : 7.40  [Topbet]
 Najveća 2  : 12.00  [Topbet]
-Najveća 0-2: 3.55  [BalkanBet, Soccer]
-Najveća 3+ : 1.35  [Brazil_d, OktagonBet]
+Najveća 0-2: 3.55  [Soccer]
+Najveća 3+ : 1.35  [BalkanBet, Brazil_d, OktagonBet]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9937   profit≈0.63%
+Arbitraža (1-X-2): DA   inv_sum=0.9997   profit≈0.03%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0224   profit≈-2.24%
 
 01:00   02.11.   [Kostarika 2]
@@ -36,17 +56,33 @@ Najveća 3+ : 1.55  [BalkanBet, Mozzart, Soccer]
 Arbitraža (1-X-2): DA   inv_sum=0.9948   profit≈0.52%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0799   profit≈-7.99%
 
+18:30   [WORLD, CAF Champions League - Qualification]
+Atromitos  vs  Kifisia
+
+- Brazil_d   1=2.18  |  X=3.05  |  2=3.3  |  0-2=1.65  |  2+=1.35  |  3+=2.12
+- MaxBet     1=2.70  |  X=3.15  |  2=2.55
+- Topbet     1=2.65  |  X=3.1  |  2=2.6
+
+Najveća 1  : 2.70  [MaxBet]
+Najveća X  : 3.15  [MaxBet]
+Najveća 2  : 3.30  [Brazil_d]
+Najveća 0-2: 1.65  [Brazil_d]
+Najveća 3+ : 2.12  [Brazil_d]
+
+Arbitraža (1-X-2): DA   inv_sum=0.9909   profit≈0.91%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0778   profit≈-7.78%
+
 
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 989
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 724
-Grupa sa veličinom ≥3: 548
-Grupa sa veličinom ≥4: 327
-Grupa sa veličinom ≥5: 177
-Grupa sa veličinom ≥6: 78
-Grupa sa veličinom ≥7: 49
+Ukupno mečeva (grupa): 985
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 728
+Grupa sa veličinom ≥3: 547
+Grupa sa veličinom ≥4: 326
+Grupa sa veličinom ≥5: 181
+Grupa sa veličinom ≥6: 80
+Grupa sa veličinom ≥7: 47
 
 Po kladionici:
   - BalkanBet  ukupno zapisa:  689   spojeno (u grupama >1):  618
@@ -54,12 +90,12 @@ Po kladionici:
   - Brazil_d   ukupno zapisa:  132   spojeno (u grupama >1):  131
   - Brazil_p   ukupno zapisa:   55   spojeno (u grupama >1):   45
   - MaxBet     ukupno zapisa:  140   spojeno (u grupama >1):  137
-  - Mozzart    ukupno zapisa:  403   spojeno (u grupama >1):  352
+  - Mozzart    ukupno zapisa:  404   spojeno (u grupama >1):  360
   - OktagonBet ukupno zapisa:  540   spojeno (u grupama >1):  463
   - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  337
-  - Topbet     ukupno zapisa:  564   spojeno (u grupama >1):  525
+  - Topbet     ukupno zapisa:  564   spojeno (u grupama >1):  526
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 2
-  - 0-2 / 3+: 0
-  - Barem jedna arbitraža: 2
+  - 1-X-2: 3
+  - 0-2 / 3+: 1
+  - Barem jedna arbitraža: 4
