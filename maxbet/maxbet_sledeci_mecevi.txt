@@ -33,7 +33,7 @@ Sve
   
   
 Fudbal
-1305
+1300
   
   
 Fantasy PL
@@ -49,11 +49,11 @@ Mućkalice Fudbal
   
   
 Košarka
-173
+172
   
   
 Specijal košarka
-325
+317
   
   
 Tenis
@@ -65,7 +65,7 @@ Specijal tenis
   
   
 Hokej
-112
+111
   
   
 Specijal Hokej
@@ -89,7 +89,7 @@ Bejzbol
   
   
 Stoni Tenis
-78
+75
   
   
 Američki Fudbal
@@ -133,7 +133,7 @@ Golovi po ligama
   
   
 Fudbal Virtual
-80
+79
 VREMENSKA PONUDA
 Danas
 Sutra
@@ -141,78 +141,13 @@ Sutra
 
 
 Opseg Vremena
-9:00
+10:00
 23:59
 Opseg Kvota
-1.07
-25
+1.08
+22
 Fudbal
 Konačan ishod
- 
-ROMANIA 2
-01.11 10:00
-  
-+799
-CSM Slatina
-Chindia T.
-1
-3.40
-X
-3.05
-2
-2.15
- 
-ROMANIA 2
-01.11 10:00
-  
-+804
-Ceahlaul
-CSM Satu Mare
-1
-1.78
-X
-3.50
-2
-4.20
- 
-ROMANIA 2
-01.11 10:00
-  
-+803
-FC Bacau
-Selimbar
-1
-1.85
-X
-3.50
-2
-3.85
- 
-ROMANIA 2
-01.11 10:00
-  
-+798
-Gloria Bistrita
-Corvinul
-1
-5.30
-X
-3.70
-2
-1.58
- 
-ROMANIA 2
-01.11 10:00
-  
-+805
-Tunari
-CSM Resita
-1
-3.90
-X
-3.45
-2
-1.85
  
 CZECH REP.3 - CFL - A
 01.11 10:15
@@ -2307,11 +2242,11 @@ GREECE 2
 Kalamata
 Panargiakos
 1
-1.07
+1.08
 X
-7.60
+7.00
 2
-25.0
+22.0
  
 GREECE 2
 01.11 14:00
@@ -3145,9 +3080,9 @@ Atalanta
 1
 4.70
 X
-3.85
+3.90
 2
-1.75
+1.73
  
 ALGERIA 2
 01.11 15:00
@@ -3739,7 +3674,7 @@ X
 GERMANY 1
 01.11 15:30
   
-+846
++811
 St. Pauli
 B.M'Gladbach
 1
@@ -3978,9 +3913,9 @@ Max Bonus Tip Fudbal
 Nottingham
 Man.Utd
 1
-3.50
+3.55
 X
-3.70
+3.75
 2
 2.20
  
@@ -4013,7 +3948,7 @@ X
 ENGLAND 1
 01.11 16:00
   
-+809
++844
 Crystal Palace
 Brentford
 1
@@ -4021,7 +3956,7 @@ Brentford
 X
 3.50
 2
-3.60
+3.65
  
 ENGLAND 1
 01.11 16:00
@@ -4043,7 +3978,7 @@ ENGLAND 1
 Nottingham
 Man.Utd
 1
-3.35
+3.40
 X
 3.55
 2
@@ -7473,6 +7408,162 @@ X
 2.90
 2
 2.75
+ 
+SPAIN Tercera RFEF - Group 1
+01.11 18:00
+  
++792
+Estradense
+RC Villalbes
+1
+2.10
+X
+3.00
+2
+3.35
+ 
+SPAIN Tercera RFEF - Group 10
+01.11 18:00
+  
++793
+CD Utrera
+Ceuta B
+1
+2.50
+X
+2.90
+2
+2.70
+ 
+SPAIN Tercera RFEF - Group 12
+01.11 18:00
+  
++801
+San Miguel
+Arucas
+1
+2.20
+X
+3.00
+2
+3.10
+ 
+SPAIN Tercera RFEF - Group 3
+01.11 18:00
+  
++798
+Laredo
+Cayon
+1
+2.50
+X
+3.00
+2
+2.70
+ 
+SPAIN Tercera RFEF - Group 5
+01.11 18:00
+  
++794
+Cornella
+Vilassar de Mar
+1
+1.45
+X
+4.00
+2
+6.10
+ 
+SPAIN Tercera RFEF - Group 6
+01.11 18:00
+  
++792
+Villarreal C
+Crevillente
+1
+1.38
+X
+4.10
+2
+6.80
+ 
+SPAIN Tercera RFEF - Group 8
+01.11 18:00
+  
++792
+Palencia CA
+Arandina
+1
+1.65
+X
+3.30
+2
+5.00
+ 
+SWITZERLAND 1
+01.11 18:00
+  
++815
+Thun
+Sion
+1
+2.10
+X
+3.60
+2
+3.10
+ 
+SWITZERLAND 1
+01.11 18:00
+  
++813
+Winterthur
+Servette
+1
+4.80
+X
+4.45
+2
+1.55
+ 
+SWITZERLAND 2
+01.11 18:00
+  
++812
+Aarau
+Rapperswil-Jona
+1
+1.50
+X
+4.33
+2
+5.25
+ 
+SWITZERLAND 2
+01.11 18:00
+  
++803
+Lausanne O.
+Nyonnais
+1
+1.31
+X
+5.00
+2
+7.80
+ 
+TURKEY 1
+01.11 18:00
+  
++812
+Galatasaray
+Trabzonspor
+1
+1.45
+X
+4.75
+2
+6.10
  Tiket
 Ekspres tiketi
 1
@@ -7482,7 +7573,7 @@ Promeni temu  
 VIP KLUB
 REZULTATI
 STATUS TIKETA
-9:53:38
+10:02:35
 NAČIN UPLATE DEPOZITA
 UPLATNA MESTA
 PRAVILA IGRE
