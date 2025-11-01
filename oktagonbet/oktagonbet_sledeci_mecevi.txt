@@ -24,7 +24,7 @@ Oktagon Derbi
 Golovi Po Ligama
 1
 Tenis
-38
+35
 Košarka
 60
 Košarka Specijal
@@ -69,24 +69,24 @@ GG
 GG3+
 01.11. 11:00
 Dobrudzha - Spartak Varna
-2.15
-3.15
+2.12
+3.20
 3.30
-1.72
-1.99
-3.65
-1.81
-2.40
+1.78
+1.93
+3.50
+1.77
+2.35
 01.11. 11:00
 Karvan - Zira
-6.47
-3.80
-1.45
-1.69
-2.02
-3.75
-2.28
-2.95
+7.45
+4.00
+1.38
+1.73
+1.96
+3.55
+2.35
+3.00
 01.11. 11:00
 Rostov 2 - FK Pobeda
 2.25
@@ -99,14 +99,14 @@ Rostov 2 - FK Pobeda
 2.50
 01.11. 11:00
 Teplice B - Mlada Boleslav B
-2.08
-3.50
-2.75
-2.00
-1.66
-2.80
+1.88
+3.70
+3.05
+2.07
+1.62
+2.65
 1.56
-1.95
+1.93
 01.11. 11:00
 Lee Man Warriors - Hong Kong FC
 1.06
@@ -230,13 +230,13 @@ Tokat - Hopaspor
 01.11. 11:00
 Anadolu Universitesi - Afyonspor
 1.25
-4.90
-7.95
-2.40
-1.44
-2.20
-1.86
-2.15
+4.80
+8.05
+2.28
+1.49
+2.32
+1.94
+2.28
 01.11. 11:00
 Chiang Rai City FC - Maejo United
 3.80
@@ -451,14 +451,14 @@ Ratchaburi - Chiangrai Utd
 2.60
 01.11. 12:00
 Smorgon - Vitebsk
-3.15
-3.00
-2.30
+2.90
+2.95
+2.45
 1.55
 2.28
 4.50
-2.00
-2.80
+1.99
+2.75
 01.11. 12:00
 Sporting CP B - Feirense
 2.10
@@ -765,10 +765,10 @@ Avellino - Reggiana
 3.45
 4.00
 1.85
-1.87
+1.86
 3.30
-1.78
-2.28
+1.77
+2.25
 01.11. 12:30
 Kanchanaburi City - Ayutthaya Utd
 1.92
@@ -1021,13 +1021,13 @@ Hrvace - Orijent
 2.32
 01.11. 13:00
 Aarhus Wom. - Nordsjaelland Wom.
-4.70
-3.75
-1.59
-2.05
-1.66
-2.75
-1.73
+4.95
+3.85
+1.55
+2.08
+1.65
+2.70
+1.74
 2.12
 01.11. 13:00
 Ljungskile - Skovde AIK
@@ -1705,9 +1705,9 @@ Dubai United - Hatta
 1.97
 01.11. 14:00
 Aarhus Fremad - Hvidovre IF
-2.15
-3.45
-3.00
+2.25
+3.40
+2.85
 2.02
 1.71
 2.88
@@ -1945,14 +1945,14 @@ Kassel - Eintracht Trier
 1.79
 01.11. 14:00
 Schott Mainz - Sandhausen
-3.70
-3.95
-1.71
-2.75
-1.38
-2.00
-1.40
-1.61
+4.20
+4.15
+1.58
+2.80
+1.37
+1.98
+1.43
+1.64
 01.11. 14:00
 Walldorf - Offenbach
 2.18
@@ -1997,13 +1997,13 @@ SV Gloggnitz - Retz
 01.11. 14:00
 Villarreal - Rayo Vallecano
 1.75
-3.85
-4.55
+3.90
+4.50
 2.15
-1.72
-2.85
-1.72
-2.10
+1.70
+2.80
+1.70
+2.08
 01.11. 14:00
 Mbarara City - NEC FC Bugolobi
 5.70
@@ -2486,14 +2486,14 @@ Paykan - Fajr Sepasi
 3.10
 01.11. 14:00
 PDRM FC - Kuching City FC
-4.55
-3.95
-1.57
-2.32
-1.52
-2.38
-1.59
-1.90
+4.95
+4.10
+1.51
+2.35
+1.51
+2.35
+1.61
+1.91
 01.11. 14:00
 Hohenems - FC Lustenau
 1.37
@@ -2617,13 +2617,13 @@ Kolos Kovalivka - Oleksandriya
 01.11. 14:30
 Al-Taawon Buraidah - Al Qadisiya Al Khubar
 3.20
-3.15
+3.10
 2.10
-1.77
-1.91
-3.45
-1.76
-2.32
+1.72
+1.98
+3.60
+1.80
+2.40
 01.11. 14:30
 Pergolettese - Novara
 2.45
@@ -3225,6 +3225,17 @@ Virtus - San Giovanni
 2.18
 2.60
 01.11. 15:00
++3
+Berane - Rudar Pljevlja
+2.10
+3.00
+3.15
+1.64
+2.03
+3.80
+1.85
+2.50
+01.11. 15:00
 AC Milan Wom. - Lazio Wom.
 2.10
 3.50
@@ -3486,13 +3497,13 @@ Mainz - Werder Bremen
 1.77
 01.11. 15:30
 RB Leipzig - Stuttgart
-2.04
+2.02
 4.00
-3.25
+3.30
 2.80
 1.44
 2.12
-1.43
+1.44
 1.66
 01.11. 15:30
 St. Pauli - B. Monchengladbach
@@ -3706,12 +3717,12 @@ Birmingham - Portsmouth
 2.65
 01.11. 16:00
 Charlton - Swansea
-2.15
-3.15
-3.75
+2.20
+3.10
+3.65
 1.56
 2.45
-4.90
+4.95
 2.15
 3.00
 01.11. 16:00
@@ -4166,24 +4177,24 @@ D. Zagreb - Rijeka
 2.45
 01.11. 16:00
 Falkirk - Kilmarnock
-1.92
+1.97
 3.50
-3.80
-1.87
+3.60
+1.86
 1.85
 3.25
-1.75
-2.22
+1.74
+2.25
 01.11. 16:00
 Hearts - Dundee FC
 1.25
 5.75
-10.5
-2.38
-1.53
-2.38
-2.07
-2.40
+10.3
+2.28
+1.56
+2.47
+2.10
+2.47
 01.11. 16:00
 Livingston - Hibernian
 4.00
@@ -4217,13 +4228,13 @@ Cove Rangers - Peterhead
 01.11. 16:00
 East Fife - Hamilton
 2.55
-3.30
-2.40
-2.05
-1.67
-2.75
-1.56
-1.96
+3.25
+2.45
+1.99
+1.71
+2.90
+1.59
+2.02
 01.11. 16:00
 Inverness - Montrose
 1.37
@@ -4256,14 +4267,14 @@ Alfreton - Kidderminster
 2.80
 01.11. 16:00
 Hereford - Curzon Ashton
-2.12
-3.40
-2.95
 2.10
-1.64
-2.70
+3.50
+2.88
+2.22
 1.56
-1.94
+2.50
+1.50
+1.83
 01.11. 16:00
 Marine - AFC Fylde
 3.70
@@ -4376,24 +4387,24 @@ Enfield Town - Eastbourne Boro
 1.89
 01.11. 16:00
 Maidstone - Tonbridge
-1.43
-3.95
-6.35
-1.88
-1.80
-3.15
-2.05
+1.46
+3.90
+6.05
+1.86
+1.82
+3.20
+2.03
 2.55
 01.11. 16:00
 Salisbury - Dorking
-3.15
-3.30
-2.03
+3.40
+3.40
 1.92
-1.77
-3.05
-1.67
-2.12
+1.95
+1.74
+2.95
+1.66
+2.07
 01.11. 16:00
 Torquay - Hornchurch
 2.20
@@ -4426,14 +4437,14 @@ Dungannon - Crusaders
 2.22
 01.11. 16:00
 Clyde - Dumbarton
-2.05
-3.55
+2.07
+3.50
 2.95
-2.30
-1.54
-2.40
-1.48
-1.79
+2.20
+1.58
+2.55
+1.52
+1.86
 01.11. 16:00
 Elgin City - Annan
 2.12
@@ -5226,13 +5237,13 @@ Eibar Wom. - Dep. La Coruna Wom.
 2.80
 01.11. 16:00
 Madrid C. Wom. - Granada Wom.
-1.67
-3.55
-4.35
-1.98
+1.73
+3.50
+4.10
+1.96
+1.70
+2.88
 1.68
-2.80
-1.69
 2.08
 01.11. 16:00
 Bruhl - Luzern II
@@ -5599,11 +5610,11 @@ Atl. Madrid - Sevilla
 1.36
 5.05
 8.50
-2.32
+2.30
 1.62
 2.60
 1.98
-2.32
+2.35
 01.11. 16:15
 Eldense - Algeciras
 1.83
@@ -5697,13 +5708,13 @@ Hapoel Tel Aviv - Ironi Tiberias
 01.11. 16:30
 +3
 Mornar Bar - Jedinstvo
-1.89
+1.84
 3.20
-3.75
-1.64
-2.10
 3.95
-1.95
+1.64
+2.08
+3.95
+1.96
 2.60
 01.11. 16:30
 Braga B - AD Fafe
@@ -5717,13 +5728,13 @@ Braga B - AD Fafe
 2.65
 01.11. 16:30
 UD Ourense - Dep. Fabril
-2.75
-2.90
-2.50
+3.00
+2.95
+2.28
 1.51
 2.28
-4.55
-1.98
+4.50
+1.99
 2.75
 01.11. 16:30
 Unirea Slobozia - FC Arges
@@ -5858,13 +5869,13 @@ Al Jazira Abu Dhabi - Al Bataeh
 01.11. 17:00
 Paris SG - Nice
 1.22
-6.75
+6.55
 12.5
-3.40
-1.32
-1.82
-1.79
-1.98
+3.25
+1.35
+1.89
+1.85
+2.07
 01.11. 17:00
 BW Linz - LASK
 3.35
@@ -6327,13 +6338,13 @@ Atletico Atlanta - Deportivo Moron
 4.45
 01.11. 17:45
 Al Shabab SC - Al Salmiya
-5.75
-3.70
-1.50
-1.82
-1.86
-3.30
-2.03
+5.45
+3.65
+1.54
+1.81
+1.87
+3.35
+2.00
 2.55
 01.11. 18:00
 Napoli - Como
@@ -6837,13 +6848,13 @@ FK Rostov - Akron Togliatti
 2.40
 01.11. 18:15
 Zenit - Lokomotiv Moscow
-1.60
-4.00
-5.35
+1.59
+4.05
+5.45
 2.10
 1.67
 2.75
-1.75
+1.76
 2.15
 01.11. 18:15
 Colwyn Bay - Barry
@@ -6908,11 +6919,11 @@ Tottenham - Chelsea
 01.11. 18:30
 Bayern Munich - Bayer Leverkusen
 1.22
-7.25
-11.1
-4.10
-1.23
-1.62
+7.20
+11.0
+4.05
+1.24
+1.63
 1.59
 1.73
 01.11. 18:30
@@ -6983,7 +6994,7 @@ Real Sociedad - Athletic Bilbao
 1.61
 2.32
 4.55
-2.03
+2.02
 2.80
 01.11. 18:30
 Motherwell - St. Mirren
@@ -7060,12 +7071,12 @@ Istra 1961 - Vukovar 1991
 NAC Breda - G.A. Eagles
 2.22
 3.60
-3.05
-2.20
-1.61
+3.00
+2.22
+1.60
 2.60
 1.53
-1.88
+1.87
 01.11. 18:45
 Aldosivi - Ind. Rivadavia
 2.22
@@ -7724,7 +7735,7 @@ Real Madrid - Valencia
 3.15
 1.36
 1.92
-2.00
+2.02
 2.22
 01.11. 21:00
 CE Europa - Sanluqueno
@@ -7818,9 +7829,9 @@ Nublense - Colo Colo
 2.45
 01.11. 22:00
 Mirassol - Botafogo
-2.30
+2.32
 3.25
-3.05
+3.00
 1.77
 1.95
 3.55
@@ -7909,13 +7920,13 @@ Avai - Athletic Club
 01.11. 22:30
 Chicago Fire - Philadelphia Union
 2.08
-3.55
-3.05
-2.25
-1.58
-2.50
-1.52
-1.85
+3.60
+3.00
+2.28
+1.56
+2.47
+1.50
+1.82
 01.11. 22:30
 Aucas - El Nacional
 1.58
@@ -8188,14 +8199,14 @@ Flamengo RJ - Sport Recife
 2.70
 02.11. 01:00
 Puntarenas FC - Zeledon
-1.68
-3.40
-4.55
-1.79
-1.89
-3.40
-1.88
-2.40
+1.73
+3.30
+4.35
+1.75
+1.94
+3.50
+1.90
+2.45
 02.11. 01:00
 FC Tulsa - Colorado Springs
 1.84
@@ -8249,9 +8260,9 @@ Bubali - Racing Club Aruba
 02.11. 02:00
 Mazatlan FC Wom. - Club America Wom.
 39.0
-22.0
+21.5
 -
-9.95
+9.75
 1.01
 -
 -
@@ -8439,13 +8450,13 @@ Managua FC - Matagalpa
 02.11. 03:00
 Apia Leichhardt FC - Metrostars
 1.34
-4.90
-6.35
-2.47
+4.85
+6.25
+2.45
 1.47
 2.25
 1.70
-1.98
+1.97
 02.11. 03:00
 Moreton City Excelsior - Broadmeadow
 1.71
@@ -8828,14 +8839,14 @@ FK Yenisey Wom. - FK Rostov Wom.
 2.22
 02.11. 07:00
 Beleza Wom. - C-Osaka Wom.
-1.16
-6.10
-11.5
+1.15
+6.25
+12.0
 2.50
-1.46
+1.45
 2.20
-2.15
-2.47
+2.22
+2.55
 02.11. 08:00
 Nagano - Kochi United
 2.62
@@ -10568,16 +10579,6 @@ Stromsgodset - Viking
 1.93
 1.49
 1.69
-02.11. 14:30
-Chrobry Glogow - Wisla
-4.33
-3.80
-1.68
-1.97
-1.74
-2.95
-1.74
-2.15
 
 
 Preostalo mečeva 625
@@ -10603,18 +10604,18 @@ OPIS IGARA
 UPLATNA MESTA
 PROMOCIJE
 ALPHAPEX DOO priređuje igre na sreću preko sredstava elektronske komunikacije – klađenje i ostale igre preko svog sajta www.oktagonbet.com u skladu sa odobrenjem izdatim od strane Ministarstva finansija Republike Srbije, Uprave za igre na sreću na osnovu Rešenja broj 424-01-00022/2020-02 od 30. aprila 2020. godine. Osobama mlađim od 18 godina, po Zakonu o igrama na sreću, nije dozvoljeno klađenje putem elektronske komunikacije na sajtu www.oktagonbet.com.
-TIKET (5)
-Persebaya - Persis Solo
+TIKET (7)
+Chonburi - Pathum United
 02.11. 13:00
 Konačan Ishod
 X
-3.40
+3.30
 X
-Regensburg II - Wurzburger FV
+Din. Minsk 2 - Dnepr Mogilev
 01.11. 16:00
 Konačan Ishod
 X
-4.33
+4.25
 X
 Queens Univ. - Dundela
 01.11. 15:00
@@ -10634,12 +10635,24 @@ Konačan Ishod
 X
 6.70
 X
+Atl. Madrid Wom. - Alhama Wom.
+01.11. 12:00
+Konačan Ishod
+X
+8.75
+X
+UCSA - Metalist Kharkiv
+01.11. 12:00
+Konačan Ishod
+X
+3.00
+X
 OBIČAN
 SISTEM
- Kvota:1.295,60
- Bonus: 3%  777,36
+ Kvota:32.399,41
+ Bonus: 10%  64.798,81
 Ukupan dobitak:
-26.689,00 RSD
+712.787,00 RSD
 UPLATI
 OKTAGON TIKET
 
