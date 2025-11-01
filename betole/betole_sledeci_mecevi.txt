@@ -36,7 +36,7 @@ Sve
   
   
 FUDBAL
-1072
+1069
   
   
 DNEVNI SPECIJAL
@@ -48,19 +48,19 @@ GOLOVI PO LIGAMA
   
   
 KOŠARKA
-220
+217
   
   
 SP. KOŠARKA
-346
+324
   
   
 TENIS
-64
+63
   
   
 RUKOMET
-64
+65
   
   
 SP. RUKOMET
@@ -68,7 +68,7 @@ SP. RUKOMET
   
   
 ODBOJKA
-108
+107
   
   
 HOKEJ
@@ -77,6 +77,10 @@ HOKEJ
   
 AM.FUDBAL
 30
+  
+  
+SP. AM. FUDBAL
+261
   
   
 BEJZBOL
@@ -104,7 +108,7 @@ BADMINTON
   
   
 MMA
-23
+21
   
   
 BOKS
@@ -120,7 +124,7 @@ FORMULA 1
   
   
 KONJSKE TRKE
-66
+49
   
   
 ESPORT
@@ -128,7 +132,7 @@ ESPORT
   
   
 SP. FUDBAL
-2535
+2514
   
   
 VIR. FUDBAL
@@ -154,69 +158,21 @@ Top
 Specijali
 KONAČAN ISHOD
  
-Italy, Serie B
-+905
-Entella
-Empoli
-01.11. 17:15
-ki 1
-2.20
-ki X
-3.03
-ki 2
-3.50
-manje 2.5
-1.55
-više 2.5
-2.35
- 
-Mauritanija, Ligue 1
-+82
-Nouakchott King's
-Douane
-01.11. 17:15
-ki 1
-2.62
-ki X
-2.65
-ki 2
-2.70
-manje 2.5
-1.32
-više 2.5
-2.88
- 
-Spain, Tercera RFEF - Group 4
-+638
-SD Deusto
-Real Sociedad C
-01.11. 17:15
-ki 1
-2.25
-ki X
-2.83
-ki 2
-3.03
-manje 2.5
-1.47
-više 2.5
-2.37
- 
 Slovenia, Prva Liga
-+816
++815
 Celje
 Aluminij
 01.11. 17:30
 ki 1
-1.20
+1.19
 ki X
-6.30
+6.50
 ki 2
-10.0
+10.5
 manje 2.5
-3.50
+3.60
 više 2.5
-1.25
+1.24
  
 Sweden, Allsvenskan
 +980
@@ -337,20 +293,20 @@ više 2.5
 1.83
  
 Italy, Serie C - Group A
-+822
++821
 Virtus Verona
 Trento
 01.11. 17:30
 ki 1
-2.63
+2.70
 ki X
 3.35
 ki 2
-2.41
+2.40
 manje 2.5
-1.85
+1.83
 više 2.5
-1.85
+1.87
  
 Italy, Serie C - Group B
 +807
@@ -358,15 +314,15 @@ Rimini
 Bra
 01.11. 17:30
 ki 1
-2.37
+2.25
 ki X
 3.00
 ki 2
-3.03
+3.20
 manje 2.5
 1.48
 više 2.5
-2.47
+2.45
  
 Qatar, QSL
 +828
@@ -447,18 +403,18 @@ više 2.5
 1.85
  
 Italy, Serie A
-+983
++1055
 Napoli
 Como
 01.11. 18:00
 ki 1
-1.97
+1.95
 ki X
 3.35
 ki 2
-4.10
+4.15
 manje 2.5
-1.73
+1.75
 više 2.5
 2.10
  
@@ -486,45 +442,45 @@ Trabzonspor
 ki 1
 1.45
 ki X
-4.70
+4.75
 ki 2
-5.80
+5.75
 manje 2.5
-2.75
+2.88
 više 2.5
-1.40
+1.37
  
 Denmark, Superliga
-+816
++813
 FC Copenhagen
 Fredericia
 01.11. 18:00
 ki 1
 1.22
 ki X
-6.40
+6.30
 ki 2
 11.0
 manje 2.5
-3.30
+3.20
 više 2.5
-1.29
+1.31
  
 Norway, Eliteserien
-+828
++829
 Molde
 Rosenborg
 01.11. 18:00
 ki 1
-1.92
+1.87
 ki X
-3.75
+3.80
 ki 2
-3.55
+3.70
 manje 2.5
-2.37
+2.45
 više 2.5
-1.53
+1.50
  
 Slovakia, Nike liga
 +823
@@ -554,7 +510,7 @@ ki X
 ki 2
 3.10
 manje 2.5
-2.10
+2.12
 više 2.5
 1.65
 +824
@@ -619,6 +575,52 @@ manje 2.5
 2.03
 više 2.5
 1.70
++804
+Paralimni
+Omonia
+01.11. 18:00
+ki 1
+10.5
+ki X
+5.40
+ki 2
+1.24
+manje 2.5
+2.25
+više 2.5
+1.57
+ 
+Czech, Chance Liga
++811
+Slavia Prague
+Ostrava
+01.11. 18:00
+ki 1
+1.24
+ki X
+5.80
+ki 2
+11.0
+manje 2.5
+2.47
+više 2.5
+1.48
+ 
+France, National 2 - Group A
++641
+Dinan Lehon FC
+Bayonne
+01.11. 18:00
+ki 1
+3.25
+ki X
+2.97
+ki 2
+2.15
+manje 2.5
+1.55
+više 2.5
+2.20
  Tiket
 TIKET
 
@@ -670,14 +672,14 @@ Danijela D.
 8.000,00
 5.
 Nina T.
-12,614.89
+12,758.89
 5.000,00
 Pravila igre
 Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-17:08:07
+17:17:53
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
