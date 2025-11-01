@@ -20,33 +20,33 @@ Arbitraža (0-2 / 3+): DA   inv_sum=0.7922   profit≈20.78%
 Oldham  vs  Northampton
 
 - BalkanBet  1=2.4  |  X=3.35  |  2=2.95  |  0-2=1.65  |  2+=1.43  |  3+=2.25  |  GG=1.95  |  IGG=5.3  |  GG&3+=2.65  |  GG&4+=4.65  |  4+=4.25
-- Brazil_d   1=2.62  |  X=3.1  |  2=2.75  |  0-2=1.65  |  2+=1.36  |  3+=2.15
+- Brazil_d   1=2.35  |  X=3.05  |  2=3.15  |  0-2=1.65  |  2+=1.36  |  3+=2.15
 - MaxBet     1=2.35  |  X=3.10  |  2=3.10
 - Mozzart    1=2.65  |  X=2.95  |  2=2.75  |  0-2=1.6  |  2+=1.4  |  3+=2.2
 - OktagonBet 1=2.35  |  X=3.1  |  2=3.1  |  0-2=1.65  |  3+=2.12  |  GG=1.89  |  GG&3+=2.55  |  4+=4
-- Soccer     1=2.55  |  X=3.1  |  2=2.85  |  0-2=1.6  |  2+=1.4  |  3+=2.17  |  GG=1.88  |  IGG=5.05  |  GG&3+=2.45
-- Topbet     1=2.55  |  X=3.05  |  2=2.7
+- Soccer     1=2.48  |  X=3.2  |  2=2.9  |  0-2=1.6  |  2+=1.4  |  3+=2.17  |  GG=1.9  |  IGG=5.1  |  GG&3+=2.47
+- Topbet     1=2.45  |  X=3.2  |  2=2.92
 
 Najveća 1  : 2.65  [Mozzart]
 Najveća X  : 3.35  [BalkanBet]
-Najveća 2  : 3.10  [MaxBet, OktagonBet]
+Najveća 2  : 3.15  [Brazil_d]
 Najveća 0-2: 1.65  [BalkanBet, Brazil_d, OktagonBet]
 Najveća 3+ : 2.25  [BalkanBet]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9984   profit≈0.16%
+Arbitraža (1-X-2): DA   inv_sum=0.9933   profit≈0.67%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0505   profit≈-5.05%
 
 
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1316
+Ukupno mečeva (grupa): 1315
 Mečeva spojenih sa ≥2 kladionice (grupa size>1): 996
-Grupa sa veličinom ≥3: 726
-Grupa sa veličinom ≥4: 436
-Grupa sa veličinom ≥5: 269
+Grupa sa veličinom ≥3: 728
+Grupa sa veličinom ≥4: 435
+Grupa sa veličinom ≥5: 270
 Grupa sa veličinom ≥6: 139
-Grupa sa veličinom ≥7: 99
+Grupa sa veličinom ≥7: 100
 
 Po kladionici:
   - BalkanBet  ukupno zapisa:  958   spojeno (u grupama >1):  870
@@ -54,9 +54,9 @@ Po kladionici:
   - Brazil_d   ukupno zapisa:  286   spojeno (u grupama >1):  285
   - Brazil_p   ukupno zapisa:   64   spojeno (u grupama >1):   64
   - Brazil_s   ukupno zapisa:   30   spojeno (u grupama >1):   30
-  - MaxBet     ukupno zapisa:  192   spojeno (u grupama >1):  187
+  - MaxBet     ukupno zapisa:  195   spojeno (u grupama >1):  189
   - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  373
-  - OktagonBet ukupno zapisa: 1040   spojeno (u grupama >1):  886
+  - OktagonBet ukupno zapisa: 1040   spojeno (u grupama >1):  888
   - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  346
   - Topbet     ukupno zapisa:  638   spojeno (u grupama >1):  602
 
