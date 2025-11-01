@@ -52,7 +52,7 @@ KOŠARKA
   
   
 SP. KOŠARKA
-374
+373
   
   
 TENIS
@@ -68,7 +68,7 @@ SP. RUKOMET
   
   
 ODBOJKA
-113
+112
   
   
 HOKEJ
@@ -116,7 +116,7 @@ FORMULA 1
   
   
 KONJSKE TRKE
-249
+248
   
   
 ESPORT
@@ -147,7 +147,7 @@ Specijali
 KONAČAN ISHOD
  
 Italy, Serie A
-+975
++971
 Udinese
 Atalanta
 01.11. 15:00
@@ -163,7 +163,7 @@ više 2.5
 1.80
  
 Turkey, Super Lig
-+988
++937
 Goztepe
 Genclerbirligi
 01.11. 15:00
@@ -200,41 +200,41 @@ Hacken
 Malmo FF
 01.11. 15:00
 ki 1
-2.22
+2.30
 ki X
 3.80
 ki 2
-2.77
+2.70
 manje 2.5
-2.67
+2.62
 više 2.5
-1.42
+1.43
  
 Italy, Serie B
-+921
++919
 Carrarese
 Frosinone
 01.11. 15:00
 ki 1
-2.57
+2.60
 ki X
-3.30
+3.25
 ki 2
-2.62
+2.63
 manje 2.5
-1.88
+1.80
 više 2.5
-1.83
+1.91
 +952
 Padova
 Sudtirol
 01.11. 15:00
 ki 1
-2.37
+2.47
 ki X
 3.03
 ki 2
-3.15
+3.00
 manje 2.5
 1.57
 više 2.5
@@ -246,15 +246,15 @@ CR Beni Thour
 Khroub
 01.11. 15:00
 ki 1
-1.80
+1.73
 ki X
-3.20
+3.25
 ki 2
-4.20
+4.50
 manje 2.5
 1.55
 više 2.5
-2.22
+2.20
 +636
 MO Constantine
 Telaghema
@@ -319,20 +319,20 @@ više 2.5
 1.67
  
 Czech, Chance Liga
-+809
++810
 FK Pardubice
 Dukla Prague
 01.11. 15:00
 ki 1
-1.97
+2.05
 ki X
 3.25
 ki 2
-3.90
+3.65
 manje 2.5
-1.55
+1.57
 više 2.5
-2.30
+2.25
 +807
 Jablonec
 Zlin
@@ -363,20 +363,20 @@ više 2.5
 2.30
  
 Czech Republic, ChNL
-+816
++819
 Brno
 Kromeriz
 01.11. 15:00
 ki 1
-1.29
+1.31
 ki X
-5.10
+4.95
 ki 2
-7.30
+6.90
 manje 2.5
-2.50
+2.47
 više 2.5
-1.45
+1.47
  
 Denmark, 2nd Division
 +644
@@ -432,45 +432,45 @@ Rouen
 Villefranche
 01.11. 15:00
 ki 1
-1.60
+1.63
 ki X
-3.80
+3.70
 ki 2
-5.50
+5.30
 manje 2.5
-1.77
+1.75
 više 2.5
-1.93
+1.97
  
 Georgia, Crystalbet Erovnuli Liga 2
-+642
++644
 Dinamo Tbilisi 2
 Meshakhte Tkibuli
 01.11. 15:00
 ki 1
-4.60
+3.30
 ki X
-3.60
+3.35
 ki 2
-1.63
+1.97
 manje 2.5
-1.93
+1.92
 više 2.5
-1.75
-+636
+1.77
++638
 Spaeri
 Merani Martvili
 01.11. 15:00
 ki 1
-1.36
+1.43
 ki X
-4.10
+3.85
 ki 2
-7.70
+6.70
 manje 2.5
-1.82
+1.80
 više 2.5
-1.87
+1.88
  
 Italy, Serie A Women
 +647
@@ -517,9 +517,9 @@ ki X
 ki 2
 36.0
 manje 2.5
-4.40
+4.50
 više 2.5
-1.14
+1.13
  
 Northern Ireland, NIFL Championship
 +818
@@ -538,20 +538,20 @@ više 2.5
 1.62
  
 Russia, FNL
-+793
++795
 Shinnik Yaroslavl
 Chelyabinsk
 01.11. 15:00
 ki 1
-2.37
+2.22
 ki X
-2.73
+2.77
 ki 2
-3.35
+3.60
 manje 2.5
-1.31
+1.33
 više 2.5
-3.10
+3.03
  
 Russia, FNL 2 - Division A Gold - Fall Season
 +40
@@ -605,15 +605,4914 @@ Helsingborg
 Sundsvall
 01.11. 15:00
 ki 1
-1.81
+1.73
+ki X
+3.60
+ki 2
+4.30
+manje 2.5
+2.05
+više 2.5
+1.67
++821
+Ostersunds
+Trelleborgs
+01.11. 15:00
+ki 1
+2.12
+ki X
+3.35
+ki 2
+3.10
+manje 2.5
+2.02
+više 2.5
+1.71
++824
+Umea FC
+Sandviken
+01.11. 15:00
+ki 1
+2.57
+ki X
+3.50
+ki 2
+2.41
+manje 2.5
+2.20
+više 2.5
+1.60
++829
+Varbergs
+Brage
+01.11. 15:00
+ki 1
+2.12
+ki X
+3.65
+ki 2
+2.90
+manje 2.5
+2.41
+više 2.5
+1.50
+ 
+Switzerland, Promotion League
++646
+Breitenrain
+Bulle
+01.11. 15:00
+ki 1
+2.22
 ki X
 3.55
+ki 2
+2.65
+manje 2.5
+2.35
+više 2.5
+1.52
+ 
+Turkey, 2. Lig White Group
++636
+1928 Bucaspor
+Iskenderun
+01.11. 15:00
+ki 1
+7.20
+ki X
+4.65
+ki 2
+1.32
+manje 2.5
+2.15
+više 2.5
+1.57
+ 
+Turkey, 3. Lig Group 4
++638
+Tire 2021 FK
+Ayvalikgucu
+01.11. 15:00
+ki 1
+3.20
+ki X
+2.93
+ki 2
+2.10
+manje 2.5
+1.52
+više 2.5
+2.20
+ 
+Wales, Cymru South
++643
+Cambrian & Clydach
+Cardiff Draconians
+01.11. 15:00
+ki 1
+1.47
+ki X
+4.20
+ki 2
+4.80
+manje 2.5
+2.45
+više 2.5
+1.47
++641
+Newport City
+Ammanford
+01.11. 15:00
+ki 1
+1.63
+ki X
+3.70
+ki 2
+4.10
+manje 2.5
+2.08
+više 2.5
+1.63
++644
+Trefelin
+Pontypridd
+01.11. 15:00
+ki 1
+1.52
+ki X
+4.15
+ki 2
+4.40
+manje 2.5
+2.55
+više 2.5
+1.43
++646
+Treowen
+Llantwit Major
+01.11. 15:00
+ki 1
+3.15
+ki X
+3.45
+ki 2
+1.91
+manje 2.5
+2.12
+više 2.5
+1.61
++630
+Trethomas Bluebirds
+Aberystwyth
+01.11. 15:00
+ki 1
+2.50
+ki X
+3.15
+ki 2
+2.41
+manje 2.5
+1.91
+više 2.5
+1.75
++642
+Ynyshir Albions
+Carmarthen Town
+01.11. 15:00
+ki 1
+4.45
+ki X
+3.95
+ki 2
+1.55
+manje 2.5
+2.22
+više 2.5
+1.55
+ 
+Wales, Cymru North
++643
+Buckley
+Caersws FC
+01.11. 15:00
+ki 1
+1.41
+ki X
+4.45
+ki 2
+5.25
+manje 2.5
+2.90
+više 2.5
+1.33
++639
+Guilsfield
+Flint Mountain
+01.11. 15:00
+ki 1
+1.35
+ki X
+4.80
+ki 2
+5.70
+manje 2.5
+2.75
+više 2.5
+1.37
++648
+Holyhead
+Denbigh
+01.11. 15:00
+ki 1
+3.45
+ki X
+3.95
+ki 2
+1.72
+manje 2.5
+3.03
+više 2.5
+1.31
++635
+Holywell
+Brickfield
+01.11. 15:00
+ki 1
+1.16
+ki X
+5.90
+ki 2
+10.5
+manje 2.5
+2.97
+više 2.5
+1.32
++648
+Rhyl
+Penrhyncoch
+01.11. 15:00
+ki 1
+1.80
+ki X
+3.65
+ki 2
+3.35
+manje 2.5
+2.45
+više 2.5
+1.47
+ 
+International Clubs, UEFA Youth League - Winners Play Offs
++647
+Din. Munsk U19
+Ludogorets U19
+01.11. 15:00
+ki 1
+1.92
+ki X
+3.45
+ki 2
+3.35
+manje 2.5
+2.22
+više 2.5
+1.57
+ 
++3 
+Serbia, U19 League
++39
+FK USCE Novi Beograd U19
+Partizan U19
+01.11. 15:00
+ki 1
+3.25
+ki X
+3.75
+ki 2
+1.82
+manje 2.5
+2.50
+više 2.5
+1.42
+ 
+Lebanon, Premier League
++647
+Al Ahed
+Nejmeh SC
+01.11. 15:15
+ki 1
+2.60
+ki X
+3.10
+ki 2
+2.50
+manje 2.5
+1.73
+više 2.5
+1.95
+ 
+Germany, Bundesliga
++1000
+Heidenheim
+Eintracht Frankfurt
+01.11. 15:30
+ki 1
+4.00
+ki X
+3.90
+ki 2
+1.85
+manje 2.5
+2.62
+više 2.5
+1.50
++991
+Mainz
+Werder Bremen
+01.11. 15:30
+ki 1
+1.92
+ki X
+3.90
+ki 2
+3.65
+manje 2.5
+2.62
+više 2.5
+1.50
++1076
+RB Leipzig
+Stuttgart
+01.11. 15:30
+ki 1
+2.15
+ki X
+3.90
+ki 2
+3.05
+manje 2.5
+2.80
+više 2.5
+1.43
++985
+St. Pauli
+B.M.gladbach
+01.11. 15:30
+ki 1
+2.30
+ki X
+3.40
+ki 2
+3.15
+manje 2.5
+2.00
+više 2.5
+1.82
++962
+Union Berlin
+Freiburg
+01.11. 15:30
+ki 1
+2.63
+ki X
+3.20
+ki 2
+2.80
+manje 2.5
+1.70
+više 2.5
+2.15
+ 
+Hungary, NB I.
++830
+Gyor
+Paks
+01.11. 15:30
+ki 1
+1.93
+ki X
+3.90
+ki 2
+3.15
+manje 2.5
+2.77
+više 2.5
+1.38
+ 
+Slovakia, Nike liga
++829
+Podbrezova
+Slovan Bratislava
+01.11. 15:30
+ki 1
+3.40
+ki X
+3.95
+ki 2
+1.85
+manje 2.5
+2.67
+više 2.5
+1.42
++826
+Presov
+Zilina
+01.11. 15:30
+ki 1
+2.93
+ki X
+3.55
+ki 2
+2.15
+manje 2.5
+2.22
+više 2.5
+1.57
++817
+Skalica
+Ruzomberok
+01.11. 15:30
+ki 1
+2.47
+ki X
+3.05
+ki 2
+2.77
+manje 2.5
+1.65
+više 2.5
+2.10
+ 
+Angola, Girabola
++81
+Redonda
+Academica
+01.11. 15:30
+ki 1
+3.60
+ki X
+2.67
+ki 2
+2.20
+manje 2.5
+1.35
+više 2.5
+2.93
+ 
+Italy, Primavera 2
++649
+Pro Vercelli U19
+Modena U19
+01.11. 15:30
+ki 1
+2.83
+ki X
+3.60
+ki 2
+2.08
+manje 2.5
+2.45
+više 2.5
+1.47
+ 
+Kuwait, Premier League
++643
+Al-Fahaheel
+Kazma SC
+01.11. 15:30
+ki 1
+3.50
+ki X
+3.25
+ki 2
+1.93
+manje 2.5
+1.80
+više 2.5
+1.90
+ 
+Qatar, QSL
++822
+Al Sailiya
+Al Ahli Doha
+01.11. 15:30
+ki 1
+3.25
+ki X
+3.40
+ki 2
+1.97
+manje 2.5
+2.03
+više 2.5
+1.67
+ 
+Spain, Tercera RFEF - Group 15
++637
+Pamplona
+CA Artajones
+01.11. 15:30
+ki 1
+1.57
+ki X
+3.55
+ki 2
+4.80
+manje 2.5
+1.85
+više 2.5
+1.77
++637
+Cortes
+CD Ardoi
+01.11. 15:30
+ki 1
+1.83
+ki X
+3.05
+ki 2
+3.90
+manje 2.5
+1.52
+više 2.5
+2.25
+ 
+Wales, Cymru Premier
++820
+Caernarfon
+Briton Ferry
+01.11. 15:30
+ki 1
+1.27
+ki X
+5.60
+ki 2
+7.10
+manje 2.5
+3.10
+više 2.5
+1.31
++821
+Cardiff Metropolitan
+Connahs Q.
+01.11. 15:30
+ki 1
+3.75
+ki X
+3.45
+ki 2
+1.82
+manje 2.5
+1.97
+više 2.5
+1.73
++821
+Flint
+Penybont
+01.11. 15:30
+ki 1
+3.70
+ki X
+3.75
+ki 2
+1.75
+manje 2.5
+2.08
+više 2.5
+1.65
++811
+Haverfordwest
+TNS
+01.11. 15:30
+ki 1
+9.00
+ki X
+5.40
+ki 2
+1.23
+manje 2.5
+2.45
+više 2.5
+1.47
+ 
+Saudi Arabia, Saudi Professional League
++826
+Al Khaleej
+Al Ittihad Jeddah
+01.11. 15:35
+ki 1
+2.93
+ki X
+3.70
+ki 2
+2.02
+manje 2.5
+2.37
+više 2.5
+1.50
+ 
+Russia, Premier League
++807
+Dynamo Makhachkala
+Krylya Sovetov
+01.11. 15:45
+ki 1
+2.20
+ki X
+3.00
+ki 2
+3.65
+manje 2.5
+1.50
+više 2.5
+2.45
++821
+Rubin Kazan
+Dynamo Moscow
+01.11. 15:45
+ki 1
+3.40
+ki X
+3.30
+ki 2
+2.15
+manje 2.5
+1.90
+više 2.5
+1.82
+ 
+Spain, Youth League
++82
+Real Oviedo U19
+Racing Santander U19
+01.11. 15:45
+ki 1
+2.15
+ki X
+3.15
+ki 2
+2.90
+manje 2.5
+1.90
+više 2.5
+1.72
+ 
++3 
+Serbia, U19 League
++39
+FK Vozdovac U19
+Novi Pazar U19
+01.11. 15:45
+ki 1
+1.63
+ki X
+4.10
+ki 2
+3.65
+manje 2.5
+2.50
+više 2.5
+1.43
+ 
+England, Premier League
++1054
+Brighton
+Leeds
+01.11. 16:00
+ki 1
+2.00
+ki X
+3.60
+ki 2
+3.70
+manje 2.5
+1.95
+više 2.5
+1.87
++1038
+Burnley
+Arsenal
+01.11. 16:00
+ki 1
+13.0
+ki X
+5.50
+ki 2
+1.26
+manje 2.5
+2.03
+više 2.5
+1.80
++984
+Crystal Palace
+Brentford
+01.11. 16:00
+ki 1
+2.10
+ki X
+3.40
+ki 2
+3.55
+manje 2.5
+1.92
+više 2.5
+1.88
++986
+Fulham
+Wolves
+01.11. 16:00
+ki 1
+1.80
+ki X
+3.50
+ki 2
+4.85
+manje 2.5
+1.85
+više 2.5
+1.95
++973
+Nottingham
+Manchester Utd
+01.11. 16:00
+ki 1
+3.35
+ki X
+3.50
+ki 2
+2.15
+manje 2.5
+2.08
+više 2.5
+1.75
+ 
+Serbia, Super Liga
++806
+Javor
+Sp. Subotica
+01.11. 16:00
+ki 1
+1.90
+ki X
+3.15
+ki 2
+4.10
+manje 2.5
+1.52
+više 2.5
+2.35
+ 
+England, FA Cup
++822
+AFC Wimbledon
+Gateshead
+01.11. 16:00
+ki 1
+1.37
+ki X
+5.10
+ki 2
+7.00
+manje 2.5
+2.57
+više 2.5
+1.45
++829
+Barnsley
+York
+01.11. 16:00
+ki 1
+1.85
+ki X
+3.95
+ki 2
+3.60
+manje 2.5
+2.57
+više 2.5
+1.45
++819
+Blackpool
+Scunthorpe
+01.11. 16:00
+ki 1
+1.75
+ki X
+3.60
+ki 2
+4.50
+manje 2.5
+1.97
+više 2.5
+1.77
++822
+Bolton
+Huddersfield
+01.11. 16:00
+ki 1
+1.85
+ki X
+3.60
+ki 2
+3.95
+manje 2.5
+1.97
+više 2.5
+1.75
++824
+Boreham Wood
+Crawley
+01.11. 16:00
+ki 1
+2.57
+ki X
+3.60
+ki 2
+2.47
+manje 2.5
+2.22
+više 2.5
+1.60
++817
+Bromley
+Bristol Rovers
+01.11. 16:00
+ki 1
+1.95
+ki X
+3.45
+ki 2
+3.70
+manje 2.5
+1.82
+više 2.5
+1.90
++813
+Burton
+St. Albans
+01.11. 16:00
+ki 1
+1.28
+ki X
+5.50
+ki 2
+9.25
+manje 2.5
+2.47
+više 2.5
+1.48
++823
+Buxton
+Chatham Town
+01.11. 16:00
+ki 1
+2.02
+ki X
+3.65
+ki 2
+3.30
+manje 2.5
+2.05
+više 2.5
+1.70
++815
+Cambridge Utd
+Chester
+01.11. 16:00
+ki 1
+1.35
+ki X
+4.95
+ki 2
+7.70
+manje 2.5
+2.30
+više 2.5
+1.55
++815
+Cheltenham
+Bradford
+01.11. 16:00
+ki 1
+5.00
+ki X
+3.75
+ki 2
+1.65
+manje 2.5
+1.97
+više 2.5
+1.77
++824
+Colchester
+MK Dons
+01.11. 16:00
+ki 1
+2.27
+ki X
+3.50
+ki 2
+2.88
+manje 2.5
+2.15
+više 2.5
+1.65
++823
+Crewe
+Doncaster
+01.11. 16:00
+ki 1
+3.20
+ki X
+3.45
+ki 2
+2.15
+manje 2.5
+2.07
+više 2.5
+1.70
++822
+FC Halifax
+Exeter
+01.11. 16:00
+ki 1
+3.45
+ki X
+3.55
+ki 2
+2.00
+manje 2.5
+1.95
+više 2.5
+1.77
++821
+Fleetwood
+Barnet
+01.11. 16:00
+ki 1
+3.25
+ki X
+3.20
+ki 2
+2.22
+manje 2.5
+1.85
+više 2.5
+1.85
++815
+Grimsby
+Ebbsfleet
+01.11. 16:00
+ki 1
+1.38
+ki X
+4.75
+ki 2
+7.50
+manje 2.5
+2.30
+više 2.5
+1.57
++822
+Macclesfield
+AFC Totton
+01.11. 16:00
+ki 1
+2.05
+ki X
+3.50
+ki 2
+3.40
+manje 2.5
+2.03
+više 2.5
+1.71
++822
+Mansfield
+Harrogate
+01.11. 16:00
+ki 1
+1.48
+ki X
+4.40
+ki 2
+5.90
+manje 2.5
+2.27
+više 2.5
+1.57
++817
+Newport Co
+Gillingham
+01.11. 16:00
+ki 1
+3.70
+ki X
+3.35
+ki 2
+2.00
+manje 2.5
+1.77
+više 2.5
+1.95
++816
+Oldham
+Northampton
+01.11. 16:00
+ki 1
+2.62
+ki X
+3.10
+ki 2
+2.73
+manje 2.5
+1.65
+više 2.5
+2.12
++824
+Peterborough
+Cardiff
+01.11. 16:00
+ki 1
+3.20
+ki X
+3.55
+ki 2
+2.10
+manje 2.5
+2.15
+više 2.5
+1.65
++823
+Reading
+Carlisle
+01.11. 16:00
+ki 1
+1.72
+ki X
+3.85
+ki 2
+4.40
+manje 2.5
+2.15
+više 2.5
+1.63
++823
+Rotherham
+Swindon
+01.11. 16:00
+ki 1
+2.20
+ki X
+3.45
+ki 2
+3.10
+manje 2.5
+2.05
+više 2.5
+1.70
++824
+Salford
+Lincoln
+01.11. 16:00
+ki 1
+2.75
+ki X
+3.35
+ki 2
+2.45
+manje 2.5
+1.95
+više 2.5
+1.77
++824
+Slough
+Altrincham
+01.11. 16:00
+ki 1
+4.25
+ki X
+4.00
+ki 2
+1.71
+manje 2.5
+2.30
+više 2.5
+1.55
++819
+Spennymoor
+Barrow
+01.11. 16:00
+ki 1
+4.33
+ki X
+3.55
+ki 2
+1.80
+manje 2.5
+1.93
+više 2.5
+1.80
++823
+Stevenage
+Chesterfield
+01.11. 16:00
+ki 1
+1.70
+ki X
+3.90
+ki 2
+4.40
+manje 2.5
+2.10
+više 2.5
+1.67
++826
+Sutton
+AFC Telford
+01.11. 16:00
+ki 1
+2.20
+ki X
+3.60
+ki 2
+2.97
+manje 2.5
+2.25
+više 2.5
+1.57
++824
+Tranmere
+Stockport
+01.11. 16:00
+ki 1
+4.10
+ki X
+3.80
+ki 2
+1.77
+manje 2.5
+2.25
+više 2.5
+1.60
++823
+Wealdstone
+Southend
+01.11. 16:00
+ki 1
+3.95
+ki X
+3.65
+ki 2
+1.85
+manje 2.5
+2.12
+više 2.5
+1.65
++823
+Weston-super-Mare
+Aldershot
+01.11. 16:00
+ki 1
+2.20
+ki X
+3.40
+ki 2
+3.15
+manje 2.5
+2.07
+više 2.5
+1.70
++823
+Wigan
+Hemel Hempstead
+01.11. 16:00
+ki 1
+1.41
+ki X
+4.90
+ki 2
+6.40
+manje 2.5
+2.40
+više 2.5
+1.52
++819
+Wycombe
+Plymouth
+01.11. 16:00
+ki 1
+1.75
+ki X
+3.60
+ki 2
+4.55
+manje 2.5
+1.97
+više 2.5
+1.77
+ 
+Croatia, HNL
++811
+D. Zagreb
+Rijeka
+01.11. 16:00
+ki 1
+1.53
+ki X
+3.90
+ki 2
+5.70
+manje 2.5
+1.80
+više 2.5
+1.91
+ 
+Belgium, Jupiler Pro League
++973
+Waregem
+Royale Union SG
+01.11. 16:00
+ki 1
+4.65
+ki X
+4.05
+ki 2
+1.65
+manje 2.5
+2.15
+više 2.5
+1.65
+ 
+Norway, Eliteserien
++835
+Valerenga
+Bodo/Glimt
+01.11. 16:00
+ki 1
+5.10
+ki X
+4.85
+ki 2
+1.50
+manje 2.5
+3.60
+više 2.5
+1.25
+ 
+Scotland, Premiership
++819
+Falkirk
+Kilmarnock
+01.11. 16:00
+ki 1
+1.93
+ki X
+3.55
+ki 2
+3.70
+manje 2.5
+1.91
+više 2.5
+1.81
++808
+Hearts
+Dundee FC
+01.11. 16:00
+ki 1
+1.25
+ki X
+5.75
+ki 2
+10.5
+manje 2.5
+2.25
+više 2.5
+1.57
++821
+Livingston
+Hibernian
+01.11. 16:00
+ki 1
+3.75
+ki X
+3.55
+ki 2
+1.91
+manje 2.5
+1.97
+više 2.5
+1.75
+ 
+England, Championship
++913
+Birmingham
+Portsmouth
+01.11. 16:00
+ki 1
+1.77
+ki X
+3.55
+ki 2
+4.95
+manje 2.5
+1.77
+više 2.5
+2.07
++977
+Charlton
+Swansea
+01.11. 16:00
+ki 1
+2.20
+ki X
+3.10
+ki 2
+3.70
+manje 2.5
+1.55
+više 2.5
+2.47
++983
+Oxford Utd
+Millwall
+01.11. 16:00
+ki 1
+2.70
+ki X
+3.15
+ki 2
+2.75
+manje 2.5
+1.67
+više 2.5
+2.22
++991
+QPR
+Ipswich
+01.11. 16:00
+ki 1
+3.40
+ki X
+3.35
+ki 2
+2.20
+manje 2.5
+1.93
+više 2.5
+1.87
++910
+Sheffield Utd
+Derby
+01.11. 16:00
+ki 1
+1.83
+ki X
+3.30
+ki 2
+4.95
+manje 2.5
+1.67
+više 2.5
+2.22
++986
+Southampton
+Preston
+01.11. 16:00
+ki 1
+1.80
+ki X
+3.50
+ki 2
+4.85
+manje 2.5
+1.87
+više 2.5
+1.95
++913
+Stoke
+Bristol City
+01.11. 16:00
+ki 1
+2.45
+ki X
+3.15
+ki 2
+3.10
+manje 2.5
+1.75
+više 2.5
+2.10
++989
+Watford
+Middlesbrough
+01.11. 16:00
+ki 1
+2.63
+ki X
+3.30
+ki 2
+2.73
+manje 2.5
+1.83
+više 2.5
+1.97
+ 
+Armenia, Premier League
++818
+Noah
+Ararat-Armenia
+01.11. 16:00
+ki 1
+1.67
+ki X
+3.65
+ki 2
+4.20
+manje 2.5
+2.08
+više 2.5
+1.65
+ 
+Belarus, Pershaya Liga
++639
+Din. Minsk 2
+Dnepr Mogilev
+01.11. 16:00
+ki 1
+5.45
+ki X
+4.15
+ki 2
+1.42
+manje 2.5
+2.30
+više 2.5
+1.48
+ 
+Belgium, Challenger Pro League
++824
+Gent U23
+Eupen
+01.11. 16:00
+ki 1
+2.55
+ki X
+3.25
+ki 2
+2.57
+manje 2.5
+1.85
+više 2.5
+1.85
+ 
+Belgium, Belgian Cup Women
++646
+Club Brugge Wom.
+Leuven Wom.
+01.11. 16:00
+ki 1
+2.63
+ki X
+3.50
+ki 2
+2.25
+manje 2.5
+2.15
+više 2.5
+1.60
++618
+Waregem Wom.
+Tienen Wom.
+01.11. 16:00
+ki 1
+1.02
+ki X
+10.5
+ki 2
+28.0
+manje 2.5
+3.45
+više 2.5
+1.25
+ 
+Cyprus, Cyprus League
++814
+Omonia Aradippou
+Ol. Nicosia
+01.11. 16:00
+ki 1
+2.37
+ki X
+3.03
+ki 2
+2.97
+manje 2.5
+1.61
+više 2.5
+2.15
+ 
+Egypt, Premier League
++630
+Ghazl El Mahallah
+Future FC
+01.11. 16:00
+ki 1
+3.25
+ki X
+2.73
+ki 2
+2.30
+manje 2.5
+1.33
+više 2.5
+2.97
+ 
+England, National League North
++811
+Alfreton
+Kidderminster
+01.11. 16:00
+ki 1
+4.10
+ki X
+3.15
+ki 2
+1.82
+manje 2.5
+1.60
+više 2.5
+2.20
++826
+Hereford
+Curzon Ashton
+01.11. 16:00
+ki 1
+2.08
+ki X
+3.55
+ki 2
+2.88
+manje 2.5
+2.30
+više 2.5
+1.52
++820
+Marine
+AFC Fylde
+01.11. 16:00
+ki 1
+3.40
+ki X
+3.50
+ki 2
+1.88
+manje 2.5
+2.00
+više 2.5
+1.71
++829
+Merthyr Town
+Darlington
+01.11. 16:00
+ki 1
+2.15
+ki X
+3.65
+ki 2
+2.73
+manje 2.5
+2.55
+više 2.5
+1.45
++823
+Oxford City
+Bedford
+01.11. 16:00
+ki 1
+2.15
+ki X
+3.40
+ki 2
+2.85
+manje 2.5
+2.12
+više 2.5
+1.62
++821
+Peterborough Sports
+Chorley
+01.11. 16:00
+ki 1
+3.05
+ki X
+3.50
+ki 2
+2.03
+manje 2.5
+2.07
+više 2.5
+1.67
++823
+Southport
+King’s Lynn
+01.11. 16:00
+ki 1
+2.50
+ki X
+3.15
+ki 2
+2.55
+manje 2.5
+1.82
+više 2.5
+1.87
++822
+Worksop
+Scarborough
+01.11. 16:00
+ki 1
+2.45
+ki X
+3.40
+ki 2
+2.45
+manje 2.5
+2.12
+više 2.5
+1.62
+ 
+England, National League South
++812
+Bath
+Horsham FC
+01.11. 16:00
+ki 1
+2.63
+ki X
+2.97
+ki 2
+2.55
+manje 2.5
+1.61
+više 2.5
+2.15
++811
+Chesham
+Chippenham
+01.11. 16:00
+ki 1
+1.55
+ki X
+3.65
+ki 2
+5.25
+manje 2.5
+1.85
+više 2.5
+1.83
++819
+Dag & Red
+Farnborough
+01.11. 16:00
+ki 1
+2.10
+ki X
+3.20
+ki 2
+3.15
+manje 2.5
+1.85
+više 2.5
+1.83
++823
+Enfield Town
+Eastbourne Boro
+01.11. 16:00
+ki 1
+2.75
+ki X
+3.30
+ki 2
+2.27
+manje 2.5
+2.00
+više 2.5
+1.70
++808
+Maidstone
+Tonbridge
+01.11. 16:00
+ki 1
+1.45
+ki X
+3.90
+ki 2
+6.10
+manje 2.5
+1.85
+više 2.5
+1.82
++818
+Salisbury
+Dorking
+01.11. 16:00
+ki 1
+3.40
+ki X
+3.40
+ki 2
+1.92
+manje 2.5
+1.95
+više 2.5
+1.73
++821
+Torquay
+Hornchurch
+01.11. 16:00
+ki 1
+2.20
+ki X
+3.20
+ki 2
+2.95
+manje 2.5
+1.83
+više 2.5
+1.85
+ 
+England, Southern League Premier Central
++821
+AFC Sudbury
+Worcester City
+01.11. 16:00
+ki 1
+3.05
+ki X
+3.40
+ki 2
+2.05
+manje 2.5
+2.03
+više 2.5
+1.67
++822
+Alvechurch
+Spalding United
+01.11. 16:00
+ki 1
+2.85
+ki X
+3.30
+ki 2
+2.20
+manje 2.5
+1.95
+više 2.5
+1.75
++821
+Barwell
+Redditch
+01.11. 16:00
+ki 1
+2.88
+ki X
+3.20
+ki 2
+2.22
+manje 2.5
+1.88
+više 2.5
+1.81
++825
+Bishop's Stortford
+Quorn
+01.11. 16:00
+ki 1
+2.30
+ki X
+3.60
+ki 2
+2.50
+manje 2.5
+2.30
+više 2.5
+1.53
++825
+Bromsgrove
+Leiston
+01.11. 16:00
+ki 1
+2.70
+ki X
+3.70
+ki 2
+2.12
+manje 2.5
+2.30
+više 2.5
+1.53
++821
+Bury Town
+Banbury
+01.11. 16:00
+ki 1
+2.75
+ki X
+3.30
+ki 2
+2.27
+manje 2.5
+1.88
+više 2.5
+1.80
++823
+Halesowen
+Needham Market
+01.11. 16:00
+ki 1
+2.37
+ki X
+3.35
+ki 2
+2.55
+manje 2.5
+2.00
+više 2.5
+1.71
++820
+Kettering
+St Ives
+01.11. 16:00
+ki 1
+1.75
+ki X
+3.50
 ki 2
 3.95
 manje 2.5
 2.05
 više 2.5
+1.67
++817
+Royston
+Harborough
+01.11. 16:00
+ki 1
+4.45
+ki X
+3.65
+ki 2
+1.63
+manje 2.5
+2.05
+više 2.5
+1.67
++820
+Stourbridge
+Stamford
+01.11. 16:00
+ki 1
+1.82
+ki X
+3.60
+ki 2
+3.55
+manje 2.5
+1.95
+više 2.5
+1.73
++823
+Stratford
+Real Bedford
+01.11. 16:00
+ki 1
+2.47
+ki X
+3.55
+ki 2
+2.37
+manje 2.5
+2.20
+više 2.5
+1.60
+ 
+England, Southern League South Division
++830
+Basingstoke
+Farnham
+01.11. 16:00
+ki 1
+2.67
+ki X
+3.75
+ki 2
+2.12
+manje 2.5
+2.77
+više 2.5
+1.38
++824
+Berkhamsted
+Havant & W
+01.11. 16:00
+ki 1
+2.65
+ki X
+3.50
+ki 2
+2.22
+manje 2.5
+2.30
+više 2.5
+1.53
++824
+Bracknell
+Dorchester
+01.11. 16:00
+ki 1
+2.35
+ki X
+3.50
+ki 2
+2.55
+manje 2.5
+2.27
+više 2.5
+1.55
++823
+Hanwell Town
+Taunton
+01.11. 16:00
+ki 1
+2.10
+ki X
+3.45
+ki 2
+2.93
+manje 2.5
+2.15
+više 2.5
+1.61
++824
+Plymouth Parkway
+Evesham
+01.11. 16:00
+ki 1
+2.12
+ki X
+3.50
+ki 2
+2.83
+manje 2.5
+2.22
+više 2.5
+1.57
++824
+Poole
+Gosport
+01.11. 16:00
+ki 1
+2.15
+ki X
+3.45
+ki 2
+2.80
+manje 2.5
+2.15
+više 2.5
+1.60
++824
+Sholing
+Hungerford
+01.11. 16:00
+ki 1
+1.81
+ki X
+3.60
+ki 2
+3.60
+manje 2.5
+2.15
+više 2.5
+1.61
++825
+Uxbridge
+Gloucester
+01.11. 16:00
+ki 1
+3.03
+ki X
+3.60
+ki 2
+2.00
+manje 2.5
+2.30
+više 2.5
+1.53
++817
+Walton & Hersham
+Tiverton
+01.11. 16:00
+ki 1
+1.27
+ki X
+5.30
+ki 2
+7.50
+manje 2.5
+2.83
+više 2.5
+1.36
++825
+Weymouth
+Yate Town
+01.11. 16:00
+ki 1
+1.97
+ki X
+3.55
+ki 2
+3.10
+manje 2.5
+2.22
+više 2.5
+1.57
++823
+Wimborne
+Chertsey
+01.11. 16:00
+ki 1
+2.25
+ki X
+3.30
+ki 2
+2.75
+manje 2.5
+2.03
+više 2.5
+1.67
+ 
+England, NPL Premier Division
++821
+Ashton Utd
+Cleethorpes
+01.11. 16:00
+ki 1
+2.30
+ki X
+3.10
+ki 2
+2.80
+manje 2.5
+1.73
+više 2.5
+1.97
++822
+Bamber Bridge
+FC United
+01.11. 16:00
+ki 1
+2.40
+ki X
+3.30
+ki 2
+2.57
+manje 2.5
+1.80
+više 2.5
+1.88
++821
+Guiseley
+Hednesford
+01.11. 16:00
+ki 1
+2.37
+ki X
+3.25
+ki 2
+2.62
+manje 2.5
+1.75
+više 2.5
+1.93
++821
+Hebburn Town
+Warrington
+01.11. 16:00
+ki 1
+2.15
+ki X
+3.30
+ki 2
+2.93
+manje 2.5
+1.88
+više 2.5
+1.80
++821
+Hyde
+Morpeth
+01.11. 16:00
+ki 1
+2.02
+ki X
+3.40
+ki 2
+3.10
+manje 2.5
+2.08
+više 2.5
+1.65
++815
+Lancaster
+Whitby
+01.11. 16:00
+ki 1
+1.92
+ki X
+3.30
+ki 2
+3.50
+manje 2.5
+1.80
+više 2.5
+1.90
++821
+Rushall
+Prescot Cables
+01.11. 16:00
+ki 1
+2.30
+ki X
+3.15
+ki 2
+2.80
+manje 2.5
+1.80
+više 2.5
+1.90
++821
+Rylands
+Leek Town
+01.11. 16:00
+ki 1
+1.80
+ki X
+3.55
+ki 2
+3.65
+manje 2.5
+2.02
+više 2.5
 1.70
++821
+Stocksbridge
+Workington
+01.11. 16:00
+ki 1
+1.75
+ki X
+3.60
+ki 2
+3.85
+manje 2.5
+2.03
+više 2.5
+1.67
++821
+Stockton Town
+Ilkeston
+01.11. 16:00
+ki 1
+1.83
+ki X
+3.50
+ki 2
+3.65
+manje 2.5
+1.95
+više 2.5
+1.73
+ 
+England, Isthmian League Premier Division
++829
+Aveley
+Ramsgate
+01.11. 16:00
+ki 1
+2.03
+ki X
+3.75
+ki 2
+2.85
+manje 2.5
+2.45
+više 2.5
+1.47
++822
+Brentwood
+Wingate & Finchley
+01.11. 16:00
+ki 1
+1.57
+ki X
+4.10
+ki 2
+4.45
+manje 2.5
+2.30
+više 2.5
+1.52
++824
+Burgess Hill Town
+Canvey
+01.11. 16:00
+ki 1
+1.83
+ki X
+3.65
+ki 2
+3.45
+manje 2.5
+2.15
+više 2.5
+1.62
++829
+Carshalton Ath
+Potters Bar
+01.11. 16:00
+ki 1
+1.80
+ki X
+3.85
+ki 2
+3.40
+manje 2.5
+2.50
+više 2.5
+1.45
++825
+Cheshunt
+Cray Wanderers
+01.11. 16:00
+ki 1
+2.03
+ki X
+3.50
+ki 2
+3.00
+manje 2.5
+2.22
+više 2.5
+1.57
++823
+Chichester
+Dulwich Hamlet
+01.11. 16:00
+ki 1
+2.08
+ki X
+3.45
+ki 2
+2.93
+manje 2.5
+2.15
+više 2.5
+1.60
++825
+Cray Valley
+Lewes
+01.11. 16:00
+ki 1
+1.77
+ki X
+3.70
+ki 2
+3.70
+manje 2.5
+2.27
+više 2.5
+1.55
++826
+Dartford
+Welling
+01.11. 16:00
+ki 1
+1.50
+ki X
+4.20
+ki 2
+4.85
+manje 2.5
+2.50
+više 2.5
+1.45
++826
+Folkestone
+Billericay
+01.11. 16:00
+ki 1
+2.10
+ki X
+3.50
+ki 2
+2.88
+manje 2.5
+2.25
+više 2.5
+1.55
+ 
+England, Northern League Division One
++649
+Boldmere St Michaels
+AFC Rushden & Diamonds
+01.11. 16:00
+ki 1
+2.93
+ki X
+3.60
+ki 2
+2.03
+manje 2.5
+2.41
+više 2.5
+1.48
++646
+Loughborough Students
+St. Neots
+01.11. 16:00
+ki 1
+2.20
+ki X
+3.40
+ki 2
+2.75
+manje 2.5
+2.15
+više 2.5
+1.61
++647
+Mossley
+Stafford Rangers
+01.11. 16:00
+ki 1
+2.30
+ki X
+3.15
+ki 2
+2.77
+manje 2.5
+1.80
+više 2.5
+1.88
+ 
+Germany, Oberliga Bayern Nord
++82
+Regensburg II
+Wurzburger FV
+01.11. 16:00
+ki 1
+1.55
+ki X
+4.33
+ki 2
+4.35
+manje 2.5
+3.05
+više 2.5
+1.29
+ 
+Germany, Bundesliga Women
++641
+Wolfsburg Wom.
+Hoffenheim Wom.
+01.11. 16:00
+ki 1
+1.33
+ki X
+4.85
+ki 2
+6.50
+manje 2.5
+2.83
+više 2.5
+1.37
+ 
+Morocco, Botola 2
++632
+Chabab Benguerir
+USM Oujda
+01.11. 16:00
+ki 1
+2.15
+ki X
+2.77
+ki 2
+3.50
+manje 2.5
+1.36
+više 2.5
+2.85
+ 
+Nigeria, NPFL
++80
+Bendel
+Warri Wolves
+01.11. 16:00
+ki 1
+1.70
+ki X
+3.20
+ki 2
+4.80
+manje 2.5
+1.53
+više 2.5
+2.22
+ 
+Northern Ireland, NIFL Premiership
++799
+Coleraine
+Glenavon FC
+01.11. 16:00
+ki 1
+1.18
+ki X
+6.10
+ki 2
+13.0
+manje 2.5
+2.47
+više 2.5
+1.47
++821
+Dungannon
+Crusaders
+01.11. 16:00
+ki 1
+2.08
+ki X
+3.30
+ki 2
+3.25
+manje 2.5
+1.91
+više 2.5
+1.80
+ 
+Northern Ireland, NIFL Championship
++820
+Institute
+Armagh
+01.11. 16:00
+ki 1
+1.83
+ki X
+3.55
+ki 2
+3.60
+manje 2.5
+2.07
+više 2.5
+1.65
++813
+Limavady
+Warrenpoint Town
+01.11. 16:00
+ki 1
+1.57
+ki X
+3.75
+ki 2
+4.70
+manje 2.5
+2.07
+više 2.5
+1.65
++822
+Loughgall
+Annagh
+01.11. 16:00
+ki 1
+2.62
+ki X
+3.15
+ki 2
+2.45
+manje 2.5
+1.82
+više 2.5
+1.85
++828
+Newington
+H&W Welders
+01.11. 16:00
+ki 1
+2.35
+ki X
+3.60
+ki 2
+2.47
+manje 2.5
+2.50
+više 2.5
+1.45
+ 
+Norway, OBOS Ligaen
++817
+Aalesund
+Asane
+01.11. 16:00
+ki 1
+1.29
+ki X
+5.30
+ki 2
+8.05
+manje 2.5
+2.83
+više 2.5
+1.37
++819
+Egersund
+Hodd
+01.11. 16:00
+ki 1
+1.57
+ki X
+3.95
+ki 2
+5.10
+manje 2.5
+2.15
+više 2.5
+1.63
++833
+Kongsvinger
+Lillestrom
+01.11. 16:00
+ki 1
+3.03
+ki X
+4.00
+ki 2
+1.97
+manje 2.5
+3.03
+više 2.5
+1.33
++829
+Odd
+Sogndal
+01.11. 16:00
+ki 1
+2.47
+ki X
+3.70
+ki 2
+2.40
+manje 2.5
+2.55
+više 2.5
+1.45
++818
+Ranheim
+Skeid
+01.11. 16:00
+ki 1
+1.25
+ki X
+5.60
+ki 2
+9.00
+manje 2.5
+2.93
+više 2.5
+1.35
++822
+Start
+Moss
+01.11. 16:00
+ki 1
+1.40
+ki X
+4.75
+ki 2
+6.25
+manje 2.5
+2.67
+više 2.5
+1.41
+ 
+Portugal, Liga 3
++639
+Academica
+Caldas
+01.11. 16:00
+ki 1
+1.91
+ki X
+3.25
+ki 2
+3.60
+manje 2.5
+1.71
+više 2.5
+2.00
++636
+Lusitano Evora 1911
+1* Dezembro
+01.11. 16:00
+ki 1
+1.71
+ki X
+3.30
+ki 2
+4.50
+manje 2.5
+1.70
+više 2.5
+2.02
++632
+Varzim
+AD Marco 09
+01.11. 16:00
+ki 1
+1.81
+ki X
+3.15
+ki 2
+4.10
+manje 2.5
+1.60
+više 2.5
+2.15
+ 
+Portugal, League U19
++80
+Benfica U19
+Academico Viseu U19
+01.11. 16:00
+ki 1
+1.30
+ki X
+4.55
+ki 2
+7.00
+manje 2.5
+2.35
+više 2.5
+1.47
++79
+Gil Vicente U19
+Chaves U19
+01.11. 16:00
+ki 1
+1.22
+ki X
+5.10
+ki 2
+8.75
+manje 2.5
+2.45
+više 2.5
+1.43
++82
+UD Leiria U19
+Santa Clara U19
+01.11. 16:00
+ki 1
+3.05
+ki X
+3.55
+ki 2
+1.92
+manje 2.5
+2.07
+više 2.5
+1.60
++82
+Belenenses U19
+Mafra U19
+01.11. 16:00
+ki 1
+2.40
+ki X
+3.15
+ki 2
+2.55
+manje 2.5
+1.88
+više 2.5
+1.73
+ 
+Russia, FNL 2 - Division B - Group 3
++40
+Oryol
+Ryazan
+01.11. 16:00
+ki 1
+2.20
+ki X
+3.20
+ki 2
+2.97
+manje 2.5
+1.85
+više 2.5
+1.83
+ 
+Scotland, Championship
++821
+Arbroath
+Ross County
+01.11. 16:00
+ki 1
+3.05
+ki X
+3.20
+ki 2
+2.22
+manje 2.5
+1.83
+više 2.5
+1.87
++809
+Partick Thistle
+Queen's Park
+01.11. 16:00
+ki 1
+1.48
+ki X
+3.90
+ki 2
+6.40
+manje 2.5
+1.85
+više 2.5
+1.85
++814
+Raith
+Morton
+01.11. 16:00
+ki 1
+1.85
+ki X
+3.25
+ki 2
+4.15
+manje 2.5
+1.67
+više 2.5
+2.05
++802
+St Johnstone
+Airdrieonians
+01.11. 16:00
+ki 1
+1.21
+ki X
+5.60
+ki 2
+11.5
+manje 2.5
+2.25
+više 2.5
+1.57
+ 
+Scotland, League One
++812
+Alloa
+Kelty Hearts
+01.11. 16:00
+ki 1
+1.55
+ki X
+3.75
+ki 2
+5.10
+manje 2.5
+1.97
+više 2.5
+1.72
++823
+Cove Rangers
+Peterhead
+01.11. 16:00
+ki 1
+2.55
+ki X
+3.20
+ki 2
+2.47
+manje 2.5
+1.87
+više 2.5
+1.82
++822
+East Fife
+Hamilton
+01.11. 16:00
+ki 1
+2.88
+ki X
+3.30
+ki 2
+2.20
+manje 2.5
+2.00
+više 2.5
+1.71
++813
+Inverness
+Montrose
+01.11. 16:00
+ki 1
+1.36
+ki X
+4.40
+ki 2
+6.75
+manje 2.5
+2.20
+više 2.5
+1.57
++819
+Queen of South
+Stenhousemuir
+01.11. 16:00
+ki 1
+2.30
+ki X
+3.05
+ki 2
+2.88
+manje 2.5
+1.71
+više 2.5
+2.00
+ 
+Scotland, League Two
++825
+Clyde
+Dumbarton
+01.11. 16:00
+ki 1
+2.07
+ki X
+3.50
+ki 2
+2.95
+manje 2.5
+2.20
+više 2.5
+1.57
++821
+Elgin City
+Annan
+01.11. 16:00
+ki 1
+2.10
+ki X
+3.30
+ki 2
+3.03
+manje 2.5
+2.00
+više 2.5
+1.70
++824
+Spartans
+East Kilbride
+01.11. 16:00
+ki 1
+2.35
+ki X
+3.50
+ki 2
+2.50
+manje 2.5
+2.27
+više 2.5
+1.55
++827
+Stirling
+Edinburgh City
+01.11. 16:00
+ki 1
+3.15
+ki X
+3.70
+ki 2
+1.93
+manje 2.5
+2.37
+više 2.5
+1.50
++808
+Stranraer
+Forfar Athletic
+01.11. 16:00
+ki 1
+3.00
+ki X
+3.00
+ki 2
+2.25
+manje 2.5
+1.62
+više 2.5
+2.12
+ 
+Spain, Primera RFEF - Group 1
++642
+Ath Bilbao B
+Unionistas
+01.11. 16:00
+ki 1
+2.02
+ki X
+3.05
+ki 2
+3.50
+manje 2.5
+1.57
+više 2.5
+2.22
++642
+Guadalajara
+Merida AD
+01.11. 16:00
+ki 1
+2.25
+ki X
+2.97
+ki 2
+3.05
+manje 2.5
+1.57
+više 2.5
+2.20
+ 
+Spain, Primera RFEF - Group 2
++640
+Torremolinos
+Sabadell
+01.11. 16:00
+ki 1
+3.15
+ki X
+2.88
+ki 2
+2.25
+manje 2.5
+1.47
+više 2.5
+2.47
+ 
+Spain, Tercera RFEF - Group 4
++644
+Aurrera de Vitoria
+Eibar C
+01.11. 16:00
+ki 1
+1.90
+ki X
+3.40
+ki 2
+3.25
+manje 2.5
+2.03
+više 2.5
+1.63
+ 
+Spain, Tercera RFEF - Group 6
++636
+Recambios Colon
+CD Roda
+01.11. 16:00
+ki 1
+2.57
+ki X
+2.83
+ki 2
+2.60
+manje 2.5
+1.47
+više 2.5
+2.37
++635
+Levante B
+UD Alzira
+01.11. 16:00
+ki 1
+1.50
+ki X
+3.50
+ki 2
+5.80
+manje 2.5
+1.65
+više 2.5
+2.00
+ 
+Spain, Tercera RFEF - Group 8
++643
+Salamanca II
+Almazan
+01.11. 16:00
+ki 1
+2.30
+ki X
+2.97
+ki 2
+2.80
+manje 2.5
+1.65
+više 2.5
+2.00
+ 
+Spain, Tercera RFEF - Group 11
++638
+Llosetense
+Pena Deportiva
+01.11. 16:00
+ki 1
+3.95
+ki X
+3.10
+ki 2
+1.80
+manje 2.5
+1.62
+više 2.5
+2.05
+ 
+Spain, Tercera RFEF - Group 16
++637
+Yague
+San Marcial
+01.11. 16:00
+ki 1
+1.50
+ki X
+3.70
+ki 2
+5.25
+manje 2.5
+2.03
+više 2.5
+1.65
+ 
+Spain, Tercera RFEF - Group 17
++634
+CD Belchite 97
+Atletico Monzon
+01.11. 16:00
+ki 1
+3.75
+ki X
+2.97
+ki 2
+1.90
+manje 2.5
+1.45
+više 2.5
+2.45
+ 
+Spain, Primera Division Women
++619
+Eibar Wom.
+Dep. La Coruna Wom.
+01.11. 16:00
+ki 1
+2.65
+ki X
+2.90
+ki 2
+2.57
+manje 2.5
+1.50
+više 2.5
+2.30
++641
+Madrid C. Wom.
+Granada Wom.
+01.11. 16:00
+ki 1
+1.70
+ki X
+3.50
+ki 2
+4.20
+manje 2.5
+1.97
+više 2.5
+1.67
+ 
+Spain, Youth League
++82
+CD Badajoz U19
+Union Adarve U19
+01.11. 16:00
+ki 1
+3.03
+ki X
+3.10
+ki 2
+2.10
+manje 2.5
+1.80
+više 2.5
+1.81
++80
+Gimnastic Tarragona U19
+CE Constancia U19
+01.11. 16:00
+ki 1
+1.43
+ki X
+3.95
+ki 2
+5.70
+manje 2.5
+2.05
+više 2.5
+1.61
++80
+Gimnastica de Torrelavega U19
+Real Sporting Gijon U19
+01.11. 16:00
+ki 1
+4.95
+ki X
+3.55
+ki 2
+1.55
+manje 2.5
+1.85
+više 2.5
+1.77
++80
+Leganes U19
+Unionistas Salamanca CF U19
+01.11. 16:00
+ki 1
+1.37
+ki X
+4.33
+ki 2
+6.00
+manje 2.5
+2.35
+više 2.5
+1.47
++80
+UCAM Murcia U19
+Hercules U19
+01.11. 16:00
+ki 1
+1.32
+ki X
+4.40
+ki 2
+6.90
+manje 2.5
+2.20
+više 2.5
+1.53
++82
+UD La Cruz Villanovense U19
+Alcobendas CF U19
+01.11. 16:00
+ki 1
+2.95
+ki X
+3.30
+ki 2
+2.05
+manje 2.5
+2.02
+više 2.5
+1.62
++82
+UD Logrones U19
+CD Alaves U19
+01.11. 16:00
+ki 1
+2.47
+ki X
+3.30
+ki 2
+2.37
+manje 2.5
+2.10
+više 2.5
+1.57
++82
+Mallorca U19
+Barcelona U19
+01.11. 16:00
+ki 1
+3.15
+ki X
+3.45
+ki 2
+1.90
+manje 2.5
+2.15
+više 2.5
+1.55
+ 
+Sweden, Division 1 - Norra
++649
+FC Arlanda
+Karlstad
+01.11. 16:00
+ki 1
+2.83
+ki X
+3.65
+ki 2
+2.07
+manje 2.5
+2.55
+više 2.5
+1.45
++643
+Karlbergs
+United Nordic
+01.11. 16:00
+ki 1
+5.50
+ki X
+4.45
+ki 2
+1.42
+manje 2.5
+2.65
+više 2.5
+1.41
+ 
+Sweden, Division 1 - Sodra
++646
+Angelholm
+Oskarshamn
+01.11. 16:00
+ki 1
+2.15
+ki X
+3.50
+ki 2
+2.80
+manje 2.5
+2.22
+više 2.5
+1.57
++648
+IFK Skovde
+Eskilsminne
+01.11. 16:00
+ki 1
+4.05
+ki X
+4.00
+ki 2
+1.63
+manje 2.5
+2.55
+više 2.5
+1.43
++640
+Jonkopings
+Ariana FC
+01.11. 16:00
+ki 1
+1.55
+ki X
+3.65
+ki 2
+5.20
+manje 2.5
+1.87
+više 2.5
+1.81
+ 
+Switzerland, Promotion League
++647
+Bruhl
+Luzern II
+01.11. 16:00
+ki 1
+1.57
+ki X
+4.40
+ki 2
+4.00
+manje 2.5
+3.60
+više 2.5
+1.24
++649
+Cham
+Paradiso
+01.11. 16:00
+ki 1
+1.95
+ki X
+3.70
+ki 2
+3.03
+manje 2.5
+2.55
+više 2.5
+1.45
++650
+Grand-Saconnex
+Lugano II
+01.11. 16:00
+ki 1
+2.12
+ki X
+3.85
+ki 2
+2.63
+manje 2.5
+3.03
+više 2.5
+1.32
++649
+Lausanne II
+Bavois
+01.11. 16:00
+ki 1
+2.80
+ki X
+3.85
+ki 2
+2.02
+manje 2.5
+3.00
+više 2.5
+1.33
+ 
+Mexico, Liga MX U21 - Apertura
++650
+Atlas U21
+Toluca U21
+01.11. 16:00
+ki 1
+2.67
+ki X
+3.90
+ki 2
+2.10
+manje 2.5
+3.20
+više 2.5
+1.29
++649
+Club America U21
+Club Leon U21
+01.11. 16:00
+ki 1
+2.05
+ki X
+4.00
+ki 2
+2.67
+manje 2.5
+3.65
+više 2.5
+1.23
++647
+Monterrey U21
+Tigres UANL U21
+01.11. 16:00
+ki 1
+4.80
+ki X
+4.45
+ki 2
+1.47
+manje 2.5
+3.10
+više 2.5
+1.31
+ 
+Spain, LaLiga
++1059
+Atl. Madrid
+Sevilla
+01.11. 16:15
+ki 1
+1.36
+ki X
+5.00
+ki 2
+8.50
+manje 2.5
+2.30
+više 2.5
+1.63
+ 
+Spain, LaLiga2
++952
+Cultural Leonesa
+Mirandes
+01.11. 16:15
+ki 1
+1.90
+ki X
+3.45
+ki 2
+4.00
+manje 2.5
+1.72
+više 2.5
+2.02
+ 
+Belarus, Vysshaya Liga
++808
+ML Vitebsk
+Isloch
+01.11. 16:15
+ki 1
+1.75
+ki X
+3.10
+ki 2
+5.10
+manje 2.5
+1.61
+više 2.5
+2.15
+ 
+Spain, Primera RFEF - Group 2
++640
+Eldense
+Algeciras
+01.11. 16:15
+ki 1
+1.87
+ki X
+3.15
+ki 2
+3.90
+manje 2.5
+1.52
+više 2.5
+2.35
+ 
+Spain, Tercera RFEF - Group 8
++634
+Mansilles
+La Virgen
+01.11. 16:15
+ki 1
+2.55
+ki X
+2.80
+ki 2
+2.65
+manje 2.5
+1.45
+više 2.5
+2.45
++638
+Numancia B
+Bembibre
+01.11. 16:15
+ki 1
+2.12
+ki X
+2.85
+ki 2
+3.25
+manje 2.5
+1.47
+više 2.5
+2.37
+ 
+Netherlands, Eredivisie
++980
+Ajax
+Heerenveen
+01.11. 16:30
+ki 1
+1.53
+ki X
+4.75
+ki 2
+5.10
+manje 2.5
+2.90
+više 2.5
+1.37
+ 
+Portugal, Liga Portugal
++967
+Nacional
+Famalicao
+01.11. 16:30
+ki 1
+3.25
+ki X
+3.30
+ki 2
+2.20
+manje 2.5
+1.77
+više 2.5
+1.95
+ 
+Romania, Superliga
++806
+Unirea Slobozia
+FC Arges
+01.11. 16:30
+ki 1
+3.40
+ki X
+2.90
+ki 2
+2.22
+manje 2.5
+1.47
+više 2.5
+2.50
+ 
+Netherlands, Eerste Divisie
++824
+Roda
+Jong Utrecht
+01.11. 16:30
+ki 1
+1.60
+ki X
+4.00
+ki 2
+4.75
+manje 2.5
+2.30
+više 2.5
+1.53
+ 
+Austria, Regionalliga East
++639
+Leobendorf
+Sportunion Mauer
+01.11. 16:30
+ki 1
+1.48
+ki X
+4.05
+ki 2
+5.30
+manje 2.5
+2.15
+više 2.5
+1.57
+ 
+Bulgaria, Parva Liga
++817
+Septemvri Sofia
+Slavia Sofia
+01.11. 16:30
+ki 1
+3.40
+ki X
+3.30
+ki 2
+2.03
+manje 2.5
+1.82
+više 2.5
+1.88
+ 
+Germany, 3. Liga
++827
+Hansa Rostock
+Verl
+01.11. 16:30
+ki 1
+1.92
+ki X
+3.80
+ki 2
+3.50
+manje 2.5
+2.30
+više 2.5
+1.55
+ 
+Ghana, Premier League
++82
+Hohoe United
+Medeama
+01.11. 16:30
+ki 1
+2.50
+ki X
+2.75
+ki 2
+2.88
+manje 2.5
+1.37
+više 2.5
+2.83
+ 
+Israel, Ligat ha'Al
++814
+Hapoel Tel Aviv
+Ironi Tiberias
+01.11. 16:30
+ki 1
+1.38
+ki X
+4.55
+ki 2
+7.00
+manje 2.5
+2.22
+više 2.5
+1.57
+ 
+Jordan, Premier League
++807
+Al Ramtha
+Al Wehdat
+01.11. 16:30
+ki 1
+3.45
+ki X
+2.85
+ki 2
+2.22
+manje 2.5
+1.45
+više 2.5
+2.55
+ 
+Malta, Challenge League
++646
+Marsa FC
+Sirens
+01.11. 16:30
+ki 1
+2.15
+ki X
+3.55
+ki 2
+2.77
+manje 2.5
+2.15
+više 2.5
+1.62
++647
+Melita
+Gudja
+01.11. 16:30
+ki 1
+1.73
+ki X
+3.95
+ki 2
+3.55
+manje 2.5
+2.25
+više 2.5
+1.55
+ 
++3 
+Montenegro, Prva Crnogorska Liga
++813
+Mornar Bar
+Jedinstvo
+01.11. 16:30
+ki 1
+1.87
+ki X
+3.20
+ki 2
+3.85
+manje 2.5
+1.63
+više 2.5
+2.10
+ 
+Portugal, Liga 3
++640
+Braga B
+AD Fafe
+01.11. 16:30
+ki 1
+2.67
+ki X
+2.95
+ki 2
+2.55
+manje 2.5
+1.57
+više 2.5
+2.20
+ 
+Spain, Segunda RFEF - Group 1
++641
+UD Ourense
+Dep. Fabril
+01.11. 16:30
+ki 1
+3.05
+ki X
+2.93
+ki 2
+2.27
+manje 2.5
+1.51
+više 2.5
+2.27
+ 
+Spain, Tercera RFEF - Group 13
++638
+EF Santa Cruz
+EG El Palmar CF
+01.11. 16:30
+ki 1
+1.65
+ki X
+3.35
+ki 2
+4.45
+manje 2.5
+1.77
+više 2.5
+1.87
+ 
+Spain, Tercera RFEF - Group 14
++632
+Llerenense
+Pueblonuevo
+01.11. 16:30
+ki 1
+1.25
+ki X
+4.65
+ki 2
+8.75
+manje 2.5
+2.07
+više 2.5
+1.62
+ 
+Spain, Tercera RFEF - Group 15
++635
+Bidezarra
+AD San Juan
+01.11. 16:30
+ki 1
+3.95
+ki X
+3.05
+ki 2
+1.83
+manje 2.5
+1.50
+više 2.5
+2.30
++642
+Oberena
+Ezcabarte
+01.11. 16:30
+ki 1
+2.10
+ki X
+3.03
+ki 2
+3.15
+manje 2.5
+1.67
+više 2.5
+2.00
+ 
+Spain, Tercera RFEF - Group 18
++635
+Azuqueca
+Villacanas
+01.11. 16:30
+ki 1
+2.20
+ki X
+2.80
+ki 2
+3.15
+manje 2.5
+1.42
+više 2.5
+2.50
+ 
+Spain, Youth League
++82
+Real Valladolid U19
+Trival Valderas U19
+01.11. 16:30
+ki 1
+1.53
+ki X
+3.95
+ki 2
+4.45
+manje 2.5
+2.37
+više 2.5
+1.45
+ 
+United Arab Emirates, UAE League
++817
+Al Jazira Abu Dhabi
+Al Bataeh
+01.11. 16:45
+ki 1
+1.31
+ki X
+4.80
+ki 2
+7.20
+manje 2.5
+2.50
+više 2.5
+1.45
+ 
+France, Ligue 1
++1041
+Paris SG
+Nice
+01.11. 17:00
+ki 1
+1.20
+ki X
+6.90
+ki 2
+14.0
+manje 2.5
+3.10
+više 2.5
+1.36
+ 
+Austria, Bundesliga
++955
+BW Linz
+LASK
+01.11. 17:00
+ki 1
+3.40
+ki X
+3.30
+ki 2
+2.20
+manje 2.5
+1.80
+više 2.5
+2.00
++907
+Grazer
+Altach
+01.11. 17:00
+ki 1
+3.40
+ki X
+2.97
+ki 2
+2.35
+manje 2.5
+1.48
+više 2.5
+2.62
++916
+Hartberg
+Austria Vienna
+01.11. 17:00
+ki 1
+3.40
+ki X
+3.40
+ki 2
+2.12
+manje 2.5
+1.87
+više 2.5
+1.91
+ 
+Greece, Super League
++814
+Volos
+Panathinaikos
+01.11. 17:00
+ki 1
+4.65
+ki X
+3.65
+ki 2
+1.67
+manje 2.5
+1.85
+više 2.5
+1.85
+ 
+Ukraine, Premier League
++817
+Epitsentr
+Veres-Rivne
+01.11. 17:00
+ki 1
+2.20
+ki X
+3.10
+ki 2
+3.25
+manje 2.5
+1.67
+više 2.5
+2.07
+ 
+Bahrain, Premier League
++822
+Al Riffa
+Al Khalidiyah
+01.11. 17:00
+ki 1
+2.62
+ki X
+3.15
+ki 2
+2.45
+manje 2.5
+1.80
+više 2.5
+1.88
+ 
+France, National 2 - Group A
++641
+Lorient II
+Les Herbiers
+01.11. 17:00
+ki 1
+3.10
+ki X
+3.00
+ki 2
+2.22
+manje 2.5
+1.57
+više 2.5
+2.15
+ 
+France, National 2 - Group B
++642
+Biesheim
+Wasquehal
+01.11. 17:00
+ki 1
+2.00
+ki X
+3.20
+ki 2
+3.40
+manje 2.5
+1.71
+više 2.5
+1.95
+ 
+Germany, Oberliga Rheinland-Pfalz/Saar
++82
+Engers
+Cosmos Koblenz
+01.11. 17:00
+ki 1
+2.07
+ki X
+3.80
+ki 2
+2.73
+manje 2.5
+2.93
+više 2.5
+1.32
+ 
+Russia, FNL 2 - Division B - Group 3
++40
+D. Bryansk
+Spartak Tambov
+01.11. 17:00
+ki 1
+1.75
+ki X
+3.35
+ki 2
+4.20
+manje 2.5
+1.80
+više 2.5
+1.88
++39
+Dynamo Petersburg
+Znamya Truda
+01.11. 17:00
+ki 1
+1.60
+ki X
+3.95
+ki 2
+4.45
+manje 2.5
+2.35
+više 2.5
+1.52
++40
+Lipetsk
+Salyut-Belgorod
+01.11. 17:00
+ki 1
+4.60
+ki X
+3.40
+ki 2
+1.67
+manje 2.5
+1.80
+više 2.5
+1.88
+ 
+South Africa, Premiership
++791
+Polokwane
+Richards Bay
+01.11. 17:00
+ki 1
+2.27
+ki X
+2.67
+ki 2
+3.65
+manje 2.5
+1.27
+više 2.5
+3.40
+ 
+Spain, Tercera RFEF - Group 1
++641
+Somozas
+Noia
+01.11. 17:00
+ki 1
+2.00
+ki X
+3.03
+ki 2
+3.35
+manje 2.5
+1.60
+više 2.5
+2.10
+ 
+Spain, Tercera RFEF - Group 3
++640
+Bezana
+Castro
+01.11. 17:00
+ki 1
+2.27
+ki X
+2.85
+ki 2
+2.97
+manje 2.5
+1.50
+više 2.5
+2.30
+ 
+Spain, Tercera RFEF - Group 8
++628
+Guijuelo
+CD Mojados
+01.11. 17:00
+ki 1
+1.25
+ki X
+4.45
+ki 2
+9.50
+manje 2.5
+1.87
+više 2.5
+1.77
+ 
+Spain, Tercera RFEF - Group 15
++644
+Txantrea
+Subiza
+01.11. 17:00
+ki 1
+2.30
+ki X
+3.03
+ki 2
+2.77
+manje 2.5
+1.70
+više 2.5
+1.93
+ 
+Spain, Tercera RFEF - Group 18
++632
+Tarancon
+Puertollano C.F.
+01.11. 17:00
+ki 1
+2.27
+ki X
+2.77
+ki 2
+3.05
+manje 2.5
+1.40
+više 2.5
+2.57
+ 
+Spain, Youth League
++82
+AD Sporting Hortaleza U19
+CD Diocesano U19
+01.11. 17:00
+ki 1
+2.00
+ki X
+3.40
+ki 2
+3.00
+manje 2.5
+2.10
+više 2.5
+1.57
++82
+CD Roces U19
+ED Val Minor Nigran U19
+01.11. 17:00
+ki 1
+1.87
+ki X
+3.25
+ki 2
+3.50
+manje 2.5
+1.83
+više 2.5
+1.77
++79
+CF Damm U19
+UD Montecarlo U19
+01.11. 17:00
+ki 1
+1.22
+ki X
+5.20
+ki 2
+8.75
+manje 2.5
+2.50
+više 2.5
+1.40
++82
+Cordoba U19
+UCD Canada Atletico U19
+01.11. 17:00
+ki 1
+2.07
+ki X
+3.10
+ki 2
+3.10
+manje 2.5
+1.75
+više 2.5
+1.87
++81
+Patacona CF U19
+Elche U19
+01.11. 17:00
+ki 1
+4.05
+ki X
+3.35
+ki 2
+1.72
+manje 2.5
+1.85
+više 2.5
+1.75
+ 
+Turkey, TFF 1. Lig
++774
+Serik Belediyespor
+Adana Demirspor
+01.11. 17:00
+ki 1
+1.04
+ki X
+10.5
+ki 2
+28.0
+manje 2.5
+3.45
+više 2.5
+1.26
+ 
+France, Premiere Ligue Women
++636
+Fleury 91 Wom.
+Lens Wom.
+01.11. 17:00
+ki 1
+1.31
+ki X
+4.90
+ki 2
+7.00
+manje 2.5
+2.45
+više 2.5
+1.45
++645
+Nantes Wom.
+Dijon Wom.
+01.11. 17:00
+ki 1
+2.75
+ki X
+3.35
+ki 2
+2.22
+manje 2.5
+2.07
+više 2.5
+1.62
++636
+Paris SG Wom.
+Le Havre Wom.
+01.11. 17:00
+ki 1
+1.21
+ki X
+5.60
+ki 2
+9.25
+manje 2.5
+2.67
+više 2.5
+1.37
++640
+St Etienne Wom.
+Montpellier Wom.
+01.11. 17:00
+ki 1
+3.90
+ki X
+3.65
+ki 2
+1.73
+manje 2.5
+1.90
+više 2.5
+1.75
+ 
+Italy, Serie B
++910
+Entella
+Empoli
+01.11. 17:15
+ki 1
+2.25
+ki X
+3.05
+ki 2
+3.40
+manje 2.5
+1.57
+više 2.5
+2.27
+ 
+Mauritanija, Ligue 1
++82
+Nouakchott King's
+Douane
+01.11. 17:15
+ki 1
+2.30
+ki X
+2.70
+ki 2
+3.05
+manje 2.5
+1.35
+više 2.5
+2.77
+ 
+Spain, Tercera RFEF - Group 4
++638
+SD Deusto
+Real Sociedad C
+01.11. 17:15
+ki 1
+2.25
+ki X
+2.83
+ki 2
+3.03
+manje 2.5
+1.47
+više 2.5
+2.37
+ 
+Slovenia, Prva Liga
++816
+Celje
+Aluminij
+01.11. 17:30
+ki 1
+1.20
+ki X
+6.30
+ki 2
+10.0
+manje 2.5
+3.50
+više 2.5
+1.25
+ 
+Sweden, Allsvenskan
++926
+Norrkoping
+Sirius
+01.11. 17:30
+ki 1
+2.40
+ki X
+3.80
+ki 2
+2.57
+manje 2.5
+2.57
+više 2.5
+1.45
+ 
+Ireland, Premier Division
++808
+Cork City
+Derry City
+01.11. 17:30
+ki 1
+7.60
+ki X
+4.10
+ki 2
+1.43
+manje 2.5
+1.82
+više 2.5
+1.90
++817
+Drogheda
+Bohemian
+01.11. 17:30
+ki 1
+3.35
+ki X
+3.25
+ki 2
+2.15
+manje 2.5
+1.80
+više 2.5
+1.92
++820
+Shamrock Rovers
+Sligo Rovers
+01.11. 17:30
+ki 1
+1.92
+ki X
+3.50
+ki 2
+3.75
+manje 2.5
+1.92
+više 2.5
+1.80
++821
+Shelbourne FC
+St. Patricks
+01.11. 17:30
+ki 1
+2.47
+ki X
+3.20
+ki 2
+2.83
+manje 2.5
+1.77
+više 2.5
+1.97
++824
+Waterford
+Galway
+01.11. 17:30
+ki 1
+2.75
+ki X
+3.35
+ki 2
+2.47
+manje 2.5
+1.90
+više 2.5
+1.82
+ 
+Israel, Ligat ha'Al
++817
+Hapoel Petah Tikva
+Sakhnin
+01.11. 17:30
+ki 1
+2.10
+ki X
+3.20
+ki 2
+3.30
+manje 2.5
+1.75
+više 2.5
+1.95
++822
+SC Ashdod
+Hapoel Haifa
+01.11. 17:30
+ki 1
+2.77
+ki X
+3.25
+ki 2
+2.37
+manje 2.5
+1.88
+više 2.5
+1.82
+ 
+Italy, Serie C - Group A
++813
+Virtus Verona
+Trento
+01.11. 17:30
+ki 1
+2.73
+ki X
+3.15
+ki 2
+2.47
+manje 2.5
+1.61
+više 2.5
+2.15
+ 
+Italy, Serie C - Group B
++809
+Rimini
+Bra
+01.11. 17:30
+ki 1
+2.37
+ki X
+3.00
+ki 2
+3.00
+manje 2.5
+1.48
+više 2.5
+2.47
+ 
+Qatar, QSL
++829
+Umm-Salal
+Shamal
+01.11. 17:30
+ki 1
+4.00
+ki X
+4.15
+ki 2
+1.62
+manje 2.5
+2.90
+više 2.5
+1.35
+ 
+Switzerland, Promotion League
++648
+Vevey
+Zurich II
+01.11. 17:30
+ki 1
+4.00
+ki X
+4.25
+ki 2
+1.61
+manje 2.5
+3.15
+više 2.5
+1.30
++649
+Kriens
+Basel II
+01.11. 17:30
+ki 1
+1.71
+ki X
+4.40
+ki 2
+3.35
+manje 2.5
+3.25
+više 2.5
+1.28
+ 
+Argentina, Primera Nacional - Promotion - Play Offs
++789
+Atletico Atlanta
+Deportivo Moron
+01.11. 17:45
+ki 1
+2.20
+ki X
+2.73
+ki 2
+3.55
+manje 2.5
+1.25
+više 2.5
+3.45
+ 
+Kuwait, Premier League
++641
+Al Shabab SC
+Al Salmiya
+01.11. 17:45
+ki 1
+4.75
+ki X
+3.40
+ki 2
+1.65
+manje 2.5
+1.75
+više 2.5
+1.93
+ 
+Italy, Serie A
++968
+Napoli
+Como
+01.11. 18:00
+ki 1
+1.97
+ki X
+3.35
+ki 2
+4.10
+manje 2.5
+1.75
+više 2.5
+2.08
+ 
+Serbia, Super Liga
++814
+Cukaricki
+Partizan
+01.11. 18:00
+ki 1
+4.80
+ki X
+3.90
+ki 2
+1.60
+manje 2.5
+2.00
+više 2.5
+1.72
+ 
+Turkey, Super Lig
++951
+Galatasaray
+Trabzonspor
+01.11. 18:00
+ki 1
+1.45
+ki X
+4.75
+ki 2
+6.00
+manje 2.5
+2.75
+više 2.5
+1.40
+ 
+Denmark, Superliga
++806
+FC Copenhagen
+Fredericia
+01.11. 18:00
+ki 1
+1.19
+ki X
+6.70
+ki 2
+12.5
+manje 2.5
+3.10
+više 2.5
+1.32
+ 
+Norway, Eliteserien
++828
+Molde
+Rosenborg
+01.11. 18:00
+ki 1
+1.88
+ki X
+3.80
+ki 2
+3.65
+manje 2.5
+2.35
+više 2.5
+1.53
+ 
+Slovakia, Nike liga
++824
+Dun. Streda
+Kosice
+01.11. 18:00
+ki 1
+1.45
+ki X
+4.50
+ki 2
+5.80
+manje 2.5
+2.50
+više 2.5
+1.47
+ 
+Switzerland, Super League
++824
+Thun
+Sion
+01.11. 18:00
+ki 1
+2.08
+ki X
+3.45
+ki 2
+3.10
+manje 2.5
+2.10
+više 2.5
+1.65
++825
+Winterthur
+Servette
+01.11. 18:00
+ki 1
+4.95
+ki X
+4.25
+ki 2
+1.53
+manje 2.5
+2.45
+više 2.5
+1.50
+ 
+Algeria, Ligue 1
++808
+Oran
+Constantine
+01.11. 18:00
+ki 1
+1.92
+ki X
+3.05
+ki 2
+3.80
+manje 2.5
+1.52
+više 2.5
+2.35
+ 
+Botswana, Premier League
++81
+Centre Chiefs
+Morupule
+01.11. 18:00
+ki 1
+1.67
+ki X
+3.30
+ki 2
+4.50
+manje 2.5
+1.73
+više 2.5
+1.91
+ 
+Cyprus, Cyprus League
++809
+APOEL
+Achnas
+01.11. 18:00
+ki 1
+1.33
+ki X
+4.55
+ki 2
+8.75
+manje 2.5
+2.03
+više 2.5
+1.70
++804
+Paralimni
+Omonia
+01.11. 18:00
+ki 1
+10.5
+ki X
+5.40
+ki 2
+1.24
+manje 2.5
+2.25
+više 2.5
+1.57
+ 
+Czech, Chance Liga
++807
+Slavia Prague
+Ostrava
+01.11. 18:00
+ki 1
+1.23
+ki X
+5.90
+ki 2
+11.25
+manje 2.5
+2.50
+više 2.5
+1.47
+ 
+France, National 2 - Group A
++641
+Dinan Lehon FC
+Bayonne
+01.11. 18:00
+ki 1
+3.25
+ki X
+3.00
+ki 2
+2.12
+manje 2.5
+1.57
+više 2.5
+2.15
++635
+FC Chauray
+Bordeaux
+01.11. 18:00
+ki 1
+5.00
+ki X
+3.25
+ki 2
+1.65
+manje 2.5
+1.57
+više 2.5
+2.15
++636
+La Roche
+Chateaubriant
+01.11. 18:00
+ki 1
+1.63
+ki X
+3.35
+ki 2
+5.00
+manje 2.5
+1.62
+više 2.5
+2.07
++639
+Granville
+Montlouis
+01.11. 18:00
+ki 1
+1.82
+ki X
+3.20
+ki 2
+4.05
+manje 2.5
+1.63
+više 2.5
+2.05
+ 
+France, National 2 - Group C
++638
+AS Cannes
+Toulon
+01.11. 18:00
+ki 1
+1.67
+ki X
+3.40
+ki 2
+4.60
+manje 2.5
+1.77
+više 2.5
+1.87
++641
+Lusitanos
+Grasse
+01.11. 18:00
+ki 1
+2.05
+ki X
+3.05
+ki 2
+3.40
+manje 2.5
+1.55
+više 2.5
+2.20
++639
+Saint Priest
+Limonest
+01.11. 18:00
+ki 1
+1.83
+ki X
+3.20
+ki 2
+3.95
+manje 2.5
+1.60
+više 2.5
+2.10
++640
+Hyeres
+FC 93
+01.11. 18:00
+ki 1
+2.20
+ki X
+2.90
+ki 2
+3.20
+manje 2.5
+1.47
+više 2.5
+2.40
++643
+Rousset-Ste Victoire
+Creteil
+01.11. 18:00
+ki 1
+2.77
+ki X
+3.00
+ki 2
+2.40
+manje 2.5
+1.61
+više 2.5
+2.08
  Tiket
 TIKET
 
@@ -672,11 +5571,10 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-14:40:59
+14:49:48
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
 Betole priredjuje igre na sreću u skladu sa rešenjem izdatim od Ministarstva Finansija Srbije – Uprava za igre na sreću.
 
 LIVE CHAT
- 
