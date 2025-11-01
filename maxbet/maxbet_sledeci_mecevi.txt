@@ -33,7 +33,7 @@ Sve
   
   
 Fudbal
-1136
+1135
   
   
 Fantasy PL
@@ -77,7 +77,7 @@ Odbojka
   
   
 Stoni Tenis
-43
+42
   
   
 Američki Fudbal
@@ -124,36 +124,23 @@ Opseg Vremena
 5:00
 23:59
 Opseg Kvota
-1.05
-27
+1.07
+25
 Fudbal
 Konačan ishod
  
 SOUTH KOREA 1 - Championship Group
 01.11 06:00
   
-+813
-Daejeon
-Seoul.
-1
-2.38
-X
-3.45
-2
-2.65
- 
-SOUTH KOREA 1 - Championship Group
-01.11 06:00
-  
-+804
++806
 Gangwon
 Jeonbuk
 1
-3.60
+3.35
 X
-3.25
+3.10
 2
-1.98
+2.12
  
 SOUTH KOREA 2
 01.11 06:00
@@ -275,15 +262,15 @@ X
 CHINA 2
 01.11 07:30
   
-+788
++787
 Guangxi Pingguo
 Shanghai Jiading
 1
 1.48
 X
-3.65
+3.60
 2
-6.60
+6.40
  
 CHINA 2
 01.11 07:30
@@ -1003,15 +990,15 @@ X
 THAILAND 2
 01.11 12:30
   
-+798
++799
 Nong Bua Pitchaya
 Songkhla
 1
-1.38
+1.58
 X
-4.33
+3.65
 2
-6.50
+4.90
  
 CHINA 1
 01.11 12:35
@@ -1653,15 +1640,15 @@ X
 CZECH REP.3 - CFL - B
 01.11 14:00
   
-+806
++803
 Usti nad Orlici
 Jablonec B
 1
-2.60
+2.65
 X
-3.10
+2.95
 2
-2.50
+2.55
  
 CZECH REP.3 - CFL - B
 01.11 14:00
@@ -1978,15 +1965,15 @@ X
 GERMANY 4 North
 01.11 14:00
   
-+813
++810
 Phonix Lubeck
 Schoningen
 1
-1.40
+1.45
 X
-4.90
+4.70
 2
-5.90
+5.45
  
 GERMANY 4 Southwest
 01.11 14:00
@@ -2112,11 +2099,11 @@ GREECE 2
 Kalamata
 Panargiakos
 1
-1.05
+1.07
 X
-8.00
+7.60
 2
-27.0
+25.0
  
 GREECE 2
 01.11 14:00
@@ -2524,15 +2511,15 @@ X
 TUNISIA 1
 01.11 14:30
   
-+778
++779
 Club Africain
 Soliman
 1
 1.15
 X
-5.60
+5.70
 2
-16.0
+15.0
  
 TUNISIA 1
 01.11 14:30
@@ -2901,15 +2888,15 @@ X
 WALES Cymru North
 01.11 15:00
   
-+808
++807
 Guilsfield
 Flint Mountain
 1
-1.40
+1.42
 X
 4.33
 2
-5.90
+5.80
  
 WALES Cymru North
 01.11 15:00
@@ -3031,7 +3018,7 @@ X
 GERMANY 1
 01.11 15:30
   
-+850
++815
 Heidenheim
 Eintracht F.
 1
@@ -3070,7 +3057,7 @@ X
 GERMANY 1
 01.11 15:30
   
-+845
++810
 St. Pauli
 B.M'Gladbach
 1
@@ -3256,9 +3243,9 @@ RUSSIA 1
 Rubin K.
 Dynamo M.
 1
-3.20
-X
 3.25
+X
+3.30
 2
 2.15
  
@@ -3317,7 +3304,7 @@ X
 ENGLAND 1
 01.11 16:00
   
-+845
++810
 Nottingham
 Man.Utd
 1
@@ -3616,13 +3603,13 @@ X
 ENGLAND 6 South
 01.11 16:00
   
-+809
++811
 Bath City
 Horsham FC
 1
-2.70
+2.65
 X
-3.15
+3.20
 2
 2.50
  
@@ -4916,15 +4903,15 @@ X
 SCOTLAND 2
 01.11 16:00
   
-+807
++806
 Arbroath
 Ross County
 1
-3.35
+3.30
 X
-3.35
+3.20
 2
-2.05
+2.10
  
 SCOTLAND 2
 01.11 16:00
@@ -5479,11 +5466,11 @@ SPAIN 4 - Group 1
 UD Ourense
 Dep. Fabril
 1
-3.15
+3.00
 X
 2.90
 2
-2.20
+2.30
  
 UAE 1
 01.11 16:45
@@ -5856,11 +5843,11 @@ ITALY 1
 Napoli
 Como
 1
-1.98
+2.00
 X
-3.40
+3.35
 2
-4.20
+4.15
  
 SERBIA 1
 01.11 18:00
@@ -6281,15 +6268,15 @@ X
 SWITZERLAND 1
 01.11 18:00
   
-+814
++812
 Winterthur
 Servette
 1
-4.50
+4.65
 X
-4.33
+4.40
 2
-1.60
+1.58
  
 SWITZERLAND 2
 01.11 18:00
@@ -6320,15 +6307,15 @@ X
 TURKEY 1
 01.11 18:00
   
-+812
++814
 Galatasaray
 Trabzonspor
 1
-1.45
+1.42
 X
-4.80
+4.90
 2
-6.10
+6.40
  
 BELGIUM 1
 01.11 18:15
@@ -6367,7 +6354,7 @@ Lokomotiv M.
 X
 4.15
 2
-5.35
+5.30
  
 SAN MARINO 1
 01.11 18:15
@@ -6411,7 +6398,7 @@ X
 ENGLAND 1
 01.11 18:30
   
-+812
++844
 Tottenham
 Chelsea
 1
@@ -6437,7 +6424,7 @@ X
 SPAIN 1
 01.11 18:30
   
-+795
++827
 R.Sociedad
 Ath Bilbao
 1
@@ -6519,24 +6506,24 @@ S.ARABIA 1
 Al-Nassr
 Al Feiha
 1
-1.16
+1.17
 X
-6.90
+6.75
 2
-12.5
+12.0
  
 SCOTLAND League Cup
 01.11 18:30
   
-+812
++813
 Motherwell
 St. Mirren
 1
 2.45
 X
-3.30
+3.25
 2
-2.65
+2.70
  
 SPAIN 1 - Women
 01.11 18:30
@@ -6619,15 +6606,15 @@ X
 ARGENTINA 1
 01.11 18:45
   
-+791
++793
 Aldosivi
 Ind. Rivadavia
 1
-2.35
+2.30
 X
 2.90
 2
-3.40
+3.45
  
 CROATIA 1
 01.11 18:45
@@ -7074,15 +7061,15 @@ X
 GERMANY 2
 01.11 20:30
   
-+815
++817
 Darmstadt
 A.Bielefeld
 1
-1.88
+1.95
 X
-3.85
-2
 3.80
+2
+3.55
  
 SWITZERLAND 1
 01.11 20:30
@@ -7152,7 +7139,7 @@ X
 ENGLAND 1
 01.11 21:00
   
-+852
++814
 Liverpool
 Aston Villa
 1
@@ -7165,7 +7152,7 @@ X
 SPAIN 1
 01.11 21:00
   
-+837
++799
 Real M.
 Valencia
 1
@@ -7443,7 +7430,7 @@ Promeni temu  
 VIP KLUB
 REZULTATI
 STATUS TIKETA
-5:50:14
+5:59:02
 NAČIN UPLATE DEPOZITA
 UPLATNA MESTA
 PRAVILA IGRE
