@@ -16,9 +16,9 @@ Bonus tip
 Danas
 Sutra
 03.11.
-8:00
+9:00
 23:59
-8:00 - 23:59
+9:00 - 23:59
 FUDBAL
 KOŠARKA
 STRELCI FUDBAL
@@ -27,6 +27,8 @@ HOKEJ
 RUKOMET
 ODBOJKA
 VATERPOLO
+RAGBI UNIJA
+AMERIČKI FUDBAL
 SNUKER
 FUTSAL
 ESPORT
@@ -36,113 +38,6 @@ GOLOVI PO LIGAMA
 FUDBAL
 KONAČAN ISHOD
 UKUPNO GOLOVA
-HONG KONG, Premier League
-32990
-08:00
-Kowloon City
-Kitchee
-661
-1
-6.00
-X
-4.45
-2
-1.40
-0-2
-2.50
-2+
-1.10
-3+
-1.43
-32991
-08:00
-North District
-Southern District
-669
-1
-2.05
-X
-3.60
-2
-2.88
-0-2
-2.45
-2+
-1.11
-3+
-1.44
-JAPAN, J3 League
-790
-08:00
-Nagano
-Kochi United
-843
-1
-2.62
-X
-3.15
-2
-2.40
-0-2
-1.85
-2+
-1.25
-3+
-1.82
-CHINA, Super League
-156
-08:30
-Qingdao Huanghai
-Wuhan Three Towns
-846
-1
-1.70
-X
-3.85
-2
-4.15
-0-2
-2.35
-2+
-1.15
-3+
-1.53
-SOUTH KOREA, K League 2
-781
-08:30
-Asan
-Cheonan City
-836
-1
-1.67
-X
-3.55
-2
-4.80
-0-2
-1.90
-2+
-1.25
-3+
-1.82
-SOUTH KOREA, K-League 1 - Relegation Group
-747
-08:30
-Suwon FC
-Daegu
-849
-1
-1.95
-X
-3.80
-2
-3.20
-0-2
-2.55
-2+
-1.12
-3+
-1.45
 INDONESIA, Super League
 523
 09:30
@@ -1429,7 +1324,7 @@ NETHERLANDS, Eredivisie
 12:15
 Heracles
 Zwolle
-956
+940
 1
 2.38
 X
@@ -1465,7 +1360,7 @@ ITALY, Serie A
 12:30
 Verona
 Inter
-969
+953
 1
 7.80
 X
@@ -2225,7 +2120,7 @@ X
 13:30
 Paderborn
 Greuther Furth
-955
+942
 1
 1.41
 X
@@ -2279,7 +2174,7 @@ SPAIN, LaLiga
 14:00
 Levante
 Celta Vigo
-971
+958
 1
 2.80
 X
@@ -3250,7 +3145,7 @@ ENGLAND, Premier League
 15:00
 West Ham
 Newcastle
-991
+965
 1
 5.30
 X
@@ -3268,7 +3163,7 @@ ITALY, Serie A
 15:00
 Fiorentina
 Lecce
-979
+963
 1
 1.69
 X
@@ -3285,7 +3180,7 @@ X
 15:00
 Torino
 Pisa
-976
+950
 1
 1.98
 X
@@ -3590,17 +3485,17 @@ Orebro
 Utsikten
 846
 1
-1.76
+1.74
 X
 3.75
 2
-3.95
+4.05
 0-2
-2.35
+2.28
 2+
-1.15
+1.16
 3+
-1.53
+1.56
 SWEDEN, Allsvenskan Women
 32317
 15:00
@@ -3642,7 +3537,7 @@ TURKEY, Super Lig
 15:00
 Kayserispor
 Kasimpasa
-955
+939
 1
 2.30
 X
@@ -3680,11 +3575,11 @@ Eastleigh
 Walsall
 839
 1
-4.30
+4.40
 X
 3.50
 2
-1.83
+1.81
 0-2
 1.90
 2+
@@ -3696,7 +3591,7 @@ GERMANY, Bundesliga
 15:30
 FC Koln
 Hamburger SV
-975
+959
 1
 2.18
 X
@@ -3751,17 +3646,17 @@ DVTK
 Ujpest
 846
 1
-2.85
+2.88
 X
 3.50
 2
-2.22
+2.20
 0-2
 2.25
 2+
-1.17
+1.16
 3+
-1.58
+1.56
 SLOVAKIA, Nike liga
 504
 15:30
@@ -3873,13 +3768,13 @@ BELGIUM, Jupiler Pro League
 16:00
 Leuven
 Gent
-953
+939
 1
-2.38
+2.28
 X
-3.25
+3.30
 2
-2.88
+3.05
 0-2
 1.90
 2+
@@ -4388,7 +4283,7 @@ SPAIN, LaLiga
 16:15
 Alaves
 Espanyol
-952
+939
 1
 2.40
 X
@@ -4513,7 +4408,7 @@ PORTUGAL, Liga Portugal
 16:30
 AVS
 Tondela
-949
+933
 1
 3.15
 X
@@ -4984,21 +4879,125 @@ X
 1.17
 3+
 1.61
+SOUTH AFRICA, Premiership
+1107
+17:00
+Golden Arrows
+Marumo Gallants
+815
+1
+2.55
+X
+2.65
+2
+3.05
+0-2
+1.30
+2+
+1.69
+3+
+3.20
+SPAIN, Segunda RFEF - Group 1
+1014
+17:00
+Bergantinos
+Langreo
+660
+1
+2.15
+X
+2.95
+2
+3.30
+0-2
+1.46
+2+
+1.43
+3+
+2.40
+1015
+17:00
+Gimnastica Segoviana
+Burgos CF B
+655
+1
+1.46
+X
+3.70
+2
+6.50
+0-2
+1.70
+2+
+1.29
+3+
+1.97
+1016
+17:00
+Numancia
+Valladolid Promesas
+660
+1
+1.67
+X
+3.40
+2
+4.65
+0-2
+1.80
+2+
+1.25
+3+
+1.87
+1017
+17:00
+Salamanca
+Coruxo
+661
+1
+1.80
+X
+3.20
+2
+4.15
+0-2
+1.65
+2+
+1.31
+3+
+2.05
+1018
+17:00
+Sarriana
+Real Avila
+659
+1
+3.05
+X
+2.95
+2
+2.28
+0-2
+1.44
+2+
+1.45
+3+
+2.40
 Odigrani tiketi
-156
-Qingdao Huanghai - Wuhan Three Towns
-02.11. 08:30
+227
+Orenburg - Sochi
+02.11. 10:00
 KONAČAN ISHOD 
 1
-  1.70  
+  2.30  
 Običan
 Sistem
 Kvota:
-1.70
+2.30
 Uplata:
 20.00 RSD
 Dobitak:
-34.00 RSD
+46.00 RSD
 Prihvatam sve promene kvota.
 FREEBET
 Express
