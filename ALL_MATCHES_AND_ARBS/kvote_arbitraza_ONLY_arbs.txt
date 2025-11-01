@@ -1,15 +1,16 @@
-13:00   [BOSNIA AND HERZEGOVINA, Prva Liga - RS]
+13:00   01.11.   [Kenya, Premier League]
 Povazska Bystrica  vs  Puchov
 
+- BetOle     1=1.48  |  X=4.25  |  2=5.1  |  0-2=2.45  |  3+=1.45
 - Brazil_d   1=1.48  |  X=4.2  |  2=5.2  |  0-2=2.45  |  2+=1.11  |  3+=1.45
 - MaxBet     1=1.70  |  X=3.70  |  2=4.00
 - OktagonBet 1=1.48  |  X=4.25  |  2=5.1  |  0-2=2.45  |  3+=1.44  |  GG=1.56  |  GG&3+=1.83  |  4+=2.2
 - Soccer     1=1.75  |  X=3.8  |  2=4.0  |  0-2=2.25  |  2+=1.17  |  3+=1.58  |  GG=1.57  |  IGG=3.75  |  GG&3+=1.82
 
 Najveća 1  : 1.75  [Soccer]
-Najveća X  : 4.25  [OktagonBet]
+Najveća X  : 4.25  [BetOle, OktagonBet]
 Najveća 2  : 5.20  [Brazil_d]
-Najveća 0-2: 2.45  [Brazil_d, OktagonBet]
+Najveća 0-2: 2.45  [BetOle, Brazil_d, OktagonBet]
 Najveća 3+ : 1.58  [Soccer]
 
 Arbitraža (1-X-2): DA   inv_sum=0.9990   profit≈0.10%
@@ -19,26 +20,28 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0411   profit≈-4.11%
 Mainz  vs  Werder
 
 - BalkanBet  1=1.97  |  X=3.85  |  2=3.65  |  0-2=2.45  |  2+=1.2  |  3+=1.58  |  GG=1.55  |  IGG=3.95  |  GG&3+=1.8  |  GG&4+=2.8  |  4+=2.5
-- Brazil_d   1=2.05  |  X=3.85  |  2=3.6  |  0-2=2.38  |  2+=1.18  |  3+=1.64
+- BetOle     1=2  |  X=3.75  |  2=3.55  |  0-2=2.35  |  3+=1.6
+- Brazil_d   1=2.04  |  X=3.85  |  2=3.65  |  0-2=2.38  |  2+=1.18  |  3+=1.64
 - MaxBet     1=2.05  |  X=3.85  |  2=3.45
-- Mozzart    1=2  |  X=3.6  |  2=4  |  0-2=2.45  |  2+=1.18  |  3+=1.58
-- OktagonBet 1=2.02  |  X=3.75  |  2=3.5  |  0-2=2.35  |  3+=1.6  |  GG=1.56  |  GG&3+=1.88  |  4+=2.5
+- Mozzart    1=2.05  |  X=3.6  |  2=3.8  |  0-2=2.45  |  2+=1.18  |  3+=1.58
+- OktagonBet 1=2  |  X=3.75  |  2=3.55  |  0-2=2.35  |  3+=1.6  |  GG=1.56  |  GG&3+=1.88  |  4+=2.55
 - Soccer     1=2.1  |  X=3.75  |  2=3.4  |  0-2=2.33  |  2+=1.21  |  3+=1.6  |  GG=1.55  |  IGG=3.8  |  GG&3+=1.85
 - Topbet     1=2  |  X=3.85  |  2=3.45
 
 Najveća 1  : 2.10  [Soccer]
 Najveća X  : 3.85  [BalkanBet, Brazil_d, MaxBet, Topbet]
-Najveća 2  : 4.00  [Mozzart]
+Najveća 2  : 3.80  [Mozzart]
 Najveća 0-2: 2.45  [BalkanBet, Mozzart]
 Najveća 3+ : 1.64  [Brazil_d]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9859   profit≈1.41%
+Arbitraža (1-X-2): DA   inv_sum=0.9991   profit≈0.09%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0179   profit≈-1.79%
 
 16:00   01.11.   [Engleska 1]
 Brighton  vs  Leeds
 
 - BalkanBet  1=1.92  |  X=3.65  |  2=4.05  |  0-2=2  |  2+=1.28  |  3+=1.85  |  GG=1.75  |  IGG=4.65  |  GG&3+=2.15  |  GG&4+=3.55  |  4+=3.2
+- BetOle     1=2  |  X=3.6  |  2=3.75  |  0-2=1.95  |  3+=1.85
 - MaxBet     1=2.00  |  X=3.55  |  2=3.75
 - Mozzart    1=2  |  X=3.6  |  2=4.1  |  0-2=2.01  |  2+=1.27  |  3+=1.84
 - OktagonBet 1=1.98  |  X=3.6  |  2=3.75  |  0-2=1.95  |  3+=1.86  |  GG=1.75  |  GG&3+=2.2  |  4+=3.25
@@ -53,25 +56,6 @@ Najveća 3+ : 1.86  [OktagonBet]
 
 Arbitraža (1-X-2): DA   inv_sum=0.9973   profit≈0.27%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0351   profit≈-3.51%
-
-16:00   01.11.   [Engleska 1]
-Crystal P.  vs  Brentford
-
-- BalkanBet  1=1.95  |  X=3.65  |  2=3.95  |  0-2=2.13  |  2+=1.25  |  3+=1.75  |  GG=1.65  |  IGG=4.45  |  GG&3+=2  |  GG&4+=3.3  |  4+=2.9
-- MaxBet     1=2.05  |  X=3.60  |  2=3.60
-- Mozzart    1=2  |  X=3.5  |  2=3.7  |  0-2=2.03  |  2+=1.23  |  3+=1.73
-- OktagonBet 1=2  |  X=3.6  |  2=3.65  |  0-2=2.12  |  3+=1.73  |  GG=1.66  |  GG&3+=2.07  |  4+=2.88
-- Soccer     1=2.0  |  X=3.9  |  2=3.55  |  0-2=2.1  |  2+=1.25  |  3+=1.73  |  GG=1.68  |  IGG=4.2  |  GG&3+=2.05
-- Topbet     1=1.95  |  X=3.6  |  2=3.9
-
-Najveća 1  : 2.05  [MaxBet]
-Najveća X  : 3.90  [Soccer]
-Najveća 2  : 3.95  [BalkanBet]
-Najveća 0-2: 2.13  [BalkanBet]
-Najveća 3+ : 1.75  [BalkanBet]
-
-Arbitraža (1-X-2): DA   inv_sum=0.9974   profit≈0.26%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0409   profit≈-4.09%
 
 18:45   01.11.   [Argentina 1]
 Aldosivi  vs  Rivadavia
@@ -96,26 +80,26 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0502   profit≈-5.02%
                                        SAŽETAK                                        
 ======================================================================================
 Ukupno mečeva (grupa): 1526
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1235
-Grupa sa veličinom ≥3: 848
-Grupa sa veličinom ≥4: 530
-Grupa sa veličinom ≥5: 325
-Grupa sa veličinom ≥6: 173
-Grupa sa veličinom ≥7: 64
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1239
+Grupa sa veličinom ≥3: 905
+Grupa sa veličinom ≥4: 573
+Grupa sa veličinom ≥5: 380
+Grupa sa veličinom ≥6: 209
+Grupa sa veličinom ≥7: 126
 
 Po kladionici:
   - BalkanBet  ukupno zapisa:  910   spojeno (u grupama >1):  829
-  - BetOle     ukupno zapisa:   26   spojeno (u grupama >1):   26
-  - Brazil_d   ukupno zapisa:  378   spojeno (u grupama >1):  371
+  - BetOle     ukupno zapisa:  328   spojeno (u grupama >1):  328
+  - Brazil_d   ukupno zapisa:  378   spojeno (u grupama >1):  374
   - Brazil_p   ukupno zapisa:   74   spojeno (u grupama >1):   57
   - Brazil_s   ukupno zapisa:  277   spojeno (u grupama >1):  273
   - MaxBet     ukupno zapisa:  565   spojeno (u grupama >1):  544
-  - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  376
+  - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  377
   - OktagonBet ukupno zapisa: 1035   spojeno (u grupama >1):  962
   - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  326
   - Topbet     ukupno zapisa:  683   spojeno (u grupama >1):  648
 
 Arbitraže (broj mečeva/grupa):
-  - 1-X-2: 5
+  - 1-X-2: 4
   - 0-2 / 3+: 0
-  - Barem jedna arbitraža: 5
+  - Barem jedna arbitraža: 4
