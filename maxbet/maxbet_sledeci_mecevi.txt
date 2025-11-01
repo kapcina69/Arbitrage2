@@ -128,8 +128,8 @@ Opseg Vremena
 8:00
 23:59
 Opseg Kvota
-1.07
-25
+1.08
+24
 Fudbal
 Konačan ishod
  
@@ -179,11 +179,11 @@ AUSTRALIA 1
 Macarthur FC
 WS Wanderers
 1
-2.60
+2.50
 X
 3.65
 2
-2.40
+2.50
  
 ROMANIA 2
 01.11 10:00
@@ -344,15 +344,15 @@ X
 ITALY Primavera 1
 01.11 11:00
   
-+812
++811
 Napoli U20
 Juventus U20
 1
-2.85
+3.00
 X
-3.35
+3.40
 2
-2.30
+2.20
  
 ITALY Primavera 2
 01.11 11:00
@@ -712,11 +712,11 @@ CHINA 1
 Meizhou Hakka
 Dalian Kuncheng
 1
-2.05
+2.15
 X
-3.60
+3.55
 2
-3.10
+2.95
  
 CROATIA 2
 01.11 13:00
@@ -855,11 +855,11 @@ GREECE 2
 Kallithea
 Marko
 1
-1.63
+1.65
 X
 3.55
 2
-4.65
+4.55
  
 INDONESIA 1
 01.11 13:00
@@ -1267,15 +1267,15 @@ X
 SPAIN 1
 01.11 14:00
   
-+847
++848
 Villarreal
 Vallecano
 1
-1.73
+1.75
 X
-4.05
+3.95
 2
-4.65
+4.60
  
 AUSTRIA 3 East
 01.11 14:00
@@ -1683,15 +1683,15 @@ X
 GERMANY 4 Southwest
 01.11 14:00
   
-+817
++818
 Bahlinger
 Balingen
 1
-1.93
+1.95
 X
-3.85
+3.90
 2
-3.25
+3.10
  
 GERMANY 4 Southwest
 01.11 14:00
@@ -1778,24 +1778,24 @@ GERMANY 4 Southwest
 Walldorf
 K.Offenbach
 1
-2.65
+2.50
 X
 3.90
 2
-2.20
+2.30
  
 GREECE 2
 01.11 14:00
   
-+775
++780
 Chrisoupolis
 Niki Volos
 1
-5.45
+5.10
 X
-3.20
+3.15
 2
-1.63
+1.68
  
 GREECE 2
 01.11 14:00
@@ -1804,11 +1804,11 @@ GREECE 2
 Kalamata
 Panargiakos
 1
-1.07
+1.08
 X
-7.60
+7.20
 2
-25.0
+24.0
  
 GREECE 2
 01.11 14:00
@@ -1826,15 +1826,15 @@ X
 GREECE 2
 01.11 14:00
   
-+796
++792
 PAOK B
 Makedonikos
 1
-1.65
+1.73
 X
-3.35
+3.25
 2
-4.90
+4.40
  
 ISRAEL 1
 01.11 14:00
@@ -2311,9 +2311,9 @@ ITALY 1
 Udinese
 Atalanta
 1
-4.90
+4.85
 X
-3.70
+3.75
 2
 1.75
  
@@ -2749,7 +2749,7 @@ X
 GERMANY 1
 01.11 15:30
   
-+853
++815
 Mainz
 Werder B.
 1
@@ -2775,7 +2775,7 @@ X
 GERMANY 1
 01.11 15:30
   
-+845
++810
 St. Pauli
 B.M'Gladbach
 1
@@ -2961,7 +2961,7 @@ RUSSIA 1
 Rubin K.
 Dynamo M.
 1
-3.30
+3.25
 X
 3.30
 2
@@ -2983,7 +2983,7 @@ X
 ENGLAND 1
 01.11 16:00
   
-+789
++827
 Burnley
 Arsenal
 1
@@ -2996,15 +2996,15 @@ X
 ENGLAND 1
 01.11 16:00
   
-+809
++844
 Crystal Palace
 Brentford
 1
-2.05
+2.10
 X
 3.50
 2
-3.65
+3.60
  
 ENGLAND 1
 01.11 16:00
@@ -3035,15 +3035,15 @@ X
 SERBIA 1
 01.11 16:00
   
-+806
++802
 Javor
 Spartak S.
 1
 2.15
 X
-3.20
+3.10
 2
-3.20
+3.30
  
 BELGIUM 1
 01.11 16:00
@@ -4465,7 +4465,7 @@ X
 NORWAY 2
 01.11 16:00
   
-+808
++807
 Aalesund
 Asane
 1
@@ -4473,7 +4473,7 @@ Asane
 X
 5.10
 2
-7.70
+7.60
  
 NORWAY 2
 01.11 16:00
@@ -5466,15 +5466,15 @@ X
 ITALY 3 - Group B
 01.11 17:30
   
-+794
++793
 Rimini
 Bra
 1
-2.38
+2.45
 X
 2.90
 2
-3.05
+2.95
  
 QATAR 1
 01.11 17:30
@@ -5492,15 +5492,15 @@ X
 SLOVENIA 1
 01.11 17:30
   
-+803
++809
 Celje
 Aluminij
 1
-1.17
+1.20
 X
-6.80
+6.30
 2
-11.5
+10.0
  
 SWEDEN 1
 01.11 17:30
@@ -5804,15 +5804,15 @@ X
 GERMANY 4 West
 01.11 18:00
   
-+818
++815
 B.M'Gladbah II
 Bochum II
 1
-2.00
+2.05
 X
-3.75
+3.65
 2
-3.10
+3.05
  
 NORWAY 1
 01.11 18:00
@@ -6142,7 +6142,7 @@ X
 SPAIN 1
 01.11 18:30
   
-+830
++798
 R.Sociedad
 Ath Bilbao
 1
@@ -6263,11 +6263,11 @@ SPAIN 2
 Albacete
 Huesca
 1
-2.10
+2.00
 X
 3.20
 2
-3.50
+3.65
  
 SPAIN 2
 01.11 18:30
@@ -6692,7 +6692,7 @@ BRAZIL 2
 Goias
 Athletico-PR
 1
-2.55
+2.60
 X
 2.95
 2
@@ -6870,7 +6870,7 @@ X
 SPAIN 1
 01.11 21:00
   
-+839
++801
 Real M.
 Valencia
 1
@@ -6987,7 +6987,7 @@ X
 BRAZIL 1
 01.11 22:00
   
-+809
++810
 Mirassol
 Botafogo RJ
 1
@@ -6995,7 +6995,7 @@ Botafogo RJ
 X
 3.20
 2
-3.25
+3.15
  
 CHILE 1
 01.11 22:00
@@ -7104,15 +7104,15 @@ X
 CHILE 2
 01.11 23:00
   
-+818
++819
 S. Wanderers
 Magallanes
 1
-2.00
+2.05
 X
 3.75
 2
-3.05
+3.00
  
 URUGUAY 1
 01.11 23:00
@@ -7148,7 +7148,7 @@ Promeni temu  
 VIP KLUB
 REZULTATI
 STATUS TIKETA
-8:43:12
+8:52:01
 NAČIN UPLATE DEPOZITA
 UPLATNA MESTA
 PRAVILA IGRE
