@@ -36,7 +36,7 @@ Sve
   
   
 FUDBAL
-1003
+997
   
   
 DNEVNI SPECIJAL
@@ -48,11 +48,11 @@ GOLOVI PO LIGAMA
   
   
 KOŠARKA
-180
+177
   
   
 SP. KOŠARKA
-262
+241
   
   
 TENIS
@@ -100,11 +100,11 @@ FUTSAL
   
   
 BADMINTON
-3
+2
   
   
 MMA
-23
+22
   
   
 BOKS
@@ -120,7 +120,7 @@ FORMULA 1
   
   
 KONJSKE TRKE
-37
+28
   
   
 ESPORT
@@ -128,7 +128,7 @@ ESPORT
   
   
 SP. FUDBAL
-2430
+2385
   
   
 VIR. FUDBAL
@@ -153,98 +153,6 @@ Vremenska
 Top
 Specijali
 KONAČAN ISHOD
- 
-Belgium, Jupiler Pro League
-+972
-Club Brugge KV
-Dender
-01.11. 18:15
-ki 1
-1.26
-ki X
-5.90
-ki 2
-9.25
-manje 2.5
-3.03
-više 2.5
-1.35
- 
-Russia, Premier League
-+818
-FK Rostov
-Akron Togliatti
-01.11. 18:15
-ki 1
-1.72
-ki X
-3.65
-ki 2
-4.85
-manje 2.5
-1.90
-više 2.5
-1.82
-+815
-Zenit
-Lokomotiv Moscow
-01.11. 18:15
-ki 1
-1.60
-ki X
-4.00
-ki 2
-5.50
-manje 2.5
-2.07
-više 2.5
-1.70
- 
-San Marino, Campionato Sammarinese
-+633
-Folgore
-Libertas
-01.11. 18:15
-ki 1
-1.25
-ki X
-4.70
-ki 2
-8.50
-manje 2.5
-2.05
-više 2.5
-1.62
-+631
-Tre Fiori
-Fiorentino
-01.11. 18:15
-ki 1
-1.30
-ki X
-4.15
-ki 2
-8.50
-manje 2.5
-1.63
-više 2.5
-2.03
- 
-Wales, Cymru Premier
-+821
-Colwyn Bay
-Barry
-01.11. 18:15
-ki 1
-2.10
-ki X
-3.25
-ki 2
-3.05
-manje 2.5
-1.91
-više 2.5
-1.77
  
 England, Premier League
 +1052
@@ -284,15 +192,15 @@ Bayern Munich
 Bayer Leverkusen
 01.11. 18:30
 ki 1
-1.28
+1.29
 ki X
-6.10
+6.00
 ki 2
 9.25
 manje 2.5
-3.20
+3.10
 više 2.5
-1.36
+1.37
  
 Bosnia and Herzegovina, Premijer Liga BiH
 +811
@@ -316,15 +224,15 @@ Brackley Town
 Notts Co
 01.11. 18:30
 ki 1
-3.85
+3.90
 ki X
 3.70
 ki 2
-1.85
+1.83
 manje 2.5
-2.03
+2.05
 više 2.5
-1.71
+1.70
  
 Greece, Super League
 +818
@@ -350,43 +258,43 @@ Al Feiha
 ki 1
 1.15
 ki X
-6.60
+6.50
 ki 2
-11.25
+11.5
 manje 2.5
 3.20
 više 2.5
 1.29
  
 Spain, LaLiga2
-+908
++925
 Albacete
 Huesca
 01.11. 18:30
 ki 1
-1.97
+1.95
 ki X
 3.25
 ki 2
-3.95
+4.00
 manje 2.5
 1.57
 više 2.5
 2.27
-+901
++914
 Leganes
 Burgos CF
 01.11. 18:30
 ki 1
 2.20
 ki X
-2.93
+2.90
 ki 2
-3.65
+3.70
 manje 2.5
-1.43
+1.42
 više 2.5
-2.63
+2.70
  
 Israel, Ligat ha'Al
 +811
@@ -426,15 +334,15 @@ Motherwell
 St. Mirren
 01.11. 18:30
 ki 1
-2.50
+2.47
 ki X
 3.25
 ki 2
-2.77
+2.80
 manje 2.5
 1.80
 više 2.5
-1.92
+1.91
  
 Spain, Primera RFEF - Group 1
 +635
@@ -458,31 +366,31 @@ CD Coria
 RSC International
 01.11. 18:30
 ki 1
-2.20
+2.10
 ki X
-2.95
+3.03
 ki 2
-3.20
+3.30
 manje 2.5
-1.53
+1.57
 više 2.5
-2.22
+2.15
  
 Spain, Tercera RFEF - Group 3
-+640
++641
 Revilla
 Tropezon
 01.11. 18:30
 ki 1
-3.80
+3.60
 ki X
 3.15
 ki 2
-1.82
+1.88
 manje 2.5
 1.65
 više 2.5
-2.02
+2.00
  
 Spain, Primera Division Women
 +624
@@ -517,23 +425,23 @@ više 2.5
 1.57
  
 Croatia, HNL
-+812
++813
 Istra 1961
 Vukovar 1991
 01.11. 18:45
 ki 1
-1.55
+1.57
 ki X
-3.80
+3.75
 ki 2
-5.45
+5.30
 manje 2.5
-1.92
+1.90
 više 2.5
 1.80
  
 Argentina, Torneo Betano - Clausura
-+803
++804
 Aldosivi
 Ind. Rivadavia
 01.11. 18:45
@@ -542,7 +450,7 @@ ki 1
 ki X
 2.95
 ki 2
-3.80
+3.75
 manje 2.5
 1.43
 više 2.5
@@ -565,7 +473,7 @@ više 2.5
 1.57
  
 Portugal, Liga Portugal
-+959
++922
 Casa Pia
 Estrela
 01.11. 19:00
@@ -627,7 +535,7 @@ više 2.5
 1.82
  
 Brazil, Campeonato Pernambucano 2 - Play Offs
-+644
++645
 America PE
 Academica Vitoria
 01.11. 19:00
@@ -638,9 +546,9 @@ ki X
 ki 2
 3.20
 manje 2.5
-1.70
+1.72
 više 2.5
-2.00
+1.97
  
 Egypt, Premier League
 +627
@@ -662,31 +570,31 @@ El Ismaily
 Kahraba Ismailia
 01.11. 19:00
 ki 1
-2.83
+2.90
 ki X
 2.80
 ki 2
-2.50
+2.45
 manje 2.5
 1.41
 više 2.5
-2.67
+2.65
  
 Israel, Liga Alef South
-+643
++641
 M. Ironi Ashdod
 H. Marmorek
 01.11. 19:00
 ki 1
-1.82
+1.75
 ki X
 3.25
 ki 2
-4.00
+4.33
 manje 2.5
-1.70
+1.67
 više 2.5
-2.02
+2.03
  
 Peru, Liga 1 - Clausura
 +821
@@ -719,1270 +627,6 @@ manje 2.5
 1.48
 više 2.5
 2.45
-+635
-Bonsucesso
-Petropolis
-01.11. 19:00
-ki 1
-2.15
-ki X
-2.80
-ki 2
-3.50
-manje 2.5
-1.38
-više 2.5
-2.77
-+633
-Campo Grande
-AA Carapebus
-01.11. 19:00
-ki 1
-1.95
-ki X
-2.93
-ki 2
-3.95
-manje 2.5
-1.38
-više 2.5
-2.73
-+636
-Duque de Caxias
-Nova Cidade
-01.11. 19:00
-ki 1
-1.95
-ki X
-2.97
-ki 2
-3.85
-manje 2.5
-1.43
-više 2.5
-2.57
-+638
-Sao Cristovao
-Paduano
-01.11. 19:00
-ki 1
-2.15
-ki X
-2.88
-ki 2
-3.40
-manje 2.5
-1.45
-više 2.5
-2.55
- 
-Brazil, Campeonato Gaucho Women - Play Offs
-+637
-Internacional Wom.
-Juventude Wom.
-01.11. 19:00
-ki 1
-1.33
-ki X
-4.55
-ki 2
-7.20
-manje 2.5
-2.25
-više 2.5
-1.55
- 
-Malta, Premier League - First stage - Main
-+639
-Birkirkara
-Hamrun
-01.11. 19:00
-ki 1
-3.50
-ki X
-2.97
-ki 2
-2.05
-manje 2.5
-1.48
-više 2.5
-2.35
-+641
-Floriana
-Sliema
-01.11. 19:00
-ki 1
-2.88
-ki X
-2.93
-ki 2
-2.40
-manje 2.5
-1.51
-više 2.5
-2.27
-+641
-Hibernians
-Marsaxlokk
-01.11. 19:00
-ki 1
-3.80
-ki X
-3.25
-ki 2
-1.87
-manje 2.5
-1.67
-više 2.5
-2.00
- 
-South Africa, Premiership
-+798
-Chippa Utd.
-AmaZulu
-01.11. 19:15
-ki 1
-3.15
-ki X
-2.80
-ki 2
-2.45
-manje 2.5
-1.37
-više 2.5
-2.85
- 
-Romania, Superliga
-+816
-U. Cluj
-FCSB
-01.11. 19:30
-ki 1
-2.95
-ki X
-3.05
-ki 2
-2.35
-manje 2.5
-1.67
-više 2.5
-2.07
- 
-Italy, Serie B
-+953
-Palermo
-Pescara
-01.11. 19:30
-ki 1
-1.40
-ki X
-4.65
-ki 2
-7.00
-manje 2.5
-2.20
-više 2.5
-1.62
- 
-Andorra, Primera Divisio
-+637
-Penya
-Atletic Escaldes
-01.11. 19:30
-ki 1
-6.40
-ki X
-4.75
-ki 2
-1.35
-manje 2.5
-2.25
-više 2.5
-1.53
- 
-Argentina, Primera B Metropolitana - Clausura
-+796
-Deportivo Armenio
-Real Pilar
-01.11. 19:30
-ki 1
-2.63
-ki X
-2.73
-ki 2
-2.75
-manje 2.5
-1.35
-više 2.5
-2.88
-+799
-Flandria
-Acassuso
-01.11. 19:30
-ki 1
-2.12
-ki X
-2.80
-ki 2
-3.50
-manje 2.5
-1.37
-više 2.5
-2.80
-+803
-San Martin Burzaco
-Villa San Carlos
-01.11. 19:30
-ki 1
-2.27
-ki X
-2.93
-ki 2
-3.05
-manje 2.5
-1.53
-više 2.5
-2.30
- 
-Belgium, National Division 1
-+641
-Royale Union SG 2
-Namur
-01.11. 19:30
-ki 1
-1.67
-ki X
-3.65
-ki 2
-4.25
-manje 2.5
-2.10
-više 2.5
-1.63
- 
-Israel, Liga Alef North
-+640
-Hapoel Umm al-Fahm
-M. Kiryat Ata-Bialik
-01.11. 19:30
-ki 1
-4.45
-ki X
-3.25
-ki 2
-1.75
-manje 2.5
-1.67
-više 2.5
-2.07
- 
-Israel, Liga Alef South
-+642
-Maccabi Kiryat Gat
-Tzeirey Tira
-01.11. 19:30
-ki 1
-1.60
-ki X
-3.70
-ki 2
-4.75
-manje 2.5
-2.02
-više 2.5
-1.70
- 
-Netherlands, Eredivisie
-+889
-Feyenoord
-FC Volendam
-01.11. 20:00
-ki 1
-1.12
-ki X
-9.00
-ki 2
-17.0
-manje 2.5
-3.80
-više 2.5
-1.22
- 
-Hungary, NB I.
-+825
-Ferencvaros
-MTK Budapest
-01.11. 20:00
-ki 1
-1.41
-ki X
-4.75
-ki 2
-5.90
-manje 2.5
-2.90
-više 2.5
-1.36
- 
-Brazil, Serie A
-+903
-Cruzeiro
-Vitoria
-01.11. 20:00
-ki 1
-1.41
-ki X
-4.20
-ki 2
-8.10
-manje 2.5
-1.83
-više 2.5
-1.88
-+996
-Santos
-Fortaleza
-01.11. 20:00
-ki 1
-1.67
-ki X
-3.70
-ki 2
-4.90
-manje 2.5
-1.92
-više 2.5
-1.80
- 
-France, Ligue 2
-+961
-Red Star
-St Etienne
-01.11. 20:00
-ki 1
-2.90
-ki X
-3.30
-ki 2
-2.35
-manje 2.5
-1.92
-više 2.5
-1.80
- 
-Netherlands, Eerste Divisie
-+825
-Cambuur
-Jong Ajax
-01.11. 20:00
-ki 1
-1.30
-ki X
-5.40
-ki 2
-7.30
-manje 2.5
-3.55
-više 2.5
-1.25
- 
-International, Friendly Women
-+642
-Chad Wom.
-Tunisia Wom.
-01.11. 20:00
-ki 1
-6.90
-ki X
-5.20
-ki 2
-1.30
-manje 2.5
-3.35
-više 2.5
-1.27
- 
-Argentina, Torneo Betano - Clausura
-+805
-Barracas Central
-Argentinos Jrs
-01.11. 20:00
-ki 1
-3.55
-ki X
-2.97
-ki 2
-2.22
-manje 2.5
-1.43
-više 2.5
-2.67
- 
-Argentina, Primera B Metropolitana - Clausura
-+789
-Laferrere
-Midland
-01.11. 20:00
-ki 1
-2.77
-ki X
-2.60
-ki 2
-2.75
-manje 2.5
-1.30
-više 2.5
-3.15
- 
-Austria, 2. Liga
-+822
-Austria Vienna (Am)
-Liefering
-01.11. 20:00
-ki 1
-2.95
-ki X
-3.35
-ki 2
-2.20
-manje 2.5
-2.05
-više 2.5
-1.67
-+814
-Sturm Graz (Am)
-Admira
-01.11. 20:00
-ki 1
-5.90
-ki X
-4.30
-ki 2
-1.45
-manje 2.5
-2.07
-više 2.5
-1.67
- 
-Belgium, Challenger Pro League
-+815
-Beveren
-Club Brugge KV U23
-01.11. 20:00
-ki 1
-1.30
-ki X
-5.10
-ki 2
-8.25
-manje 2.5
-2.50
-više 2.5
-1.47
-+823
-OC Charleroi
-RFC Liege
-01.11. 20:00
-ki 1
-4.30
-ki X
-3.75
-ki 2
-1.70
-manje 2.5
-2.15
-više 2.5
-1.62
-+820
-RWDM
-Genk U23
-01.11. 20:00
-ki 1
-1.30
-ki X
-5.20
-ki 2
-7.75
-manje 2.5
-2.77
-više 2.5
-1.38
- 
-Belgium, National Division 1
-+645
-Meux
-Stockay-Warfusee
-01.11. 20:00
-ki 1
-2.55
-ki X
-3.30
-ki 2
-2.41
-manje 2.5
-2.05
-više 2.5
-1.67
-+642
-Tubize-Braine
-Habay La Neuve
-01.11. 20:00
-ki 1
-1.40
-ki X
-4.45
-ki 2
-6.00
-manje 2.5
-2.50
-više 2.5
-1.45
-+646
-Virton
-Renaissance Mons
-01.11. 20:00
-ki 1
-3.05
-ki X
-3.25
-ki 2
-2.10
-manje 2.5
-1.91
-više 2.5
-1.77
- 
-Bolivia, Division Profesional
-+822
-Real Oruro
-GV San Jose
-01.11. 20:00
-ki 1
-2.40
-ki X
-3.35
-ki 2
-2.55
-manje 2.5
-2.10
-više 2.5
-1.63
- 
-Brazil, Serie B
-+809
-Goias
-Athletico-PR
-01.11. 20:00
-ki 1
-2.85
-ki X
-3.03
-ki 2
-2.57
-manje 2.5
-1.55
-više 2.5
-2.30
- 
-Chile, Primera B
-+807
-Copiapo
-U. De Concepcion
-01.11. 20:00
-ki 1
-1.82
-ki X
-3.20
-ki 2
-4.05
-manje 2.5
-1.65
-više 2.5
-2.10
- 
-Israel, Liga Alef North
-+644
-Hapoel Tirat HaCarmel
-Hapoel Bnei Musmus
-01.11. 20:00
-ki 1
-2.00
-ki X
-3.30
-ki 2
-3.30
-manje 2.5
-1.85
-više 2.5
-1.83
- 
-Morocco, Botola Pro
-+806
-Yacoub El Mansour
-Renaissance Zemamra
-01.11. 20:00
-ki 1
-2.50
-ki X
-2.93
-ki 2
-2.73
-manje 2.5
-1.57
-više 2.5
-2.25
- 
-Bolivia, Copa Simon Bolivar - Play Offs
-+629
-Nueva Cliza
-Integracion Del Norte San Juan
-01.11. 20:00
-ki 1
-1.80
-ki X
-3.40
-ki 2
-3.80
-manje 2.5
-1.95
-više 2.5
-1.75
- 
-Ecuador, Liga Pro - Relegation Group
-+938
-Tecnico U.
-Mushuc Runa
-01.11. 20:00
-ki 1
-2.40
-ki X
-2.93
-ki 2
-2.85
-manje 2.5
-1.55
-više 2.5
-2.27
- 
-Switzerland, Super League
-+829
-Zurich
-Lausanne
-01.11. 20:30
-ki 1
-2.20
-ki X
-3.65
-ki 2
-2.80
-manje 2.5
-2.50
-više 2.5
-1.47
- 
-Germany, 2. Bundesliga
-+964
-Darmstadt
-Arminia Bielefeld
-01.11. 20:30
-ki 1
-2.00
-ki X
-3.65
-ki 2
-3.45
-manje 2.5
-2.25
-više 2.5
-1.57
- 
-Argentina, Torneo Federal - Promotion - Play Offs
-+638
-Argentino MM
-Douglas Haig
-01.11. 20:30
-ki 1
-2.12
-ki X
-2.90
-ki 2
-3.45
-manje 2.5
-1.45
-više 2.5
-2.50
- 
-USA, MLS - Play Offs
-+824
-New York City
-Charlotte
-01.11. 20:30
-ki 1
-1.77
-ki X
-3.75
-ki 2
-4.40
-manje 2.5
-2.15
-više 2.5
-1.67
- 
-Uruguay, Liga AUF Uruguaya - Clausura
-+814
-Liverpool M.
-Juventud
-01.11. 20:30
-ki 1
-1.87
-ki X
-3.30
-ki 2
-3.95
-manje 2.5
-1.72
-više 2.5
-2.00
- 
-Italy, Serie A
-+1070
-Cremonese
-Juventus
-01.11. 20:45
-ki 1
-6.75
-ki X
-4.10
-ki 2
-1.52
-manje 2.5
-2.02
-više 2.5
-1.81
- 
-Belgium, Jupiler Pro League
-+921
-Anderlecht
-KV Mechelen
-01.11. 20:45
-ki 1
-1.55
-ki X
-4.20
-ki 2
-5.35
-manje 2.5
-2.40
-više 2.5
-1.52
- 
-England, Premier League
-+1076
-Liverpool
-Aston Villa
-01.11. 21:00
-ki 1
-1.71
-ki X
-4.30
-ki 2
-4.33
-manje 2.5
-2.65
-više 2.5
-1.48
- 
-Spain, LaLiga
-+962
-Real Madrid
-Valencia
-01.11. 21:00
-ki 1
-1.17
-ki X
-7.50
-ki 2
-15.0
-manje 2.5
-3.30
-više 2.5
-1.33
- 
-Netherlands, Eredivisie
-+922
-Telstar
-Excelsior
-01.11. 21:00
-ki 1
-2.12
-ki X
-3.55
-ki 2
-3.20
-manje 2.5
-2.15
-više 2.5
-1.63
- 
-Spain, LaLiga2
-+915
-Almeria
-Eibar
-01.11. 21:00
-ki 1
-1.77
-ki X
-3.55
-ki 2
-4.40
-manje 2.5
-1.90
-više 2.5
-1.82
- 
-Argentina, Torneo Betano - Clausura
-+805
-Velez Sarsfield
-Talleres Cordoba
-01.11. 21:00
-ki 1
-2.20
-ki X
-2.93
-ki 2
-3.70
-manje 2.5
-1.43
-više 2.5
-2.65
- 
-Dominican Republic, LDF
-+645
-Delfines Del Este
-Jarabacoa
-01.11. 21:00
-ki 1
-1.51
-ki X
-4.15
-ki 2
-4.80
-manje 2.5
-2.55
-više 2.5
-1.45
- 
-Spain, Primera RFEF - Group 2
-+642
-CE Europa
-Sanluqueno
-01.11. 21:00
-ki 1
-1.83
-ki X
-3.20
-ki 2
-4.05
-manje 2.5
-1.61
-više 2.5
-2.15
- 
-France, Premiere Ligue Women
-+619
-Lyon Wom.
-Paris FC Wom.
-01.11. 21:00
-ki 1
-1.07
-ki X
-8.75
-ki 2
-17.5
-manje 2.5
-3.90
-više 2.5
-1.18
- 
-France, Ligue 1
-+1075
-Auxerre
-Marseille
-01.11. 21:05
-ki 1
-4.75
-ki X
-3.90
-ki 2
-1.71
-manje 2.5
-2.03
-više 2.5
-1.80
- 
-Peru, Liga 1 - Clausura
-+817
-Comerciantes Unidos
-Sporting Cristal
-01.11. 21:15
-ki 1
-3.30
-ki X
-3.20
-ki 2
-2.12
-manje 2.5
-1.80
-više 2.5
-1.91
- 
-Portugal, Liga Portugal
-+904
-Vitoria Guimaraes
-Benfica
-01.11. 21:30
-ki 1
-6.90
-ki X
-3.85
-ki 2
-1.50
-manje 2.5
-1.75
-više 2.5
-1.97
- 
-Paraguay, Copa de Primera - Clausura
-+814
-Nacional Asuncion
-Sportivo Trinidense
-01.11. 21:30
-ki 1
-2.15
-ki X
-3.10
-ki 2
-3.30
-manje 2.5
-1.65
-više 2.5
-2.10
- 
-Brazil, Serie A
-+999
-Mirassol
-Botafogo
-01.11. 22:00
-ki 1
-2.27
-ki X
-3.25
-ki 2
-3.10
-manje 2.5
-1.77
-više 2.5
-1.95
- 
-Chile, Primera Division
-+817
-Nublense
-Colo Colo
-01.11. 22:00
-ki 1
-3.15
-ki X
-3.25
-ki 2
-2.15
-manje 2.5
-1.72
-više 2.5
-2.00
- 
-El Salvador, Primera Division - Apertura
-+814
-Cacahuatique
-CD Hercules
-01.11. 22:00
-ki 1
-1.77
-ki X
-3.35
-ki 2
-4.10
-manje 2.5
-1.80
-više 2.5
-1.85
-+793
-Zacatecoluca
-Municipal Limeno
-01.11. 22:00
-ki 1
-2.97
-ki X
-2.97
-ki 2
-2.30
-manje 2.5
-1.57
-više 2.5
-2.20
- 
-Guatemala, Liga Nacional - Apertura
-+816
-Deportivo Mixco
-Antigua
-01.11. 22:00
-ki 1
-2.12
-ki X
-3.05
-ki 2
-3.20
-manje 2.5
-1.67
-više 2.5
-2.03
- 
-Honduras, Liga Nacional - Apertura
-+814
-CD Marathon
-Olancho
-01.11. 22:00
-ki 1
-1.67
-ki X
-3.45
-ki 2
-4.60
-manje 2.5
-1.80
-više 2.5
-1.88
- 
-Nicaragua, Liga Primera - Apertura
-+648
-Real Madriz
-Jalapa
-01.11. 22:00
-ki 1
-2.83
-ki X
-3.65
-ki 2
-2.07
-manje 2.5
-2.50
-više 2.5
-1.42
- 
-Colombia, Primera B - Clausura - Quadrangular
-+39
-Cartagena
-Boca Juniors
-01.11. 22:05
-ki 1
-1.47
-ki X
-3.70
-ki 2
-6.30
-manje 2.5
-1.73
-više 2.5
-1.97
- 
-El Salvador, Primera Division - Apertura
-+820
-Fuerte San Francisco
-Platense Municipal
-01.11. 22:15
-ki 1
-2.60
-ki X
-3.05
-ki 2
-2.50
-manje 2.5
-1.67
-više 2.5
-1.97
- 
-Brazil, Serie B
-+814
-Avai
-Athletic Club
-01.11. 22:30
-ki 1
-1.87
-ki X
-3.35
-ki 2
-4.25
-manje 2.5
-1.70
-više 2.5
-2.07
- 
-Mexico, Liga Premier Serie B
-+649
-Uruapan
-Poza Rica
-01.11. 22:30
-ki 1
-2.05
-ki X
-3.80
-ki 2
-2.80
-manje 2.5
-2.88
-više 2.5
-1.35
- 
-USA, MLS - Play Offs
-+827
-Chicago Fire
-Philadelphia Union
-01.11. 22:30
-ki 1
-2.12
-ki X
-3.65
-ki 2
-3.15
-manje 2.5
-2.30
-više 2.5
-1.60
- 
-Venezuela, Liga FUTVE - Clausura - Quadrangular
-+646
-Caracas
-Metropolitanos
-01.11. 22:30
-ki 1
-2.08
-ki X
-3.30
-ki 2
-3.10
-manje 2.5
-1.97
-više 2.5
-1.72
- 
-Ecuador, Liga Pro - Placement Group
-+642
-Aucas
-El Nacional
-01.11. 22:30
-ki 1
-1.60
-ki X
-3.60
-ki 2
-4.85
-manje 2.5
-1.90
-više 2.5
-1.77
- 
-Mexico, Liga MX Women - Apertura
-+648
-Cruz Azul Wom.
-Tigres UANL Wom.
-01.11. 22:45
-ki 1
-3.45
-ki X
-3.75
-ki 2
-1.81
-manje 2.5
-2.35
-više 2.5
-1.51
- 
-Chile, Primera B
-+821
-S. Wanderers
-Magallanes
-01.11. 23:00
-ki 1
-1.95
-ki X
-3.45
-ki 2
-3.25
-manje 2.5
-2.03
-više 2.5
-1.67
- 
-Dominican Republic, LDF
-+637
-Atletico Pantoja
-Atlantico
-01.11. 23:00
-ki 1
-1.38
-ki X
-4.25
-ki 2
-6.60
-manje 2.5
-2.03
-više 2.5
-1.67
-+639
-Moca
-Atletico Vega Real
-01.11. 23:00
-ki 1
-1.63
-ki X
-3.35
-ki 2
-5.00
-manje 2.5
-1.62
-više 2.5
-2.12
- 
-Uruguay, Liga AUF Uruguaya - Clausura
-+799
-CA Cerro
-Nacional De Football
-01.11. 23:00
-ki 1
-7.40
-ki X
-3.65
-ki 2
-1.47
-manje 2.5
-1.57
-više 2.5
-2.27
- 
-USA, USL Championship - Play Offs
-+645
-Pittsburgh
-Hartford Athletic
-01.11. 23:30
-ki 1
-2.10
-ki X
-3.20
-ki 2
-3.35
-manje 2.5
-1.75
-više 2.5
-1.97
  Tiket
 TIKET
 
@@ -2041,10 +685,11 @@ Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-18:06:38
+18:16:22
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
 Betole priredjuje igre na sreću u skladu sa rešenjem izdatim od Ministarstva Finansija Srbije – Uprava za igre na sreću.
 
 LIVE CHAT
+ 

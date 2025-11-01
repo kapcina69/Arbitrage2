@@ -2,22 +2,22 @@
 Bayern  vs  Leverkusen
 
 - BalkanBet  1=1.27  |  X=6.5  |  2=10  |  0-2=3.35  |  2+=1.1  |  3+=1.35  |  GG=1.7  |  IGG=3.9  |  GG&3+=1.9  |  GG&4+=2.45  |  4+=1.9
-- BetOle     1=1.28  |  X=6.1  |  2=9.25  |  0-2=3.2  |  3+=1.36
-- Brazil_d   1=1.28  |  X=6  |  2=9.5  |  0-2=3.15  |  2+=1.1  |  3+=1.36
-- MaxBet     1=1.28  |  X=6.20  |  2=9.50
+- BetOle     1=1.29  |  X=6  |  2=9.25  |  0-2=3.1  |  3+=1.37
+- Brazil_d   1=1.29  |  X=6  |  2=9.5  |  0-2=3.1  |  2+=1.11  |  3+=1.38
+- MaxBet     1=1.29  |  X=6.10  |  2=9.50
 - Mozzart    1=1.28  |  X=6.75  |  2=10.5  |  0-2=3.5  |  2+=1.07  |  3+=1.33
-- OktagonBet 1=1.28  |  X=6.1  |  2=9.35  |  0-2=3.2  |  3+=1.36  |  GG=1.7  |  GG&3+=1.9  |  4+=1.91
+- OktagonBet 1=1.29  |  X=6  |  2=9.4  |  0-2=3.05  |  3+=1.39  |  GG=1.74  |  GG&3+=1.96  |  4+=1.98
 - Soccer     1=1.28  |  X=6.3  |  2=9.9  |  0-2=3.55  |  2+=1.09  |  3+=1.32  |  GG=1.6  |  IGG=3.6  |  GG&3+=1.75
 - Topbet     1=1.25  |  X=7.4  |  2=12
 
-Najveća 1  : 1.28  [BetOle, Brazil_d, MaxBet, Mozzart, OktagonBet, Soccer]
+Najveća 1  : 1.29  [BetOle, Brazil_d, MaxBet, OktagonBet]
 Najveća X  : 7.40  [Topbet]
 Najveća 2  : 12.00  [Topbet]
 Najveća 0-2: 3.55  [Soccer]
-Najveća 3+ : 1.36  [BetOle, Brazil_d, OktagonBet]
+Najveća 3+ : 1.39  [OktagonBet]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9997   profit≈0.03%
-Arbitraža (0-2 / 3+): NE   inv_sum=1.0170   profit≈-1.70%
+Arbitraža (1-X-2): DA   inv_sum=0.9937   profit≈0.63%
+Arbitraža (0-2 / 3+): NE   inv_sum=1.0011   profit≈-0.11%
 
 01:00   02.11.   [Kostarika 2]
 Grecia  vs  Inter San Carlos
@@ -42,39 +42,39 @@ Atromitos  vs  Kifisia
 
 - Brazil_d   1=2.18  |  X=3.05  |  2=3.3  |  0-2=1.65  |  2+=1.35  |  3+=2.12
 - MaxBet     1=2.70  |  X=3.15  |  2=2.55
-- Topbet     1=2.8  |  X=3.05  |  2=2.55
+- Topbet     1=2.65  |  X=3.05  |  2=2.6
 
-Najveća 1  : 2.80  [Topbet]
+Najveća 1  : 2.70  [MaxBet]
 Najveća X  : 3.15  [MaxBet]
 Najveća 2  : 3.30  [Brazil_d]
 Najveća 0-2: 1.65  [Brazil_d]
 Najveća 3+ : 2.12  [Brazil_d]
 
-Arbitraža (1-X-2): DA   inv_sum=0.9776   profit≈2.24%
+Arbitraža (1-X-2): DA   inv_sum=0.9909   profit≈0.91%
 Arbitraža (0-2 / 3+): NE   inv_sum=1.0778   profit≈-7.78%
 
 
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 945
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 687
-Grupa sa veličinom ≥3: 544
-Grupa sa veličinom ≥4: 333
-Grupa sa veličinom ≥5: 174
-Grupa sa veličinom ≥6: 96
-Grupa sa veličinom ≥7: 71
+Ukupno mečeva (grupa): 935
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 703
+Grupa sa veličinom ≥3: 571
+Grupa sa veličinom ≥4: 335
+Grupa sa veličinom ≥5: 167
+Grupa sa veličinom ≥6: 83
+Grupa sa veličinom ≥7: 43
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa:  636   spojeno (u grupama >1):  581
-  - BetOle     ukupno zapisa:  103   spojeno (u grupama >1):  103
-  - Brazil_d   ukupno zapisa:  114   spojeno (u grupama >1):  113
+  - BalkanBet  ukupno zapisa:  630   spojeno (u grupama >1):  578
+  - BetOle     ukupno zapisa:   24   spojeno (u grupama >1):   24
+  - Brazil_d   ukupno zapisa:  109   spojeno (u grupama >1):  108
   - Brazil_p   ukupno zapisa:   50   spojeno (u grupama >1):   40
-  - MaxBet     ukupno zapisa:   88   spojeno (u grupama >1):   88
-  - Mozzart    ukupno zapisa:  404   spojeno (u grupama >1):  346
-  - OktagonBet ukupno zapisa:  539   spojeno (u grupama >1):  465
-  - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  337
-  - Topbet     ukupno zapisa:  600   spojeno (u grupama >1):  553
+  - MaxBet     ukupno zapisa:   82   spojeno (u grupama >1):   82
+  - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  358
+  - OktagonBet ukupno zapisa:  539   spojeno (u grupama >1):  484
+  - Soccer     ukupno zapisa:  375   spojeno (u grupama >1):  358
+  - Topbet     ukupno zapisa:  632   spojeno (u grupama >1):  582
 
 Arbitraže (broj mečeva/grupa):
   - 1-X-2: 3
