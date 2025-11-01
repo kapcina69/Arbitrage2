@@ -24,7 +24,7 @@ Oktagon Derbi
 Golovi Po Ligama
 1
 Tenis
-31
+41
 Košarka
 53
 Košarka Specijal
@@ -34,13 +34,13 @@ MMA
 Esport
 12
 Hokej
-31
+37
 Rukomet
 21
 Americki Fudbal
 2
 Odbojka
-28
+29
 Vaterpolo
 2
 Stoni Tenis
@@ -67,44 +67,24 @@ UG3+
 UG4+
 GG
 GG3+
-01.11. 07:00
-Newcastle Jets - Sydney FC
-2.85
-4.00
-2.12
-3.15
-1.32
-1.85
-1.32
-1.49
-01.11. 07:00
-Brisbane Roar Wom. - Melbourne Victory Wom.
-2.95
-3.50
-2.07
-2.25
-1.56
-2.47
-1.50
-1.83
 01.11. 07:30
 Chongqing Tonglianglong - Suzhou Dongwu
-1.26
-4.60
-10.1
-1.88
-1.80
-3.15
+1.24
+4.75
+10.6
+1.92
+1.77
+3.05
 2.55
 3.15
 01.11. 07:30
 Dalian Kuncheng - Shaanxi Union
-2.12
+2.18
 3.30
-2.95
+2.88
 2.02
 1.69
-2.80
+2.85
 1.59
 2.00
 01.11. 07:30
@@ -129,44 +109,44 @@ Guangxi Pingguo Haliao - Shanghai Jiading Huilong
 3.10
 01.11. 07:30
 Heilongjiang Ice City - Shenzhen Juniors
-1.92
-3.20
-3.60
+2.00
+3.15
+3.40
 1.70
 2.00
 3.70
-1.87
-2.45
+1.86
+2.47
 01.11. 07:30
 Nanjing City - Liaoning Tieren
-4.80
-3.85
-1.56
+4.70
+3.80
+1.58
 2.10
 1.64
 2.70
-1.72
+1.71
 2.08
 01.11. 07:30
 Nantong Zhiyun - Yanbian Longding
-1.83
+1.81
 3.25
-3.90
-1.70
-2.00
-3.70
-1.90
-2.47
+4.00
+1.71
+1.99
+3.65
+1.91
+2.50
 01.11. 07:30
 Qingdao Red Lions - Guangdong GZ-Power
-9.85
-5.05
-1.23
-2.18
-1.60
-2.60
+10.1
+5.15
+1.22
 2.22
-2.65
+1.57
+2.50
+2.22
+2.62
 01.11. 08:00
 Tai Po - Hong Kong Rangers
 1.53
@@ -179,14 +159,14 @@ Tai Po - Hong Kong Rangers
 1.72
 01.11. 08:30
 Changchun Yatai - Beijing Guoan
-2.40
+2.45
 3.65
-2.50
 2.47
-1.47
-2.25
-1.43
-1.69
+2.40
+1.51
+2.32
+1.45
+1.74
 01.11. 08:30
 Shandong Taishan - Tianjin Jinmen Tiger
 1.43
@@ -249,14 +229,14 @@ Persipal BU - Deltras Sidoarjo
 2.62
 01.11. 09:00
 Taiwan Steel - Phnom Penh Crown
-8.50
-5.95
-1.21
+9.90
+6.40
+1.17
 3.85
 1.21
 1.59
-1.51
-1.65
+1.58
+1.72
 01.11. 09:30
 FC Bhayangkara - Persita
 2.20
@@ -269,14 +249,14 @@ FC Bhayangkara - Persita
 2.70
 01.11. 09:30
 Assumption United - Raj Pracha
-3.05
 3.15
-2.15
-1.77
-1.86
-3.35
+3.20
+2.07
+1.80
+1.83
+3.25
 1.71
-2.25
+2.22
 01.11. 09:30
 Fleet FC - Chachoengsao
 1.64
@@ -538,6 +518,16 @@ Lee Man Warriors - Hong Kong FC
 2.20
 2.38
 01.11. 11:00
+Mara Sugar - Bandari
+2.28
+2.80
+3.20
+1.32
+2.90
+6.55
+2.38
+3.65
+01.11. 11:00
 MFC Metalurh - Livyi Bereg
 10.6
 4.55
@@ -547,6 +537,16 @@ MFC Metalurh - Livyi Bereg
 3.95
 3.00
 3.90
+01.11. 11:00
+Hoek - ACV Assen
+1.41
+4.45
+5.70
+2.40
+1.49
+2.30
+1.66
+1.95
 01.11. 11:00
 Monaco U19 - Toulouse U19
 1.51
@@ -609,14 +609,14 @@ Volna Pinsk - FC Gomel 2
 1.88
 01.11. 11:00
 Cayeli SK - Yozgat
-3.75
-3.40
-1.76
-1.98
-1.65
-2.75
-1.63
-2.02
+3.70
+3.30
+1.81
+1.81
+1.80
+3.15
+1.73
+2.20
 01.11. 11:00
 Tokat - Hopaspor
 1.87
@@ -679,14 +679,14 @@ Albacete U19 - Real Murcia U19
 1.88
 01.11. 11:00
 Danok Bat U19 - Villegas U19
-1.17
-5.70
-10.4
-2.50
-1.40
-2.10
-2.05
-2.35
+1.12
+6.47
+12.5
+2.85
+1.31
+1.87
+2.07
+2.30
 01.11. 11:00
 Hradec Kralove U19 - Brno U19
 1.64
@@ -918,20 +918,10 @@ Werder Bremen Wom. - Union Berlin Wom.
 1.54
 1.90
 01.11. 12:00
-Mara Sugar - Bandari
-2.28
-2.80
-3.20
-1.32
-2.90
-6.55
-2.38
-3.65
-01.11. 12:00
 UCSA - Metalist Kharkiv
-2.50
+2.60
 3.00
-2.70
+2.60
 1.58
 2.12
 4.10
@@ -1009,13 +999,13 @@ Agoncillo - UD Logrones B
 2.32
 01.11. 12:00
 Da Nang - Song Lam Nghe An
-2.05
-3.05
-3.45
+2.10
+3.00
+3.35
 1.56
 2.25
 4.40
-2.02
+2.00
 2.75
 01.11. 12:00
 TTBD Phu Dong - Binh Duong
@@ -1229,14 +1219,14 @@ Meizhou Hakka - Dalian Yingbo
 1.84
 01.11. 13:00
 Chelmsford - Braintree
+3.35
 3.30
-3.40
-2.12
-1.96
-1.77
-3.05
-1.66
-2.12
+2.15
+1.85
+1.86
+3.30
+1.73
+2.25
 01.11. 13:00
 Hertha Berlin - SG Dynamo Dresden
 1.96
@@ -1309,14 +1299,14 @@ Bali United - Persib Bandung
 2.18
 01.11. 13:00
 Chelsea Wom. - London City Lionesses Wom.
-1.14
-6.47
-12.8
-2.80
-1.36
-1.98
-2.12
-2.35
+1.12
+6.90
+13.8
+3.00
+1.32
+1.87
+2.10
+2.32
 01.11. 13:00
 Manchester City Wom. - West Ham Wom.
 1.10
@@ -1640,14 +1630,14 @@ CD Sobradillo U19 - Union Sur Yaiza U19
 1.86
 01.11. 13:00
 Ekranas - Atmosfera
-4.15
-3.80
-1.66
+4.35
+3.85
+1.61
 2.20
-1.54
+1.55
 2.47
-1.57
-1.89
+1.59
+1.92
 01.11. 13:00
 Tamaraceite - Mensajero
 2.08
@@ -1819,25 +1809,15 @@ Brann Wom. - Rosenborg Wom.
 1.97
 2.45
 01.11. 13:30
-Hoek - ACV Assen
-1.41
-4.45
-5.70
-2.40
-1.49
-2.30
-1.66
-1.95
-01.11. 13:30
 Kasetsart - Police Tero
-2.40
-3.05
+2.47
+2.95
 2.75
-1.69
-2.02
-3.75
-1.81
-2.45
+1.56
+2.25
+4.40
+1.96
+2.70
 01.11. 13:30
 Ekhaya - Dedza Dynamos
 1.83
@@ -2324,14 +2304,14 @@ SV Gloggnitz - Retz
 2.15
 01.11. 14:00
 Villarreal - Rayo Vallecano
-1.72
-3.95
-4.60
-2.12
-1.73
-2.88
-1.74
-2.12
+1.69
+4.00
+4.80
+2.10
+1.75
+2.90
+1.77
+2.18
 01.11. 14:00
 Mbarara City - NEC FC Bugolobi
 5.40
@@ -2494,14 +2474,14 @@ Progreso - Montevideo City
 2.18
 01.11. 14:00
 Vitkovice - Hodonin
-3.50
-3.70
-1.75
-2.40
-1.45
-2.22
-1.45
-1.71
+3.55
+3.80
+1.72
+2.62
+1.39
+2.07
+1.40
+1.63
 01.11. 14:00
 Vrchovina - Zlin B
 2.38
@@ -2714,24 +2694,24 @@ Zebbug - Mgarr United FC
 1.98
 01.11. 14:00
 Nassaji Mazandaran - Shahid Ghandi
-1.15
-5.60
-16.0
-1.94
-1.75
+1.14
+5.70
+16.8
+1.95
+1.74
 3.00
-3.35
-4.10
+3.45
+4.20
 01.11. 14:00
 Saipa - Fard
-2.25
-2.70
-3.45
-1.30
-3.15
-7.25
+2.30
+2.65
+3.35
+1.29
+3.20
+7.45
 2.55
-3.95
+4.05
 01.11. 14:00
 Chicken Inn - CAPS Utd
 2.45
@@ -2834,14 +2814,14 @@ Stadeln - Gebenbach
 1.53
 01.11. 14:00
 Maccabi Kiryat Gat - Tzeirey Tira
-1.29
-4.75
+1.30
+4.65
 7.85
-2.28
-1.54
-2.45
-1.94
-2.28
+2.20
+1.58
+2.55
+1.98
+2.35
 01.11. 14:00
 Blansko - Trinec
 9.20
@@ -3494,13 +3474,13 @@ AC Milan Wom. - Lazio Wom.
 1.86
 01.11. 15:00
 Dinamo Tbilisi 2 - Meshakhte Tkibuli
-3.70
-3.15
-1.91
-1.62
+3.50
+3.10
+1.99
+1.63
 2.12
 4.05
-1.97
+1.94
 2.62
 01.11. 15:00
 Spaeri - Merani Martvili
@@ -3675,13 +3655,13 @@ CR Beni Thour - Khroub
 01.11. 15:00
 MO Constantine - Telaghema
 2.12
-2.88
-3.45
-1.41
-2.55
-5.35
-2.18
-3.15
+2.95
+3.35
+1.48
+2.35
+4.75
+2.05
+2.90
 01.11. 15:00
 BDF XI - Tafic FC
 3.05
@@ -3694,14 +3674,14 @@ BDF XI - Tafic FC
 2.85
 01.11. 15:00
 FK USCE Novi Beograd U19 - Partizan U19
-4.00
-3.90
-1.60
+4.25
+3.95
+1.56
 2.55
 1.41
-2.12
-1.46
-1.70
+2.10
+1.47
+1.72
 01.11. 15:30
 Heidenheim - Eintracht Frankfurt
 3.65
@@ -3747,11 +3727,11 @@ Union Berlin - Freiburg
 2.62
 3.25
 2.80
-1.76
-2.07
-3.80
-1.85
-2.47
+1.77
+2.05
+3.75
+1.84
+2.45
 01.11. 15:30
 Gyor - Paks
 2.00
@@ -4114,14 +4094,14 @@ Cambridge Utd - Chester
 2.47
 01.11. 16:00
 Cheltenham - Bradford
-5.05
-3.95
-1.61
+5.45
+4.05
+1.56
 2.12
 1.66
 2.70
-1.72
-2.10
+1.76
+2.15
 01.11. 16:00
 Colchester - MK Dons
 2.35
@@ -4364,13 +4344,13 @@ Brighton - Leeds
 2.20
 01.11. 16:00
 Burnley - Arsenal
-13.3
-5.55
-1.26
+13.0
+5.45
+1.27
 2.10
-1.74
+1.75
 2.90
-2.55
+2.50
 3.05
 01.11. 16:00
 Crystal Palace - Brentford
@@ -4385,23 +4365,23 @@ Crystal Palace - Brentford
 01.11. 16:00
 Fulham - Wolves
 1.89
-3.35
+3.40
 4.45
-1.72
-2.15
-4.00
-2.02
-2.65
+1.75
+2.08
+3.85
+1.98
+2.60
 01.11. 16:00
 Nottingham - Manchester Utd
 3.35
-3.50
+3.45
 2.15
-2.10
+2.08
 1.75
 2.95
 1.65
-2.07
+2.08
 01.11. 16:00
 D. Zagreb - Rijeka
 1.51
@@ -4534,14 +4514,14 @@ Merthyr Town - Darlington
 1.71
 01.11. 16:00
 Oxford City - Bedford
-2.22
+2.18
 3.25
-2.85
-1.92
-1.76
-3.05
-1.64
-2.10
+2.90
+1.95
+1.75
+3.00
+1.63
+2.07
 01.11. 16:00
 Peterborough Sports - Chorley
 3.10
@@ -4764,14 +4744,14 @@ St Johnstone - Airdrieonians
 2.60
 01.11. 16:00
 Valerenga - Bodo/Glimt
-5.15
-4.85
-1.49
+4.90
+4.75
+1.53
 3.45
 1.27
-1.73
-1.38
-1.53
+1.74
+1.37
+1.52
 01.11. 16:00
 Ghazl El Mahallah - Future FC
 3.50
@@ -5534,13 +5514,13 @@ Regensburg II - Wurzburger FV
 1.55
 01.11. 16:00
 Recambios Colon - CD Roda
-2.90
-2.85
-2.30
+3.10
+2.88
+2.18
 1.50
 2.28
 4.55
-1.99
+2.00
 2.80
 01.11. 16:00
 Llosetense - Pena Deportiva
@@ -5554,14 +5534,14 @@ Llosetense - Pena Deportiva
 2.55
 01.11. 16:00
 Yague - San Marcial
-1.52
-3.65
-5.10
-2.03
-1.64
+1.48
+3.70
+5.45
+2.00
+1.65
 2.75
-1.76
-2.18
+1.82
+2.22
 01.11. 16:00
 Benfica U19 - Academico Viseu U19
 1.30
@@ -5614,14 +5594,14 @@ CD Badajoz U19 - Union Adarve U19
 2.18
 01.11. 16:00
 Gimnastic Tarragona U19 - CE Constancia U19
-1.62
-3.70
-4.10
-2.15
-1.55
-2.50
-1.59
-1.92
+1.53
+3.75
+4.80
+2.05
+1.61
+2.65
+1.70
+2.08
 01.11. 16:00
 Gimnastica de Torrelavega U19 - Real Sporting Gijon U19
 4.40
@@ -5667,11 +5647,11 @@ UD Logrones U19 - CD Alaves U19
 2.40
 3.30
 2.40
-2.05
+2.07
 1.60
 2.62
-1.51
-1.88
+1.50
+1.87
 01.11. 16:00
 Aurrera de Vitoria - Eibar C
 2.15
@@ -5705,13 +5685,13 @@ Club Brugge Wom. - Leuven Wom.
 01.11. 16:00
 Waregem Wom. - Tienen Wom.
 1.05
-9.20
-22.0
-3.35
+9.00
+21.5
+3.30
 1.27
-1.73
+1.75
 2.55
-2.80
+2.75
 01.11. 16:00
 Atlas U21 - Toluca U21
 2.65
@@ -5754,24 +5734,24 @@ ML Vitebsk - Isloch
 2.75
 01.11. 16:15
 Cultural Leonesa - Mirandes
-2.10
-3.25
-3.50
-1.63
-2.15
-4.15
-1.95
-2.65
+1.99
+3.40
+3.65
+1.72
+2.02
+3.70
+1.87
+2.47
 01.11. 16:15
 Atl. Madrid - Sevilla
 1.36
-5.00
-8.60
-2.25
-1.65
-2.70
-2.03
-2.40
+5.05
+8.55
+2.28
+1.63
+2.62
+2.00
+2.35
 01.11. 16:15
 Eldense - Algeciras
 1.83
@@ -5885,13 +5865,13 @@ Braga B - AD Fafe
 2.65
 01.11. 16:30
 UD Ourense - Dep. Fabril
-3.15
+3.00
 2.88
-2.25
+2.35
 1.45
 2.45
 5.05
-2.10
+2.08
 3.00
 01.11. 16:30
 Unirea Slobozia - FC Arges
@@ -6235,14 +6215,14 @@ Mallorca U19 - Barcelona U19
 1.81
 01.11. 17:00
 Patacona CF U19 - Elche U19
-3.65
-3.30
-1.81
+4.25
+3.40
+1.67
 1.85
 1.75
 3.05
-1.69
-2.15
+1.74
+2.20
 01.11. 17:15
 Entella - Empoli
 2.35
@@ -6873,6 +6853,16 @@ Teungueth FC - US Goree
 6.55
 2.35
 3.65
+01.11. 18:00
+Centre Chiefs - Morupule
+1.71
+3.25
+4.25
+1.73
+1.91
+3.50
+1.88
+2.40
 01.11. 18:15
 FK Rostov - Akron Togliatti
 1.69
@@ -7226,14 +7216,14 @@ Hibernians - Marsaxlokk
 2.45
 01.11. 19:00
 Atletico Madrid U19 - Burgos U19
-1.10
-6.85
-13.8
-2.90
-1.30
-1.84
-2.15
-2.40
+1.12
+6.45
+12.8
+2.75
+1.33
+1.92
+2.12
+2.38
 01.11. 19:00
 M. Ironi Ashdod - H. Marmorek
 1.84
@@ -7244,16 +7234,6 @@ M. Ironi Ashdod - H. Marmorek
 3.55
 1.84
 2.38
-01.11. 19:00
-Centre Chiefs - Morupule
-1.71
-3.25
-4.25
-1.73
-1.91
-3.50
-1.88
-2.40
 01.11. 19:00
 St. Liege U23 - Charleroi B
 2.45
@@ -7486,14 +7466,14 @@ RWDM - Genk U23
 1.92
 01.11. 20:00
 Laferrere - Midland
-2.85
-2.55
 2.75
-1.26
-3.40
-8.20
-2.65
-4.30
+2.60
+2.75
+1.29
+3.20
+7.40
+2.50
+4.00
 01.11. 20:00
 Real Oruro - GV San Jose
 2.15
@@ -7656,24 +7636,24 @@ Argentino MM - Douglas Haig
 3.25
 01.11. 20:45
 Cremonese - Juventus
-6.55
+6.25
 4.00
-1.55
+1.56
+2.03
+1.79
+3.05
 1.95
-1.86
-3.25
-2.04
-2.55
+2.40
 01.11. 20:45
 Anderlecht - KV Mechelen
-1.57
-4.05
-5.40
-2.18
-1.62
-2.62
-1.72
-2.08
+1.55
+4.20
+5.35
+2.35
+1.53
+2.40
+1.64
+1.95
 01.11. 21:00
 Liverpool - Aston Villa
 1.68
@@ -8436,14 +8416,14 @@ Wollongong Wolves - South Hobart
 1.88
 02.11. 04:00
 Saitama Wom. - Urawa Wom.
-9.65
-5.20
-1.23
-2.18
-1.59
-2.55
-2.18
-2.60
+10.5
+5.25
+1.21
+2.15
+1.61
+2.62
+2.32
+2.75
 02.11. 04:10
 Club America - Club Leon
 1.30
@@ -8696,14 +8676,14 @@ Canberra Wom. - Newcastle Wom.
 1.80
 02.11. 06:00
 Inac Kobe Leonesa Wom. - Nojima Stella Wom.
-1.22
-5.05
-11.1
+1.24
+4.90
+10.1
 1.99
 1.71
 2.90
-2.55
-3.10
+2.40
+2.95
 02.11. 06:30
 Oita Trinita - Montedio Yamagata
 2.80
@@ -8777,13 +8757,13 @@ Kowloon City - Kitchee
 02.11. 08:00
 North District - Southern District
 2.05
-3.60
-2.90
-2.35
-1.49
-2.30
+3.65
+2.85
+2.47
 1.44
-1.73
+2.18
+1.41
+1.67
 02.11. 08:30
 Qingdao Huanghai - Wuhan Three Towns
 1.70
@@ -8896,12 +8876,12 @@ Dukla Prague B - Loko Praha
 1.87
 02.11. 10:15
 Pardubice B - Liberec B
-1.76
-3.75
-3.40
-2.60
-1.39
-2.07
+1.72
+3.80
+3.55
+2.65
+1.38
+2.04
 1.40
 1.62
 02.11. 10:30
@@ -9655,26 +9635,6 @@ South Shields - Shrewsbury
 1.70
 2.22
 02.11. 13:00
-Nurnberg II - SpVgg Bayreuth
-1.65
-3.75
-4.20
-2.15
-1.60
-2.60
-1.63
-1.97
-02.11. 13:00
-Chonburi - Pathum United
-2.85
-3.30
-2.22
-2.00
-1.70
-2.85
-1.59
-2.02
-02.11. 13:00
 Persebaya - Persis Solo
 1.68
 3.40
@@ -10036,26 +9996,6 @@ Viborg - Randers FC
 1.59
 2.00
 02.11. 14:00
-Augsburg II - Furth II
-2.38
-3.45
-2.50
-2.18
-1.59
-2.55
-1.51
-1.85
-02.11. 14:00
-Eichstatt - Bayern II
-2.00
-3.50
-3.10
-2.15
-1.61
-2.62
-1.55
-1.91
-02.11. 14:00
 Illertissen - Hankofen-Hailing
 1.27
 5.05
@@ -10096,16 +10036,6 @@ Boluspor - Bodrumspor
 1.74
 2.20
 02.11. 14:00
-IF Elfsborg - AIK Solna
-2.20
-3.20
-3.10
-1.83
-1.87
-3.30
-1.72
-2.25
-02.11. 14:00
 Halmstad - Brommapojkarna
 2.75
 3.20
@@ -10115,56 +10045,6 @@ Halmstad - Brommapojkarna
 3.50
 1.75
 2.30
-02.11. 14:00
-Dortmund II - Bocholt
-1.81
-3.95
-3.30
-2.85
-1.36
-1.96
-1.36
-1.56
-02.11. 14:00
-Koln II - SC Velbert
-1.39
-4.55
-5.80
-2.70
-1.39
-2.04
-1.56
-1.80
-02.11. 14:00
-Siegen - Dusseldorf II
-1.57
-3.90
-4.65
-2.22
-1.57
-2.50
-1.64
-1.97
-02.11. 14:00
-Wiedenbruck - Fortuna Koln
-4.35
-4.05
-1.58
-2.50
-1.45
-2.20
-1.51
-1.77
-02.11. 14:00
-Hertha Berlin II - Hallescher
-3.80
-3.75
-1.72
-2.15
-1.60
-2.60
-1.59
-1.93
 02.11. 14:00
 Lokomotive Leipzig - BFC Dynamo
 1.14
@@ -10195,36 +10075,6 @@ Ulyanovsk - Rodina Moscow
 4.10
 1.93
 2.65
-02.11. 14:00
-Hannoverscher SC - Norderstedt
-2.12
-3.80
-2.70
-2.70
-1.39
-2.04
-1.37
-1.59
-02.11. 14:00
-St. Pauli II - SV Meppen
-8.55
-5.60
-1.23
-3.15
-1.30
-1.81
-1.65
-1.85
-02.11. 14:00
-Werder Bremen II - VfB Oldenburg
-3.90
-4.20
-1.63
-3.10
-1.31
-1.83
-1.36
-1.53
 02.11. 14:00
 FC 08 Homburg - Stuttgarter Kickers
 1.79
@@ -10576,9 +10426,159 @@ Lech Poznan - Motor Lublin
 2.25
 1.55
 1.81
+02.11. 15:00
+Fiorentina - Lecce
+1.69
+3.65
+5.35
+1.71
+2.15
+4.05
+2.15
+2.80
+02.11. 15:00
+Torino - Pisa
+1.98
+3.25
+4.25
+1.61
+2.32
+4.55
+2.12
+2.88
+02.11. 15:00
+Rennes - Strasbourg
+2.35
+3.35
+3.05
+2.20
+1.68
+2.75
+1.59
+1.97
+02.11. 15:00
+West Ham - Newcastle
+5.30
+3.95
+1.65
+2.03
+1.79
+3.05
+1.84
+2.28
+02.11. 15:00
+Lyngby - Hobro
+1.72
+3.70
+4.20
+2.10
+1.65
+2.75
+1.65
+2.02
+02.11. 15:00
+Baltika - Akhmat Grozny
+2.62
+3.05
+2.85
+1.54
+2.35
+4.70
+2.03
+2.85
+02.11. 15:00
+Kayserispor - Kasimpasa
+2.30
+3.40
+2.95
+2.02
+1.72
+2.90
+1.61
+2.03
+02.11. 15:00
+Bari - Cesena
+2.95
+3.05
+2.47
+1.61
+2.20
+4.20
+1.93
+2.65
+02.11. 15:00
+Catanzaro - Venezia
+3.30
+3.15
+2.22
+1.72
+2.02
+3.70
+1.82
+2.45
+02.11. 15:00
+Modena - Juve Stabia
+1.93
+3.20
+4.20
+1.54
+2.35
+4.70
+2.15
+2.95
+02.11. 15:00
+S. Kostroma - Chernomorets Novorossijsk
+2.15
+2.90
+3.55
+1.43
+2.60
+5.50
+2.22
+3.25
+02.11. 15:00
+Orebro - Utsikten
+1.76
+3.80
+3.90
+2.35
+1.53
+2.38
+1.53
+1.82
+02.11. 15:00
+Koper - O. Ljubljana
+2.65
+3.40
+2.40
+2.07
+1.67
+2.80
+1.57
+1.96
+02.11. 15:00
+Etar - Chernomorets 1919
+1.69
+3.25
+4.75
+1.62
+2.07
+3.90
+2.04
+2.70
+02.11. 15:00
+Celtic - Rangers
+1.88
+3.80
+3.40
+2.47
+1.48
+2.25
+1.45
+1.71
 
 
-Preostalo mečeva 623
+Preostalo mečeva 603
 
 
 Učitaj sledećih  
@@ -10601,24 +10601,24 @@ OPIS IGARA
 UPLATNA MESTA
 PROMOCIJE
 ALPHAPEX DOO priređuje igre na sreću preko sredstava elektronske komunikacije – klađenje i ostale igre preko svog sajta www.oktagonbet.com u skladu sa odobrenjem izdatim od strane Ministarstva finansija Republike Srbije, Uprave za igre na sreću na osnovu Rešenja broj 424-01-00022/2020-02 od 30. aprila 2020. godine. Osobama mlađim od 18 godina, po Zakonu o igrama na sreću, nije dozvoljeno klađenje putem elektronske komunikacije na sajtu www.oktagonbet.com.
-TIKET (6)
-Karditsa - Iraklis 1908
+TIKET (7)
+BVSC-Zuglo - Szentlorinc
 02.11. 13:00
 Konačan Ishod
 X
 3.05
 X
-Bishop's Stortford - Quorn
+Bury Town - Banbury
 01.11. 16:00
 Konačan Ishod
 X
-3.50
+3.30
 X
-Le Havre U19 - Paris SG U19
+Rennes U19 - Lorient U19
 01.11. 14:30
 Konačan Ishod
 X
-4.35
+3.55
 X
 Rubin Yalta - Dynamo Makhachkala 2
 01.11. 12:00
@@ -10626,11 +10626,11 @@ Konačan Ishod
 X
 5.00
 X
-Kraluv Dvur - Hostoun
-01.11. 10:30
+Dobrudzha - Spartak Varna
+01.11. 11:00
 Konačan Ishod
 X
-3.45
+3.25
 X
 Napoli U20 - Juventus U20
 01.11. 11:00
@@ -10638,12 +10638,18 @@ Konačan Ishod
 1
 3.05
 X
+Monaco U19 - Toulouse U19
+01.11. 11:00
+Konačan Ishod
+X
+4.05
+X
 OBIČAN
 SISTEM
- Kvota:2.443,13
- Bonus: 7%  3.420,38
+ Kvota:7.172,17
+ Bonus: 10%  14.344,33
 Ukupan dobitak:
-52.283,00 RSD
+157.788,00 RSD
 UPLATI
 OKTAGON TIKET
 
