@@ -111,7 +111,7 @@ Mainz  vs  Werder
 - MaxBet     1=1.85  |  X=4.10  |  2=4.00
 - Mozzart    1=1.85  |  X=3.7  |  2=4.7  |  0-2=2.45  |  2+=1.18  |  3+=1.58
 - OktagonBet 1=1.82  |  X=3.9  |  2=4.1  |  0-2=2.62  |  3+=1.5  |  GG=1.51  |  GG&3+=1.76  |  4+=2.28
-- Soccer     1=1.82  |  X=4.05  |  2=4.1  |  0-2=2.4  |  2+=1.19  |  3+=1.57  |  GG=1.57  |  IGG=3.8  |  GG&3+=1.85
+- Soccer     1=1.82  |  X=4.05  |  2=4.1  |  0-2=2.45  |  2+=1.19  |  3+=1.55  |  GG=1.55  |  IGG=3.75  |  GG&3+=1.83
 - Topbet     1=1.8  |  X=3.95  |  2=4.25
 
 Najveća 1  : 1.85  [BalkanBet, Brazil_d, MaxBet, Mozzart]
@@ -231,25 +231,25 @@ Arbitraža (0-2 / 3+): NE   inv_sum=1.0786   profit≈-7.86%
 ======================================================================================
                                        SAŽETAK                                        
 ======================================================================================
-Ukupno mečeva (grupa): 1639
-Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1299
-Grupa sa veličinom ≥3: 912
-Grupa sa veličinom ≥4: 555
-Grupa sa veličinom ≥5: 373
-Grupa sa veličinom ≥6: 148
+Ukupno mečeva (grupa): 1652
+Mečeva spojenih sa ≥2 kladionice (grupa size>1): 1295
+Grupa sa veličinom ≥3: 925
+Grupa sa veličinom ≥4: 554
+Grupa sa veličinom ≥5: 371
+Grupa sa veličinom ≥6: 143
 Grupa sa veličinom ≥7: 36
 
 Po kladionici:
-  - BalkanBet  ukupno zapisa: 1194   spojeno (u grupama >1): 1043
+  - BalkanBet  ukupno zapisa: 1201   spojeno (u grupama >1): 1046
   - BetOle     ukupno zapisa:   25   spojeno (u grupama >1):   25
   - Brazil_d   ukupno zapisa:  378   spojeno (u grupama >1):  375
   - Brazil_p   ukupno zapisa:   72   spojeno (u grupama >1):   57
-  - Brazil_s   ukupno zapisa:  277   spojeno (u grupama >1):  249
+  - Brazil_s   ukupno zapisa:  277   spojeno (u grupama >1):  245
   - MaxBet     ukupno zapisa:  545   spojeno (u grupama >1):  525
   - Mozzart    ukupno zapisa:  405   spojeno (u grupama >1):  379
   - OktagonBet ukupno zapisa: 1039   spojeno (u grupama >1):  984
   - Soccer     ukupno zapisa:  350   spojeno (u grupama >1):  345
-  - Topbet     ukupno zapisa:  677   spojeno (u grupama >1):  640
+  - Topbet     ukupno zapisa:  684   spojeno (u grupama >1):  638
 
 Arbitraže (broj mečeva/grupa):
   - 1-X-2: 7
