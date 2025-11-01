@@ -33,7 +33,7 @@ Sve
   
   
 Fudbal
-1120
+1113
   
   
 Fantasy PL
@@ -41,7 +41,7 @@ Fantasy PL
   
   
 Košarka
-165
+164
   
   
 Specijal košarka
@@ -49,7 +49,7 @@ Specijal košarka
   
   
 Tenis
-64
+63
   
   
 Specijal tenis
@@ -81,7 +81,7 @@ Bejzbol
   
   
 Stoni Tenis
-97
+93
   
   
 Američki Fudbal
@@ -132,97 +132,6 @@ Opseg Kvota
 25
 Fudbal
 Konačan ishod
- 
-CHINA 1
-01.11 08:30
-  
-+818
-Changchun Y.
-Beijing Guoan
-1
-2.38
-X
-3.75
-2
-2.50
- 
-CHINA 1
-01.11 08:30
-  
-+814
-Shandong T.
-Tianjin JT
-1
-1.37
-X
-5.00
-2
-6.30
- 
-INDONESIA 2
-01.11 08:30
-  
-+51
-Persipal BU
-Deltras Sidoarjo
-1
-4.25
-X
-3.20
-2
-1.73
- 
-SOUTH KOREA 1 - Championship Group
-01.11 08:30
-  
-+806
-G.Sangmu
-Pohang S.
-1
-3.30
-X
-3.20
-2
-2.12
- 
-SOUTH KOREA 1 - Relegation Group
-01.11 08:30
-  
-+810
-Anyang
-Ulsan H.
-1
-3.10
-X
-3.25
-2
-2.20
- 
-SOUTH KOREA 2
-01.11 08:30
-  
-+800
-Bucheon FC
-Ansan G.
-1
-1.73
-X
-3.35
-2
-4.80
- 
-SOUTH KOREA 2
-01.11 08:30
-  
-+801
-Gimpo FC
-Hwaseong
-1
-2.12
-X
-3.05
-2
-3.45
  
 INDONESIA 1
 01.11 09:30
@@ -422,15 +331,15 @@ X
 CZECH REP.3 - CFL - B
 01.11 11:00
   
-+812
++810
 Teplice B
 Mlada Boleslav B
 1
-2.40
+2.20
 X
-3.20
+3.25
 2
-2.60
+2.90
  
 ITALY Primavera 1
 01.11 11:00
@@ -513,15 +422,15 @@ X
 ROMANIA 2
 01.11 11:30
   
-+812
++811
 Afumati
 FC ASA Tg. Mures
 1
-2.60
+3.05
 X
 3.35
 2
-2.45
+2.15
  
 SPAIN 4 - Group 2
 01.11 11:30
@@ -920,11 +829,11 @@ GERMANY 2
 Karlsruher
 Schalke
 1
-2.60
+2.65
 X
 3.45
 2
-2.60
+2.55
  
 GERMANY 2
 01.11 13:00
@@ -933,11 +842,11 @@ GERMANY 2
 Nurnberg
 Braunschweig
 1
-1.75
+1.70
 X
-3.80
+3.95
 2
-4.50
+4.55
  
 GREECE 2
 01.11 13:00
@@ -1102,11 +1011,11 @@ SWEDEN 2
 Orgryte
 Kalmar
 1
-2.55
+2.50
 X
 3.55
 2
-2.45
+2.50
  
 SWEDEN 3 Norra
 01.11 13:00
@@ -1280,15 +1189,15 @@ X
 ESTONIA 1
 01.11 13:30
   
-+797
++798
 Flora T.
 Kuressaare
 1
 1.14
 X
-6.70
+6.90
 2
-11.5
+12.0
  
 GERMANY 4 North
 01.11 13:30
@@ -1813,15 +1722,15 @@ X
 GERMANY 4 Southwest
 01.11 14:00
   
-+819
++821
 Freiburg II
 Steinbach
 1
-2.30
+2.15
 X
-3.95
+4.20
 2
-2.50
+2.55
  
 GERMANY 4 Southwest
 01.11 14:00
@@ -2186,6 +2095,19 @@ X
 3.55
 2
 2.05
+ 
+ITALY Primavera 2
+01.11 14:30
+  
++796
+Brescia U19
+Entella U19
+1
+3.75
+X
+3.40
+2
+1.78
  
 ITALY Primavera 2
 01.11 14:30
@@ -2822,7 +2744,7 @@ Eintracht F.
 X
 4.05
 2
-1.95
+1.93
  
 GERMANY 1
 01.11 15:30
@@ -2866,7 +2788,7 @@ X
 GERMANY 1
 01.11 15:30
   
-+839
++804
 Union Berlin
 Freiburg
 1
@@ -3087,7 +3009,7 @@ X
 ENGLAND 1
 01.11 16:00
   
-+838
++803
 Fulham
 Wolves
 1
@@ -4153,13 +4075,13 @@ X
 ENGLAND FA Cup
 01.11 16:00
   
-+815
++812
 Crewe
 Doncaster
 1
-2.95
+3.05
 X
-3.55
+3.50
 2
 2.20
  
@@ -5687,15 +5609,15 @@ X
 CYPRUS 1
 01.11 18:00
   
-+790
++788
 Paralimni
 Omonia
 1
-9.50
+10.0
 X
-5.10
+5.25
 2
-1.27
+1.25
  
 CZECH REP. 1
 01.11 18:00
@@ -5860,24 +5782,24 @@ GERMANY 4 North
 Kickers Emden
 Altona 93
 1
-1.48
+1.45
 X
-4.45
+4.55
 2
-5.35
+5.40
  
 GERMANY 4 North
 01.11 18:00
   
-+820
++819
 Lohne
 Hamburger II
 1
-2.50
+2.30
 X
 3.85
 2
-2.35
+2.55
  
 GERMANY 4 West
 01.11 18:00
@@ -6181,7 +6103,7 @@ X
 WALES 1
 01.11 18:15
   
-+809
++808
 Colwyn Bay
 Barry T.
 1
@@ -6189,12 +6111,12 @@ Barry T.
 X
 3.15
 2
-3.10
+3.05
  
 ENGLAND 1
 01.11 18:30
   
-+844
++812
 Tottenham
 Chelsea
 1
@@ -6688,15 +6610,15 @@ X
 BELGIUM 2
 01.11 20:00
   
-+804
++807
 Beveren
 Club Brugge U23
 1
-1.26
+1.29
 X
-5.60
+5.40
 2
-8.25
+7.60
  
 BELGIUM 2
 01.11 20:00
@@ -7013,7 +6935,7 @@ X
 FRANCE 1
 01.11 21:05
   
-+845
++807
 Auxerre
 Marseille
 1
@@ -7156,15 +7078,15 @@ X
 VENEZUELA 1 - Quadrangular
 01.11 22:30
   
-+815
++810
 Caracas
 Metropolitanos
 1
-2.00
+2.05
 X
-3.80
+3.55
 2
-3.05
+3.10
  
 MEXICO 1 - Women
 01.11 22:45
@@ -7226,7 +7148,7 @@ Promeni temu  
 VIP KLUB
 REZULTATI
 STATUS TIKETA
-8:25:34
+8:34:22
 NAČIN UPLATE DEPOZITA
 UPLATNA MESTA
 PRAVILA IGRE
