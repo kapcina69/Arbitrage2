@@ -56,11 +56,11 @@ SP. KOŠARKA
   
   
 TENIS
-63
+103
   
   
 RUKOMET
-65
+66
   
   
 SP. RUKOMET
@@ -72,7 +72,7 @@ ODBOJKA
   
   
 HOKEJ
-171
+190
   
   
 AM.FUDBAL
@@ -108,7 +108,7 @@ BADMINTON
   
   
 MMA
-21
+23
   
   
 BOKS
@@ -124,7 +124,7 @@ FORMULA 1
   
   
 KONJSKE TRKE
-49
+44
   
   
 ESPORT
@@ -132,7 +132,7 @@ ESPORT
   
   
 SP. FUDBAL
-2514
+2505
   
   
 VIR. FUDBAL
@@ -159,36 +159,36 @@ Specijali
 KONAČAN ISHOD
  
 Slovenia, Prva Liga
-+815
++816
 Celje
 Aluminij
 01.11. 17:30
 ki 1
-1.19
+1.22
 ki X
-6.50
+6.10
 ki 2
-10.5
+9.50
 manje 2.5
-3.60
+3.45
 više 2.5
-1.24
+1.26
  
 Sweden, Allsvenskan
-+980
++928
 Norrkoping
 Sirius
 01.11. 17:30
 ki 1
-2.62
+2.77
 ki X
-3.80
+3.85
 ki 2
-2.35
+2.22
 manje 2.5
-2.65
+2.73
 više 2.5
-1.43
+1.41
  
 Ireland, Premier Division
 +810
@@ -210,15 +210,15 @@ Drogheda
 Bohemian
 01.11. 17:30
 ki 1
-3.50
+3.35
 ki X
-3.30
+3.20
 ki 2
-2.07
+2.15
 manje 2.5
-1.80
+1.77
 više 2.5
-1.91
+1.97
 +822
 Shamrock Rovers
 Sligo Rovers
@@ -238,29 +238,29 @@ Shelbourne FC
 St. Patricks
 01.11. 17:30
 ki 1
-2.50
+2.57
 ki X
 3.20
 ki 2
-2.75
+2.70
 manje 2.5
 1.77
 više 2.5
 1.95
-+822
++824
 Waterford
 Galway
 01.11. 17:30
 ki 1
-2.77
+2.65
 ki X
 3.30
 ki 2
-2.47
+2.57
 manje 2.5
-1.85
-više 2.5
 1.87
+više 2.5
+1.85
  
 Israel, Ligat ha'Al
 +817
@@ -268,29 +268,29 @@ Hapoel Petah Tikva
 Sakhnin
 01.11. 17:30
 ki 1
-2.15
+2.03
 ki X
-3.15
+3.25
 ki 2
-3.30
+3.50
 manje 2.5
-1.73
+1.75
 više 2.5
-2.00
-+824
+1.97
++822
 SC Ashdod
 Hapoel Haifa
 01.11. 17:30
 ki 1
-2.50
+2.67
 ki X
-3.25
+3.20
 ki 2
-2.60
+2.47
 manje 2.5
-1.87
+1.82
 više 2.5
-1.83
+1.88
  
 Italy, Serie C - Group A
 +821
@@ -298,15 +298,15 @@ Virtus Verona
 Trento
 01.11. 17:30
 ki 1
-2.70
+2.95
 ki X
-3.35
+3.25
 ki 2
-2.40
+2.27
 manje 2.5
-1.83
+1.75
 više 2.5
-1.87
+1.95
  
 Italy, Serie C - Group B
 +807
@@ -341,20 +341,20 @@ više 2.5
 1.35
  
 Switzerland, Promotion League
-+649
++648
 Vevey
 Zurich II
 01.11. 17:30
 ki 1
-3.40
+3.65
 ki X
-4.00
+4.20
 ki 2
-1.77
+1.67
 manje 2.5
-3.03
+3.40
 više 2.5
-1.32
+1.26
 +648
 Kriens
 Basel II
@@ -362,13 +362,13 @@ Basel II
 ki 1
 1.70
 ki X
-4.40
+4.50
 ki 2
-3.40
+3.35
 manje 2.5
-3.25
+3.40
 više 2.5
-1.28
+1.26
  
 Argentina, Primera Nacional - Promotion - Play Offs
 +789
@@ -435,7 +435,7 @@ više 2.5
 1.80
  
 Turkey, Super Lig
-+951
++1007
 Galatasaray
 Trabzonspor
 01.11. 18:00
@@ -444,27 +444,27 @@ ki 1
 ki X
 4.75
 ki 2
-5.75
+5.80
 manje 2.5
 2.88
 više 2.5
 1.37
  
 Denmark, Superliga
-+813
++817
 FC Copenhagen
 Fredericia
 01.11. 18:00
 ki 1
-1.22
+1.23
 ki X
-6.30
+6.10
 ki 2
-11.0
+10.5
 manje 2.5
-3.20
+3.15
 više 2.5
-1.31
+1.32
  
 Norway, Eliteserien
 +829
@@ -499,20 +499,20 @@ više 2.5
 1.45
  
 Switzerland, Super League
-+824
++825
 Thun
 Sion
 01.11. 18:00
 ki 1
-2.08
+1.95
 ki X
-3.45
+3.60
 ki 2
-3.10
+3.35
 manje 2.5
-2.12
+2.15
 više 2.5
-1.65
+1.62
 +824
 Winterthur
 Servette
@@ -520,13 +520,13 @@ Servette
 ki 1
 4.75
 ki X
-4.10
+4.25
 ki 2
-1.57
-manje 2.5
-2.30
-više 2.5
 1.55
+manje 2.5
+2.47
+više 2.5
+1.48
  
 Algeria, Ligue 1
 +808
@@ -672,14 +672,14 @@ Danijela D.
 8.000,00
 5.
 Nina T.
-12,758.89
+12,828.89
 5.000,00
 Pravila igre
 Opis igara
 Odgovorno klađenje
 Rezultati
 Kontakt
-17:17:53
+17:27:38
 
 Betole.com vlasništvo je privrednog društva BET WINNER doo Beograd, Alekse Nenadovića 19, Registrovan kod APR pod brojem БД 68071/2019, od 12.07.2019. godine. Matični broj: 21500020, PIB broj 111546025.
 Broj rešenja Ministarstva finansija - Uprava za igre na sreću 424-01-00015/2020-02 od 20. maja 2020. godine.
