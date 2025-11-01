@@ -33,11 +33,15 @@ Sve
   
   
 Fudbal
-1281
+1279
   
   
 Fantasy PL
 57
+  
+  
+Fudbal Specijal
+81
   
   
 Igrači Stats
@@ -49,7 +53,7 @@ Mućkalice Fudbal
   
   
 Košarka
-167
+186
   
   
 Specijal košarka
@@ -57,7 +61,7 @@ Specijal košarka
   
   
 Tenis
-52
+68
   
   
 Specijal tenis
@@ -65,7 +69,7 @@ Specijal tenis
   
   
 Hokej
-109
+161
   
   
 Specijal Hokej
@@ -81,7 +85,7 @@ Specijal Rukomet
   
   
 Odbojka
-51
+56
   
   
 Bejzbol
@@ -89,7 +93,7 @@ Bejzbol
   
   
 Stoni Tenis
-56
+110
   
   
 Američki Fudbal
@@ -204,15 +208,15 @@ X
 TURKEY 2
 01.11 11:30
   
-+810
++808
 Keciorengucu
 Sariyer
 1
-2.15
+2.05
 X
-3.30
+3.35
 2
-3.15
+3.25
  
 BELARUS 1
 01.11 12:00
@@ -243,15 +247,15 @@ X
 GERMANY Bundesliga - Women
 01.11 12:00
   
-+812
++813
 Werder B W
 Union B W
 1
-2.30
+2.15
 X
-3.45
+3.50
 2
-2.60
+2.80
  
 PORTUGAL 2
 01.11 12:00
@@ -260,11 +264,11 @@ PORTUGAL 2
 Sporting CP B
 Feirense
 1
-2.10
+1.90
 X
-3.10
+3.25
 2
-3.40
+3.90
  
 RUSSIA 2
 01.11 12:00
@@ -465,15 +469,15 @@ X
 SINGAPORE Cup
 01.11 12:30
   
-+813
++817
 Geylang
 Albirex Niigata
 1
-2.20
+2.30
 X
 3.70
 2
-2.50
+2.35
  
 THAILAND 1
 01.11 12:30
@@ -508,11 +512,11 @@ CHINA 1
 Meizhou Hakka
 Dalian Kuncheng
 1
-2.00
+1.95
 X
 3.65
 2
-3.20
+3.30
  
 ASIA AFC Challenge League
 01.11 13:00
@@ -534,11 +538,11 @@ CROATIA 2
 Hrvace
 Orijent
 1
-3.50
+3.15
 X
-3.25
+3.10
 2
-1.93
+2.12
  
 DENMARK 1 - Women
 01.11 13:00
@@ -556,15 +560,15 @@ X
 DENMARK 4
 01.11 13:00
   
-+816
++814
 Holbaek
 Horsholm-Uss.
 1
-1.78
+1.70
 X
-3.75
+3.85
 2
-3.60
+3.85
  
 DENMARK 4
 01.11 13:00
@@ -595,15 +599,15 @@ X
 ENGLAND 1 - Women
 01.11 13:00
   
-+791
++788
 Manchester City W
 West Ham W
 1
-1.11
+1.10
 X
-7.90
+8.00
 2
-16.0
+17.0
  
 ENGLAND FA Cup
 01.11 13:00
@@ -638,22 +642,22 @@ GERMANY 2
 Hertha Berlin
 Dyn. Dresden
 1
-1.83
+1.78
 X
-3.95
+4.00
 2
-3.80
+4.00
  
 GERMANY 2
 01.11 13:00
   
-+814
++815
 Karlsruher
 Schalke
 1
 2.75
 X
-3.45
+3.50
 2
 2.45
  
@@ -673,28 +677,28 @@ X
 GREECE 2
 01.11 13:00
   
-+793
++782
 Kallithea
 Marko
 1
-1.63
+1.65
 X
-3.55
+3.35
 2
-4.65
+4.80
  
 INDONESIA 1
 01.11 13:00
   
-+808
++810
 Bali United
 Persib Bandung
 1
-3.15
+3.05
 X
-3.25
+3.20
 2
-2.05
+2.12
  
 INDONESIA 2
 01.11 13:00
@@ -817,13 +821,13 @@ X
 SLOVAKIA 2
 01.11 13:00
   
-+810
++811
 Zvolen
 Samorin
 1
 1.93
 X
-3.45
+3.50
 2
 3.30
  
@@ -869,28 +873,28 @@ X
 SWEDEN 1 - Women
 01.11 13:00
   
-+816
++814
 Vaxjo DFF W
 IF Brommapojkarna W
 1
-2.30
+2.35
 X
-3.60
+3.50
 2
 2.50
  
 SWEDEN 2
 01.11 13:00
   
-+812
++813
 Falkenberg
 Vasteras
 1
-4.05
+4.25
 X
-3.70
+3.80
 2
-1.75
+1.70
  
 SWEDEN 2
 01.11 13:00
@@ -908,33 +912,33 @@ X
 SWEDEN 3 Norra
 01.11 13:00
   
-+817
++818
 Orebro Syr.
 AFC Eskilstuna
 1
-3.40
+3.35
 X
-3.85
+4.00
 2
-1.88
+1.83
  
 SWEDEN 3 Sodra
 01.11 13:00
   
-+805
++809
 Ljungskile
 Skovde AIK
 1
 1.24
 X
-5.80
+5.90
 2
-9.25
+9.00
  
 SWEDEN 3 Sodra
 01.11 13:00
   
-+810
++811
 Norrby
 Husqvarna
 1
@@ -964,24 +968,24 @@ THAILAND 1
 Buriram Utd
 N.Ratchasima
 1
-1.15
+1.14
 X
-6.30
+6.40
 2
-12.5
+13.0
  
 THAILAND 2
 01.11 13:00
   
-+801
++798
 Rasisalai Utd
 Trat FC
 1
-1.37
+1.31
 X
-4.40
+4.65
 2
-6.60
+7.60
  
 TURKEY 4 - Group 1
 01.11 13:00
@@ -1038,15 +1042,15 @@ X
 HUNGARY 1
 01.11 13:15
   
-+807
++810
 Kazincbarcikai
 Puskas Academy
 1
-4.50
+4.15
 X
-3.60
+3.55
 2
-1.70
+1.78
  
 MALAYSIA 1
 01.11 13:15
@@ -1575,11 +1579,11 @@ DENMARK 2
 Hillerod
 Kolding
 1
-2.65
+2.60
 X
 3.25
 2
-2.50
+2.55
  
 DENMARK 2
 01.11 14:00
@@ -1822,9 +1826,9 @@ GERMANY 4 North
 Bremer
 Hannover II
 1
-2.90
+2.95
 X
-3.85
+3.75
 2
 2.05
  
@@ -1948,15 +1952,15 @@ X
 GREECE 2
 01.11 14:00
   
-+775
++772
 Chrisoupolis
 Niki Volos
 1
-5.45
+5.00
 X
-3.20
+2.95
 2
-1.63
+1.75
  
 GREECE 2
 01.11 14:00
@@ -1974,15 +1978,15 @@ X
 GREECE 2
 01.11 14:00
   
-+789
++783
 Olympiacos Piraeus B
 Ilioupoli
 1
-1.28
+1.22
 X
-4.50
+4.90
 2
-9.50
+11.5
  
 GREECE 2
 01.11 14:00
@@ -1991,11 +1995,11 @@ GREECE 2
 PAOK B
 Makedonikos
 1
-1.65
+1.80
 X
-3.35
+3.20
 2
-4.90
+4.10
  
 IRAN 1
 01.11 14:00
@@ -2145,28 +2149,28 @@ X
 SPAIN 3 - Group 1
 01.11 14:00
   
-+790
++792
 Pontevedra
 Zamora
 1
-2.25
+2.50
 X
-2.90
+2.85
 2
-3.10
+2.75
  
 SWEDEN 4 - Promotion
 01.11 14:00
   
-+819
++818
 Motala
 Tvaaker
 1
-2.55
+2.50
 X
-3.75
+3.70
 2
-2.20
+2.30
  
 TANZANIA 1
 01.11 14:00
@@ -2346,11 +2350,11 @@ AUSTRIA 2
 First Vienna
 Amstetten
 1
-2.60
+2.50
 X
 3.25
 2
-2.50
+2.65
  
 AUSTRIA 2
 01.11 14:30
@@ -2524,19 +2528,6 @@ X
 ITALY Primavera 2
 01.11 14:30
   
-+801
-Como U19
-Cittadella U19
-1
-1.37
-X
-4.45
-2
-5.90
- 
-ITALY Primavera 2
-01.11 14:30
-  
 +808
 Vicenza U19
 Padova U19
@@ -2595,9 +2586,9 @@ Al Qadisiya
 1
 3.30
 X
-3.15
+3.10
 2
-2.12
+2.15
  
 SOUTH AFRICA 1
 01.11 14:30
@@ -2797,13 +2788,13 @@ X
 ITALY 1
 01.11 15:00
   
-+810
++809
 Udinese
 Atalanta
 1
-4.75
+4.85
 X
-3.90
+3.80
 2
 1.73
  
@@ -2823,15 +2814,15 @@ X
 ALGERIA 2
 01.11 15:00
   
-+792
++793
 MO Constantine
 Telaghema
 1
-1.85
+1.98
 X
-3.10
+3.05
 2
-4.10
+3.70
  
 BRAZIL Paulista Women
 01.11 15:00
@@ -2862,15 +2853,15 @@ X
 CZECH REP. 1
 01.11 15:00
   
-+806
++803
 Pardubice
 Dukla P.
 1
-2.05
+1.90
 X
-3.25
+3.35
 2
-3.55
+3.95
  
 CZECH REP. 1
 01.11 15:00
@@ -2905,11 +2896,11 @@ DENMARK 1 - Women
 Koge W
 KoldingQ W
 1
-1.10
+1.09
 X
-7.30
+7.60
 2
-16.0
+17.0
  
 DENMARK 3
 01.11 15:00
@@ -3136,15 +3127,15 @@ X
 TURKEY 1
 01.11 15:00
   
-+803
++802
 Goztepe
 Genclerbirligi
 1
-1.58
+1.60
 X
-3.85
+3.70
 2
-5.75
+5.60
  
 TURKEY 3 - White Group
 01.11 15:00
@@ -3279,15 +3270,15 @@ X
 WALES Cymru South
 01.11 15:00
   
-+809
++811
 Trefelin
 Pontypridd
 1
-1.60
+1.58
 X
-3.75
+3.90
 2
-4.60
+4.65
  
 WALES Cymru South
 01.11 15:00
@@ -3358,7 +3349,7 @@ X
 GERMANY 1
 01.11 15:30
   
-+850
++815
 Heidenheim
 Eintracht F.
 1
@@ -3375,7 +3366,7 @@ GERMANY 1
 Mainz
 Werder B.
 1
-1.85
+1.88
 X
 4.05
 2
@@ -3392,7 +3383,7 @@ Stuttgart
 X
 3.90
 2
-3.45
+3.40
  
 GERMANY 1
 01.11 15:30
@@ -3418,7 +3409,7 @@ Freiburg
 X
 3.15
 2
-2.85
+2.80
  
 ANGOLA 1
 01.11 15:30
@@ -3475,15 +3466,15 @@ X
 QATAR 1
 01.11 15:30
   
-+809
++810
 Al-Sailiya
 Al-Ahli Doha
 1
-3.45
+3.25
 X
-3.45
+3.40
 2
-1.88
+1.95
  
 SLOVAKIA 1
 01.11 15:30
@@ -3605,15 +3596,15 @@ X
 S.ARABIA 1
 01.11 15:35
   
-+815
++816
 Al Khaleej
 Al-Ittihad FC
 1
 3.00
 X
-3.60
+3.70
 2
-2.10
+2.05
  
 RUSSIA 1
 01.11 15:45
@@ -3659,20 +3650,20 @@ X
 ENGLAND 1
 01.11 16:00
   
-+807
++841
 Brighton
 Leeds
 1
-2.05
+2.00
 X
-3.60
+3.55
 2
-3.70
+3.75
  
 ENGLAND 1
 01.11 16:00
   
-+824
++823
 Burnley
 Arsenal
 1
@@ -3698,28 +3689,15 @@ X
 ENGLAND 1
 01.11 16:00
   
-+804
++839
 Fulham
 Wolves
 1
-1.80
+1.83
 X
 3.50
 2
-4.90
- 
-ENGLAND 1
-01.11 16:00
-  
-+810
-Nottingham
-Man.Utd
-1
-3.40
-X
-3.55
-2
-2.15
+4.80
  Tiket
 Ekspres tiketi
 1
@@ -3729,7 +3707,7 @@ Promeni temu  
 VIP KLUB
 REZULTATI
 STATUS TIKETA
-11:17:14
+11:26:04
 NAČIN UPLATE DEPOZITA
 UPLATNA MESTA
 PRAVILA IGRE
